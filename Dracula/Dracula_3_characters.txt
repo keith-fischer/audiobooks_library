@@ -1,0 +1,8 @@
+Jonathan Harker	male	The protagonist, a young English solicitor who has been imprisoned in Castle Dracula by Count Dracula. He is observant, intelligent, and increasingly fearful as he discovers the supernatural nature of his captor. He writes in a journal to document his experiences and maintain his sanity.
+Count Dracula	male	The vampire antagonist, a nobleman from Transylvania who has imprisoned Jonathan Harker. He is charismatic yet terrifying, with supernatural powers including control over wolves and the ability to transform into a bat or mist. He speaks with great authority and has an obsession with his own bloodline's history.
+Peter Hawkins	*male	An English solicitor who acts as an intermediary between Jonathan Harker and Count Dracula. He is a friend of both the Count and Jonathan, though his exact relationship to the Count's affairs remains unclear.
+Mina	*female	Jonathan Harker's fiancée, who is mentioned as someone he plans to write to. She appears to be a significant figure in his life and is likely the person he will eventually return to.
+Samuel F. Billington	*male	A person to whom Count Dracula has sent a letter, likely another business associate or contact in England.
+Herr Leutner	*male	A person to whom Count Dracula has sent a letter, likely another business associate or contact in Varna.
+Coutts & Co.	*male	A London bank to which Count Dracula has sent a letter, likely for financial transactions.
+Herren Klopstock & Billreuth	*male	A Buda-Pesth bank to which Count Dracula has sent a letter, likely for financial transactions.

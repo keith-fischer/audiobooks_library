@@ -1,0 +1,8 @@
+Dr. Seward	male	A physician and diary keeper who is deeply involved in the supernatural events surrounding Renfield and the vampire. He is methodical, observant, and committed to helping others.
+Renfield	male	A patient in the asylum who becomes possessed by a vampire. He is described as having suffered terrible injuries, including facial bruising and paralysis of limbs.
+Simmons	*male	An attendant at the asylum who is present when Renfield's injuries are discovered and later helps with medical care.
+Van Helsing	male	A Professor and expert in the supernatural who arrives to assist with Renfield's medical emergency. He is calm, knowledgeable, and experienced in dealing with vampires.
+Arthur	*male	Lord Godalming, a friend of the Harkers who is present during the events and helps with investigation.
+Quincey	*male	Mr. Quincey Morris, a friend of the Harkers who is present during the events and helps with investigation.
+Jonathan Harker	male	A lawyer who has been attacked by a vampire and is married to Mina. He is described as being in a stupor when discovered.
+Mina Harker	female	Jonathan's wife, who has been attacked by a vampire and is described as being in a state of terror and distress.

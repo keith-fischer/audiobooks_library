@@ -1,0 +1,13 @@
+Dr. Seward	male	A physician who keeps a diary and is deeply involved in Lucy's medical care. He is devoted to helping Lucy and shows great concern for her wellbeing.
+Van Helsing	male	A Dutch physician and expert who arrives at Hillingham to help with Lucy's condition. He is stern, knowledgeable, and takes charge of the medical situation.
+Lucy Westenra	female	The main patient who falls ill and eventually dies. She is described as beautiful, with a sweet nature, and becomes the victim of supernatural forces.
+Mrs. Westenra	female	Lucy's mother who dies from heart disease. She is found dead in her bed with a look of terror on her face.
+Arthur Holmwood	male	Lucy's fiancé who arrives at Hillingham to see her. He is deeply affected by Lucy's illness and death, showing great love and devotion.
+Quincey Morris	male	A friend of Arthur who arrives at Hillingham to help. He volunteers to give blood for Lucy and shows great courage in the face of danger.
+Mina Harker	female	Lucy's friend who writes letters to her. She is married to Jonathan Harker and lives in London with him.
+Jonathan Harker	male	Mina's husband who is a solicitor. He has recently returned from abroad and is dealing with Mr. Hawkins' death.
+Mr. Hawkins	male	A wealthy benefactor who becomes a father figure to Jonathan Harker. He dies suddenly and leaves his fortune to Jonathan.
+Patrick Hennessey	male	A doctor who works at the asylum where Renfield is kept. He reports on Renfield's condition and behavior.
+Renfield	*male	A patient at the asylum who has violent episodes. He is described as having fits of anger and strange behavior.
+Jack Smollet	male	A carrier who encounters Renfield and is threatened by him. He works for Harris & Sons Moving and Shipment Company.
+Thomas Snelling	male	A carrier who encounters Renfield and is threatened by him. He works for Harris & Sons Moving and Shipment Company.

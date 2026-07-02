@@ -1,0 +1,331 @@
+	narrator	CHAPTER XIV
+	narrator	MINA HARKER’S JOURNAL
+	narrator	23 September.--Jonathan is better after a bad night.
+	narrator	I am so glad that he has plenty of work to do, for that keeps his mind off the terrible things; and oh
+	narrator	I am rejoiced that he is not now weighed down with the responsibility of his new position.
+	narrator	I knew he would be true to himself, and now how proud I am to see my Jonathan rising to the height of his advancement and keeping pace in all ways with the duties that come upon him.
+	narrator	He will be away all day till late, for he said he could not lunch at home.
+	narrator	My household work is done, so I shall take his foreign journal, and lock myself up in my room and read it...
+	narrator	24 September.--I hadn't the heart to write last night; that terrible record of Jonathan's upset me so.
+	narrator	Poor dear!
+	narrator	How he must have suffered, whether it be true or only imagination.
+	narrator	I wonder if there is any truth in it at all.
+	narrator	Did he get his brain fever, and then write all those terrible things, or had he some cause for it all?
+	narrator	I suppose I shall never know, for I dare not open the subject to him....
+	narrator	And yet that man we saw yesterday!
+	narrator	He seemed quite certain of him....
+	narrator	Poor fellow!
+	narrator	I suppose it was the funeral upset him and sent his mind back on some train of thought....
+	narrator	He believes it all himself.
+	narrator	I remember how on our wedding-day he said: "Unless some solemn duty come upon me to go back to the bitter hours
+	narrator	asleep or awake, mad or sane." There seems to be through it all some thread of continuity....
+	narrator	That fearful Count was coming to London....
+	narrator	If it should be, and he came to London, with his teeming millions....
+	narrator	There may be a solemn duty; and if it come we must not shrink from it....
+	narrator	I shall be prepared.
+	narrator	I shall get my typewriter this very hour and begin transcribing.
+	narrator	Then we shall be ready for other eyes if required.
+	narrator	And if it be wanted; then, perhaps, if I am ready, poor Jonathan may not be upset
+	narrator	for I can speak for him and never let him be troubled or worried with it at all.
+	narrator	If ever Jonathan quite gets over the nervousness he may want to tell me of it all
+	narrator	and I can ask him questions and find out things, and see how I may comfort him.
+	narrator	Letter, Van Helsing to Mrs.
+	narrator	Harker.
+	narrator	24 September.
+	narrator	(Confidence)
+	narrator	Dear Madam,--
+	narrator	I pray you to pardon my writing, in that I am so far friend as that I sent to you sad news of Miss Lucy Westenra's death.
+	narrator	By the kindness of Lord Godalming, I am empowered to read her letters and papers, for I am deeply concerned about certain matters vitally important.
+	narrator	In them I find some letters from you, which show how great friends you were and how you love her.
+	narrator	Oh, Madam Mina, by that love, I implore you, help me.
+	narrator	It is for others' good that I ask--to redress great wrong, and to lift much and terrible troubles--that may be more great than you can know.
+	narrator	May it be that I see you?
+	narrator	You can trust me.
+	narrator	I am friend of Dr.
+	narrator	John Seward and of Lord Godalming (that was Arthur of Miss Lucy).
+	narrator	I must keep it private for the present from all.
+	narrator	I should come to Exeter to see you at once if you tell me I am privilege to come
+	narrator	and where and when.
+	narrator	I implore your pardon, madam.
+	narrator	I have read your letters to poor Lucy, and know how good you are and how your husband suffer; so I pray you
+	narrator	if it may be, enlighten him not, lest it may harm.
+	narrator	Again your pardon, and forgive me.
+	narrator	VAN HELSING.
+	narrator	Telegram, Mrs.
+	narrator	Harker to Van Helsing.
+	narrator	25 September.--Come to-day by quarter-past ten train if you can catch it.
+	narrator	Can see you any time you call.
+	narrator	WILHELMINA HARKER.
+	narrator	MINA HARKER’S JOURNAL.
+	narrator	25 September.--I cannot help feeling terribly excited as the time draws near for the visit of Dr.
+	narrator	Van Helsing, for somehow I expect that it will throw some light upon Jonathan's sad experience; and as he attended poor dear Lucy in her last illness
+	narrator	he can tell me all about her.
+	narrator	That is the reason of his coming; it is concerning Lucy and her sleep-walking, and not about Jonathan.
+	narrator	Then I shall never know the real truth now!
+	narrator	How silly I am.
+	narrator	That awful journal gets hold of my imagination and tinges everything with something of its own colour.
+	narrator	Of course it is about Lucy.
+	narrator	That habit came back to the poor dear, and that awful night on the cliff must have made her ill.
+	narrator	I had almost forgotten in my own affairs how ill she was afterwards.
+	narrator	She must have told him of her sleep-walking adventure on the cliff, and that I knew all about it; and now he wants me to tell him what she knows
+	narrator	so that he may understand.
+	narrator	I hope I did right in not saying anything of it to Mrs.
+	narrator	Westenra; I should never forgive myself if any act of mine, were it even a negative one
+	narrator	brought harm on poor dear Lucy.
+	narrator	I hope, too, Dr.
+	narrator	Van Helsing will not blame me; I have had so much trouble and anxiety of late that I feel I cannot bear more just at present.
+	narrator	I suppose a cry does us all good at times--clears the air as other rain does.
+	narrator	Perhaps it was reading the journal yesterday that upset me, and then Jonathan went away this morning to stay away from me a whole day and night
+	narrator	the first time we have been parted since our marriage.
+	narrator	I do hope the dear fellow will take care of himself, and that nothing will occur to upset him.
+	narrator	It is two o'clock, and the doctor will be here soon now.
+	narrator	I shall say nothing of Jonathan's journal unless he asks me.
+	narrator	I am so glad I have type-written out my own journal, so that, in case he asks about Lucy
+	narrator	I can hand it to him; it will save much questioning.
+	narrator	Later.--He has come and gone.
+	narrator	Oh, what a strange meeting, and how it all makes my head whirl round!
+	narrator	I feel like one in a dream.
+	narrator	Can it be all possible, or even a part of it?
+	narrator	If I had not read Jonathan's journal first, I should never have accepted even a possibility.
+	narrator	Poor, poor, dear Jonathan!
+	narrator	How he must have suffered.
+	narrator	Please the good God, all this may not upset him again.
+	narrator	I shall try to save him from it; but it may be even a consolation and a help to him--terrible though it be and awful in its consequences--to know for certain that his eyes and ears and brain did not deceive him
+	narrator	and that it is all true.
+	narrator	It may be that it is the doubt which haunts him; that when the doubt is removed
+	narrator	no matter which--waking or dreaming--may prove the truth, he will be more satisfied and better able to bear the shock.
+	narrator	Dr.
+	narrator	Van Helsing must be a good man as well as a clever one if he is Arthur's friend and Dr.
+	narrator	Seward's, and if they brought him all the way from Holland to look after Lucy.
+	narrator	I feel from having seen him that he _is_ good and kind and of a noble nature.
+	narrator	When he comes to-morrow I shall ask him about Jonathan; and then, please God, all this sorrow and anxiety may lead to a good end.
+	narrator	I used to think I would like to practise interviewing; Jonathan's friend on "The Exeter News" told him that memory was everything in such work--that you must be able to put down exactly almost every word spoken
+	narrator	even if you had to refine some of it afterwards.
+	narrator	Here was a rare interview; I shall try to record it _verbatim_.
+	narrator	It was half-past two o'clock when the knock came.
+	narrator	I took my courage _à deux mains_ and waited.
+	narrator	In a few minutes Mary opened the door, and announced "Dr. Van Helsing."
+	narrator	I rose and bowed, and he came towards me; a man of medium weight, strongly built, with his shoulders set back over a broad
+	narrator	deep chest and a neck well balanced on the trunk as the head is on the neck.
+	narrator	The poise of the head strikes one at once as indicative of thought and power; the head is noble
+	narrator	well-sized, broad, and large behind the ears.
+	narrator	The face, clean-shaven, shows a hard, square chin, a large, resolute, mobile mouth, a good-sized nose, rather straight
+	narrator	but with quick, sensitive nostrils, that seem to broaden as the big, bushy brows come down and the mouth tightens.
+	narrator	The forehead is broad and fine, rising at first almost straight and then sloping back above two bumps or ridges wide apart; such a forehead that the reddish hair cannot possibly tumble over it
+	narrator	but falls naturally back and to the sides.
+	narrator	Big, dark blue eyes are set widely apart, and are quick and tender or stern with the man's moods.
+	narrator	He said to me:
+	dr. van helsing	Mrs. Harker, is it not?
+	narrator	I bowed assent.
+	dr. van helsing	That was Miss Mina Murray?
+	narrator	Again I assented.
+	dr. van helsing	It is Mina Murray that I came to see that was friend of that poor dear child Lucy Westenra. Madam Mina, it is on account of the dead I come.
+	narrator	"Sir," I said, "you could have no better claim on me than that you were a friend and helper of Lucy Westenra." And I held out my hand.
+	narrator	He took it and said tenderly:
+	dr. van helsing	Oh, Madam Mina, I knew that the friend of that poor lily girl must be good, but I had yet to learn----
+	narrator	He finished his speech with a courtly bow.
+	narrator	I asked him what it was that he wanted to see me about, so he at once began:
+	dr. van helsing	I have read your letters to Miss Lucy. Forgive me, but I had to begin to inquire somewhere, and there was none to ask. I know that you were with her at Whitby. She sometimes kept a diary--you need not look surprised, Madam Mina; it was begun after you had left, and was in imitation of you--and in that diary she traces by inference certain things to a sleep-walking in which she puts down that you saved her. In great perplexity then I come to you, and ask you out of your so much kindness to tell me all of it that you can remember.
+	narrator	"I can tell you, I think, Dr. Van Helsing, all about it."
+	dr. van helsing	Ah, then you have good memory for facts, for details? It is not always so with young ladies.
+	narrator	"No, doctor, but I wrote it all down at the time. I can show it to you if you like."
+	dr. van helsing	Oh, Madam Mina, I will be grateful; you will do me much favour." I could not resist the temptation of mystifying him a bit--I suppose it is some of the taste of the original apple that remains still in our mouths--so I handed him the shorthand diary. He took it with a grateful bow, and said:
+	dr. van helsing	May I read it?
+	narrator	"If you wish," I answered as demurely as I could.
+	narrator	He opened it, and for an instant his face fell.
+	narrator	Then he stood up and bowed.
+	dr. van helsing	Oh, you so clever woman! I knew long that Mr. Jonathan was a man of much thankfulness; but see, his wife have all the good things. And will you not so much honour me and so help me as to read it for me? Alas! I know not the shorthand." By this time my little joke was over, and I was almost ashamed; so I took the typewritten copy from my workbasket and handed it to him.
+	narrator	"Forgive me," I said: "I could not help it; but I had been thinking that it was of dear Lucy that you wished to ask
+	narrator	and so that you might not have time to wait--not on my account, but because I know your time must be precious--I have written it out on the typewriter for you."
+	dr. van helsing	You are so good," he said. "And may I read it now? I may want to ask you some things when I have read.
+	narrator	"By all means," I said, "read it over whilst I order lunch; and then you can ask me questions whilst we eat." He bowed and settled himself in a chair with his back to the light
+	narrator	and became absorbed in the papers, whilst I went to see after lunch chiefly in order that he might not be disturbed.
+	narrator	When I came back, I found him walking hurriedly up and down the room, his face all ablaze with excitement.
+	narrator	He rushed up to me and took me by both hands.
+	narrator	Oh, Madam Mina,
+	abraham van helsing	how can I say what I owe to you? This paper is as sunshine. It opens the gate to me. I am daze, I am dazzle, with so much light, and yet clouds roll in behind the light every time. But that you do not, cannot, comprehend. Oh, but I am grateful to you, you so clever woman. Madam
+	abraham van helsing	if ever Abraham Van Helsing can do anything for you or yours, I trust you will let me know. It will be pleasure and delight if I may serve you as a friend; as a friend, but all I have ever learned, all I can ever do, shall be for you and those you love. There are darknesses in life, and there are lights; you are one of the lights. You will have happy life and good life, and your husband will be blessed in you.
+	mina harker	But, doctor, you praise me too much, and--and you do not know me.
+	abraham van helsing	Not know you--I, who am old, and who have studied all my life men and women; I, who have made my specialty the brain and all that belongs to him and all that follow from him! And I have read your diary that you have so goodly written for me, and which breathes out truth in every line. I, who have read your so sweet letter to poor Lucy of your marriage and your trust, not know you! Oh, Madam Mina, good women tell all their lives, and by day and by hour and by minute, such things that angels can read; and we men who wish to know have in us something of angels' eyes. Your husband is noble nature, and you are noble too, for you trust, and trust cannot be where there is mean nature. And your husband--tell me of him. Is he quite well? Is all that fever gone, and is he strong and hearty?
+	narrator	I saw here an opening to ask him about Jonathan, so I said:
+	mina harker	He was almost recovered, but he has been greatly upset by Mr. Hawkins's death.
+	abraham van helsing	Oh, yes, I know, I know. I have read your last two letters.
+	mina harker	I suppose this upset him, for when we were in town on Thursday last he had a sort of shock.
+	abraham van helsing	A shock, and after brain fever so soon! That was not good. What kind of a shock was it?
+	mina harker	He thought he saw some one who recalled something terrible, something which led to his brain fever.
+	narrator	And here the whole thing seemed to overwhelm me in a rush.
+	narrator	The pity for Jonathan, the horror which he experienced, the whole fearful mystery of his diary, and the fear that has been brooding over me ever since
+	narrator	all came in a tumult.
+	narrator	I suppose I was hysterical, for I threw myself on my knees and held up my hands to him
+	narrator	and implored him to make my husband well again.
+	abraham van helsing	He took my hands and raised me up, and made me sit on the sofa, and sat by me; he held my hand in his, and said to me with, oh, such infinite sweetness:
+	abraham van helsing	My life is a barren and lonely one, and so full of work that I have not had much time for friendships; but since I have been summoned to here by my friend John Seward I have known so many good people and seen such nobility that I feel more than ever--and it has grown with my advancing years--the loneliness of my life. Believe, me, then, that I come here full of respect for you, and you have given me hope--hope, not in what I am seeking of, but that there are good women still left to make life happy--good women, whose lives and whose truths may make good lesson for the children that are to be. I am glad, glad, that I may here be of some use to you; for if your husband suffer, he suffer within the range of my study and experience. I promise you that I will gladly do _all_ for him that I can--all to make his life strong and manly, and your life a happy one. Now you must eat. You are overwrought and perhaps over-anxious. Husband Jonathan would not like to see you so pale; and what he like not where he love, is not to his good. Therefore for his sake you must eat and smile. You have told me all about Lucy, and so now we shall not speak of it, lest it distress. I shall stay in Exeter to-night, for I want to think much over what you have told me, and when I have thought I will ask you questions, if I may. And then, too, you will tell me of husband Jonathan's trouble so far as you can, but not yet. You must eat now; afterwards you shall tell me all.
+	narrator	After lunch, when we went back to the drawing-room, he said to me:
+	abraham van helsing	And now tell me all about him.
+	narrator	When it came to speaking to this great learned man, I began to fear that he would think me a weak fool
+	narrator	and Jonathan a madman--that journal is all so strange--and I hesitated to go on.
+	narrator	But he was so sweet and kind, and he had promised to help, and I trusted him
+	narrator	so I said:
+	mina harker	Dr. Van Helsing, what I have to tell you is so queer that you must not laugh at me or at my husband. I have been since yesterday in a sort of fever of doubt; you must be kind to me, and not think me foolish that I have even half believed some very strange things.
+	abraham van helsing	Oh, my dear, if you only know how strange is the matter regarding which I am here, it is you who would laugh. I have learned not to think little of any one's belief, no matter how strange it be. I have tried to keep an open mind; and it is not the ordinary things of life that could close it, but the strange things, the extraordinary things, the things that make one doubt if they be mad or sane.
+	mina harker	Thank you, thank you, a thousand times! You have taken a weight off my mind. If you will let me, I shall give you a paper to read. It is long, but I have typewritten it out. It will tell you my trouble and Jonathan's. It is the copy of his journal when abroad, and all that happened. I dare not say anything of it; you will read for yourself and judge. And then when I see you, perhaps, you will be very kind and tell me what you think.
+	abraham van helsing	I promise,
+	narrator	he said as I gave him the papers;
+	abraham van helsing	I shall in the morning, so soon as I can, come to see you and your husband, if I may.
+	narrator	Jonathan will be here at half-past eleven, and you must come to lunch with us and see him then; you could catch the quick 3:34 train
+	narrator	which will leave you at Paddington before eight.
+	narrator	He was surprised at my knowledge of the trains off-hand, but he does not know that I have made up all the trains to and from Exeter
+	narrator	so that I may help Jonathan in case he is in a hurry.
+	narrator	So he took the papers with him and went away, and I sit here thinking--thinking I don't know what.
+	narrator	* * * * *
+	narrator	Letter (by hand), Van Helsing to Mrs.
+	narrator	Harker.
+	narrator	"25 September, 6 o'clock."
+	narrator	"Dear Madam Mina,--
+	narrator	"I have read your husband's so wonderful diary. You may sleep without doubt. Strange and terrible as it is
+	narrator	it is _true_! I will pledge my life on it. It may be worse for others; but for him and you there is no dread. He is a noble fellow; and let me tell you from experience of men
+	narrator	that one who would do as he did in going down that wall and to that room--ay
+	narrator	and going a second time--is not one to be injured in permanence by a shock. His brain and his heart are all right; this I swear
+	narrator	before I have even seen him; so be at rest. I shall have much to ask him of other things. I am blessed that to-day I come to see you
+	narrator	for I have learn all at once so much that again I am dazzle--dazzle more than ever
+	narrator	and I must think."
+	narrator	"Yours the most faithful,"
+	narrator	"ABRAHAM VAN HELSING."
+	narrator	Letter, Mrs.
+	narrator	Harker to Van Helsing.
+	narrator	"25 September, 6:30 p. m."
+	narrator	"My dear Dr. Van Helsing,--
+	narrator	"A thousand thanks for your kind letter, which has taken a great weight off my mind. And yet
+	narrator	if it be true, what terrible things there are in the world, and what an awful thing if that man
+	narrator	that monster, be really in London! I fear to think. I have this moment, whilst writing, had a wire from Jonathan
+	narrator	saying that he leaves by the 6:25 to-night from Launceston and will be here at 10:18, so that I shall have no fear to-night. Will you
+	narrator	therefore, instead of lunching with us, please come to breakfast at eight o'clock, if this be not too early for you? You can get away
+	narrator	if you are in a hurry, by the 10:30 train, which will bring you to Paddington by 2:35. Do not answer this
+	narrator	as I shall take it that, if I do not hear, you will come to breakfast."
+	narrator	"Believe me,"
+	narrator	"Your faithful and grateful friend,"
+	narrator	"MINA HARKER."
+	narrator	Jonathan Harker's Journal.
+	narrator	26 September.--I thought never to write in this diary again, but the time has come.
+	narrator	When I got home last night Mina had supper ready, and when we had supped she told me of Van Helsing's visit
+	narrator	and of her having given him the two diaries copied out, and of how anxious she has been about me.
+	narrator	She showed me in the doctor's letter that all I wrote down was true.
+	narrator	It seems to have made a new man of me.
+	narrator	It was the doubt as to the reality of the whole thing that knocked me over.
+	narrator	I felt impotent, and in the dark, and distrustful.
+	narrator	But, now that I _know_, I am not afraid, even of the Count.
+	narrator	He has succeeded after all, then, in his design in getting to London, and it was he I saw.
+	narrator	He has got younger, and how?
+	narrator	Van Helsing is the man to unmask him and hunt him out, if he is anything like what Mina says.
+	narrator	We sat late, and talked it all over.
+	narrator	Mina is dressing, and I shall call at the hotel in a few minutes and bring him over....
+	narrator	He was, I think, surprised to see me.
+	narrator	When I came into the room where he was, and introduced myself, he took me by the shoulder
+	narrator	and turned my face round to the light, and said, after a sharp scrutiny:
+	white rabbit	But Madam Mina told me you were ill, that you had had a shock.
+	narrator	It was so funny to hear my wife called "Madam Mina" by this kindly, strong-faced old man.
+	narrator	I smiled, and said:
+	jonathan harker	I _was_ ill, I _have_ had a shock; but you have cured me already.
+	white rabbit	And how?
+	jonathan harker	By your letter to Mina last night. I was in doubt, and then everything took a hue of unreality, and I did not know what to trust, even the evidence of my own senses. Not knowing what to trust, I did not know what to do; and so had only to keep on working in what had hitherto been the groove of my life. The groove ceased to avail me, and I mistrusted myself. Doctor, you don't know what it is to doubt everything, even yourself. No, you don't; you couldn't with eyebrows like yours.
+	white rabbit	He seemed pleased, and laughed as he said:
+	white rabbit	So! You are physiognomist. I learn more here with each hour. I am with so much pleasure coming to you to breakfast; and, oh, sir, you will pardon praise from an old man, but you are blessed in your wife.
+	jonathan harker	I would listen to him go on praising Mina for a day, so I simply nodded and stood silent.
+	white rabbit	She is one of God's women, fashioned by His own hand to show us men and other women that there is a heaven where we can enter, and that its light can be here on earth. So true, so sweet, so noble, so little an egoist--and that, let me tell you, is much in this age, so sceptical and selfish. And you, sir--I have read all the letters to poor Miss Lucy, and some of them speak of you, so I know you since some days from the knowing of others; but I have seen your true self since last night. You will give me your hand, will you not? And let us be friends for all our lives.
+	narrator	We shook hands, and he was so earnest and so kind that it made me quite choky.
+	white rabbit	And now," he said, "may I ask you for some more help? I have a great task to do, and at the beginning it is to know. You can help me here. Can you tell me what went before your going to Transylvania? Later on I may ask more help, and of a different kind; but at first this will do.
+	jonathan harker	Look here, sir," I said, "does what you have to do concern the Count?
+	white rabbit	It does," he said solemnly.
+	jonathan harker	Then I am with you heart and soul. As you go by the 10:30 train, you will not have time to read them; but I shall get the bundle of papers. You can take them with you and read them in the train.
+	narrator	After breakfast I saw him to the station.
+	narrator	When we were parting he said:
+	white rabbit	Perhaps you will come to town if I send to you, and take Madam Mina too.
+	jonathan harker	We shall both come when you will," I said.
+	narrator	I had got him the morning papers and the London papers of the previous night, and while we were talking at the carriage window
+	narrator	waiting for the train to start, he was turning them over.
+	narrator	His eyes suddenly seemed to catch something in one of them, "The Westminster Gazette"--I knew it by the colour--and he grew quite white.
+	jonathan harker	Mein Gott! Mein Gott! So soon! so soon!
+	narrator	I do not think he remembered me at the moment.
+	narrator	Just then the whistle blew, and the train moved off.
+	jonathan harker	Love to Madam Mina; I shall write so soon as ever I can.
+	narrator	Dr.
+	narrator	Seward’s Diary.
+	narrator	26 September.--Truly there is no such thing as finality.
+	narrator	Not a week since I said "Finis," and yet here I am starting fresh again, or rather going on with the same record.
+	narrator	Until this afternoon I had no cause to think of what is done.
+	narrator	Renfield had become, to all intents, as sane as he ever was.
+	narrator	He was already well ahead with his fly business; and he had just started in the spider line also; so he had not been of any trouble to me.
+	narrator	I had a letter from Arthur, written on Sunday, and from it I gather that he is bearing up wonderfully well.
+	narrator	Quincey Morris is with him, and that is much of a help, for he himself is a bubbling well of good spirits.
+	narrator	Quincey wrote me a line too, and from him I hear that Arthur is beginning to recover something of his old buoyancy; so as to them all my mind is at rest.
+	narrator	As for myself, I was settling down to my work with the enthusiasm which I used to have for it
+	narrator	so that I might fairly have said that the wound which poor Lucy left on me was becoming cicatrised.
+	narrator	Everything is, however, now reopened; and what is to be the end God only knows.
+	narrator	I have an idea that Van Helsing thinks he knows, too, but he will only let out enough at a time to whet curiosity.
+	narrator	He went to Exeter yesterday, and stayed there all night.
+	narrator	To-day he came back, and almost bounded into the room at about half-past five o'clock, and thrust last night's "Westminster Gazette" into my hand.
+	abraham van helsing	What do you think of that?
+	narrator	I looked over the paper, for I really did not know what he meant; but he took it from me and pointed out a paragraph about children being decoyed away at Hampstead.
+	narrator	It did not convey much to me, until I reached a passage where it described small punctured wounds on their throats.
+	narrator	An idea struck me, and I looked up.
+	jonathan harker	Well?
+	jonathan harker	It is like poor Lucy's.
+	abraham van helsing	And what do you make of it?
+	jonathan harker	Simply that there is some cause in common. Whatever it was that injured her has injured them.
+	narrator	I did not quite understand his answer:
+	abraham van helsing	That is true indirectly, but not directly.
+	jonathan harker	How do you mean, Professor?
+	narrator	I was a little inclined to take his seriousness lightly--for, after all, four days of rest and freedom from burning
+	narrator	harrowing anxiety does help to restore one's spirits--but when I saw his face, it sobered me.
+	jonathan harker	Tell me! I can hazard no opinion. I do not know what to think, and I have no data on which to found a conjecture.
+	abraham van helsing	Do you mean to tell me, friend John, that you have no suspicion as to what poor Lucy died of; not after all the hints given, not only by events, but by me?
+	jonathan harker	Of nervous prostration following on great loss or waste of blood.
+	abraham van helsing	And how the blood lost or waste?
+	jonathan harker	I shook my head.
+	abraham van helsing	He stepped over and sat down beside me, and went on:
+	narrator	You are clever man, friend John; you reason well, and your wit is bold;
+	narrator	but you are too prejudiced.
+	narrator	You do not let your eyes see nor your ears hear, and that which is outside your daily life is not of account to you.
+	narrator	Do you not think that there are things which you cannot understand,
+	narrator	and yet which are; that some people see things that others cannot?
+	narrator	But there are things old and new which must not be contemplate by men's eyes, because they know--or think they know--some things which other men have told them.
+	narrator	Ah, it is the fault of our science that it wants to explain all; and if it explain not
+	narrator	then it says there is nothing to explain.
+	narrator	But yet we see around us every day the growth of new beliefs,
+	narrator	which think themselves new; and which are yet but the old, which pretend to be young--like the fine ladies at the opera.
+	narrator	I suppose now you do not believe in corporeal transference.
+	narrator	No?
+	narrator	Nor in materialisation.
+	narrator	No?
+	narrator	Nor in astral bodies.
+	narrator	No?
+	narrator	Nor in the reading of thought.
+	narrator	No?
+	narrator	Nor in hypnotism----
+	narrator	Yes, I said.
+	narrator	Charcot has proved that pretty well.
+	abraham van helsing	He smiled as he went on: Then you are satisfied as to it. Yes? And of course then you understand how it act, and can follow the mind of the great Charcot--alas that he is no more!--into the very soul of the patient that he influence. No? Then, friend John, am I to take it that you simply accept fact, and are satisfied to let from premise to conclusion be a blank? No? Then tell me--for I am student of the brain--how you accept the hypnotism and reject the thought reading.
+	abraham van helsing	Let me tell you, my friend, that there are things done to-day in electrical science which would have been deemed unholy by the very men who discovered electricity--who would themselves not so long before have been burned as wizards.
+	abraham van helsing	There are always mysteries in life. Why was it that Methuselah lived nine hundred years, and 'Old Parr' one hundred and sixty-nine, and yet that poor Lucy, with four men's blood in her poor veins, could not live even one day? For, had she live one more day, we could have save her.
+	abraham van helsing	Do you know all the mystery of life and death? Do you know the altogether of comparative anatomy and can say wherefore the qualities of brutes are in some men, and not in others? Can you tell me why, when other spiders die small and soon, that one great spider lived for centuries in the tower of the old Spanish church and grew and grew, till, on descending, he could drink the oil of all the church lamps?
+	abraham van helsing	Can you tell me why in the Pampas, ay and elsewhere, there are bats that come at night and open the veins of cattle and horses and suck dry their veins; how in some islands of the Western seas there are bats which hang on the trees all day, and those who have seen describe as like giant nuts or pods, and that when the sailors sleep on the deck, because that it is hot, flit down on them, and then--and then in the morning are found dead men, white as even Miss Lucy was?
+	dr. john seward	Good God, Professor! Do you mean to tell me that Lucy was bitten by such a bat; and that such a thing is here in London in the nineteenth century?
+	abraham van helsing	He waved his hand for silence, and went on:--
+	abraham van helsing	Can you tell me why the tortoise lives more long than generations of men; why the elephant goes on and on till he have seen dynasties; and why the parrot never die only of bite of cat or dog or other complaint?
+	abraham van helsing	Can you tell me why men believe in all ages and places that there are some few who live on always if they be permit; that there are men and women who cannot die? We all know--because science has vouched for the fact--that there have been toads shut up in rocks for thousands of years, shut in one so small hole that only hold him since the youth of the world.
+	abraham van helsing	Can you tell me how the Indian fakir can make himself to die and have been buried, and his grave sealed and corn sowed on it, and the corn reaped and be cut and sown and reaped and cut again, and then men come and take away the unbroken seal and that there lie the Indian fakir, not dead, but that rise up and walk amongst them as before?
+	dr. john seward	Here I interrupted him. I was getting bewildered; he so crowded on my mind his list of nature's eccentricities and possible impossibilities that my imagination was getting fired. I had a dim idea that he was teaching me some lesson, as long ago he used to do in his study at Amsterdam; but he used then to tell me the thing, so that I could have the object of thought in mind all the time. But now I was without this help, yet I wanted to follow him, so I said:--
+	dr. john seward	Professor, let me be your pet student again. Tell me the thesis, so that I may apply your knowledge as you go on. At present I am going in my mind from point to point as a mad man, and not a sane one, follows an idea. I feel like a novice lumbering through a bog in a mist, jumping from one tussock to another in the mere blind effort to move on without knowing where I am going.
+	abraham van helsing	That is good image,
+	abraham van helsing	Well, I shall tell you. My thesis is this: I want you to believe.
+	dr. john seward	To believe what?
+	abraham van helsing	To believe in things that you cannot. Let me illustrate. I heard once of an American who so defined faith: 'that faculty which enables us to believe things which we know to be untrue.' For one, I follow that man.
+	abraham van helsing	He meant that we shall have an open mind, and not let a little bit of truth check the rush of a big truth, like a small rock does a railway truck. We get the small truth first. Good! We keep him, and we value him; but all the same we must not let him think himself all the truth in the universe.
+	dr. john seward	Then you want me not to let some previous conviction injure the receptivity of my mind with regard to some strange matter. Do I read your lesson aright?
+	abraham van helsing	Ah, you are my favourite pupil still. It is worth to teach you. Now that you are willing to understand, you have taken the first step to understand. You think then that those so small holes in the children's throats were made by the same that made the hole in Miss Lucy?
+	dr. john seward	I suppose so.
+	abraham van helsing	He stood up and said solemnly:--
+	abraham van helsing	Then you are wrong. Oh, would it were so! but alas! no. It is worse, far, far worse.
+	dr. john seward	In God's name, Professor Van Helsing, what do you mean?
+	abraham van helsing	He threw himself with a despairing gesture into a chair, and placed his elbows on the table, covering his face with his hands as he spoke:--
+	abraham van helsing	They were made by Miss Lucy!

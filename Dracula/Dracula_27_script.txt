@@ -1,0 +1,541 @@
+	narrator	CHAPTER XXVII
+	narrator	MINA HARKER’S JOURNAL
+	narrator	_1 November._--All day long we have travelled, and at a good speed.
+	narrator	The horses seem to know that they are being kindly treated, for they go willingly their full stage at best speed.
+	narrator	We have now had so many changes and find the same thing so constantly that we are encouraged to think that the journey will be an easy one.
+	narrator	Dr.
+	narrator	Van Helsing is laconic; he tells the farmers that he is hurrying to Bistritz, and pays them well to make the exchange of horses.
+	narrator	We get hot soup, or coffee, or tea; and off we go.
+	narrator	It is a lovely country; full of beauties of all imaginable kinds, and the people are brave
+	narrator	and strong, and simple, and seem full of nice qualities.
+	narrator	They are _very, very_ superstitious.
+	narrator	In the first house where we stopped, when the woman who served us saw the scar on my forehead
+	narrator	she crossed herself and put out two fingers towards me, to keep off the evil eye.
+	narrator	I believe they went to the trouble of putting an extra amount of garlic into our food; and I can't abide garlic.
+	narrator	Ever since then I have taken care not to take off my hat or veil, and so have escaped their suspicions.
+	narrator	We are travelling fast, and as we have no driver with us to carry tales, we go ahead of scandal; but I daresay that fear of the evil eye will follow hard behind us all the way.
+	narrator	The Professor seems tireless; all day he would not take any rest, though he made me sleep for a long spell.
+	narrator	At sunset time he hypnotised me, and he says that I answered as usual "darkness, lapping water and creaking wood"; so our enemy is still on the river.
+	narrator	I am afraid to think of Jonathan, but somehow I have now no fear for him, or for myself.
+	narrator	I write this whilst we wait in a farmhouse for the horses to be got ready.
+	narrator	Dr.
+	narrator	Van Helsing is sleeping.
+	narrator	Poor dear, he looks very tired and old and grey, but his mouth is set as firmly as a conqueror's; even in his sleep he is instinct with resolution.
+	narrator	When we have well started I must make him rest whilst I drive.
+	narrator	I shall tell him that we have days before us, and we must not break down when most of all his strength will be needed....
+	narrator	All is ready; we are off shortly.
+	narrator	* * * * *
+	narrator	_2 November, morning._--I was successful, and we took turns driving all night; now the day is on us
+	narrator	bright though cold.
+	narrator	There is a strange heaviness in the air--I say heaviness for want of a better word; I mean that it oppresses us both.
+	narrator	It is very cold, and only our warm furs keep us comfortable.
+	narrator	At dawn Van Helsing hypnotised me; he says I answered "darkness, creaking wood and roaring water," so the river is changing as they ascend.
+	narrator	I do hope that my darling will not run any chance of danger--more than need be; but we are in God's hands.
+	narrator	* * * * *
+	narrator	_2 November, night._--All day long driving.
+	narrator	The country gets wilder as we go, and the great spurs of the Carpathians, which at Veresti seemed so far from us and so low on the horizon
+	narrator	now seem to gather round us and tower in front.
+	narrator	We both seem in good spirits; I think we make an effort each to cheer the other; in the doing so we cheer ourselves.
+	narrator	Dr.
+	narrator	Van Helsing says that by morning we shall reach the Borgo Pass.
+	narrator	The houses are very few here now, and the Professor says that the last horse we got will have to go on with us
+	narrator	as we may not be able to change.
+	narrator	He got two in addition to the two we changed, so that now we have a rude four-in-hand.
+	narrator	The dear horses are patient and good, and they give us no trouble.
+	narrator	We are not worried with other travellers, and so even I can drive.
+	narrator	We shall get to the Pass in daylight; we do not want to arrive before.
+	narrator	So we take it easy, and have each a long rest in turn.
+	narrator	Oh, what will to-morrow bring to us?
+	narrator	We go to seek the place where my poor darling suffered so much.
+	narrator	God grant that we may be guided aright, and that He will deign to watch over my husband and those dear to us both
+	narrator	and who are in such deadly peril.
+	narrator	As for me, I am not worthy in His sight.
+	narrator	Alas!
+	narrator	I am unclean to His eyes, and shall be until He may deign to let me stand forth in His sight as one of those who have not incurred His wrath.
+	narrator	_Memorandum by Abraham Van Helsing.
+	narrator	_4 November._--This to my old and true friend John Seward, M.
+	narrator	D., of Purfleet, London, in case I may not see him.
+	narrator	It may explain.
+	narrator	It is morning, and I write by a fire which all the night I have kept alive--Madam Mina aiding me.
+	narrator	It is cold, cold; so cold that the grey heavy sky is full of snow, which when it falls will settle for all winter as the ground is hardening to receive it.
+	narrator	It seems to have affected Madam Mina; she has been so heavy of head all day that she was not like herself.
+	narrator	She sleeps, and sleeps, and sleeps!
+	narrator	She who is usual so alert, have done literally nothing all the day; she even have lost her appetite.
+	narrator	She make no entry into her little diary, she who write so faithful at every pause.
+	narrator	Something whisper to me that all is not well.
+	narrator	However, to-night she is more _vif_.
+	narrator	Her long sleep all day have refresh and restore her, for now she is all sweet and bright as ever.
+	narrator	At sunset I try to hypnotise her, but alas! with no effect; the power has grown less and less with each day
+	narrator	and to-night it fail me altogether.
+	narrator	Well, God's will be done--whatever it may be, and whithersoever it may lead!
+	narrator	Now to the historical, for as Madam Mina write not in her stenography, I must, in my cumbrous old fashion
+	narrator	that so each day of us may not go unrecorded.
+	narrator	We got to the Borgo Pass just after sunrise yesterday morning.
+	narrator	When I saw the signs of the dawn I got ready for the hypnotism.
+	narrator	We stopped our carriage, and got down so that there might be no disturbance.
+	narrator	I made a couch with furs, and Madam Mina, lying down, yield herself as usual, but more slow and more short time than ever
+	narrator	to the hypnotic sleep.
+	narrator	As before, came the answer: "darkness and the swirling of water."
+	narrator	Then she woke, bright and radiant and we go on our way and soon reach the Pass.
+	narrator	At this time and place, she become all on fire with zeal; some new guiding power be in her manifested
+	narrator	for she point to a road and say:
+	madam mina	This is the way.
+	narrator	"How know you it?" I ask.
+	madam mina	Of course I know it,
+	narrator	she answer, and with a pause, add:
+	madam mina	Have not my Jonathan travelled it and wrote of his travel?
+	narrator	At first I think somewhat strange, but soon I see that there be only one such by-road.
+	narrator	It is used but little, and very different from the coach road from the Bukovina to Bistritz
+	narrator	which is more wide and hard, and more of use.
+	narrator	So we came down this road; when we meet other ways--not always were we sure that they were roads at all
+	narrator	for they be neglect and light snow have fallen--the horses know and they only.
+	narrator	I give rein to them, and they go on so patient.
+	narrator	By-and-by we find all the things which Jonathan have note in that wonderful diary of him.
+	narrator	Then we go on for long, long hours and hours.
+	narrator	At the first, I tell Madam Mina to sleep; she try, and she succeed.
+	narrator	She sleep all the time; till at the last, I feel myself to suspicious grow, and attempt to wake her.
+	narrator	But she sleep on, and I may not wake her though I try.
+	narrator	I do not wish to try too hard lest I harm her; for I know that she have suffer much
+	narrator	and sleep at times be all-in-all to her.
+	narrator	I think I drowse myself, for all of sudden I feel guilt, as though I have done something;
+	narrator	I find myself bolt up, with the reins in my hand, and the good horses go along jog
+	narrator	jog, just as ever.
+	narrator	I look down and find Madam Mina still sleep.
+	narrator	It is now not far off sunset time, and over the snow the light of the sun flow in big yellow flood
+	narrator	so that we throw great long shadow on where the mountain rise so steep.
+	narrator	For we are going up, and up; and all is oh! so wild and rocky, as though it were the end of the world.
+	narrator	Then I arouse Madam Mina.
+	narrator	This time she wake with not much trouble, and then I try to put her to hypnotic sleep.
+	narrator	But she sleep not, being as though I were not.
+	narrator	Still I try and try, till all at once I find her and myself in dark; so I look round
+	narrator	and find that the sun have gone down.
+	madam mina	Madam Mina laugh, and I turn and look at her.
+	narrator	She is now quite awake, and look so well as I never saw her since that night at Carfax when we first enter the Count's house.
+	narrator	I am amaze, and not at ease then; but she is so bright and tender and thoughtful for me that I forget all fear.
+	narrator	I light a fire, for we have brought supply of wood with us, and she prepare food while I undo the horses and set them
+	narrator	tethered in shelter, to feed.
+	narrator	Then when I return to the fire she have my supper ready.
+	narrator	I go to help her; but she smile, and tell me that she have eat already--that she was so hungry that she would not wait.
+	narrator	I like it not, and I have grave doubts; but I fear to affright her, and so I am silent of it.
+	narrator	She help me and I eat alone; and then we wrap in fur and lie beside the fire
+	narrator	and I tell her to sleep while I watch.
+	narrator	But presently I forget all of watching; and when I sudden remember that I watch, I find her lying quiet
+	narrator	but awake, and looking at me with so bright eyes.
+	narrator	Once, twice more the same occur, and I get much sleep till before morning.
+	narrator	When I wake I try to hypnotise her; but alas! though she shut her eyes obedient, she may not sleep.
+	narrator	The sun rise up, and up, and up; and then sleep come to her too late, but so heavy that she will not wake.
+	narrator	I have to lift her up, and place her sleeping in the carriage when I have harnessed the horses and made all ready.
+	narrator	Madam still sleep, and she look in her sleep more healthy and more redder than before.
+	narrator	And I like it not.
+	narrator	And I am afraid, afraid, afraid!--I am afraid of all things--even to think but I must go on my way.
+	narrator	The stake we play for is life and death, or more than these, and we must not flinch.
+	narrator	5 November, morning.--Let me be accurate in everything, for though you and I have seen some strange things together
+	narrator	you may at the first think that I, Van Helsing, am mad--that the many horrors and the so long strain on nerves has at the last turn my brain.
+	narrator	All yesterday we travel, ever getting closer to the mountains, and moving into a more and more wild and desert land.
+	narrator	There are great, frowning precipices and much falling water, and Nature seem to have held sometime her carnival.
+	narrator	Madam Mina still sleep and sleep; and though I did have hunger and appeased it, I could not waken her--even for food.
+	narrator	I began to fear that the fatal spell of the place was upon her, tainted as she is with that Vampire baptism.
+	narrator	"Well," said I to myself, "if it be that she sleep all the day, it shall also be that I do not sleep at night."
+	narrator	As we travel on the rough road, for a road of an ancient and imperfect kind there was
+	narrator	I held down my head and slept.
+	narrator	Again I waked with a sense of guilt and of time passed, and found Madam Mina still sleeping
+	narrator	and the sun low down.
+	narrator	But all was indeed changed; the frowning mountains seemed further away, and we were near the top of a steep-rising hill
+	narrator	on summit of which was such a castle as Jonathan tell of in his diary.
+	narrator	At once I exulted and feared; for now, for good or ill, the end was near.
+	narrator	I woke Madam Mina, and again tried to hypnotise her; but alas! unavailing till too late.
+	narrator	Then, ere the great dark came upon us--for even after down-sun the heavens reflected the gone sun on the snow
+	narrator	and all was for a time in a great twilight--I took out the horses and fed them in what shelter I could.
+	narrator	Then I make a fire; and near it I make Madam Mina, now awake and more charming than ever
+	narrator	sit comfortable amid her rugs.
+	narrator	I got ready food: but she would not eat, simply saying that she had not hunger.
+	narrator	I did not press her, knowing her unavailingness.
+	narrator	But I myself eat, for I must needs now be strong for all.
+	narrator	Then, with the fear on me of what might be, I drew a ring so big for her comfort
+	narrator	round where Madam Mina sat; and over the ring I passed some of the wafer, and I broke it fine so that all was well guarded.
+	narrator	She sat still all the time--so still as one dead; and she grew whiter and ever whiter till the snow was not more pale; and no word she said.
+	narrator	But when I drew near, she clung to me, and I could know that the poor soul shook her from head to feet with a tremor that was pain to feel.
+	narrator	I said to her presently, when she had grown more quiet:
+	narrator	"Will you not come over to the fire?" for I wished to make a test of what she could.
+	narrator	She rose obedient, but when she have made a step she stopped, and stood as one stricken.
+	narrator	"Why not go on?" I asked.
+	narrator	She shook her head, and, coming back, sat down in her place.
+	narrator	Then, looking at me with open eyes, as of one waked from sleep, she said simply:
+	mina harker	I cannot!
+	narrator	and remained silent.
+	narrator	I rejoiced, for I knew that what she could not, none of those that we dreaded could.
+	narrator	Though there might be danger to her body, yet her soul was safe!
+	narrator	Presently the horses began to scream, and tore at their tethers till I came to them and quieted them.
+	narrator	When they did feel my hands on them, they whinnied low as in joy, and licked at my hands and were quiet for a time.
+	narrator	Many times through the night did I come to them, till it arrive to the cold hour when all nature is at lowest; and every time my coming was with quiet of them.
+	narrator	In the cold hour the fire began to die, and I was about stepping forth to replenish it
+	narrator	for now the snow came in flying sweeps and with it a chill mist.
+	narrator	Even in the dark there was a light of some kind, as there ever is over snow; and it seemed as though the snow-flurries and the wreaths of mist took shape as of women with trailing garments.
+	narrator	All was in dead, grim silence only that the horses whinnied and cowered, as if in terror of the worst.
+	narrator	I began to fear--horrible fears; but then came to me the sense of safety in that ring wherein I stood.
+	narrator	I began, too, to think that my imaginings were of the night, and the gloom, and the unrest that I have gone through
+	narrator	and all the terrible anxiety.
+	narrator	It was as though my memories of all Jonathan's horrid experience were befooling me; for the snow flakes and the mist began to wheel and circle round
+	narrator	till I could get as though a shadowy glimpse of those women that would have kissed him.
+	narrator	And then the horses cowered lower and lower, and moaned in terror as men do in pain.
+	narrator	Even the madness of fright was not to them, so that they could break away.
+	narrator	I feared for my dear Madam Mina when these weird figures drew near and circled round.
+	narrator	I looked at her, but she sat calm, and smiled at me; when I would have stepped to the fire to replenish it
+	narrator	she caught me and held me back, and whispered, like a voice that one hears in a dream
+	narrator	so low it was:
+	mina harker	No! No! Do not go without. Here you are safe!
+	narrator	I turned to her, and looking in her eyes, said:
+	narrator	But you?
+	narrator	It is for you that I fear!
+	mina harker	Fear for _me_! Why fear for me? None safer in all the world from them than I am,
+	narrator	and as I wondered at the meaning of her words, a puff of wind made the flame leap up
+	narrator	and I see the red scar on her forehead.
+	narrator	Then, alas!
+	narrator	I knew.
+	narrator	Did I not, I would soon have learned, for the wheeling figures of mist and snow came closer
+	narrator	but keeping ever without the Holy circle.
+	narrator	Then they began to materialise till--if God have not take away my reason, for I saw it through my eyes--there were before me in actual flesh the same three women that Jonathan saw in the room
+	narrator	when they would have kissed his throat.
+	narrator	I knew the swaying round forms, the bright hard eyes, the white teeth, the ruddy colour, the voluptuous lips.
+	narrator	They smiled ever at poor dear Madam Mina; and as their laugh came through the silence of the night
+	narrator	they twined their arms and pointed to her, and said in those so sweet tingling tones that Jonathan said were of the intolerable sweetness of the water-glasses:
+	narrator	Come, sister.
+	narrator	Come to us.
+	narrator	Come!
+	narrator	Come!
+	narrator	In fear I turned to my poor Madam Mina, and my heart with gladness leapt like flame; for oh! the terror in her sweet eyes
+	narrator	the repulsion, the horror, told a story to my heart that was all of hope.
+	narrator	God be thanked she was not, yet, of them.
+	narrator	I seized some of the firewood which was by me, and holding out some of the Wafer
+	narrator	advanced on them towards the fire.
+	narrator	They drew back before me, and laughed their low horrid laugh.
+	narrator	I fed the fire, and feared them not; for I knew that we were safe within our protections.
+	narrator	They could not approach, me, whilst so armed, nor Madam Mina whilst she remained within the ring
+	narrator	which she could not leave no more than they could enter.
+	narrator	The horses had ceased to moan, and lay still on the ground; the snow fell on them softly
+	narrator	and they grew whiter.
+	narrator	I knew that there was for the poor beasts no more of terror.
+	narrator	And so we remained till the red of the dawn to fall through the snow-gloom.
+	narrator	I was desolate and afraid, and full of woe and terror; but when that beautiful sun began to climb the horizon life was to me again.
+	narrator	At the first coming of the dawn the horrid figures melted in the whirling mist and snow; the wreaths of transparent gloom moved away towards the castle
+	narrator	and were lost.
+	narrator	Instinctively, with the dawn coming, I turned to Madam Mina, intending to hypnotise her
+	narrator	but she lay in a deep and sudden sleep, from which I could not wake her
+	narrator	I tried to hypnotise through her sleep, but she made no response, none at all; and the day broke
+	narrator	I fear yet to stir
+	narrator	I have made my fire and have seen the horses, they are all dead
+	narrator	To-day I have much to do here, and I keep waiting till the sun is up high; for there may be places where I must go
+	narrator	where that sunlight, though snow and mist obscure it, will be to me a safety
+	narrator	I will strengthen me with breakfast, and then I will to my terrible work
+	narrator	Madam Mina still sleeps; and, God be thanked! she is calm in her sleep
+	narrator	Jonathan Harker's Journal
+	narrator	4 November, evening
+	jonathan harker	The accident to the launch has been a terrible thing for us
+	jonathan harker	Only for it we should have overtaken the boat long ago
+	jonathan harker	and by now my dear Mina would have been free
+	jonathan harker	I fear to think of her, off on the wolds near that horrid place
+	jonathan harker	We have got horses, and we follow on the track
+	jonathan harker	I note this whilst Godalming is getting ready
+	jonathan harker	We have our arms
+	jonathan harker	The Szgany must look out if they mean fight
+	jonathan harker	Oh, if only Morris and Seward were with us
+	jonathan harker	We must only hope
+	jonathan harker	If I write no more Good-bye, Mina! God bless and keep you
+	narrator	Dr.
+	narrator	Seward's Diary
+	narrator	5 November
+	dr. john seward	With the dawn we saw the body of Szgany before us dashing away from the river with their leiter-wagon
+	dr. john seward	They surrounded it in a cluster, and hurried along as though beset
+	dr. john seward	The snow is falling lightly and there is a strange excitement in the air
+	dr. john seward	It may be our own feelings, but the depression is strange
+	dr. john seward	Far off I hear the howling of wolves; the snow brings them down from the mountains, and there are dangers to all of us, and from all sides
+	dr. john seward	The horses are nearly ready, and we are soon off
+	dr. john seward	We ride to death of some one
+	dr. john seward	God alone knows who, or where, or what, or when, or how it may be
+	narrator	Dr.
+	narrator	Van Helsing's Memorandum
+	narrator	5 November, afternoon
+	dr. van helsing	I am at least sane
+	dr. van helsing	Thank God for that mercy at all events, though the proving it has been dreadful
+	dr. van helsing	When I left Madam Mina sleeping within the Holy circle, I took my way to the castle
+	dr. van helsing	The blacksmith hammer which I took in the carriage from Veresti was useful
+	dr. van helsing	Though the doors were all open I broke them off the rusty hinges, lest some ill-intent or ill-chance should close them, so that being entered I might not get out
+	dr. van helsing	Jonathan's bitter experience served me here
+	dr. van helsing	By memory of his diary I found my way to the old chapel, for I knew that here my work lay
+	dr. van helsing	The air was oppressive; it seemed as if there was some sulphurous fume, which at times made me dizzy
+	dr. van helsing	Either there was a roaring in my ears or I heard afar off the howl of wolves
+	dr. van helsing	Then I bethought me of my dear Madam Mina, and I was in terrible plight
+	dr. van helsing	The dilemma had me between his horns
+	dr. van helsing	Her, I had not dare to take into this place, but left safe from the Vampire in that Holy circle; and yet even there would be the wolf!
+	dr. van helsing	I resolve me that my work lay here, and that as to the wolves we must submit, if it were God's will
+	dr. van helsing	At any rate it was only death and freedom beyond
+	dr. van helsing	So did I choose for her
+	dr. van helsing	Had it but been for myself the choice had been easy, the maw of the wolf were better to rest in than the grave of the Vampire!
+	dr. van helsing	So I make my choice to go on with my work
+	dr. van helsing	I knew that there were at least three graves to find--graves that are inhabit; so I search, and search, and I find one of them
+	dr. van helsing	She lay in her Vampire sleep, so full of life and voluptuous beauty that I shudder as though I have come to do murder
+	dr. van helsing	Ah, I doubt not that in old time, when such things were, many a man who set forth to do such a task as mine, found at the last his heart fail him, and then his nerve
+	dr. van helsing	So he delay, and delay, and delay, till the mere beauty and the fascination of the wanton Un-Dead have hypnotise him
+	dr. van helsing	And he remain on and on, till sunset come, and the Vampire sleep be over
+	dr. van helsing	Then the beautiful eyes of the fair woman open and look love, and the voluptuous mouth present to a kiss--and man is weak
+	dr. van helsing	And there remain one more victim in the Vampire fold; one more to swell the grim and grisly ranks of the Un-Dead
+	dr. van helsing	There is some fascination, surely, when I am moved by the mere presence of such an one, even lying as she lay in a tomb fretted with age and heavy with the dust of centuries, though there be that horrid odour such as the lairs of the Count have had
+	dr. van helsing	Yes, I was moved--I, Van Helsing, with all my purpose and with my motive for hate--I was moved to a yearning for delay which seemed to paralyse my faculties and to clog my very soul
+	dr. van helsing	It may have been that the need of natural sleep, and the strange oppression of the air were beginning to overcome me
+	dr. van helsing	Certain it was that I was lapsing into sleep, the open-eyed sleep of one who yields to a sweet fascination, when there came through the snow-stilled air a long, low wail
+	dr. van helsing	So full of woe and pity that it woke me like the sound of a clarion
+	dr. van helsing	For it was the voice of my dear Madam Mina that I heard
+	narrator	Then I braced myself again to my horrid task, and found by wrenching away tomb-tops one other of the sisters
+	narrator	the other dark one.
+	narrator	I dared not pause to look on her as I had on her sister, lest once more I should begin to be enthrall; but I go on searching until
+	narrator	presently, I find in a high great tomb as if made to one much beloved that other fair sister which
+	narrator	like Jonathan I had seen to gather herself out of the atoms of the mist.
+	narrator	She was so fair to look on, so radiantly beautiful, so exquisitely voluptuous, that the very instinct of man in me
+	narrator	which calls some of my sex to love and to protect one of hers, made my head whirl with new emotion.
+	narrator	But God be thanked, that soul-wail of my dear Madam Mina had not died out of my ears; and
+	narrator	before the spell could be wrought further upon me, I had nerved myself to my wild work.
+	narrator	By this time I had searched all the tombs in the chapel, so far as I could tell; and as there had been only three of these Un-Dead phantoms around us in the night
+	narrator	I took it that there were no more of active Un-Dead existent.
+	narrator	There was one great tomb more lordly than all the rest; huge it was, and nobly proportioned.
+	narrator	On it was but one word
+	narrator	DRACULA.
+	narrator	This then was the Un-Dead home of the King-Vampire, to whom so many more were due.
+	narrator	Its emptiness spoke eloquent to make certain what I knew.
+	narrator	Before I began to restore these women to their dead selves through my awful work, I laid in Dracula's tomb some of the Wafer
+	narrator	and so banished him from it, Un-Dead, for ever.
+	narrator	Then began my terrible task, and I dreaded it.
+	narrator	Had it been but one, it had been easy, comparative.
+	narrator	But three!
+	narrator	To begin twice more after I had been through a deed of horror; for if it was terrible with the sweet Miss Lucy
+	narrator	what would it not be with these strange ones who had survived through centuries, and who had been strengthened by the passing of the years; who would
+	narrator	if they could, have fought for their foul lives....
+	narrator	Oh, my friend John, but it was butcher work; had I not been nerved by thoughts of other dead
+	narrator	and of the living over whom hung such a pall of fear, I could not have gone on.
+	narrator	I tremble and tremble even yet, though till all was over, God be thanked, my nerve did stand.
+	narrator	Had I not seen the repose in the first place, and the gladness that stole over it just ere the final dissolution came
+	narrator	as realisation that the soul had been won, I could not have gone further with my butchery.
+	narrator	I could not have endured the horrid screeching as the stake drove home; the plunging of writhing form
+	narrator	and lips of bloody foam.
+	narrator	I should have fled in terror and left my work undone.
+	narrator	But it is over!
+	narrator	And the poor souls, I can pity them now and weep, as I think of them placid each in her full sleep of death for a short moment ere fading.
+	narrator	For, friend John, hardly had my knife severed the head of each, before the whole body began to melt away and crumble in to its native dust
+	narrator	as though the death that should have come centuries agone had at last assert himself and say at once and loud "I am here!"
+	narrator	Before I left the castle I so fixed its entrances that never more can the Count enter there Un-Dead.
+	narrator	When I stepped into the circle where Madam Mina slept, she woke from her sleep, and, seeing me
+	narrator	cried out in pain that I had endured too much.
+	mina harker	Come! come away from this awful place! Let us go to meet my husband who is, I know, coming towards us.
+	narrator	She was looking thin and pale and weak; but her eyes were pure and glowed with fervour.
+	narrator	I was glad to see her paleness and her illness, for my mind was full of the fresh horror of that ruddy vampire sleep.
+	narrator	And so with trust and hope, and yet full of fear, we go eastward to meet our friends--and _him_--whom Madam Mina tell me that she _know_ are coming to meet us.
+	narrator	Mina Harker's Journal.
+	narrator	6 November.--It was late in the afternoon when the Professor and I took our way towards the east whence I knew Jonathan was coming.
+	narrator	We did not go fast, though the way was steeply downhill, for we had to take heavy rugs and wraps with us; we dared not face the possibility of being left without warmth in the cold and the snow.
+	narrator	We had to take some of our provisions, too, for we were in a perfect desolation, and
+	narrator	so far as we could see through the snowfall, there was not even the sign of habitation.
+	narrator	When we had gone about a mile, I was tired with the heavy walking and sat down to rest.
+	narrator	Then we looked back and saw where the clear line of Dracula's castle cut the sky; for we were so deep under the hill whereon it was set that the angle of perspective of the Carpathian mountains was far below it.
+	narrator	We saw it in all its grandeur, perched a thousand feet on the summit of a sheer precipice
+	narrator	and with seemingly a great gap between it and the steep of the adjacent mountain on any side.
+	narrator	There was something wild and uncanny about the place.
+	narrator	We could hear the distant howling of wolves.
+	narrator	They were far off, but the sound, even though coming muffled through the deadening snowfall, was full of terror.
+	narrator	I knew from the way Dr.
+	narrator	Van Helsing was searching about that he was trying to seek some strategic point, where we would be less exposed in case of attack.
+	narrator	The rough roadway still led downwards; we could trace it through the drifted snow.
+	narrator	In a little while the Professor signalled to me, so I got up and joined him.
+	professor	See! here you will be in shelter; and if the wolves do come I can meet them one by one.
+	narrator	He brought in our furs, and made a snug nest for me, and got out some provisions and forced them upon me.
+	narrator	But I could not eat; to even try to do so was repulsive to me, and, much as I would have liked to please him
+	narrator	I could not bring myself to the attempt.
+	narrator	He looked very sad, but did not reproach me.
+	narrator	Taking his field-glasses from the case, he stood on the top of the rock, and began to search the horizon.
+	professor	Look! Madam Mina, look! look!
+	narrator	I sprang up and stood beside him on the rock; he handed me his glasses and pointed.
+	narrator	The snow was now falling more heavily, and swirled about fiercely, for a high wind was beginning to blow.
+	narrator	However, there were times when there were pauses between the snow flurries and I could see a long way round.
+	narrator	From the height where we were it was possible to see a great distance; and far off
+	narrator	beyond the white waste of snow, I could see the river lying like a black ribbon in kinks and curls as it wound its way.
+	narrator	Straight in front of us and not far off--in fact, so near that I wondered we had not noticed before--came a group of mounted men hurrying along.
+	narrator	In the midst of them was a cart, a long leiter-wagon which swept from side to side
+	narrator	like a dog's tail wagging, with each stern inequality of the road.
+	narrator	Outlined against the snow as they were, I could see from the men's clothes that they were peasants or gypsies of some kind.
+	narrator	On the cart was a great square chest.
+	narrator	My heart leaped as I saw it, for I felt that the end was coming.
+	narrator	The evening was now drawing close, and well I knew that at sunset the Thing, which was till then imprisoned there
+	narrator	would take new freedom and could in any of many forms elude all pursuit.
+	narrator	In fear I turned to the Professor; to my consternation, however, he was not there.
+	narrator	An instant later, I saw him below me.
+	professor	At least you shall be safe here from _him_!
+	narrator	He took the glasses from me, and at the next lull of the snow swept the whole space below us.
+	professor	See, they come quickly; they are flogging the horses, and galloping as hard as they can.
+	professor	They are racing for the sunset. We may be too late. God's will be done!
+	narrator	Down came another blinding rush of driving snow, and the whole landscape was blotted out.
+	narrator	It soon passed, however, and once more his glasses were fixed on the plain.
+	professor	Look! Look! Look! See, two horsemen follow fast, coming up from the south. It must be Quincey and John.
+	professor	Take the glass. Look before the snow blots it all out!
+	narrator	I took it and looked.
+	narrator	The two men might be Dr.
+	narrator	Seward and Mr.
+	narrator	Morris.
+	narrator	I knew at all events that neither of them was Jonathan.
+	narrator	At the same time I _knew_ that Jonathan was not far off; looking around I saw on the north side of the coming party two other men
+	narrator	riding at break-neck speed.
+	narrator	One of them I knew was Jonathan, and the other I took, of course, to be Lord Godalming.
+	narrator	They, too, were pursuing the party with the cart.
+	narrator	When I told the Professor he shouted in glee like a schoolboy, and, after looking intently till a snow fall made sight impossible
+	narrator	he laid his Winchester rifle ready for use against the boulder at the opening of our shelter.
+	professor	They are all converging. When the time comes we shall have gypsies on all sides.
+	narrator	I got out my revolver ready to hand, for whilst we were speaking the howling of wolves came louder and closer.
+	narrator	When the snow storm abated a moment we looked again.
+	narrator	It was strange to see the snow falling in such heavy flakes close to us, and beyond
+	narrator	the sun shining more and more brightly as it sank down towards the far mountain tops.
+	narrator	Sweeping the glass all around us I could see here and there dots moving singly and in twos and threes and larger numbers--the wolves were gathering for their prey.
+	narrator	Every instant seemed an age whilst we waited.
+	narrator	The wind came now in fierce bursts, and the snow was driven with fury as it swept upon us in circling eddies.
+	narrator	At times we could not see an arm's length before us; but at others, as the hollow-sounding wind swept by us
+	narrator	it seemed to clear the air-space around us so that we could see afar off.
+	narrator	We had of late been so accustomed to watch for sunrise and sunset, that we knew with fair accuracy when it would be; and we knew that before long the sun would set.
+	narrator	It was hard to believe that by our watches it was less than an hour that we waited in that rocky shelter before the various bodies began to converge close upon us.
+	narrator	The wind came now with fiercer and more bitter sweeps, and more steadily from the north.
+	narrator	It seemingly had driven the snow clouds from us, for, with only occasional bursts, the snow fell.
+	narrator	We could distinguish clearly the individuals of each party, the pursued and the pursuers.
+	narrator	Strangely enough those pursued did not seem to realise, or at least to care, that they were pursued; they seemed
+	narrator	however, to hasten with redoubled speed as the sun dropped lower and lower on the mountain tops.
+	narrator	Closer and closer they drew.
+	narrator	The Professor and I crouched down behind our rock, and held our weapons ready; I could see that he was determined that they should not pass.
+	narrator	One and all were quite unaware of our presence.
+	narrator	All at once two voices shouted out to:
+	narrator	"Halt!" One was my Jonathan's,
+	jonathan harker	Halt!
+	narrator	raised in a high key of passion; the other Mr.
+	narrator	Morris' strong resolute tone of quiet command.
+	narrator	The gypsies may not have known the language, but there was no mistaking the tone, in whatever tongue the words were spoken.
+	narrator	Instinctively they reined in, and at the instant Lord Godalming and Jonathan dashed up at one side and Dr.
+	narrator	Seward and Mr.
+	narrator	Morris on the other.
+	narrator	The leader of the gypsies, a splendid-looking fellow who sat his horse like a centaur, waved them back
+	narrator	and in a fierce voice gave to his companions some word to proceed.
+	narrator	They lashed the horses which sprang forward; but the four men raised their Winchester rifles, and in an unmistakable way commanded them to stop.
+	narrator	At the same moment Dr.
+	narrator	Van Helsing and I rose behind the rock and pointed our weapons at them.
+	narrator	Seeing that they were surrounded the men tightened their reins and drew up.
+	narrator	The leader turned to them and gave a word at which every man of the gypsy party drew what weapon he carried
+	narrator	knife or pistol, and held himself in readiness to attack.
+	narrator	Issue was joined in an instant.
+	narrator	The leader, with a quick movement of his rein, threw his horse out in front, and pointing first to the sun--now close down on the hill tops--and then to the castle
+	narrator	said something which I did not understand.
+	narrator	For answer, all four men of our party threw themselves from their horses and dashed towards the cart.
+	narrator	I should have felt terrible fear at seeing Jonathan in such danger, but that the ardour of battle must have been upon me as well as the rest of them; I felt no fear
+	narrator	but only a wild, surging desire to do something.
+	narrator	Seeing the quick movement of our parties, the leader of the gypsies gave a command; his men instantly formed round the cart in a sort of undisciplined endeavour
+	narrator	each one shouldering and pushing the other in his eagerness to carry out the order.
+	narrator	In the midst of this I could see that Jonathan on one side of the ring of men
+	narrator	and Quincey on the other, were forcing a way to the cart; it was evident that they were bent on finishing their task before the sun should set.
+	narrator	Nothing seemed to stop or even to hinder them.
+	narrator	Neither the levelled weapons nor the flashing knives of the gypsies in front, nor the howling of the wolves behind
+	narrator	appeared to even attract their attention.
+	narrator	Jonathan's impetuosity, and the manifest singleness of his purpose, seemed to overawe those in front of him; instinctively they cowered
+	narrator	aside and let him pass.
+	narrator	In an instant he had jumped upon the cart, and, with a strength which seemed incredible, raised the great box
+	narrator	and flung it over the wheel to the ground.
+	narrator	In the meantime, Mr.
+	narrator	Morris had had to use force to pass through his side of the ring of Szgany.
+	narrator	All the time I had been breathlessly watching Jonathan I had, with the tail of my eye
+	narrator	seen him pressing desperately forward, and had seen the knives of the gypsies flash as he won a way through them
+	narrator	and they cut at him.
+	narrator	He had parried with his great bowie knife, and at first I thought that he too had come through in safety; but as he sprang beside Jonathan
+	narrator	who had by now jumped from the cart, I could see that with his left hand he was clutching at his side
+	narrator	and that the blood was spurting through his fingers.
+	narrator	He did not delay notwithstanding this, for as Jonathan, with desperate energy, attacked one end of the chest
+	narrator	attempting to prise off the lid with his great Kukri knife, he attacked the other frantically with his bowie.
+	narrator	Under the efforts of both men the lid began to yield; the nails drew with a quick screeching sound
+	narrator	and the top of the box was thrown back.
+	narrator	By this time the gypsies, seeing themselves covered by the Winchesters, and at the mercy of Lord Godalming and Dr.
+	narrator	Seward, had given in and made no resistance.
+	narrator	The sun was almost down on the mountain tops, and the shadows of the whole group fell long upon the snow.
+	narrator	I saw the Count lying within the box upon the earth, some of which the rude falling from the cart had scattered over him.
+	narrator	He was deathly pale, just like a waxen image, and the red eyes glared with the horrible vindictive look which I knew too well.
+	narrator	As I looked, the eyes saw the sinking sun, and the look of hate in them turned to triumph.
+	narrator	But, on the instant, came the sweep and flash of Jonathan's great knife.
+	narrator	I shrieked as I saw it shear through the throat; whilst at the same moment Mr.
+	narrator	Morris's bowie knife plunged into the heart.
+	narrator	It was like a miracle; but before our very eyes, and almost in the drawing of a breath
+	narrator	the whole body crumbled into dust and passed from our sight.
+	narrator	I shall be glad as long as I live that even in that moment of final dissolution
+	narrator	there was in the face a look of peace, such as I never could have imagined might have rested there.
+	narrator	The Castle of Dracula now stood out against the red sky, and every stone of its broken battlements was articulated against the light of the setting sun.
+	narrator	The gypsies, taking us as in some way the cause of the extraordinary disappearance of the dead man
+	narrator	turned, without a word, and rode away as if for their lives.
+	narrator	Those who were unmounted jumped upon the leiter-wagon and shouted to the horsemen not to desert them.
+	narrator	The wolves, which had withdrawn to a safe distance, followed in their wake, leaving us alone.
+	narrator	Mr.
+	narrator	Morris, who had sunk to the ground, leaned on his elbow, holding his hand pressed to his side; the blood still gushed through his fingers.
+	narrator	I flew to him, for the Holy circle did not now keep me back; so did the two doctors.
+	narrator	Jonathan knelt behind him and the wounded man laid back his head on his shoulder.
+	narrator	With a sigh he took, with a feeble effort, my hand in that of his own which was unstained.
+	narrator	He must have seen the anguish of my heart in my face, for he smiled at me and said:
+	quincey morris	I am only too happy to have been of any service!
+	quincey morris	Oh, God!
+	quincey morris	Look! look!
+	narrator	The sun was now right down upon the mountain top, and the red gleams fell upon my face
+	narrator	so that it was bathed in rosy light.
+	narrator	With one impulse the men sank on their knees and a deep and earnest "Amen" broke from all as their eyes followed the pointing of his finger.
+	narrator	The dying man spoke:
+	dying man	Now God be thanked that all has not been in vain! See! the snow is not more stainless than her forehead! The curse has passed away!
+	narrator	And, to our bitter grief, with a smile and in silence, he died, a gallant gentleman.
+	narrator	NOTE
+	narrator	Seven years ago we all went through the flames; and the happiness of some of us since then is
+	narrator	we think, well worth the pain we endured.
+	narrator	It is an added joy to Mina and to me that our boy's birthday is the same day as that on which Quincey Morris died.
+	narrator	His mother holds, I know, the secret belief that some of our brave friend's spirit has passed into him.
+	narrator	His bundle of names links all our little band of men together; but we call him Quincey.
+	narrator	In the summer of this year we made a journey to Transylvania, and went over the old ground which was
+	narrator	and is, to us so full of vivid and terrible memories.
+	narrator	It was almost impossible to believe that the things which we had seen with our own eyes and heard with our own ears were living truths.
+	narrator	Every trace of all that had been was blotted out.
+	narrator	The castle stood as before, reared high above a waste of desolation.
+	narrator	When we got home we were talking of the old time--which we could all look back on without despair
+	narrator	for Godalming and Seward are both happily married.
+	narrator	I took the papers from the safe where they had been ever since our return so long ago.
+	narrator	We were struck with the fact, that in all the mass of material of which the record is composed
+	narrator	there is hardly one authentic document; nothing but a mass of typewriting, except the later note-books of Mina and Seward and myself
+	narrator	and Van Helsing's memorandum.
+	narrator	We could hardly ask any one, even did we wish to, to accept these as proofs of so wild a story.
+	narrator	Van Helsing summed it all up as he said, with our boy on his knee:
+	abraham van helsing	We want no proofs; we ask none to believe us! This boy will some day know what a brave and gallant woman his mother is. Already he knows her sweetness and loving care; later on he will understand how some men so loved her, that they did dare much for her sake.
+	narrator	JONATHAN HARKER.
+	narrator	THE END
+	narrator	There's More to Follow!
+	narrator	More stories of the sort you like; more, probably, by the author of this one; more than 500 titles all told by writers of world-wide reputation
+	narrator	in the Authors' Alphabetical List which you will find on the _reverse side_ of the wrapper of this book.
+	narrator	Look it over before you lay it aside.
+	narrator	There are books here you are sure to want--some, possibly, that you have _always_ wanted.
+	narrator	It is a _selected_ list; every book in it has achieved a certain measure of _success_.
+	narrator	The Grosset & Dunlap list is not only the greatest Index of Good Fiction available, it represents in addition a generally accepted Standard of Value.
+	narrator	It will pay you to
+	narrator	Look on the Other Side of the Wrapper!
+	narrator	In case the wrapper is lost write to the publishers for a complete catalog
+	narrator	DETECTIVE STORIES BY J.
+	narrator	S.
+	narrator	FLETCHER
+	narrator	May be had wherever books are sold.
+	narrator	Ask for Grosset & Dunlap's list
+	narrator	THE SECRET OF THE BARBICAN
+	narrator	THE ANNEXATION SOCIETY
+	narrator	THE WOLVES AND THE LAMB
+	narrator	GREEN INK
+	narrator	THE KING versus WARGRAVE
+	narrator	THE LOST MR.
+	narrator	LINTHWAITE
+	narrator	THE MILL OF MANY WINDOWS
+	narrator	THE HEAVEN-KISSED HILL
+	narrator	THE MIDDLE TEMPLE MURDER
+	narrator	RAVENSDENE COURT
+	narrator	THE RAYNER-SLADE AMALGAMATION
+	narrator	THE SAFETY PIN
+	narrator	THE SECRET WAY
+	narrator	THE VALLEY OF HEADSTRONG MEN
+	narrator	Ask for Complete free list of G. & D.
+	narrator	Popular Copyrighted Fiction
+	narrator	GROSSET & DUNLAP, Publishers, NEW YORK

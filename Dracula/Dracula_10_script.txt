@@ -1,0 +1,351 @@
+	narrator	CHAPTER X
+	narrator	Letter, Dr.
+	narrator	Seward to Hon.
+	narrator	Arthur Holmwood.
+	narrator	"6 September."
+	narrator	"My dear Art,"
+	narrator	"My news to-day is not so good. Lucy this morning had gone back a bit. There is
+	narrator	however, one good thing which has arisen from it; Mrs. Westenra was naturally anxious concerning Lucy, and has consulted me professionally about her. I took advantage of the opportunity
+	narrator	and told her that my old master, Van Helsing, the great specialist, was coming to stay with me
+	narrator	and that I would put her in his charge conjointly with myself; so now we can come and go without alarming her unduly
+	narrator	for a shock to her would mean sudden death, and this, in Lucy's weak condition, might be disastrous to her. We are hedged in with difficulties
+	narrator	all of us, my poor old fellow; but, please God, we shall come through them all right. If any need I shall write
+	narrator	so that, if you do not hear from me, take it for granted that I am simply waiting for news. In haste"
+	narrator	"Yours ever,"
+	narrator	"JOHN SEWARD."
+	narrator	Dr.
+	narrator	Seward's Diary.
+	narrator	7 September.--The first thing Van Helsing said to me when we met at Liverpool Street was:"
+	van helsing	Have you said anything to our young friend the lover of her?
+	dr. seward	No," I said. "I waited till I had seen you, as I said in my telegram. I wrote him a letter simply telling him that you were coming, as Miss Westenra was not so well, and that I should let him know if need be.
+	van helsing	Right, my friend," he said, "quite right! Better he not know as yet; perhaps he shall never know. I pray so; but if it be needed, then he shall know all. And, my good friend John, let me caution you. You deal with the madmen. All men are mad in some way or the other; and inasmuch as you deal discreetly with your madmen, so deal with God's madmen, too--the rest of the world. You tell not your madmen what you do nor why you do it; you tell them not what you think. So you shall keep knowledge in its place, where it may rest--where it may gather its kind around it and breed. You and I shall keep as yet what we know here, and here.
+	van helsing	He touched me on the heart and on the forehead, and then touched himself the same way. "I have for myself thoughts at the present. Later I shall unfold to you.
+	dr. seward	Why not now?" I asked. "It may do some good; we may arrive at some decision.
+	van helsing	My friend John, when the corn is grown, even before it has ripened--while the milk of its mother-earth is in him, and the sunshine has not yet begun to paint him with his gold, the husbandman he pull the ear and rub him between his rough hands, and blow away the green chaff, and say to you: 'Look! he's good corn; he will make good crop when the time comes.
+	dr. seward	I did not see the application, and told him so.
+	van helsing	For reply he reached over and took my ear in his hand and pulled it playfully, as he used long ago to do at lectures, and said: "The good husbandman tell you so then because he knows, but not till then. But you do not find the good husbandman dig up his planted corn to see if he grow; that is for the children who play at husbandry, and not for those who take it as of the work of their life. See you now, friend John? I have sown my corn, and Nature has her work to do in making it sprout; if he sprout at all, there's some promise; and I wait till the ear begins to swell.
+	van helsing	He broke off, for he evidently saw that I understood. Then he went on, and very gravely:
+	van helsing	You were always a careful student, and your case-book was ever more full than the rest. You were only student then; now you are master, and I trust that good habit have not fail. Remember, my friend, that knowledge is stronger than memory, and we should not trust the weaker. Even if you have not kept the good practise, let me tell you that this case of our dear miss is one that may be--mind, I say _may be_--of such interest to us and others that all the rest may not make him kick the beam, as your peoples say. Take then good note of it. Nothing is too small. I counsel you, put down in record even your doubts and surmises. Hereafter it may be of interest to you to see how true you guess. We learn from failure, not from success!
+	narrator	When I described Lucy's symptoms--the same as before, but infinitely more marked--he looked very grave, but said nothing.
+	narrator	He took with him a bag in which were many instruments and drugs, "the ghastly paraphernalia of our beneficial trade," as he once called
+	narrator	in one of his lectures, the equipment of a professor of the healing craft.
+	narrator	When we were shown in, Mrs.
+	narrator	Westenra met us.
+	narrator	She was alarmed, but not nearly so much as I expected to find her.
+	narrator	Nature in one of her beneficent moods has ordained that even death has some antidote to its own terrors.
+	narrator	Here, in a case where any shock may prove fatal, matters are so ordered that, from some cause or other
+	narrator	the things not personal--even the terrible change in her daughter to whom she is so attached--do not seem to reach her.
+	narrator	It is something like the way Dame Nature gathers round a foreign body an envelope of some insensitive tissue which can protect from evil that which it would otherwise harm by contact.
+	narrator	If this be an ordered selfishness, then we should pause before we condemn any one for the vice of egoism
+	narrator	for there may be deeper root for its causes than we have knowledge of."
+	narrator	I used my knowledge of this phase of spiritual pathology, and laid down a rule that she should not be present with Lucy or think of her illness more than was absolutely required.
+	narrator	She assented readily, so readily that I saw again the hand of Nature fighting for life.
+	narrator	Van Helsing and I were shown up to Lucy's room.
+	narrator	If I was shocked when I saw her yesterday, I was horrified when I saw her to-day.
+	narrator	She was ghastly, chalkily pale; the red seemed to have gone even from her lips and gums
+	narrator	and the bones of her face stood out prominently; her breathing was painful to see or hear.
+	narrator	Van Helsing's face grew set as marble, and his eyebrows converged till they almost touched over his nose.
+	narrator	Lucy lay motionless, and did not seem to have strength to speak, so for a while we were all silent.
+	narrator	Then Van Helsing beckoned to me, and we went gently out of the room.
+	narrator	The instant we had closed the door he stepped quickly along the passage to the next door
+	narrator	which was open.
+	narrator	Then he pulled me quickly in with him and closed the door.
+	van helsing	My God!
+	van helsing	This is dreadful.
+	van helsing	There is no time to be lost.
+	van helsing	She will die for sheer want of blood to keep the heart's action as it should be.
+	van helsing	There must be transfusion of blood at once.
+	van helsing	Is it you or me?
+	arthur holmwood	I am younger and stronger, Professor. It must be me.
+	narrator	Then get ready at once.
+	narrator	I will bring up my bag.
+	narrator	I am prepared.
+	narrator	I went downstairs with him, and as we were going there was a knock at the hall-door.
+	narrator	When we reached the hall the maid had just opened the door, and Arthur was stepping quickly in.
+	arthur holmwood	Jack, I was so anxious. I read between the lines of your letter, and have been in an agony.
+	narrator	The dad was better, so I ran down here to see for myself.
+	arthur holmwood	Is not that gentleman Dr. Van Helsing?
+	arthur holmwood	I am so thankful to you, sir, for coming.
+	narrator	When first the Professor's eye had lit upon him he had been angry at his interruption at such a time; but now
+	narrator	as he took in his stalwart proportions and recognised the strong young manhood which seemed to emanate from him
+	narrator	his eyes gleamed.
+	van helsing	Sir, you have come in time. You are the lover of our dear miss.
+	van helsing	She is bad, very, very bad.
+	van helsing	Nay, my child, do not go like that.
+	narrator	For he suddenly grew pale and sat down in a chair almost fainting.
+	van helsing	You are to help her. You can do more than any that live, and your courage is your best help.
+	arthur holmwood	What can I do?
+	narrator	asked Arthur hoarsely.
+	arthur holmwood	Tell me, and I shall do it. My life is hers, and I would give the last drop of blood in my body for her.
+	narrator	The Professor has a strongly humorous side, and I could from old knowledge detect a trace of its origin in his answer:
+	van helsing	My young sir, I do not ask so much as that--not the last!
+	arthur holmwood	What shall I do?
+	narrator	There was fire in his eyes, and his open nostril quivered with intent.
+	van helsing	Come! You are a man, and it is a man we want. You are better than me, better than my friend John.
+	arthur holmwood	I look bewildered, and the Professor went on by explaining in a kindly way:
+	narrator	Young miss is bad, very bad.
+	narrator	She wants blood, and blood she must have or die.
+	narrator	My friend John and I have consulted; and we are about to perform what we call transfusion of blood--to transfer from full veins of one to the empty veins which pine for him.
+	narrator	John was to give his blood, as he is the more young and strong than me
+	narrator	--here Arthur took my hand and wrung it hard in silence
+	narrator	--but, now you are here, you are more good than us, old or young, who toil much in the world of thought.
+	narrator	Our nerves are not so calm and our blood not so bright than yours!
+	arthur holmwood	If you only knew how gladly I would die for her you would understand----
+	narrator	He stopped, with a sort of choke in his voice.
+	van helsing	Good boy!
+	van helsing	In the not-so-far-off you will be happy that you have done all for her you love.
+	van helsing	Come now and be silent. You shall kiss her once before it is done, but then you must go; and you must leave at my sign.
+	van helsing	Say no word to Madame; you know how it is with her!
+	van helsing	There must be no shock; any knowledge of this would be one. Come!
+	narrator	We all went up to Lucy's room.
+	narrator	Arthur by direction remained outside.
+	narrator	Lucy turned her head and looked at us, but said nothing.
+	narrator	She was not asleep, but she was simply too weak to make the effort.
+	narrator	Her eyes spoke to us; that was all.
+	narrator	Van Helsing took some things from his bag and laid them on a little table out of sight.
+	narrator	Then he mixed a narcotic, and coming over to the bed, said cheerily:
+	van helsing	Now, little miss, here is your medicine. Drink it off, like a good child. See, I lift you so that to swallow is easy. Yes.
+	narrator	She had made the effort with success.
+	narrator	It astonished me how long the drug took to act.
+	narrator	This, in fact, marked the extent of her weakness.
+	narrator	The time seemed endless until sleep began to flicker in her eyelids.
+	narrator	At last, however, the narcotic began to manifest its potency; and she fell into a deep sleep.
+	narrator	When the Professor was satisfied he called Arthur into the room, and bade him strip off his coat.
+	van helsing	You may take that one little kiss whiles I bring over the table. Friend John, help to me!
+	narrator	So neither of us looked whilst he bent over her.
+	van helsing	He is so young and strong and of blood so pure that we need not defibrinate it.
+	narrator	Then with swiftness, but with absolute method, Van Helsing performed the operation.
+	narrator	As the transfusion went on something like life seemed to come back to poor Lucy's cheeks, and through Arthur's growing pallor the joy of his face seemed absolutely to shine.
+	narrator	After a bit I began to grow anxious, for the loss of blood was telling on Arthur
+	narrator	strong man as he was.
+	narrator	It gave me an idea of what a terrible strain Lucy's system must have undergone that what weakened Arthur only partially restored her.
+	narrator	But the Professor's face was set, and he stood watch in hand and with his eyes fixed now on the patient and now on Arthur.
+	narrator	I could hear my own heart beat.
+	van helsing	Do not stir an instant. It is enough. You attend him; I will look to her.
+	narrator	When all was over I could see how much Arthur was weakened.
+	narrator	I dressed the wound and took his arm to bring him away, when Van Helsing spoke without turning round--the man seems to have eyes in the back of his head:
+	van helsing	The brave lover, I think, deserve another kiss, which he shall have presently.
+	narrator	And as he had now finished his operation, he adjusted the pillow to the patient's head.
+	narrator	As he did so the narrow black velvet band which she seems always to wear round her throat
+	narrator	buckled with an old diamond buckle which her lover had given her, was dragged a little up
+	narrator	and showed a red mark on her throat.
+	narrator	Arthur did not notice it, but I could hear the deep hiss of indrawn breath which is one of Van Helsing's ways of betraying emotion.
+	van helsing	I may take it, sir, that you are anxious of result. Then bring it with you that in all ways the operation is successful.
+	van helsing	You have saved her life this time, and you can go home and rest easy in mind that all that can be is. I shall tell her all when she is well; she shall love you none the less for what you have done. Good-bye.
+	narrator	When Arthur had gone I went back to the room.
+	narrator	Lucy was sleeping gently, but her breathing was stronger; I could see the counterpane move as her breast heaved.
+	narrator	By the bedside sat Van Helsing, looking at her intently.
+	narrator	The velvet band again covered the red mark.
+	dr. seward	What do you make of that mark on her throat?
+	van helsing	What do you make of it?
+	dr. seward	I have not examined it yet,
+	narrator	I answered, and then and there proceeded to loose the band.
+	narrator	Just over the external jugular vein there were two punctures, not large, but not wholesome-looking.
+	narrator	There was no sign of disease, but the edges were white and worn-looking, as if by some trituration.
+	narrator	It at once occurred to me that this wound, or whatever it was, might be the means of that manifest loss of blood; but I abandoned the idea as soon as formed
+	narrator	for such a thing could not be.
+	narrator	The whole bed would have been drenched to a scarlet with the blood which the girl must have lost to leave such a pallor as she had before the transfusion.
+	van helsing	Well?
+	dr. seward	Well, I can make nothing of it.
+	van helsing	I must go back to Amsterdam to-night. There are books and things there which I want.
+	van helsing	You must remain here all the night, and you must not let your sight pass from her.
+	dr. seward	Shall I have a nurse?
+	van helsing	We are the best nurses, you and I. You keep watch all night; see that she is well fed, and that nothing disturbs her. You must not sleep all the night. Later on we can sleep, you and I. I shall be back as soon as possible. And then we may begin.
+	dr. seward	May begin? What on earth do you mean?
+	van helsing	We shall see!
+	narrator	he answered, as he hurried out.
+	van helsing	Remember, she is your charge. If you leave her, and harm befall, you shall not sleep easy hereafter!
+	narrator	Dr.
+	narrator	Seward's Diary--continued.
+	narrator	8 September.--I sat up all night with Lucy.
+	narrator	The opiate worked itself off towards dusk, and she waked naturally; she looked a different being from what she had been before the operation.
+	narrator	Her spirits even were good, and she was full of a happy vivacity, but I could see evidences of the absolute prostration which she had undergone.
+	narrator	When I told Mrs.
+	narrator	Westenra that Dr.
+	narrator	Van Helsing had directed that I should sit up with her she almost pooh-poohed the idea, pointing out her daughter's renewed strength and excellent spirits.
+	narrator	I was firm, however, and made preparations for my long vigil.
+	narrator	When her maid had prepared her for the night I came in, having in the meantime had supper
+	narrator	and took a seat by the bedside.
+	narrator	She did not in any way make objection, but looked at me gratefully whenever I caught her eye.
+	narrator	After a long spell she seemed sinking off to sleep, but with an effort seemed to pull herself together and shook it off.
+	narrator	This was repeated several times, with greater effort and with shorter pauses as the time moved on.
+	narrator	It was apparent that she did not want to sleep, so I tackled the subject at once:
+	dr. seward	You do not want to go to sleep?
+	lucy westenra	No; I am afraid.
+	dr. seward	Afraid to go to sleep! Why so? It is the boon we all crave for.
+	lucy westenra	Ah, not if you were like me--if sleep was to you a presage of horror!
+	dr. seward	A presage of horror! What on earth do you mean?
+	lucy westenra	I don't know; oh, I don't know. And that is what is so terrible. All this weakness comes to me in sleep; until I dread the very thought.
+	dr. seward	But, my dear girl, you may sleep to-night. I am here watching you, and I can promise that nothing will happen.
+	lucy westenra	Ah, I can trust you!
+	dr. seward	I seize the opportunity, and said: I promise you that if I see any evidence of bad dreams I will wake you at once.
+	lucy westenra	You will? Oh, will you really? How good you are to me. Then I will sleep!
+	narrator	And almost at the word she gave a deep sigh of relief, and sank back, asleep.
+	narrator	All night long I watched by her.
+	narrator	She never stirred, but slept on and on in a deep, tranquil, life-giving, health-giving sleep.
+	narrator	Her lips were slightly parted, and her breast rose and fell with the regularity of a pendulum.
+	narrator	There was a smile on her face, and it was evident that no bad dreams had come to disturb her peace of mind.
+	narrator	In the early morning her maid came, and I left her in her care and took myself back home
+	narrator	for I was anxious about many things.
+	narrator	I sent a short wire to Van Helsing and to Arthur, telling them of the excellent result of the operation.
+	narrator	My own work, with its manifold arrears, took me all day to clear off; it was dark when I was able to inquire about my zoöphagous patient.
+	narrator	The report was good; he had been quite quiet for the past day and night.
+	narrator	A telegram came from Van Helsing at Amsterdam whilst I was at dinner, suggesting that I should be at Hillingham to-night
+	narrator	as it might be well to be at hand, and stating that he was leaving by the night mail and would join me early in the morning.
+	narrator	9 September.--I was pretty tired and worn out when I got to Hillingham.
+	narrator	For two nights I had hardly had a wink of sleep, and my brain was beginning to feel that numbness which marks cerebral exhaustion.
+	narrator	Lucy was up and in cheerful spirits.
+	narrator	When she shook hands with me she looked sharply in my face and said:
+	lucy westenra	No sitting up to-night for you. You are worn out. I am quite well again; indeed, I am; and if there is to be any sitting up, it is I who will sit up with you.
+	narrator	I would not argue the point, but went and had my supper.
+	narrator	Lucy came with me, and, enlivened by her charming presence, I made an excellent meal, and had a couple of glasses of the more than excellent port.
+	narrator	Then Lucy took me upstairs, and showed me a room next her own, where a cozy fire was burning.
+	narrator	"Now," she said, "you must stay here. I shall leave this door open and my door too. You can lie on the sofa for I know that nothing would induce any of you doctors to go to bed whilst there is a patient above the horizon. If I want anything I shall call out
+	narrator	and you can come to me at once." I could not but acquiesce, for I was "dog-tired," and could not have sat up had I tried.
+	narrator	So, on her renewing her promise to call me if she should want anything, I lay on the sofa
+	narrator	and forgot all about everything.
+	narrator	Lucy Westenra's Diary.
+	narrator	9 September.--I feel so happy to-night.
+	narrator	I have been so miserably weak, that to be able to think and move about is like feeling sunshine after a long spell of east wind out of a steel sky.
+	narrator	Somehow Arthur feels very, very close to me.
+	narrator	I seem to feel his presence warm about me.
+	narrator	I suppose it is that sickness and weakness are selfish things and turn our inner eyes and sympathy on ourselves
+	narrator	whilst health and strength give Love rein, and in thought and feeling he can wander where he wills.
+	narrator	I know where my thoughts are.
+	narrator	If Arthur only knew!
+	narrator	My dear, my dear, your ears must tingle as you sleep, as mine do waking.
+	narrator	Oh, the blissful rest of last night!
+	narrator	How I slept, with that dear, good Dr.
+	narrator	Seward watching me.
+	narrator	And to-night I shall not fear to sleep, since he is close at hand and within call.
+	narrator	Thank everybody for being so good to me!
+	narrator	Thank God!
+	narrator	Good-night, Arthur.
+	narrator	Dr.
+	narrator	Seward's Diary.
+	narrator	10 September.--I was conscious of the Professor's hand on my head, and started awake all in a second.
+	narrator	That is one of the things that we learn in an asylum, at any rate.
+	van helsing	And how is our patient?
+	dr. seward	Well, when I left her, or rather when she left me,
+	van helsing	Come, let us see,
+	narrator	and together we went into the room.
+	narrator	The blind was down, and I went over to raise it gently, whilst Van Helsing stepped, with his soft
+	narrator	cat-like tread, over to the bed.
+	narrator	As I raised the blind, and the morning sunlight flooded the room, I heard the Professor's low hiss of inspiration
+	narrator	and knowing its rarity, a deadly fear shot through my heart.
+	narrator	As I passed over he moved back, and his exclamation of horror, "Gott in Himmel!" needed no enforcement from his agonised face.
+	narrator	He raised his hand and pointed to the bed, and his iron face was drawn and ashen white.
+	narrator	I felt my knees begin to tremble.
+	narrator	There on the bed, seemingly in a swoon, lay poor Lucy, more horribly white and wan-looking than ever.
+	narrator	Even the lips were white, and the gums seemed to have shrunken back from the teeth, as we sometimes see in a corpse after a prolonged illness.
+	narrator	Van Helsing raised his foot to stamp in anger, but the instinct of his life and all the long years of habit stood to him
+	narrator	and he put it down again softly.
+	narrator	"Quick!" he said.
+	narrator	"Bring the brandy." I flew to the dining-room, and returned with the decanter.
+	narrator	He wetted the poor white lips with it, and together we rubbed palm and wrist and heart.
+	narrator	He felt her heart, and after a few moments of agonising suspense said:
+	narrator	It is not too late.
+	narrator	It beats, though but feebly.
+	narrator	All our work is undone; we must begin again.
+	narrator	There is no young Arthur here now; I have to call on you yourself this time, friend John.
+	van helsing	It beats, though but feebly. All our work is undone; we must begin again. There is no young Arthur here now; I have to call on you yourself this time, friend John.
+	narrator	As he spoke, he was dipping into his bag and producing the instruments for transfusion; I had taken off my coat and rolled up my shirt-sleeve.
+	narrator	There was no possibility of an opiate just at present, and no need of one; and so
+	narrator	without a moment's delay, we began the operation.
+	narrator	After a time--it did not seem a short time either, for the draining away of one's blood
+	narrator	no matter how willingly it be given, is a terrible feeling--Van Helsing held up a warning finger.
+	van helsing	Do not stir, but I fear that with growing strength she may wake; and that would make danger, oh, so much danger.
+	narrator	But I shall precaution take.
+	narrator	I shall give hypodermic injection of morphia.
+	narrator	He proceeded then, swiftly and deftly, to carry out his intent.
+	narrator	The effect on Lucy was not bad, for the faint seemed to merge subtly into the narcotic sleep.
+	narrator	It was with a feeling of personal pride that I could see a faint tinge of colour steal back into the pallid cheeks and lips.
+	narrator	No man knows, till he experiences it, what it is to feel his own life-blood drawn away into the veins of the woman he loves.
+	narrator	The Professor watched me critically.
+	van helsing	That will do.
+	narrator	"Already?" I remonstrated.
+	van helsing	You took a great deal more from Art.
+	narrator	To which he smiled a sad sort of smile as he replied:
+	van helsing	He is her lover, her _fiancé_. You have work, much work, to do for her and for others; and the present will suffice.
+	narrator	When we stopped the operation, he attended to Lucy, whilst I applied digital pressure to my own incision.
+	narrator	I laid down, whilst I waited his leisure to attend to me, for I felt faint and a little sick.
+	narrator	By-and-by he bound up my wound, and sent me downstairs to get a glass of wine for myself.
+	narrator	As I was leaving the room, he came after me, and half whispered:
+	van helsing	Mind, nothing must be said of this. If our young lover should turn up unexpected, as before, no word to him. It would at once frighten him and enjealous him, too. There must be none.
+	narrator	When I came back he looked at me carefully, and then said:
+	van helsing	You are not much the worse. Go into the room, and lie on your sofa, and rest awhile; then have much breakfast, and come here to me.
+	narrator	I followed out his orders, for I knew how right and wise they were.
+	narrator	I had done my part, and now my next duty was to keep up my strength.
+	narrator	I felt very weak, and in the weakness lost something of the amazement at what had occurred.
+	narrator	I fell asleep on the sofa, however, wondering over and over again how Lucy had made such a retrograde movement
+	narrator	and how she could have been drained of so much blood with no sign anywhere to show for it.
+	narrator	I think I must have continued my wonder in my dreams, for, sleeping and waking, my thoughts always came back to the little punctures in her throat and the ragged
+	narrator	exhausted appearance of their edges--tiny though they were.
+	narrator	Lucy slept well into the day, and when she woke she was fairly well and strong, though not nearly so much so as the day before.
+	narrator	When Van Helsing had seen her, he went out for a walk, leaving me in charge, with strict injunctions that I was not to leave her for a moment.
+	narrator	I could hear his voice in the hall, asking the way to the nearest telegraph office.
+	narrator	Lucy chatted with me freely, and seemed quite unconscious that anything had happened.
+	narrator	I tried to keep her amused and interested.
+	narrator	When her mother came up to see her, she did not seem to notice any change whatever
+	narrator	but said to me gratefully:
+	mrs. westenra	We owe you so much, Dr. Seward, for all you have done, but you really must now take care not to overwork yourself. You are looking pale yourself. You want a wife to nurse and look after you a bit; that you do!
+	narrator	As she spoke, Lucy turned crimson, though it was only momentarily, for her poor wasted veins could not stand for long such an unwonted drain to the head.
+	narrator	The reaction came in excessive pallor as she turned imploring eyes on me.
+	narrator	I smiled and nodded, and laid my finger on my lips; with a sigh, she sank back amid her pillows.
+	narrator	Van Helsing returned in a couple of hours, and presently said to me:
+	van helsing	Now you go home, and eat much and drink enough. Make yourself strong. I stay here to-night, and I shall sit up with little miss myself. You and I must watch the case, and we must have none other to know. I have grave reasons. No, do not ask them; think what you will. Do not fear to think even the most not-probable. Good-night.
+	narrator	In the hall two of the maids came to me, and asked if they or either of them might not sit up with Miss Lucy.
+	narrator	They implored me to let them; and when I said it was Dr.
+	narrator	Van Helsing's wish that either he or I should sit up, they asked me quite piteously to intercede with the "foreign gentleman." I was much touched by their kindness.
+	narrator	Perhaps it is because I am weak at present, and perhaps because it was on Lucy's account
+	narrator	that their devotion was manifested; for over and over again have I seen similar instances of woman's kindness.
+	narrator	I got back here in time for a late dinner; went my rounds--all well; and set this down whilst waiting for sleep.
+	narrator	It is coming.
+	narrator	11 September.--This afternoon I went over to Hillingham.
+	narrator	Found Van Helsing in excellent spirits, and Lucy much better.
+	narrator	Shortly after I had arrived, a big parcel from abroad came for the Professor.
+	narrator	He opened it with much impressment--assumed, of course--and showed a great bundle of white flowers.
+	van helsing	These are for you, Miss Lucy.
+	narrator	Yes, my dear, but not for you to play with.
+	narrator	These are medicines.
+	lucy westenra	Nay, but they are not to take in a decoction or in nauseous form, so you need not snub that so charming nose, or I shall point out to my friend Arthur what woes he may have to endure in seeing so much beauty that he so loves so much distort. Aha, my pretty miss, that bring the so nice nose all straight again.
+	narrator	This is medicinal, but you do not know how.
+	narrator	I put him in your window, I make pretty wreath, and hang him round your neck, so that you sleep well.
+	narrator	Oh yes! they, like the lotus flower, make your trouble forgotten.
+	narrator	It smell so like the waters of Lethe, and of that fountain of youth that the Conquistadores sought for in the Floridas
+	narrator	and find him all too late.
+	lucy westenra	Oh, Professor, I believe you are only putting up a joke on me. Why, these flowers are only common garlic.
+	narrator	To my surprise, Van Helsing rose up and said with all his sternness, his iron jaw set and his bushy eyebrows meeting:
+	narrator	No trifling with me!
+	narrator	I never jest!
+	narrator	There is grim purpose in all I do;
+	narrator	and I warn you that you do not thwart me.
+	narrator	Take care, for the sake of others if not for your own.
+	narrator	Then seeing poor Lucy scared, as she might well be, he went on more gently:
+	van helsing	Oh, little miss, my dear, do not fear me. I only do for your good; but there is much virtue to you in those so common flowers.
+	van helsing	See, I place them myself in your room. I make myself the wreath that you are to wear.
+	van helsing	But hush! no telling to others that make so inquisitive questions. We must obey, and silence is a part of obedience; and obedience is to bring you strong and well into loving arms that wait for you.
+	van helsing	Now sit still awhile. Come with me, friend John, and you shall help me deck the room with my garlic, which is all the way from Haarlem, where my friend Vanderpool raise herb in his glass-houses all the year.
+	van helsing	I had to telegraph yesterday, or they would not have been here.
+	narrator	We went into the room, taking the flowers with us.
+	narrator	The Professor's actions were certainly odd and not to be found in any pharmacopoeia that I ever heard of.
+	narrator	First he fastened up the windows and latched them securely; next, taking a handful of the flowers
+	narrator	he rubbed them all over the sashes, as though to ensure that every whiff of air that might get in would be laden with the garlic smell.
+	narrator	Then with the wisp he rubbed all over the jamb of the door, above, below, and at each side
+	narrator	and round the fireplace in the same way.
+	narrator	It all seemed grotesque to me, and presently I said:
+	narrator	Well, Professor, I know you always have a reason for what you do, but this certainly puzzles me.
+	narrator	It is well we have no sceptic here, or he would say that you were working some spell to keep out an evil spirit.
+	van helsing	Perhaps I am!
+	narrator	he answered quietly as he began to make the wreath which Lucy was to wear round her neck.
+	narrator	We then waited whilst Lucy made her toilet for the night, and when she was in bed he came and himself fixed the wreath of garlic round her neck.
+	narrator	The last words he said to her were:
+	narrator	Take care you do not disturb it; and even if the room feel close, do not to-night open the window or the door.
+	lucy westenra	I promise,
+	lucy westenra	and thank you both a thousand times for all your kindness to me! Oh, what have I done to be blessed with such friends?
+	narrator	As we left the house in my fly, which was waiting, Van Helsing said:
+	van helsing	To-night I can sleep in peace, and sleep I want--two nights of travel, much reading in the day between, and much anxiety on the day to follow, and a night to sit up, without to wink. To-morrow in the morning early you call for me, and we come together to see our pretty miss, so much more strong for my 'spell' which I have work. Ho! ho!
+	narrator	He seemed so confident that I, remembering my own confidence two nights before and with the baneful result
+	narrator	felt awe and vague terror.
+	narrator	It must have been my weakness that made me hesitate to tell it to my friend, but I felt it all the more
+	narrator	like unshed tears.

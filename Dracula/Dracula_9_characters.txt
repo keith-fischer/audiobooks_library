@@ -1,0 +1,10 @@
+Mina Harker	female	A young woman who is engaged to Jonathan Harker. She travels from Whitby to Buda-Pesth to care for her sick fiancé, who has suffered a terrible shock. She is devoted and nurturing, and eventually marries Jonathan.
+Lucy Westenra	female	A young woman who is engaged to Arthur Holmwood. She lives in Whitby and later Hillingham, where she becomes ill with an unexplained condition that causes her to grow pale and weak. She is described as beautiful and beloved by Arthur.
+Jonathan Harker	male	Mina's fiancé who has suffered a terrible shock and brain fever. He is described as thin, pale, weak-looking, and confused, though he recovers enough to marry Mina.
+Sister Agatha	female	A kind and devoted nurse who cares for Jonathan Harker in Buda-Pesth. She is described as a good creature and born nurse who keeps secrets.
+Dr. John Seward	male	A physician who works at an asylum and is a close friend of Arthur Holmwood. He examines Lucy Westenra, treats Jonathan Harker, and consults with Professor Van Helsing.
+Renfield	*male	A patient at Dr. Seward's asylum who exhibits strange behavior, including violent outbursts and an obsession with consuming living creatures. He has periods of calmness that coincide with moonrise.
+Arthur Holmwood	male	Lucy Westenra's fiancé who is deeply concerned about her health. He visits Lucy at Hillingham and seeks medical help for her, showing great devotion to her.
+Abraham Van Helsing	male	A renowned professor and physician from Amsterdam who is called to help diagnose Lucy Westenra's mysterious illness. He is described as highly intelligent, experienced in obscure diseases, and deeply compassionate.
+Mrs. Westenra	*female	Lucy Westenra's mother who is ill and concerned about her daughter's health. She has a heart condition that she believes will cause her death.
+Miss Murray	*female	A woman who found Lucy Westenra walking in her sleep at East Cliff during their time in Whitby.

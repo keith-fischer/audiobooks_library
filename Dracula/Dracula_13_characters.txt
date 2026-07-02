@@ -1,0 +1,13 @@
+Dr. Seward	male	A physician and diary keeper who is deeply involved in the supernatural events surrounding Lucy Westenra's death. He is a close friend of Van Helsing and Arthur Holmwood, and serves as a witness to the strange occurrences. He is portrayed as compassionate yet pragmatic.
+Van Helsing	male	A foreign doctor and lawyer who is a key figure in investigating the supernatural events. He is knowledgeable, mysterious, and deeply committed to protecting Lucy and her family. He shows great emotional investment in the case.
+Lucy Westenra	female	A young woman who dies from a supernatural cause, becoming a vampire. She is described as extremely beautiful and beloved by her family and friends.
+Arthur Holmwood	male	Lucy's fiancé who is deeply affected by her death. He is portrayed as devoted, noble, and emotionally vulnerable during this tragic time.
+Mrs. Westenra	female	Lucy's mother who dies before Lucy, leaving her daughter as the sole heir to her estate.
+Mina Harker	female	A woman who becomes Mrs. Jonathan Harker after marriage. She is a journal keeper and plays an important role in uncovering the truth about Lucy's death.
+Jonathan Harker	male	Mina's husband, a solicitor who has recently returned from abroad. He suffers from nervous problems and is deeply affected by Lucy's death.
+Quincey Morris	male	A friend of Arthur Holmwood who accompanies him back to Ring. He is described as a fine fellow and moral Viking, showing deep concern for Lucy's death.
+Mr. Marquand	*male	A solicitor who handles the legal affairs of Mrs. Westenra's estate and provides information about Lucy's will.
+The Undertaker	*male	A professional who prepares bodies for burial and creates the funeral arrangements for Lucy and her mother.
+The Woman	*female	A mysterious figure who steals the golden crucifix from Lucy's body during the night, showing devotion to her deceased mistress.
+The Dark Man	*male	A mysterious stranger observed by Jonathan Harker, described as having a cruel and sensual face with pointed teeth.
+The Children	*male	Young children who are reported missing and injured in Hampstead, allegedly lured away by a 'bloofer lady'.

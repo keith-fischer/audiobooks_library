@@ -1,0 +1,9 @@
+Lucy Westenra	female	The main protagonist, a young woman who falls ill and is cared for by Dr. Van Helsing and Dr. Seward. She experiences sleeplessness, fear of sleep, and supernatural occurrences related to vampirism.
+Dr. Van Helsing	male	A Dutch physician who is a specialist in the supernatural and becomes Lucy's primary caregiver. He is knowledgeable about vampires and takes charge of her treatment.
+Dr. Seward	male	A physician and colleague of Van Helsing who keeps a diary documenting Lucy's illness. He is also involved in the investigation of supernatural events.
+Mrs. Westenra	female	Lucy's mother, who is concerned about her daughter's health and inadvertently interferes with the treatment by removing flowers from Lucy's room.
+Arthur Holmwood	male	Lucy's fiancé, mentioned as being kind and concerned for her wellbeing. He is a significant figure in Lucy's life.
+Thomas Bilder	male	The keeper of the wolf section at the Zoölogical Gardens who tells his story about the escaped wolf Bersicker.
+Mrs. Tom	*female	Thomas Bilder's wife, who is hospitable and supportive of her husband.
+Bersicker	*male	A grey wolf at the Zoölogical Gardens who escapes and later returns, becoming central to the supernatural events.
+The Interviewer	*male	A reporter from the Pall Mall Gazette who interviews Thomas Bilder about the escaped wolf.

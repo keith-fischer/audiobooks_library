@@ -1,0 +1,8 @@
+Jonathan Harker	male	A solicitor who is deeply involved in the supernatural events surrounding Count Dracula. He is married to Mina and serves as a key figure in the investigation, documenting events in his journal.
+Mina Harker	female	Jonathan's wife, who is deeply involved in the supernatural events but has been kept out of the dangerous aspects of the investigation. She keeps a journal and is described as having a strong, intelligent personality.
+Dr. John Seward	male	A physician and close friend of Jonathan, who serves as a key investigator in the supernatural events. He keeps a diary and is involved in treating Mr. Renfield.
+Dr. Van Helsing	male	A Dutch physician and expert on supernatural matters who leads the investigation against Count Dracula. He is wise, determined, and plays a crucial role in understanding the supernatural elements.
+Lord Godalming	male	A wealthy young man who is part of the group investigating Count Dracula. He is brave, resourceful, and shows leadership qualities in their dangerous missions.
+Quincey Morris	male	A friend and member of the group investigating Count Dracula. He is adventurous, determined, and shows great courage in facing supernatural threats.
+Mr. Renfield	*male	A patient in Dr. Seward's care who exhibits strange behavior and has a connection to Count Dracula, showing signs of being influenced by the vampire's power.
+Count Dracula	*male	The main antagonist, a vampire with supernatural powers who is the source of all the horror and danger in the story.
