@@ -1,2 +1,11 @@
 Dracula/.DS_Store
 .DS_Store
+*.wav
+*.WAV
+*_[0-9]*.mp3
+/.idea/
+*.DS_Store
+*.log
+*.part
+*.pyc
+*.DS_Store
