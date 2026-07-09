@@ -1,0 +1,21 @@
+the king	*male	A con man and impostor who performs a ridiculous naked stage act with painted stripes, appearing as a wild and funny character. He is part of the fraudulent duo alongside the duke.
+the duke	*male	A con man and impostor who runs the fraudulent theater show with the king. He is the primary organizer of their scams and makes speeches to the audience.
+Jim	*male	A enslaved man who is loyal and caring, deeply missing his family. He is the narrator's companion and shows great emotional depth through his memories of his wife and children.
+Huck	*male	The narrator of the story, a young boy who is part of the fraudulent scheme with Jim and the con men. He has a cynical view of kings and society.
+*Henry the Eight	*male	A historical king mentioned by Huck as an example of a particularly cruel and tyrannical ruler who married multiple wives and executed them.
+*Charles Second	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*Louis Fourteen	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*Louis Fifteen	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*James Second	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*Edward Second	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*Richard Third	*male	A historical king mentioned by Huck as part of a list of tyrannical rulers from history.
+*Nell Gwynn	*female	A historical figure mentioned by Huck as one of Henry the Eight's wives.
+*Jane Shore	*female	A historical figure mentioned by Huck as one of Henry the Eight's wives.
+*Fair Rosamun	*female	A historical figure mentioned by Huck as one of Henry the Eight's wives.
+*Domesday Book	*male	A historical document created by Henry the Eight, mentioned in relation to his collection of tales from his wives.
+*the Duke of Wellington	*male	A historical figure mentioned by Huck as Henry the Eight's father.
+the judge	*male	A man who speaks up during the theater show to suggest that people should not reveal they were fooled, but instead promote the show.
+*the king's wife	*female	A character mentioned by Jim in his memory of a past incident involving his daughter.
+*the king's children	*male	Children mentioned by Jim in his memory of a past incident involving his daughter.
+*the king's wife	*female	A character mentioned by Jim in his memory of a past incident involving his daughter.
+*the king's children	*male	Children mentioned by Jim in his memory of a past incident involving his daughter.

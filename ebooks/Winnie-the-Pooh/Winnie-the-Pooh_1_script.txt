@@ -1,0 +1,166 @@
+	narrator	Here is Edward Bear, coming downstairs now, bump, bump, bump, on the back of his head,
+	narrator	behind Christopher Robin. It is, as far as he knows, the only way of coming downstairs,
+	narrator	but sometimes he feels that there really is another way, if only he could stop bumping for a moment and think of it.
+	narrator	And then he feels that perhaps there isn't. Anyhow, here he is at the bottom, and ready to be introduced to you.
+	narrator	Winnie-the-Pooh. When I first heard his name, I said, just as you are going to say,
+	narrator	"But I thought he was a boy?"
+	christopher robin	So did I.
+	narrator	"Then you can't call him Winnie?"
+	christopher robin	I don't.
+	narrator	"But you said----"
+	christopher robin	He's Winnie-ther-Pooh. Don't you know what '_ther_' means?
+	narrator	"Ah, yes, now I do," I said quickly; and I hope you do too, because it is all the explanation you are going to get.
+	narrator	Sometimes Winnie-the-Pooh likes a game of some sort when he comes downstairs, and sometimes he likes to sit quietly in front of the fire and listen to a story.
+	narrator	This evening----
+	christopher robin	What about a story?
+	narrator	"What about a story?" I said.
+	christopher robin	Could you very sweetly tell Winnie-the-Pooh one?
+	narrator	"I suppose I could," I said. "What sort of stories does he like?"
+	christopher robin	About himself. Because he's _that_ sort of Bear.
+	narrator	"Oh, I see."
+	christopher robin	So could you very sweetly?
+	narrator	"I'll try," I said. So I tried. Once upon a time, a very long time ago now,
+	narrator	about last Friday, Winnie-the-Pooh lived in a forest all by himself under the name of Sanders.
+	christopher robin	What does 'under the name' mean?
+	narrator	"It means he had the name over the door in gold letters, and lived under it."
+	christopher robin	Winnie-the-Pooh wasn't quite sure,
+	narrator	"Now I am," said a growly voice. "Then I will go on," said I. One day when he was out walking,
+	narrator	he came to an open place in the middle of the forest, and in the middle of this place was a large oak-tree,
+	narrator	and, from the top of the tree, there came a loud buzzing-noise. Winnie-the-Pooh sat down at the foot of the tree,
+	narrator	put his head between his paws and began to think.
+	winnie-the-pooh	That buzzing-noise means something. You don't get a buzzing-noise like that, just buzzing and buzzing, without its meaning something.
+	winnie-the-pooh	If there's a buzzing-noise, somebody's making a buzzing-noise, and the only reason for making a buzzing-noise that _I_ know of is because you're a bee.
+	winnie-the-pooh	And the only reason for being a bee that I know of is making honey. And the only reason for making honey is so as _I_ can eat it.
+	narrator	He climbed and he climbed and he climbed, and as he climbed he sang a little song to himself.
+	narrator	It went like this:
+	winnie-the-pooh	Isn't it funny How a bear likes honey? Buzz! Buzz! Buzz! I wonder why he does?
+	narrator	Then he climbed a little further ... and a little further ... and then just a little further.
+	narrator	By that time he had thought of another song.
+	winnie-the-pooh	It's a very funny thought that, if Bears were Bees, They'd build their nests at the _bottom_ of trees.
+	winnie-the-pooh	And that being so (if the Bees were Bears), We shouldn't have to climb up all these stairs.
+	narrator	He was getting rather tired by this time, so that is why he sang a Complaining Song.
+	narrator	He was nearly there now, and if he just stood on that branch ... Crack!
+	winnie-the-pooh	Oh, help!
+	narrator	said Pooh, as he dropped ten feet on the branch below him.
+	winnie-the-pooh	If only I hadn't----
+	narrator	he said, as he bounced twenty feet on to the next branch.
+	winnie-the-pooh	You see, what I _meant_ to do,
+	narrator	he explained, as he turned head-over-heels, and crashed on to another branch thirty feet below,
+	winnie-the-pooh	what I _meant_ to do---- Of course, it _was_ rather----
+	narrator	he admitted, as he slithered very quickly through the next six branches. "It all comes, I suppose,"
+	narrator	he decided, as he said good-bye to the last branch, spun round three times, and flew gracefully into a gorse-bush,
+	narrator	"it all comes of _liking_ honey so much. Oh, help!" He crawled out of the gorse-bush,
+	narrator	brushed the prickles from his nose, and began to think again. And the first person he thought of was Christopher Robin.
+	christopher robin	Was that me?
+	narrator	said Christopher Robin in an awed voice, hardly daring to believe it.
+	winnie-the-pooh	That was you.
+	narrator	Christopher Robin said nothing, but his eyes got larger and larger, and his face got pinker and pinker.
+	narrator	So Winnie-the-Pooh went round to his friend Christopher Robin, who lived behind a green door in another part of the forest.
+	winnie-the-pooh	Good morning, Christopher Robin.
+	christopher robin	Good morning, Winnie-ther-Pooh.
+	winnie-the-pooh	I wonder if you've got such a thing as a balloon about you?
+	christopher robin	A balloon?
+	winnie-the-pooh	Yes, I just said to myself coming along: 'I wonder if Christopher Robin has such a thing as a balloon about him?'
+	winnie-the-pooh	I just said it to myself, thinking of balloons, and wondering.
+	christopher robin	What do you want a balloon for?
+	winnie-the-pooh	Honey!
+	christopher robin	But you don't get honey with balloons!
+	winnie-the-pooh	I do
+	narrator	Well, it just happened that you had been to a party the day before at the house of your friend Piglet,
+	narrator	and you had balloons at the party. You had had a big green balloon; and one of Rabbit's relations had had a big blue one,
+	narrator	and had left it behind, being really too young to go to a party at all; and so you had brought the green one _and_ the blue one home with you.
+	christopher robin	Which one would you like?
+	narrator	He put his head between his paws and thought very carefully. It's like this,
+	winnie-the-pooh	When you go after honey with a balloon, the great thing is not to let the bees know you're coming.
+	winnie-the-pooh	Now, if you have a green balloon, they might think you were only part of the tree,
+	winnie-the-pooh	and not notice you, and, if you have a blue balloon, they might think you were only part of the sky,
+	winnie-the-pooh	and not notice you, and the question is: Which is most likely?
+	christopher robin	Wouldn't they notice _you_ underneath the balloon?
+	winnie-the-pooh	They might or they might not. You never can tell with bees. I shall try to look like a small black cloud.
+	winnie-the-pooh	That will deceive them.
+	christopher robin	Then you had better have the blue balloon.
+	narrator	and so it was decided. Well, you both went out with the blue balloon, and you took your gun with you,
+	narrator	just in case, as you always did, and Winnie-the-Pooh went to a very muddy place that he knew of,
+	narrator	and rolled and rolled until he was black all over; and then, when the balloon was blown up as big as big,
+	narrator	and you and Pooh were both holding on to the string, you let go suddenly, and Pooh Bear floated gracefully up into the sky,
+	narrator	and stayed there--level with the top of the tree and about twenty feet away from it.
+	christopher robin	Hooray!
+	winnie-the-pooh	Isn't that fine? What do I look like?
+	christopher robin	You look like a Bear holding on to a balloon.
+	winnie-the-pooh	Not, said Pooh anxiously, --not like a small black cloud in a blue sky?
+	christopher robin	Not very much.
+	winnie-the-pooh	Ah, well, perhaps from up here it looks different. And, as I say, you never can tell with bees.
+	narrator	There was no wind to blow him nearer to the tree, so there he stayed. He could see the honey,
+	narrator	he could smell the honey, but he couldn't quite reach the honey. After a little while he called down to you.
+	winnie-the-pooh	Christopher Robin!
+	christopher robin	Hallo!
+	winnie-the-pooh	I think the bees _suspect_ something!
+	christopher robin	What sort of thing?
+	winnie-the-pooh	I don't know. But something tells me that they're _suspicious_!
+	christopher robin	Perhaps they think that you're after their honey.
+	winnie-the-pooh	It may be that. You never can tell with bees.
+	narrator	There was another little silence, and then he called down to you again.
+	winnie-the-pooh	Christopher Robin!
+	christopher robin	Yes?
+	winnie-the-pooh	Have you an umbrella in your house?
+	christopher robin	I think so.
+	winnie-the-pooh	I wish you would bring it out here, and walk up and down with it, and look up at me every now and then,
+	winnie-the-pooh	and say 'Tut-tut, it looks like rain.' I think, if you did that, it would help the deception which we are practising on these bees.
+	narrator	Well, you laughed to yourself, "Silly old Bear!" but you didn't say it aloud because you were so fond of him,
+	narrator	and you went home for your umbrella.
+	winnie-the-pooh	Oh, there you are!
+	narrator	called down Winnie-the-Pooh, as soon as you got back to the tree. "I was beginning to get anxious.
+	narrator	I have discovered that the bees are now definitely Suspicious."
+	christopher robin	Shall I put my umbrella up?
+	winnie-the-pooh	Yes, but wait a moment. We must be practical. The important bee to deceive is the Queen Bee.
+	winnie-the-pooh	Can you see which is the Queen Bee from down there?
+	christopher robin	No.
+	winnie-the-pooh	A pity. Well, now, if you walk up and down with your umbrella, saying, 'Tut-tut, it looks like rain,'
+	winnie-the-pooh	I shall do what I can by singing a little Cloud Song, such as a cloud might sing....
+	winnie-the-pooh	Go!
+	narrator	So, while you walked up and down and wondered if it would rain, Winnie-the-Pooh sang this song: How sweet to be a Cloud Floating in the Blue!
+	narrator	Every little cloud Always sings aloud. "How sweet to be a Cloud Floating in the Blue!"
+	narrator	It makes him very proud To be a little cloud. The bees were still buzzing as suspiciously as ever.
+	narrator	Some of them, indeed, left their nests and flew all round the cloud as it began the second verse of this song,
+	narrator	and one bee sat down on the nose of the cloud for a moment, and then got up again.
+	winnie-the-pooh	Christopher--_ow!_--Robin,
+	christopher robin	Yes?
+	winnie-the-pooh	I have just been thinking, and I have come to a very important decision. _These are the wrong sort of bees._
+	christopher robin	Are they?
+	winnie-the-pooh	Quite the wrong sort. So I should think they would make the wrong sort of honey,
+	winnie-the-pooh	shouldn't you?
+	christopher robin	Would they?
+	winnie-the-pooh	Yes. So I think I shall come down.
+	christopher robin	How?
+	winnie-the-pooh	Christopher Robin, you must shoot the balloon with your gun. Have you got your gun?
+	christopher robin	Of course I have. But if I do that, it will spoil the balloon,
+	winnie-the-pooh	But if you _don't_, said Pooh, "I shall have to let go, and that would spoil _me_.
+	narrator	When he put it like this, you saw how it was, and you aimed very carefully at the balloon,
+	narrator	and fired.
+	christopher robin	Ow!
+	winnie-the-pooh	Did I miss?
+	christopher robin	You didn't exactly _miss_, said Pooh, "but you missed the _balloon_. I'm so sorry,
+	narrator	and you fired again, and this time you hit the balloon, and the air came slowly out,
+	narrator	and Winnie-the-Pooh floated down to the ground. But his arms were so stiff from holding on to the string of the balloon all that time that they stayed up straight in the air for more than a week,
+	narrator	and whenever a fly came and settled on his nose he had to blow it off.
+	narrator	And I think--but I am not sure--that _that_ is why he was always called Pooh.
+	christopher robin	Is that the end of the story?
+	narrator	That's the end of that one. There are others.
+	christopher robin	About Pooh and Me?
+	narrator	And Piglet and Rabbit and all of you. Don't you remember?
+	christopher robin	I do remember, and then when I try to remember, I forget.
+	narrator	That day when Pooh and Piglet tried to catch the Heffalump----
+	christopher robin	They didn't catch it, did they?
+	narrator	No.
+	christopher robin	Pooh couldn't, because he hasn't any brain. Did _I_ catch it?
+	narrator	Well, that comes into the story.
+	christopher robin	I do remember,
+	narrator	he said, "only Pooh doesn't very well, so that's why he likes having it told to him again.
+	narrator	Because then it's a real story and not just a remembering." That's just how _I_ feel,
+	narrator	I said. Christopher Robin gave a deep sigh, picked his Bear up by the leg, and walked off to the door,
+	narrator	trailing Pooh behind him. At the door he turned and said,
+	christopher robin	Coming to see me have my bath?
+	narrator	"I might," I said.
+	christopher robin	I didn't hurt him when I shot him, did I?
+	narrator	"Not a bit." He nodded and went out, and in a moment I heard Winnie-the-Pooh--bump, bump,
+	narrator	bump--going up the stairs behind him.

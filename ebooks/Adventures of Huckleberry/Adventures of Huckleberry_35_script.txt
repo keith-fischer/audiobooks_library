@@ -1,0 +1,161 @@
+	narrator	It would be most an hour yet till breakfast, so we left and struck down into the woods; because Tom said we got to have _some_ light to see how to dig by,
+	narrator	and a lantern makes too much, and might get us into trouble; what we must have was a lot of them rotten chunks that’s called fox-fire,
+	narrator	and just makes a soft kind of a glow when you lay them in a dark place.
+	narrator	We fetched an armful and hid it in the weeds, and set down to rest, and Tom says,
+	narrator	kind of dissatisfied:
+	tom	Blame it, this whole thing is just as easy and awkward as it can be. And so it makes it so rotten difficult to get up a difficult plan.
+	tom	There ain't no watchman to be drugged—now there _ought_ to be a watchman. There ain't even a dog to give a sleeping-mixture to.
+	tom	And there's Jim chained by one leg, with a ten-foot chain, to the leg of his bed: why,
+	tom	all you got to do is to lift up the bedstead and slip off the chain.
+	tom	And Uncle Silas he trusts everybody; sends the key to the punkin-headed nigger, and don't send nobody to watch the nigger.
+	tom	Jim could a got out of that window-hole before this, only there wouldn't be no use trying to travel with a ten-foot chain on his leg.
+	tom	Why, drat it, Huck, it's the stupidest arrangement I ever see. You got to invent _all_ the difficulties.
+	tom	Well, we can't help it; we got to do the best we can with the materials we've got.
+	tom	Anyhow, there's one thing—there's more honor in getting him out through a lot of difficulties and dangers,
+	tom	where there warn't one of them furnished to you by the people who it was their duty to furnish them,
+	tom	and you had to contrive them all out of your own head. Now look at just that one thing of the lantern.
+	tom	When you come down to the cold facts, we simply got to _let on_ that a lantern's resky.
+	tom	Why, we could work with a torchlight procession if we wanted to, _I_ believe. Now, whilst I think of it,
+	tom	we got to hunt up something to make a saw out of the first chance we get.
+	huck	What do we want of a saw?
+	tom	What do we _want_ of it? Hain't we got to saw the leg of Jim's bed off,
+	tom	so as to get the chain loose?
+	huck	Why, you just said a body could lift up the bedstead and slip the chain off.
+	tom	Well, if that ain't just like you, Huck Finn. You _can_ get up the infant-schooliest ways of going at a thing.
+	tom	Why, hain't you ever read any books at all?—Baron Trenck, nor Casanova, nor Benvenuto Chelleeny, nor Henri IV.,
+	tom	nor none of them heroes? Who ever heard of getting a prisoner loose in such an old-maidy way as that?
+	tom	No; the way all the best authorities does is to saw the bed-leg in two, and leave it just so,
+	tom	and swallow the sawdust, so it can't be found, and put some dirt and grease around the sawed place so the very keenest seneskal can't see no sign of it's being sawed,
+	tom	and thinks the bed-leg is perfectly sound. Then, the night you're ready, fetch the leg a kick,
+	tom	down she goes; slip off your chain, and there you are. Nothing to do but hitch your rope ladder to the battlements,
+	tom	shin down it, break your leg in the moat—because a rope ladder is nineteen foot too short,
+	tom	you know—and there's your horses and your trusty vassles, and they scoop you up and fling you across a saddle,
+	tom	and away you go to your native Langudoc, or Navarre, or wherever it is. It's gaudy,
+	tom	Huck. I wish there was a moat to this cabin. If we get time, the night of the escape,
+	tom	we'll dig one.
+	narrator	I says: - Tom (male): The main protagonist who devises elaborate plans for escaping Jim, showing extensive knowledge of adventure literature and insisting on following heroic conventions despite practical limitations - Huck (male): Tom's companion who provides practical objections to Tom's elaborate schemes and represents a more realistic,
+	narrator	down-to-earth approach to the situation - Jim (*male): The enslaved man who is the object of Tom's elaborate escape plan,
+	narrator	described as being chained to his bed with a ten-foot chain - Uncle Silas (*male): Jim's owner who trusts everyone and leaves the key to Jim with a 'punkin-headed nigger'
+	narrator	without sending anyone to watch him - Aunt Sally (*female): The aunt who would be upset if the characters steal sheets and shirts to make Jim's rope ladder PASSAGE:
+	tom	What do we want of a moat when we're going to snake him out from under the cabin?
+	narrator	But he never heard me. He had forgot me and everything else. He had his chin in his hand,
+	narrator	thinking. Pretty soon he sighs and shakes his head; then sighs again, and says:
+	tom	No, it wouldn't do—there ain't necessity enough for it.
+	huck	For what?
+	tom	Why, to saw Jim's leg off,
+	huck	Good land! Why, there ain't no necessity for it. And what would you want to saw his leg off for,
+	huck	anyway?
+	tom	Well, some of the best authorities has done it. They couldn't get the chain off, so they just cut their hand off and shoved.
+	tom	And a leg would be better still. But we got to let that go. There ain't necessity enough in this case; and,
+	tom	besides, Jim's a nigger, and wouldn't understand the reasons for it, and how it's the custom in Europe; so we'll let it go.
+	tom	But there's one thing—he can have a rope ladder; we can tear up our sheets and make him a rope ladder easy enough.
+	tom	And we can send it to him in a pie; it's mostly done that way. And I've et worse pies.
+	huck	Why, Tom Sawyer, how you talk; Jim ain't got no use for a rope ladder.
+	narrator	He _has_ got use for it. How _you_ talk, you better say; you don't know nothing about it.
+	narrator	He's _got_ to have a rope ladder; they all do. What in the nation can he _do_ with it?
+	tom	Do with it? He can hide it in his bed, can't he? That's what they all do; and he's got to,
+	tom	too.
+	huck	Well,
+	tom	You don't ever seem to want to do anything that's regular; you want to be starting something fresh all the time.
+	tom	S'pose he don't do nothing with it? ain't it there in his bed, for a clew,
+	tom	after he's gone? and don't you reckon they'll want clews? Of course they will. And you wouldn't leave them any?
+	tom	That would be a pretty howdy-do, wouldn't it! I never heard of such a thing.
+	huck	Well, if it's in the regulations, and he's got to have it, all right, let him have it; because I don't wish to go back on no regulations; but there's one thing,
+	huck	Tom Sawyer—if we go to tearing up our sheets to make Jim a rope ladder, we're going to get into trouble with Aunt Sally,
+	huck	just as sure as you're born. Now, the way I look at it, a hickry-bark ladder don't cost nothing,
+	huck	and don't waste nothing, and is just as good to load up a pie with, and hide in a straw tick,
+	huck	as any rag ladder you can start; and as for Jim, he ain't had no experience,
+	huck	and so he don't care what kind of a—
+	tom	Oh, shucks, Huck Finn, if I was as ignorant as you I'd keep still—that's what I'd do.
+	tom	Who ever heard of a state prisoner escaping by a hickry-bark ladder? Why, it's perfectly ridiculous.
+	tom	Well, all right, Tom, fix it your own way; but if you’ll take my advice, you’ll let me borrow a sheet off of the clothesline.
+	narrator	He said that would do. And that gave him another idea, and he says:
+	tom	Borrow a shirt, too.
+	huck	What do we want of a shirt, Tom?
+	tom	Want it for Jim to keep a journal on.
+	huck	Journal your granny—Jim can’t write.
+	tom	S’pose he can’t write—he can make marks on the shirt, can’t he, if we make him a pen out of an old pewter spoon or a piece of an old iron barrel-hoop?
+	huck	Why, Tom, we can pull a feather out of a goose and make him a better one; and quicker,
+	huck	too.
+	tom	Prisoners don’t have geese running around the donjon-keep to pull pens out of, you muggins. They always make their pens out of the hardest,
+	tom	toughest, troublesomest piece of old brass candlestick or something like that they can get their hands on; and it takes them weeks and weeks and months and months to file it out,
+	tom	too, because they’ve got to do it by rubbing it on the wall. They wouldn’t use a goose-quill if they had it.
+	tom	It ain’t regular.
+	huck	Well, then, what’ll we make him the ink out of?
+	tom	Many makes it out of iron-rust and tears; but that’s the common sort and women; the best authorities uses their own blood.
+	tom	Jim can do that; and when he wants to send any little common ordinary mysterious message to let the world know where he’s captivated,
+	tom	he can write it on the bottom of a tin plate with a fork and throw it out of the window.
+	tom	The Iron Mask always done that, and it’s a blame’ good way, too.
+	huck	Jim ain’t got no tin plates. They feed him in a pan.
+	tom	That ain’t nothing; we can get him some.
+	huck	Can’t nobody read his plates.
+	tom	That ain’t got anything to do with it, Huck Finn. All he’s got to do is to write on the plate and throw it out.
+	tom	You don’t have to be able to read it. Why, half the time you can’t read anything a prisoner writes on a tin plate,
+	tom	or anywhere else.
+	huck	Well, then, what’s the sense in wasting the plates?
+	tom	Why, blame it all, it ain’t the prisoner’s plates.
+	huck	But it’s somebody’s plates, ain’t it?
+	tom	Well, spos’n it is? What does the prisoner care whose—
+	narrator	He broke off there, because we heard the breakfast-horn blowing. So we cleared out for the house.
+	narrator	Along during the morning I borrowed a sheet and a white shirt off of the clothes-line; and I found an old sack and put them in it,
+	narrator	and we went down and got the fox-fire, and put that in too. I called it borrowing,
+	narrator	because that was what pap always called it; but Tom said it warn’t borrowing, it was stealing.
+	narrator	He said we was representing prisoners; and prisoners don’t care how they get a thing so they get it,
+	narrator	and nobody don’t blame them for it, either. It ain’t no crime in a prisoner to steal the thing he needs to get away with,
+	narrator	Tom said; it’s his right; and so, as long as we was representing a prisoner, we had a perfect right to steal anything on this place we had the least use for to get ourselves out of prison with.
+	narrator	He said if we warn’t prisoners it would be a very different thing, and nobody but a mean,
+	narrator	ornery person would steal when he warn’t a prisoner. So we allowed we would steal everything there was that come handy.
+	narrator	And yet he made a mighty fuss, one day, after that, when I stole a watermelon out of the nigger-patch and eat it; and he made me go and give the niggers a dime without telling them what it was for.
+	narrator	Tom said that what he meant was, we could steal anything we needed. Well, I says,
+	narrator	I needed the watermelon. But he said I didn’t need it to get out of prison with; there’s where the difference was.
+	narrator	He said if I’d a wanted it to hide a knife in, and smuggle it to Jim to kill the seneskal with,
+	narrator	it would a been all right. So I let it go at that, though I couldn’t see no advantage in my representing a prisoner if I got to set down and chaw over a lot of gold-leaf distinctions like that every time I see a chance to hog a watermelon.
+	narrator	Well, as I was saying, we waited that morning till everybody was settled down to business,
+	narrator	and nobody in sight around the yard; then Tom he carried the sack into the lean-to whilst I stood off a piece to keep watch.
+	narrator	By-and-by he come out, and we went and set down on the woodpile to talk. He says:
+	tom	Everything’s all right now except tools; and that’s easy fixed.
+	huck	Tools?
+	tom	Yes.
+	huck	Tools for what?
+	tom	Why, to dig with. We ain’t a-going to gnaw him out, are we?
+	huck	Ain’t them old crippled picks and things in there good enough to dig a nigger out with?
+	tom	He turns on me, looking pitying enough to make a body cry, and says: Huck Finn,
+	tom	did you ever hear of a prisoner having picks and shovels, and all the modern conveniences in his wardrobe to dig himself out with?
+	tom	Now I want to ask you—if you got any reasonableness in you at all—what kind of a show would that give him to be a hero?
+	tom	Why, they might as well lend him the key and done with it. Picks and shovels—why,
+	tom	they wouldn’t furnish ’em to a king.
+	huck	Well, then,
+	tom	A couple of case-knives.
+	huck	To dig the foundations out from under that cabin with?
+	tom	Yes.
+	huck	Confound it, it’s foolish, Tom.
+	tom	It don’t make no difference how foolish it is, it’s the right way—and it’s the regular way.
+	tom	And there ain’t no other way, that ever I heard of, and I’ve read all the books that gives any information about these things.
+	tom	They always dig out with a case-knife—and not through dirt, mind you; generly it’s through solid rock.
+	tom	And it takes them weeks and weeks and weeks, and for ever and ever. Why, look at one of them prisoners in the bottom dungeon of the Castle Deef,
+	tom	in the harbor of Marseilles, that dug himself out that way; how long was he at it,
+	tom	you reckon?
+	huck	I don’t know.
+	tom	Thirty-seven year—and he come out in China. That’s the kind. I wish the bottom of this fortress was solid rock.
+	huck	Jim don’t know nobody in China.
+	tom	What's that got to do with it? Neither did that other fellow. But you're always a-wandering off on a side issue.
+	tom	Why can't you stick to the main point?
+	huck	All right—_I_ don't care where he comes out, so he _comes_ out; and Jim don't, either,
+	huck	I reckon. But there's one thing, anyway—Jim's too old to be dug out with a case-knife.
+	huck	He won't last.
+	tom	Yes he will _last_, too. You don't reckon it's going to take thirty-seven years to dig out through a _dirt_ foundation,
+	tom	do you?
+	huck	How long will it take, Tom?
+	tom	Well, we can't resk being as long as we ought to, because it mayn't take very long for Uncle Silas to hear from down there by New Orleans.
+	tom	He'll hear Jim ain't from there. Then his next move will be to advertise Jim, or something like that.
+	tom	So we can't resk being as long digging him out as we ought to. By rights I reckon we ought to be a couple of years; but we can't.
+	tom	Things being so uncertain, what I recommend is this: that we really dig right in, as quick as we can; and after that,
+	tom	we can _let on_, to ourselves, that we was at it thirty-seven years. Then we can snatch him out and rush him away the first time there's an alarm.
+	tom	Yes, I reckon that'll be the best way.
+	huck	Now, there's _sense_ in that,
+	tom	Letting on don't cost nothing; letting on ain't no trouble; and if it's any object, I don't mind letting on we was at it a hundred and fifty year.
+	tom	It wouldn't strain me none, after I got my hand in. So I'll mosey along now,
+	tom	and smouch a couple of case-knives. Smouch three,
+	huck	Tom, if it ain't unregular and irreligious to sejest it,
+	tom	there's an old rusty saw-blade around yonder sticking under the weather-boarding behind the smoke-house. It ain't no use to try to learn you nothing,
+	tom	Huck. Run along and smouch the knives—three of them.

@@ -1,0 +1,10 @@
+*David	*male	The narrator, a landowner who has come to port and is dealing with the aftermath of a murder case involving James of the Glens. He feels a heavy burden regarding both his friend Alan and the murder case, and is determined to do what he believes is right despite potential danger.
+Alan	*male	David's friend who is in danger and must flee the county. He plans to meet with David daily at a specific place for communication, then leave by ship after arrangements are made. He is described as someone who will be leaving David behind, and they share a deep friendship.
+Rankeillor	*male	A lawyer who advises David on his moral duty to help Alan escape, and provides him with letters of credit. He is a wise counselor who ultimately supports David's decision to do what he believes is right.
+*Mr. Thomson	*male	A man connected to the murder case who is in danger and needs help leaving the country. He has a kinsman involved in the case, which complicates matters.
+*James of the Glens	*male	A man involved in a murder case that David is trying to help resolve. He has connections with the Duke of Argyle and his kinsman.
+*The Duke of A	*male	A great nobleman who is involved in the murder case and may be seeking vengeance. He is described as an excellent nobleman but potentially dangerous.
+*Torrance	*male	A companion of Rankeillor who leaves with him for the Ferry, suggesting he is a trusted associate or colleague.
+*Mr. Balfour of Pilrig	*male	A learned lawyer who is recommended by Rankeillor as a namesake of David's to present him to the Lord Advocate. He is respected in legal circles.
+*Lord Advocate Grant	*male	The Lord Advocate who has influence over legal matters and may be involved in the case concerning James of the Glens.
+*Mr. Stewart	*male	An Appin Stewart and lawyer who is to be trusted completely, and whose role it is to find a ship for Alan's safe embarkation.

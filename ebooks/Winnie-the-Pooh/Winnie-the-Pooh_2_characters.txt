@@ -1,0 +1,3 @@
+*Winnie-the-Pooh	male	A bear who is known by his friends as Pooh. He is proud, likes to hum, and enjoys honey and condensed milk. He gets stuck in Rabbit's hole while visiting.
+Rabbit	male	A rabbit who lives in a hole in the forest and is visited by Pooh. He is cautious about visitors, likes to eat, and helps free Pooh from his predicament.
+Christopher Robin	*male	A young boy who lives at the other end of the forest and helps Rabbit rescue Pooh. He is kind-hearted, loving towards Pooh, and makes jokes about the situation.

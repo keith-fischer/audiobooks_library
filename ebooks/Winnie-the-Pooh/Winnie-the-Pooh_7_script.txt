@@ -1,0 +1,240 @@
+	narrator	Nobody seemed to know where they came from, but there they were in the Forest: Kanga and Baby Roo.
+	pooh	How did they come here?
+	christopher robin	In the Usual Way, if you know what I mean, Pooh,
+	pooh	Oh!
+	narrator	Then he nodded his head twice and said,
+	pooh	In the Usual Way. Ah!
+	narrator	Then he went to call upon his friend Piglet to see what he thought about it.
+	narrator	And at Piglet's house he found Rabbit. So they all talked about it together.
+	rabbit	What I don't like about it is this, Here are we--you, Pooh, and you, Piglet, and Me--and suddenly----
+	pooh	And Eeyore,
+	rabbit	And Eeyore--and then suddenly----
+	pooh	And Owl,
+	rabbit	And Owl--and then all of a sudden----
+	pooh	Oh, and Eeyore, I was forgetting him.
+	rabbit	Here--we--are, all--of--us, and then, suddenly, we wake up one morning and, what do we find? We find a Strange Animal among us.
+	rabbit	An animal of whom we have never even heard before! An animal who carries her family about with her in her pocket!
+	rabbit	Suppose I carried my family about with me in my pocket, how many pockets should I want?
+	piglet	Sixteen,
+	narrator	"Seventeen, isn't it?" said Rabbit. "And one more for a handkerchief--that's eighteen. Eighteen pockets in one suit!
+	narrator	I haven't time." There was a long and thoughtful silence ... and then Pooh, who had been frowning very hard for some minutes,
+	narrator	said: "_I_ make it fifteen." "What?" said Rabbit. "Fifteen." "Fifteen what?" "Your family." "What about them?"
+	narrator	Pooh rubbed his nose and said that he thought Rabbit had been talking about his family.
+	narrator	"Did I?" said Rabbit carelessly. "Yes, you said----" "Never mind, Pooh," said Piglet impatiently. "The question is,
+	narrator	What are we to do about Kanga?" "Oh, I see," said Pooh. "The best way," said Rabbit,
+	narrator	"would be this. The best way would be to steal Baby Roo and hide him, and then when Kanga says,
+	narrator	'Where's Baby Roo?' we say, '_Aha!_'" "_Aha!_" said Pooh, practising. "_Aha! Aha!_ ... Of course," he went on,
+	narrator	"we could say 'Aha!' even if we hadn't stolen Baby Roo." "Pooh," said Rabbit kindly, "you haven't any brain."
+	narrator	"I know," said Pooh humbly.
+	rabbit	We say '_Aha!_' so that Kanga knows that _we_ know where Baby Roo is. _Aha!_' means 'We'll tell you where Baby Roo is,
+	rabbit	if you promise to go away from the Forest and never come back. Now don't talk while I think.
+	narrator	Pooh went into a corner and tried saying 'Aha!' in that sort of voice. Sometimes it seemed to him that it did mean what Rabbit said,
+	narrator	and sometimes it seemed to him that it didn't.
+	pooh	I suppose it's just practice,
+	narrator	he thought.
+	pooh	I wonder if Kanga will have to practise too so as to understand it.
+	piglet	There's just one thing, I was talking to Christopher Robin, and he said that a Kanga was Generally Regarded as One of the Fiercer Animals.
+	piglet	I am not frightened of Fierce Animals in the ordinary way, but it is well known that,
+	piglet	if One of the Fiercer Animals is Deprived of Its Young, it becomes as fierce as Two of the Fiercer Animals.
+	piglet	In which case '_Aha!_' is perhaps a _foolish_ thing to say.
+	rabbit	Piglet, you haven't any pluck.
+	piglet	It is hard to be brave, when you're only a Very Small Animal.
+	rabbit	It is because you are a very small animal that you will be Useful in the adventure before us.
+	piglet	What about me?
+	pooh	I suppose _I_ shan't be useful?
+	piglet	Never mind, Pooh.
+	narrator	said Piglet comfortingly
+	piglet	Another time perhaps.
+	rabbit	Without Pooh,
+	narrator	said Rabbit solemnly as he sharpened his pencil
+	rabbit	the adventure would be impossible.
+	piglet	Oh!
+	narrator	and tried not to look disappointed. But Pooh went into a corner of the room and said proudly to himself,
+	pooh	Impossible without Me! That sort of Bear.
+	rabbit	Now listen all of you,
+	narrator	said Rabbit when he had finished writing, and Pooh and Piglet sat listening very eagerly with their mouths open.
+	narrator	This was what Rabbit read out:
+	rabbit	PLAN TO CAPTURE BABY ROO 1. General Remarks. Kanga runs faster than any of Us, even Me.
+	rabbit	2. More General Remarks. Kanga never takes her eye off Baby Roo, except when he's safely buttoned up in her pocket.
+	rabbit	3. Therefore. If we are to capture Baby Roo, we must get a Long Start, because Kanga runs faster than any of Us,
+	rabbit	even Me. (See 1.) 4. A Thought. If Roo had jumped out of Kanga's pocket and Piglet had jumped in,
+	rabbit	Kanga wouldn't know the difference, because Piglet is a Very Small Animal. 5. Like Roo. 6.
+	rabbit	But Kanga would have to be looking the other way first, so as not to see Piglet jumping in.
+	rabbit	7. See 2. 8. Another Thought. But if Pooh was talking to her very excitedly, she might look the other way for a moment.
+	rabbit	9. And then I could run away with Roo. 10. Quickly. 11. And Kanga wouldn't discover the difference until Afterwards.
+	narrator	Well, Rabbit read this out proudly, and for a little while after he had read it nobody said anything.
+	narrator	And then Piglet, who had been opening and shutting his mouth without making any noise, managed to say very huskily
+	piglet	And--Afterwards?
+	rabbit	How do you mean?
+	piglet	When Kanga _does_ Discover the Difference?
+	narrator	Then we all say '_Aha!_'
+	piglet	All three of us?
+	rabbit	Yes.
+	piglet	Oh!
+	rabbit	Why, what's the trouble, Piglet?
+	piglet	Nothing, as long as _we all three_ say it. I don't mind, but I shouldn't care to say '_Aha!_'
+	piglet	by myself. It wouldn't sound _nearly_ so well. By the way, you _are_ quite sure about what you said about the winter months?
+	rabbit	The winter months?
+	piglet	Yes, only being Fierce in the Winter Months.
+	rabbit	Oh, yes, yes, that's all right. Well, Pooh? You see what you have to do?
+	pooh bear	No. Not yet, What _do_ I do?
+	rabbit	Well, you just have to talk very hard to Kanga so as she doesn't notice anything.
+	pooh bear	Oh! What about?
+	rabbit	Anything you like.
+	pooh bear	You mean like telling her a little bit of poetry or something?
+	rabbit	That's it, Splendid. Now come along.
+	narrator	So they all went out to look for Kanga. Kanga and Roo were spending a quiet afternoon in a sandy part of the Forest.
+	narrator	Baby Roo was practising very small jumps in the sand, and falling down mouse-holes and climbing out of them,
+	narrator	and Kanga was fidgeting about and saying "Just one more jump, dear, and then we must go home."
+	narrator	And at that moment who should come stumping up the hill but Pooh.
+	pooh bear	Good afternoon, Kanga.
+	kanga	Good afternoon, Pooh.
+	baby roo	Look at me jumping,
+	narrator	and fell into another mouse-hole.
+	pooh bear	Hallo, Roo, my little fellow!
+	kanga	We were just going home. Good afternoon, Rabbit. Good afternoon, Piglet.
+	rabbit	Good afternoon,
+	piglet	Good afternoon,
+	rabbit	Hallo, Roo,
+	piglet	Hallo, Roo,
+	baby roo	Roo asked them to look at him jumping, so they stayed and looked.
+	narrator	And Kanga looked too....
+	pooh bear	Oh, Kanga, I don't know if you are interested in Poetry at all?
+	kanga	Hardly at all,
+	pooh bear	Oh!
+	kanga	Roo, dear, just one more jump and then we must go home.
+	narrator	There was a short silence while Roo fell down another mouse-hole.
+	rabbit	Go on, in a loud whisper behind his paw.
+	pooh bear	Talking of Poetry, I made up a little piece as I was coming along. It went like this.
+	pooh bear	Er--now let me see----
+	kanga	Fancy! Now Roo, dear----
+	rabbit	You'll like this piece of poetry,
+	piglet	You'll love it,
+	rabbit	You must listen very carefully,
+	piglet	So as not to miss any of it,
+	kanga	Oh, yes, but she still looked at Baby Roo.
+	rabbit	_How_ did it go, Pooh?
+	pooh bear	Pooh gave a little cough and began.
+	narrator	LINES WRITTEN BY A BEAR OF VERY LITTLE BRAIN On Monday, when the sun is hot I wonder to myself a lot: 'Now is it true,
+	narrator	or is it not,' 'That what is which and which is what?' On Tuesday, when it hails and snows,
+	narrator	The feeling on me grows and grows That hardly anybody knows If those are these or these are those.
+	narrator	On Wednesday, when the sky is blue, And I have nothing else to do, I sometimes wonder if it's true That who is what and what is who.
+	narrator	On Thursday, when it starts to freeze And hoar-frost twinkles on the trees, How very readily one sees That these are whose--but whose are these?
+	narrator	On Friday----
+	kanga	Yes, it is, isn't it?
+	narrator	said Kanga, not waiting to hear what happened on Friday.
+	kanga	Just one more jump, Roo, dear, and then we really _must_ be going.
+	narrator	Rabbit gave Pooh a hurrying-up sort of nudge.
+	pooh	Talking of Poetry,
+	narrator	said Pooh quickly, "have you ever noticed that tree right over there?"
+	kanga	Where?
+	narrator	said Kanga. "Now, Roo----"
+	pooh	Right over there,
+	narrator	said Pooh, pointing behind Kanga's back.
+	kanga	No, Now jump in, Roo, dear, and we'll go home.
+	rabbit	You ought to look at that tree right over there, Shall I lift you in, Roo?
+	narrator	And he picked up Roo in his paws.
+	pooh	I can see a bird in it from here, Or is it a fish?
+	rabbit	You ought to see that bird from here, Unless it's a fish.
+	piglet	It isn't a fish, it's a bird,
+	rabbit	So it is,
+	pooh	Is it a starling or a blackbird?
+	rabbit	That's the whole question, Is it a blackbird or a starling?
+	narrator	And then at last Kanga did turn her head to look. And the moment that her head was turned,
+	narrator	Rabbit said in a loud voice
+	rabbit	In you go, Roo!
+	narrator	and in jumped Piglet into Kanga's pocket, and off scampered Rabbit, with Roo in his paws,
+	narrator	as fast as he could.
+	kanga	Why, where's Rabbit? Are you all right, Roo, dear?
+	narrator	Piglet made a squeaky Roo-noise from the bottom of Kanga's pocket.
+	pooh	Rabbit had to go away, I think he thought of something he had to go and see about suddenly.
+	kanga	And Piglet?
+	pooh	I think Piglet thought of something at the same time. Suddenly.
+	kanga	Well, we must be getting home, Good-bye, Pooh.
+	narrator	And in three large jumps she was gone.
+	pooh	I wish I could jump like that,
+	narrator	he thought. "Some can and some can't. That's how it is." But there were moments when Piglet wished that Kanga couldn't.
+	narrator	Often, when he had had a long walk home through the Forest, he had wished that he were a bird; but now he thought jerkily to himself at the bottom of Kanga's pocket,
+	narrator	"If I could fly I should never take it." And as he went up in the air he said,
+	narrator	"_Ooooooo!_" and as he came down he said, "_Ow!_" And he was saying, "_Ooooooo-ow, Ooooooo-ow, Ooooooo-ow_"
+	narrator	all the way to Kanga's house. Of course as soon as Kanga unbuttoned her pocket, she saw what had happened.
+	narrator	Just for a moment, she thought she was frightened, and then she knew she wasn't; for she felt quite sure that Christopher Robin would never let any harm happen to Roo.
+	narrator	So she said to herself, "If they are having a joke with me, I will have a joke with them."
+	kanga	Now then, Roo, dear,
+	narrator	she said, as she took Piglet out of her pocket.
+	kanga	Bed-time.
+	piglet	Aha!
+	narrator	as well as he could after his Terrifying Journey But it wasn't a very good "Aha!"
+	narrator	and Kanga didn't seem to understand what it meant
+	kanga	Bath first,
+	narrator	said Kanga in a cheerful voice.
+	piglet	Aha!
+	narrator	said Piglet again, looking round anxiously for the others. But the others weren't there. Rabbit was playing with Baby Roo in his own house,
+	narrator	and feeling more fond of him every minute, and Pooh, who had decided to be a Kanga,
+	narrator	was still at the sandy place on the top of the Forest, practising jumps.
+	kanga	I am not at all sure,
+	narrator	said Kanga in a thoughtful voice, "that it wouldn't be a good idea to have a cold bath this evening.
+	narrator	Would you like that, Roo, dear?"
+	piglet	Kanga, I see that the time has come to spleak painly.
+	kanga	Funny little Roo,
+	narrator	said Kanga, as she got the bath-water ready.
+	piglet	I am not Roo,
+	narrator	said Piglet loudly. "I am Piglet!"
+	kanga	Yes, dear, yes,
+	narrator	said Kanga soothingly. "And imitating Piglet's voice too! So clever of him," she went on, as she took a large bar of yellow soap out of the cupboard.
+	narrator	"What will he be doing next?"
+	piglet	Can't you see?
+	narrator	shouted Piglet. "Haven't you got eyes? Look at me!"
+	kanga	I am looking, Roo, dear,
+	narrator	said Kanga rather severely. "And you know what I told you yesterday about making faces. If you go on making faces like Piglet's,
+	narrator	you will grow up to look like Piglet--and then think how sorry you will be. Now then,
+	narrator	into the bath, and don't let me have to speak to you about it again." Before he knew where he was,
+	narrator	Piglet was in the bath, and Kanga was scrubbing him firmly with a large lathery flannel.
+	piglet	Ow!
+	narrator	cried Piglet. "Let me out! I'm Piglet!"
+	kanga	Don't open the mouth, dear, or the soap goes in,
+	narrator	said Kanga. "There! What did I tell you?"
+	piglet	You--you--you did it on purpose,
+	narrator	spluttered Piglet, as soon as he could speak again ... and then accidentally had another mouthful of lathery flannel.
+	kanga	That's right, dear, don't say anything,
+	narrator	said Kanga, and in another minute Piglet was out of the bath, and being rubbed dry with a towel.
+	kanga	Now,
+	narrator	said Kanga, "there's your medicine, and then bed."
+	piglet	W-w-what medicine?
+	narrator	- Kanga (female): A large kangaroo who carries her baby, Baby Roo, in her pocket. She is described as fierce during winter months but affectionate at other times.
+	narrator	She is practical and caring, teaching Baby Roo to jump while also being protective of him.
+	narrator	- Baby Roo (male): Kanga's young child who is learning to jump in the sand. He is playful and curious,
+	narrator	often falling into mouse holes while practicing his jumps. - Pooh (male): A bear who is the main character in the story.
+	narrator	He is simple-minded but kind-hearted, often misunderstood by others. In this chapter he helps with the plan to capture Baby Roo.
+	narrator	- Rabbit (male): A clever and organized rabbit who leads the group. He is practical, makes plans,
+	narrator	and takes charge of situations. In this chapter he devises the plan to capture Baby Roo.
+	narrator	- Piglet (male): A small, timid rabbit who is easily frightened but eager to be helpful.
+	narrator	He becomes the substitute for Baby Roo in Kanga's pocket during the plan. - Christopher Robin (*male): A young boy who is the owner of the toys and animals in the forest.
+	narrator	He knows all the characters well and helps resolve conflicts between them. - Eeyore (*male): A donkey who is mentioned as being present in the group discussion but does not play a major role in this chapter.
+	narrator	- Owl (*male): An owl who is mentioned as being present in the group discussion but does not play a major role in this chapter.
+	narrator	PASSAGE: "To make you grow big and strong, dear. You don't want to grow up small and weak like Piglet,
+	narrator	do you? Well, then!" At that moment there was a knock at the door.
+	kanga	Come in
+	narrator	and in came Christopher Robin.
+	piglet	Christopher Robin, Christopher Robin! Tell Kanga who I am! She keeps saying I'm Roo. I'm not Roo,
+	piglet	am I?
+	christopher robin	You can't be Roo,
+	narrator	he said, "because I've just seen Roo playing in Rabbit's house."
+	kanga	Fancy that! Fancy my making a mistake like that.
+	piglet	There you are! I told you so. I'm Piglet.
+	christopher robin	Oh, you're not Piglet,
+	narrator	he said. "I know Piglet well, and he's quite a different colour." Piglet began to say that this was because he had just had a bath,
+	narrator	and then he thought that perhaps he wouldn't say that, and as he opened his mouth to say something else,
+	narrator	Kanga slipped the medicine spoon in, and then patted him on the back and told him that it was really quite a nice taste when you got used to it.
+	kanga	I knew it wasn't Piglet. I wonder who it can be.
+	christopher robin	Perhaps it's some relation of Pooh's,
+	narrator	he said. "What about a nephew or an uncle or something?"
+	kanga	I shall call it Pootel,
+	christopher robin	Henry Pootel for short.
+	narrator	And just when it was decided, Henry Pootel wriggled out of Kanga's arms and jumped to the ground.
+	narrator	To his great joy Christopher Robin had left the door open. Never had Henry Pootel Piglet run so fast as he ran then,
+	narrator	and he didn't stop running until he had got quite close to his house. But when he was a hundred yards away he stopped running,
+	narrator	and rolled the rest of the way home, so as to get his own nice comfortable colour again....
+	narrator	So Kanga and Roo stayed in the Forest. And every Tuesday Roo spent the day with his great friend Rabbit,
+	narrator	and every Tuesday Kanga spent the day with her great friend Pooh, teaching him to jump,
+	narrator	and every Tuesday Piglet spent the day with his great friend Christopher Robin. So they were all happy again.

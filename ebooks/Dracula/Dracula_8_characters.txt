@@ -1,0 +1,11 @@
+Mina Murray	female	The narrator of the journal entries, a young woman who is deeply concerned about her friend Lucy Westenra and her fiancé Jonathan Harker. She is caring, observant, and devoted to those she loves.
+Lucy Westenra	female	A young woman who is the object of affection for multiple suitors including Arthur Holmwood. She experiences sleepwalking episodes and becomes increasingly pale and weak, eventually dying from an unknown illness.
+*Arthur Holmwood	*male	Lucy's fiancé, described as a gentleman who is deeply in love with Lucy. He is concerned about her health and well-being.
+*Jonathan Harker	*male	Mina's fiancé who has been ill in Budapest and is recovering. He was traveling to his homeland when he became seriously ill.
+*Mrs. Westenra	female	Lucy's mother, who is terminally ill with a weakening heart condition and has been fretting about Lucy's sleepwalking episodes.
+Sister Agatha	female	A nun at the hospital in Budapest where Jonathan Harker was being treated for brain fever.
+*Dr. Seward	*male	A physician who keeps a diary and is involved in treating patients at an asylum, including Renfield.
+Renfield	*male	A patient at the asylum who becomes dangerously unstable and escapes, showing signs of religious mania and obsession with a mysterious 'Master'.
+*Mr. Hawkins	*male	A man who has been in contact with Jonathan Harker and is involved in the correspondence regarding his recovery.
+*Samuel F. Billington & Son	*male	A solicitor firm in Whitby who is involved in arranging the delivery of goods to Carfax.
+*Mr. Swales	*male	An elderly man mentioned by Lucy as possibly having told her about the sound of feet during sleepwalking.

@@ -1,0 +1,5 @@
+Huck Finn	male	The narrator of the story, a young boy who lives with his abusive father Pap Finn after his mother's death. He is resourceful, independent, and prefers freedom in the woods to civilization and school.
+Pap Finn	male	Huck's abusive father who is alcoholic, violent, and controlling. He takes Huck away from the Widow Douglas to live in isolation in the woods where he physically abuses him.
+*Judge Thatcher	*male	A local judge who is involved in a legal battle over Huck's money and custody. He represents the law and civilization that Huck wants to escape from.
+*Widow Douglas	*female	A kind woman who takes care of Huck and tries to civilize him. She is the guardian figure that Pap opposes and represents the society Huck wants to escape.
+*Old Sowberry Hagan	*male	A man mentioned by Pap as having the worst cussing voice, used to compare his own cursing abilities.

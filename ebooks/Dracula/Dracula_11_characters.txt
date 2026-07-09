@@ -1,0 +1,11 @@
+Lucy Westenra	female	The main female character, a young woman who is ill and being treated by Dr. Van Helsing and Dr. Seward. She is described as loving, peaceful, and vulnerable to supernatural forces. She keeps a diary and records her experiences with sleepwalking and the vampire threat.
+Dr. Van Helsing	male	A Dutch doctor who is treating Lucy and investigating the supernatural events. He is knowledgeable, determined, and appears to be a key figure in combating the vampire threat.
+*Dr. Seward	male	A doctor who is treating Lucy and keeping detailed diaries of the events. He is observant, professional, and becomes increasingly distressed by what he witnesses.
+Mrs. Westenra	female	Lucy's mother, who is described as an early riser and concerned about her daughter's health. She removes the garlic flowers from Lucy's room, inadvertently causing harm.
+*Arthur	*male	Lucy's fiancé, mentioned as being important to her and to whom she writes a farewell note. He is described as dear to Lucy.
+Thomas Bilder	*male	The keeper of the wolf section at the Zoölogical Gardens. He is described as elderly, hospitable, and somewhat grumpy but good-natured.
+Mrs. Tom	female	Thomas Bilder's wife, who is described as elderly and hospitable. She laughs at her husband's jokes and helps him with his work.
+*Bersicker	*male	A grey wolf from Norway that escaped from the Zoölogical Gardens. He is described as a 'nice well-behaved wolf' who later returns to his cage.
+*The Keeper	*male	The reporter who interviews Thomas Bilder about the escaped wolf. He is described as a journalist from the Pall Mall Gazette.
+*The Patient	*male	A patient of Dr. Seward who attacks him with a dinner-knife in the study, showing signs of being under some kind of supernatural influence.
+*The Maids	*female	Several female servants who work in the house. They are described as frightened, nervous, and eventually drugged by an unknown person.

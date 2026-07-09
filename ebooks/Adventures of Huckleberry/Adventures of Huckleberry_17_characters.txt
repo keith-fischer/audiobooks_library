@@ -1,0 +1,8 @@
+George Jackson	*male	A young boy who fell overboard from a steamboat and ended up at the Shepherdson house. He is wet, hungry, and confused about his identity.
+Saul	male	An elderly man, about sixty years old, who is the head of the Shepherdson family. He appears to be in charge during the confrontation with George Jackson.
+Rachel	female	An elderly woman, the wife of Saul Shepherdson. She is caring and notices when George Jackson is wet and hungry.
+*Betsy	*female	An older black woman who works in the Shepherdson household. She is tasked with preparing food for George Jackson.
+Bob	*male	A young man in the Shepherdson family who is present during George Jackson's arrival and participates in the search for weapons.
+*Tom	*male	A young man in the Shepherdson family who is present during George Jackson's arrival and participates in the search for weapons.
+Buck	*male	A thirteen or fourteen-year-old boy who is the son of the Shepherdson family. He helps George Jackson get dry clothes and engages in conversation with him.
+Emmeline Grangerford	*female	A deceased young woman in the Shepherdson family who was known for her poetry and artistic talents. She had a scrapbook with obituaries, poems, and drawings.

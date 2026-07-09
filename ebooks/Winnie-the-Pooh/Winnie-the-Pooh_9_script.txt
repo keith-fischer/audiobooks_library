@@ -1,0 +1,158 @@
+	narrator	It rained and it rained and it rained. Piglet told himself that never in all his life,
+	narrator	and _he_ was goodness knows _how_ old--three, was it, or four?--never had he seen so much rain.
+	narrator	Days and days and days.
+	piglet	If only, I had been in Pooh's house, or Christopher Robin's house, or Rabbit's house when it began to rain,
+	piglet	then I should have had Company all this time, instead of being here all alone, with nothing to do except wonder when it will stop.
+	piglet	Did you ever see such rain, Pooh?
+	pooh	Isn't it _awful_, Piglet?
+	piglet	I wonder how it is over Christopher Robin's way
+	pooh	I should think poor old Rabbit is about flooded out by this time.
+	narrator	It would have been jolly to talk like this, and really, it wasn't much good having anything exciting like floods,
+	narrator	if you couldn't share them with somebody. For it was rather exciting. The little dry ditches in which Piglet had nosed about so often had become streams,
+	narrator	the little streams across which he had splashed were rivers, and the river, between whose steep banks they had played so happily,
+	narrator	had sprawled out of its own bed and was taking up so much room everywhere, that Piglet was beginning to wonder whether it would be coming into _his_ bed soon.
+	piglet	It's a little Anxious, to be a Very Small Animal Entirely Surrounded by Water. Christopher Robin and Pooh could escape by Climbing Trees,
+	piglet	and Kanga could escape by Jumping, and Rabbit could escape by Burrowing, and Owl could escape by Flying,
+	piglet	and Eeyore could escape by--by Making a Loud Noise Until Rescued, and here am I, surrounded by water and I can't do _anything_.
+	narrator	It went on raining, and every day the water got a little higher, until now it was nearly up to Piglet's window ...
+	narrator	and still he hadn't done anything.
+	piglet	There's Pooh. Pooh hasn't much Brain, but he never comes to any harm. He does silly things and they turn out right.
+	piglet	There's Owl. Owl hasn't exactly got Brain, but he Knows Things. He would know the Right Thing to Do when Surrounded by Water.
+	piglet	There's Rabbit. He hasn't Learnt in Books, but he can always Think of a Clever Plan.
+	piglet	There's Kanga. She isn't Clever, Kanga isn't, but she would be so anxious about Roo that she would do a Good Thing to Do without thinking about It.
+	piglet	And then there's Eeyore. And Eeyore is so miserable anyhow that he wouldn't mind about this.
+	piglet	But I wonder what Christopher Robin would do?
+	narrator	Then suddenly he remembered a story which Christopher Robin had told him about a man on a desert island who had written something in a bottle and thrown it in the sea; and Piglet thought that if he wrote something in a bottle and threw it in the water,
+	narrator	perhaps somebody would come and rescue _him_! He left the window and began to search his house,
+	narrator	all of it that wasn't under water, and at last he found a pencil and a small piece of dry paper,
+	narrator	and a bottle with a cork to it. And he wrote on one side of the paper: HELP!
+	narrator	PIGLET (ME) and on the other side: IT'S ME PIGLET, HELP HELP. Then he put the paper in the bottle,
+	narrator	and he corked the bottle up as tightly as he could, and he leant out of his window as far as he could lean without falling in,
+	narrator	and he threw the bottle as far as he could throw--_splash!--and in a little while it bobbed up again on the water; and he watched it floating slowly away in the distance,
+	narrator	until his eyes ached with looking, and sometimes he thought it was the bottle, and sometimes he thought it was just a ripple on the water which he was following,
+	narrator	and then suddenly he knew that he would never see it again and that he had done all that he could do to save himself.
+	piglet	So now, somebody else will have to do something, and I hope they will do it soon,
+	piglet	because if they don't I shall have to swim, which I can't, so I hope they do it soon.
+	piglet	I wish Pooh were here. It's so much more friendly with two.
+	narrator	When the rain began Pooh was asleep. It rained, and it rained, and it rained, and he slept and he slept and he slept.
+	narrator	He had had a tiring day. You remember how he discovered the North Pole; well, he was so proud of this that he asked Christopher Robin if there were any other Poles such as a Bear of Little Brain might discover.
+	christopher robin	There's a South Pole, and I expect there's an East Pole and a West Pole, though people don't like talking about them.
+	narrator	Pooh was very excited when he heard this, and suggested that they should have an Expotition to discover the East Pole,
+	narrator	but Christopher Robin had thought of something else to do with Kanga; so Pooh went out to discover the East Pole by himself.
+	narrator	Whether he discovered it or not, I forget; but he was so tired when he got home that,
+	narrator	in the very middle of his supper, after he had been eating for little more than half-an-hour,
+	narrator	he fell fast asleep in his chair, and slept and slept and slept. Then suddenly he was dreaming.
+	narrator	He was at the East Pole, and it was a very cold pole with the coldest sort of snow and ice all over it.
+	narrator	He had found a bee-hive to sleep in, but there wasn't room for his legs, so he had left them outside.
+	narrator	And Wild Woozles, such as inhabit the East Pole, came and nibbled all the fur off his legs to make nests for their Young.
+	narrator	And the more they nibbled, the colder his legs got, until suddenly he woke up with an _Ow!_--and there he was,
+	narrator	sitting in his chair with his feet in the water, and water all round him!
+	pooh	This is Serious. I must have an Escape.
+	narrator	So he took his largest pot of honey and escaped with it to a broad branch of his tree,
+	narrator	well above the water, and then he climbed down again and escaped with another pot ...
+	narrator	and when the whole Escape was finished, there was Pooh sitting on his branch, dangling his legs,
+	narrator	and there, beside him, were ten pots of honey. Two days later, there was Pooh, sitting on his branch,
+	narrator	dangling his legs, and there, beside him, were four pots of honey. Three days later, there was Pooh,
+	narrator	sitting on his branch, dangling his legs, and there beside him, was one pot of honey.
+	narrator	Four days later, there was Pooh ... And it was on the morning of the fourth day that Piglet's bottle came floating past him,
+	narrator	and with one loud cry of "Honey!" Pooh plunged into the water, seized the bottle, and struggled back to his tree again.
+	pooh	Bother! All that wet for nothing. What's that bit of paper doing? It's a Missage, that's what it is.
+	pooh	And that letter is a 'P,' and so is that, and so is that, and 'P'
+	pooh	means 'Pooh,' so it's a very important Missage to me, and I can't read it. I must find Christopher Robin or Owl or Piglet,
+	pooh	one of those Clever Readers who can read things, and they will tell me what this missage means.
+	pooh	Only I can't swim. Bother! If a bottle can float, then a jar can float, and if a jar floats,
+	pooh	I can sit on the top of it, if it's a very big jar. All boats have to have a name,
+	pooh	so I shall call mine _The Floating Bear_.
+	narrator	And with these words he dropped his boat into the water and jumped in after it.
+	narrator	For a little while Pooh and _The Floating Bear_ were uncertain as to which of them was meant to be on the top,
+	narrator	but after trying one or two different positions, they settled down with _The Floating Bear_ underneath and Pooh triumphantly astride it,
+	narrator	paddling vigorously with his feet. Christopher Robin lived at the very top of the Forest. It rained,
+	narrator	and it rained, and it rained, but the water couldn't come up to _his_ house. It was rather jolly to look down into the valleys and see the water all round him,
+	narrator	but it rained so hard that he stayed indoors most of the time, and thought about things.
+	narrator	Every morning he went out with his umbrella and put a stick in the place where the water came up to,
+	narrator	and every next morning he went out and couldn't see his stick any more, so he put another stick in the place where the water came up to,
+	narrator	and then he walked home again, and each morning he had a shorter way to walk than he had had the morning before.
+	narrator	On the morning of the fifth day he saw the water all round him, and knew that for the first time in his life he was on a real island.
+	narrator	Which was very exciting. It was on this morning that Owl came flying over the water to say "How do you do,"
+	narrator	to his friend Christopher Robin.
+	christopher robin	I say, Owl, isn't this fun? I'm on an island!
+	owl	The atmospheric conditions have been very unfavourable lately.
+	christopher robin	The what?
+	owl	It has been raining, explained Owl.
+	christopher robin	Yes, there is.
+	owl	The flood-level has reached an unprecedented height.
+	christopher robin	The who?
+	owl	There's a lot of water about, explained Owl.
+	christopher robin	Yes, there is.
+	owl	However, the prospects are rapidly becoming more favourable. At any moment----
+	christopher robin	Have you seen Pooh?
+	owl	No. At any moment----
+	christopher robin	I hope he's all right, I've been wondering about him. I expect Piglet's with him. Do you think they're all right,
+	christopher robin	Owl?
+	owl	I expect so. You see, at any moment----
+	christopher robin	Do go and see, Owl. Because Pooh hasn't got very much brain, and he might do something silly,
+	christopher robin	and I do love him so, Owl. Do you see, Owl?
+	owl	That's all right, I'll go. Back directly.
+	narrator	And he flew off. In a little while he was back again.
+	owl	Pooh isn't there,
+	christopher robin	Not there?
+	owl	Has _been_ there. He's been sitting on a branch of his tree outside his house with nine pots of honey.
+	owl	But he isn't there now.
+	christopher robin	Oh, Pooh!
+	pooh	Here I am,
+	narrator	said a growly voice behind him.
+	christopher robin	Pooh!
+	narrator	They rushed into each other's arms.
+	christopher robin	How did you get here, Pooh?
+	pooh	On my boat, I had a Very Important Missage sent me in a bottle, and owing to having got some water in my eyes,
+	pooh	I couldn't read it, so I brought it to you. On my boat.
+	narrator	With these proud words he gave Christopher Robin the missage.
+	christopher robin	But it's from Piglet!
+	pooh	Isn't there anything about Pooh in it?
+	christopher robin	Oh, are those 'P's' piglets? I thought they were poohs. We must rescue him at once!
+	christopher robin	I thought he was with _you_, Pooh. Owl, could you rescue him on your back?
+	owl	I don't think so, after grave thought. "It is doubtful if the necessary dorsal muscles----
+	christopher robin	Then would you fly to him at _once_ and say that Rescue is Coming? And Pooh and I will think of a Rescue and come as quick as ever we can.
+	christopher robin	Oh, don't _talk_, Owl, go on quick!
+	narrator	And, still thinking of something to say, Owl flew off.
+	christopher robin	Now then, Pooh, where's your boat?
+	pooh	I ought to say, explained Pooh as they walked down to the shore of the island,
+	pooh	"that it isn't just an ordinary sort of boat. Sometimes it's a Boat, and sometimes it's more of an Accident.
+	pooh	It all depends.
+	christopher robin	Depends on what?
+	pooh	On whether I'm on the top of it or underneath it.
+	christopher robin	Oh! Well, where is it?
+	pooh	There!
+	narrator	said Pooh, pointing proudly to _The Floating Bear_. It wasn't what Christopher Robin expected, and the more he looked at it,
+	narrator	the more he thought what a Brave and Clever Bear Pooh was, and the more
+	christopher robin	But it's too small for two of us,
+	narrator	said Christopher Robin sadly.
+	pooh	Three of us with Piglet.
+	christopher robin	That makes it smaller still. Oh, Pooh Bear, what shall we do?
+	narrator	And then this Bear, Pooh Bear, Winnie-the-Pooh, F.O.P. (Friend of Piglet's), R.C. (Rabbit's Companion), P.D. (Pole Discoverer),
+	narrator	E.C. and T.F. (Eeyore's Comforter and Tail-finder)--in fact, Pooh himself--said something so clever that Christopher Robin could only look at him with mouth open and eyes staring,
+	narrator	wondering if this was really the Bear of Very Little Brain whom he had known and loved so long.
+	pooh	We might go in your umbrella,
+	christopher robin	?
+	pooh	We might go in your umbrella,
+	christopher robin	? ?
+	pooh	We might go in your umbrella,
+	christopher robin	!!!!!!
+	narrator	For suddenly Christopher Robin saw that they might. He opened his umbrella and put it point downwards in the water.
+	narrator	It floated but wobbled. Pooh got in. He was just beginning to say that it was all right now,
+	narrator	when he found that it wasn't, so after a short drink which he didn't really want he waded back to Christopher Robin.
+	narrator	Then they both got in together, and it wobbled no longer.
+	christopher robin	I shall call this boat _The Brain of Pooh_,
+	narrator	said Christopher Robin, and _The Brain of Pooh_ set sail forthwith in a south-westerly direction, revolving gracefully.
+	narrator	You can imagine Piglet's joy when at last the ship came in sight of him. In after-years he liked to think that he had been in Very Great Danger during the Terrible Flood,
+	narrator	but the only danger he had really been in was in the last half-hour of his imprisonment,
+	narrator	when Owl, who had just flown up, sat on a branch of his tree to comfort him,
+	narrator	and told him a very long story about an aunt who had once laid a seagull's egg by mistake,
+	narrator	and the story went on and on, rather like this sentence, until Piglet who was listening out of his window without much hope,
+	narrator	went to sleep quietly and naturally, slipping slowly out of the window towards the water until he was only hanging on by his toes,
+	narrator	at which moment luckily, a sudden loud squawk from Owl, which was really part of the story,
+	narrator	being what his aunt said, woke the Piglet up and just gave him time to jerk himself back into safety and say,
+	narrator	"How interesting, and did she?" when--well, you can imagine his joy when at last he saw the good ship,
+	narrator	_Brain of Pooh_ (_Captain_, C. Robin; _1st Mate_, P. Bear) coming over the sea to rescue him.
+	narrator	Christopher Robin and Pooh again.... And that is really the end of the story, and I am very tired after that last sentence,
+	narrator	I think I shall stop there.

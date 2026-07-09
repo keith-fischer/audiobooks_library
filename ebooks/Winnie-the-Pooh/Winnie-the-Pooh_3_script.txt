@@ -1,0 +1,77 @@
+	narrator	The Piglet lived in a very grand house in the middle of a beech-tree, and the beech-tree was in the middle of the forest,
+	narrator	and the Piglet lived in the middle of the house. Next to his house was a piece of broken board which had: "TRESPASSERS W"
+	narrator	on it. When Christopher Robin asked the Piglet what it meant, he said it was his grandfather's name,
+	narrator	and had been in the family for a long time, Christopher Robin said you _couldn't_ be called Trespassers W,
+	narrator	and Piglet said yes, you could, because his grandfather was, and it was short for Trespassers Will,
+	narrator	which was short for Trespassers William. And his grandfather had had two names in case he lost one--Trespassers after an uncle,
+	narrator	and William after Trespassers.
+	christopher robin	I've got two names,
+	piglet	Well, there you are, that proves it,
+	narrator	One fine winter's day when Piglet was brushing away the snow in front of his house,
+	narrator	he happened to look up, and there was Winnie-the-Pooh. Pooh was walking round and round in a circle,
+	narrator	thinking of something else, and when Piglet called to him, he just went on walking.
+	piglet	Hallo! What are _you_ doing?
+	winnie-the-pooh	Hunting,
+	piglet	Hunting what?
+	winnie-the-pooh	Tracking something,
+	piglet	Tracking what?
+	winnie-the-pooh	That's just what I ask myself. I ask myself, What?
+	piglet	What do you think you'll answer?
+	winnie-the-pooh	I shall have to wait until I catch up with it, Now, look there. What do you see there?
+	piglet	Tracks, Paw-marks. Oh, Pooh! Do you think it's a--a--a Woozle?
+	winnie-the-pooh	It may be, Sometimes it is, and sometimes it isn't. You never can tell with paw-marks,
+	narrator	With these few words he went on tracking, and Piglet, after watching him for a minute or two,
+	narrator	ran after him. Winnie-the-Pooh had come to a sudden stop, and was bending over the tracks in a puzzled sort of way.
+	piglet	What's the matter?
+	winnie-the-pooh	It's a very funny thing, but there seem to be _two_ animals now. This--whatever-it-was--has been joined by another--whatever-it-is--and the two of them are now proceeding in company.
+	winnie-the-pooh	Would you mind coming with me, Piglet, in case they turn out to be Hostile Animals?
+	piglet	I had nothing to do until Friday, and would be delighted to come, in case it really _was_ a Woozle,
+	winnie-the-pooh	You mean, in case it really is two Woozles,
+	piglet	Anyhow I had nothing to do until Friday,
+	narrator	So off they went together. There was a small spinney of larch trees just here, and it seemed as if the two Woozles,
+	narrator	if that is what they were, had been going round this spinney; so round this spinney went Pooh and Piglet after them; Piglet passing the time by telling Pooh what his Grandfather Trespassers W had done to Remove Stiffness after Tracking,
+	narrator	and how his Grandfather Trespassers W had suffered in his later years from Shortness of Breath,
+	narrator	and other matters of interest, and Pooh wondering what a Grandfather was like, and if perhaps this was Two Grandfathers they were after now,
+	narrator	and, if so, whether he would be allowed to take one home and keep it, and what Christopher Robin would say.
+	narrator	And still the tracks went on in front of them.... Suddenly Winnie-the-Pooh stopped, and pointed excitedly in front of him.
+	winnie-the-pooh	Look!
+	piglet	What?
+	narrator	And then, to show that he hadn't been frightened, he jumped up and down once or twice more in an exercising sort of way.
+	winnie-the-pooh	The tracks! A third animal has joined the other two!
+	piglet	Pooh! Do you think it is another Woozle?
+	winnie-the-pooh	No, because it makes different marks. It is either Two Woozles and one, as it might be,
+	winnie-the-pooh	Wizzle, or Two, as it might be, Wizzles and one, if so it is, Woozle. Let us continue to follow them,
+	narrator	So they went on, feeling just a little anxious now, in case the three animals in front of them were of Hostile Intent.
+	narrator	And Piglet wished very much that his Grandfather T. W. were there, instead of elsewhere, and Pooh thought how nice it would be if they met Christopher Robin suddenly but quite accidentally,
+	narrator	and only because he liked Christopher Robin so much. And then, all of a sudden, Winnie-the-Pooh stopped again,
+	narrator	and licked the tip of his nose in a cooling manner, for he was feeling more hot and anxious than ever in his life before.
+	narrator	There were four animals in front of them!
+	winnie-the-pooh	Do you see, Piglet? Look at their tracks! Three, as it were, Woozles, and one, as it was,
+	winnie-the-pooh	Wizzle. Another Woozle has joined them!
+	narrator	And so it seemed to be. There were the tracks; crossing over each other here, getting muddled up with each other there; but,
+	narrator	quite plainly every now and then, the tracks of four sets of paws.
+	piglet	I think, I think that I have just remembered something. I have just remembered something that I forgot to do yesterday and shan't be able to do to-morrow.
+	piglet	So I suppose I really ought to go back and do it now,
+	winnie-the-pooh	We'll do it this afternoon, and I'll come with you,
+	piglet	It isn't the sort of thing you can do in the afternoon, It's a very particular morning thing,
+	piglet	that has to be done in the morning, and, if possible, between the hours of----What would you say the time was?
+	winnie-the-pooh	About twelve,
+	piglet	Between, as I was saying, the hours of twelve and twelve five. So, really, dear old Pooh,
+	piglet	if you'll excuse me----What's that?
+	winnie-the-pooh	It's Christopher Robin,
+	piglet	Ah, then you'll be all right.
+	narrator	You'll be quite safe with him. Good-bye, and he trotted off home as quickly as he could,
+	narrator	very glad to be Out of All Danger again.
+	christopher robin	Silly old Bear, what were you doing? First you went round the spinney twice by yourself,
+	christopher robin	and then Piglet ran after you and you went round again together, and then you were just going round a fourth time----
+	winnie-the-pooh	Wait a moment,
+	narrator	he held up his paw. He sat down and thought, in the most thoughtful way he could think.
+	narrator	Then he fitted his paw into one of the Tracks... and then he scratched his nose twice,
+	narrator	and stood up.
+	winnie-the-pooh	Yes, I see now, I have been Foolish and Deluded, and I am a Bear of No Brain at All.
+	christopher robin	You're the Best Bear in All the World,
+	narrator	said Christopher Robin soothingly.
+	winnie-the-pooh	Am I?
+	narrator	said Pooh hopefully. And then he brightened up suddenly.
+	winnie-the-pooh	Anyhow, it is nearly Luncheon Time.
+	narrator	So he went home for it.

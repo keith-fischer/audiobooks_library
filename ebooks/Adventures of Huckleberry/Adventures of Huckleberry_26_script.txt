@@ -1,0 +1,180 @@
+	narrator	Well, when they was all gone the king he asks Mary Jane how they was off for spare rooms,
+	narrator	and she said she had one spare room, which would do for Uncle William, and she’d give her own room to Uncle Harvey,
+	narrator	which was a little bigger, and she would turn into the room with her sisters and sleep on a cot; and up garret was a little cubby,
+	narrator	with a pallet in it. The king said the cubby would do for his valley—meaning me.
+	mary jane	I have one spare room, which would do for Uncle William, and I'd give my own room to Uncle Harvey,
+	mary jane	which was a little bigger, and I would turn into the room with my sisters and sleep on a cot; and up garret was a little cubby,
+	mary jane	with a pallet in it.
+	the king	The cubby would do for his valley—meaning me.
+	narrator	So Mary Jane took us up, and she showed them their rooms, which was plain but nice.
+	narrator	She said she'd have her frocks and a lot of other traps took out of her room if they was in Uncle Harvey's way,
+	narrator	but he said they warn't. The frocks was hung along the wall, and before them was a curtain made out of calico that hung down to the floor.
+	narrator	There was an old hair trunk in one corner, and a guitar-box in another, and all sorts of little knickknacks and jimcracks around,
+	narrator	like girls brisken up a room with. The king said it was all the more homely and more pleasant for these fixings,
+	narrator	and so don't disturb them. The duke's room was pretty small, but plenty good enough, and so was my cubby.
+	narrator	That night they had a big supper, and all them men and women was there, and I stood behind the king and the duke's chairs and waited on them,
+	narrator	and the niggers waited on the rest. Mary Jane she set at the head of the table,
+	narrator	with Susan alongside of her, and said how bad the biscuits was, and how mean the preserves was,
+	narrator	and how ornery and tough the fried chickens was—and all that kind of rot, the way women always do for to force out compliments; and the people all knowed everything was tiptop,
+	narrator	and said so—said "How do you get biscuits to brown so nice?" and "Where, for the land's sake,
+	narrator	did you get these amaz'n pickles?" and all that kind of humbug talky-talk, just the way people always does at a supper,
+	narrator	you know. And when it was all done me and the hare-lip had supper in the kitchen off of the leavings,
+	narrator	whilst the others was helping the niggers clean up the things. The hare-lip she got to pumping me about England,
+	narrator	and blest if I didn't think the ice was getting mighty thin sometimes.
+	hare-lip	Did you ever see the king?
+	narrator	Who? William Fourth? Well, I bet I have—he goes to our church.
+	hare-lip	What—regular?
+	narrator	Yes—regular. His pew's right over opposite ourn—on t'other side the pulpit.
+	hare-lip	I thought he lived in London?
+	narrator	Well, he does. Where would he live?
+	hare-lip	But I thought you lived in Sheffield?
+	narrator	I see I was up a stump. I had to let on to get choked with a chicken bone,
+	narrator	so as to get time to think how to get down again. Then I says: "I mean he goes to our church regular when he's in Sheffield.
+	narrator	That's only in the summer time, when he comes there to take the sea baths."
+	hare-lip	Why, how you talk—Sheffield ain't on the sea.
+	narrator	Well, who said it was?
+	hare-lip	Why, you did.
+	narrator	I didn't nether.
+	hare-lip	You did!
+	narrator	I didn't.
+	hare-lip	You did.
+	narrator	I never said nothing of the kind.
+	hare-lip	Well, what did you say, then?
+	narrator	Said he come to take the sea baths—that's what I said.
+	hare-lip	Well, then, how's he going to take the sea baths if it ain't on the sea?
+	narrator	Looky here, I says; did you ever see any Congress-water?
+	hare-lip	Yes.
+	narrator	Well, did you have to go to Congress to get it?
+	hare-lip	Why, no.
+	narrator	Well, neither does William Fourth have to go to the sea to get a sea bath.
+	hare-lip	How does he get it, then?
+	narrator	Gets it the way people down here gets Congress-water—in barrels. There in the palace at Sheffield they've got furnaces,
+	narrator	and he wants his water hot. They can't bile that amount of water away off there at the sea.
+	narrator	They haven't got no conveniences for it.
+	hare-lip	Oh, I see, now. You might a said that in the first place and saved time.
+	narrator	When she said that I see I was out of the woods again, and so I was comfortable and glad.
+	narrator	Next, she says:
+	hare-lip	Do you go to church, too?
+	narrator	Yes—regular.
+	hare-lip	Where do you set?
+	narrator	Why, in our pew.
+	hare-lip	Whose pew?
+	narrator	Why, ourn—your Uncle Harvey's.
+	hare-lip	His'n? What does he want with a pew?
+	narrator	Wants it to set in. What did you reckon he wanted with it?
+	hare-lip	Why, I thought he'd be in the pulpit.
+	narrator	Rot him, I forgot he was a preacher. I see I was up a stump again,
+	narrator	so I played another chicken bone and got another think. Then I says: "Blame it, do you suppose there ain't but one preacher to a church?"
+	hare-lip	Why, what do they want with more?
+	narrator	What!—to preach before a king? I never did see such a girl as you. They don't have no less than seventeen.
+	hare-lip	Seventeen! My land! Why, I wouldn't set out such a string as that, not if I never got to glory.
+	hare-lip	It must take 'em a week.
+	narrator	Shucks, they don't all of 'em preach the same day—only one of 'em.
+	hare-lip	Well, then, what does the rest of 'em do?
+	narrator	Oh, nothing much. Loll around, pass the plate—and one thing or another. But mainly they don't do nothing.
+	hare-lip	Well, then, what are they for?
+	narrator	Why, they're for style. Don't you know nothing?
+	hare-lip	Well, I don't want to know no such foolishness as that. How is servants treated in England?
+	hare-lip	Do they treat 'em better'n we treat our niggers?
+	narrator	No! A servant ain't nobody there. They treat them worse than dogs.
+	hare-lip	Don't they give 'em holidays, the way we do, Christmas and New Year's week, and Fourth of July?
+	narrator	Oh, just listen! A body could tell you hain't ever been to England by that. Why,
+	narrator	Hare-l—why, Joanna, they never see a holiday from year's end to year's end; never go to the circus,
+	narrator	nor theater, nor nigger shows, nor nowheres.
+	hare-lip	Nor church?
+	narrator	Nor church.
+	hare-lip	But you always went to church.
+	narrator	Well, I was gone up again. I forgot I was the old man's servant. But next minute I whirled in on a kind of an explanation how a valley was different from a common servant and had to go to church whether he wanted to or not,
+	narrator	and set with the family, on account of its being the law. But I didn't do it pretty good,
+	narrator	and when I got done I see she warn't satisfied.
+	hare-lip	Honest injun, now, hain't you been telling me a lot of lies?
+	narrator	Honest injun, None of it at all? None of it at all. Not a lie in it,
+	narrator	Lay your hand on this book and say it. I see it warn't nothing but a dictionary,
+	narrator	so I laid my hand on it and said it. So then she looked a little better satisfied,
+	narrator	and says:
+	hare-lip	Well, then, I'll believe some of it; but I hope to gracious if I'll believe the rest.
+	mary jane	What is it you won't believe, Joe? It ain't right nor kind for you to talk so to him,
+	mary jane	and him a stranger and so far from his people. How would you like to be treated so?
+	hare-lip	That's always your way, Maim—always sailing in to help somebody before they're hurt. I hain't done nothing to him.
+	hare-lip	He's told some stretchers, I reckon, and I said I wouldn't swallow it all; and that's every bit and grain I _did_ say.
+	hare-lip	I reckon he can stand a little thing like that, can't he?
+	mary jane	I don't care whether 'twas little or whether 'twas big; he's here in our house and a stranger,
+	mary jane	and it wasn't good of you to say it. If you was in his place it would make you feel ashamed; and so you oughtn't to say a thing to another person that will make _them_ feel ashamed.
+	hare-lip	Why, Mam, he said—
+	mary jane	It don't make no difference what he _said_—that ain't the thing. The thing is for you to treat him _kind_,
+	mary jane	and not be saying things to make him remember he ain't in his own country and amongst his own folks.
+	narrator	I says to myself, _this_ is a girl that I'm letting that old reptile rob her of her money!
+	narrator	Then Susan _she_ waltzed in; and if you'll believe me, she did give Hare-lip hark from the tomb!
+	narrator	Says I to myself, and this is _another_ one that I'm letting him rob her of her money!
+	narrator	Then Mary Jane she took another inning, and went in sweet and lovely again—which was her way; but when she got done there warn't hardly anything left o'
+	narrator	poor Hare-lip. So she hollered. All right, then, you just ask his pardon.
+	hare-lip	She done it, too; and she done it beautiful. She done it so beautiful it was good to hear; and I wished I could tell her a thousand lies,
+	hare-lip	so she could do it again.
+	narrator	I says to myself, this is _another_ one that I'm letting him rob her of her money.
+	narrator	And when she got through they all jest laid theirselves out to make me feel at home and know I was amongst friends.
+	narrator	I felt so ornery and low down and mean that I says to myself, my mind's made up; I'll hive that money for them or bust.
+	narrator	So then I lit out—for bed, I said, meaning some time or another. When I got by myself I went to thinking the thing over.
+	narrator	I says to myself, shall I go to that doctor, private, and blow on these frauds?
+	narrator	No—that won't do. He might tell who told him; then the king and the duke would make it warm for me.
+	narrator	Shall I go, private, and tell Mary Jane? No—I dasn't do it. Her face would give them a hint,
+	narrator	sure; they've got the money, and they'd slide right out and get away with it. If she was to fetch in help I'd get mixed up in the business before it was done with,
+	narrator	I judge. No; there ain't no good way but one. I got to steal that money,
+	narrator	somehow; and I got to steal it some way that they won't suspicion that I done it.
+	narrator	They've got a good thing here, and they ain't a-going to leave till they've played this family and this town for all they're worth,
+	narrator	so I'll find a chance time enough. I'll steal it and hide it; and by-and-by, when I'm away down the river,
+	narrator	I'll write a letter and tell Mary Jane where it's hid. But I better hive it tonight if I can,
+	narrator	because the doctor maybe hasn't let up as much as he lets on he has; he might scare them out of here yet.
+	narrator	So, thinks I, I'll go and search them rooms. Upstairs the hall was dark, but I found the duke's room,
+	narrator	and started to paw around it with my hands; but I recollected it wouldn't be much like the king to let anybody else take care of that money but his own self; so then I went to his room and begun to paw around there.
+	narrator	But I see I couldn't do nothing without a candle, and I dasn't light one, of course.
+	narrator	So I judged I'd got to do the other thing—lay for them and eavesdrop. About that time I hears their footsteps coming,
+	narrator	and was going to skip under the bed; I reached for it, but it wasn't where I thought it would be; but I touched the curtain that hid Mary Jane's frocks,
+	narrator	so I jumped in behind that and snuggled in amongst the gowns, and stood there perfectly still.
+	narrator	They come in and shut the door; and the first thing the duke done was to get down and look under the bed.
+	narrator	Then I was glad I hadn't found the bed when I wanted it. And yet, you know,
+	narrator	it's kind of natural to hide under the bed when you are up to anything private.
+	narrator	They sets down then, and the king says:
+	the king	Well, what is it? And cut it middlin' short, because it's better for us to be down there a-whoopin'
+	the king	up the mournin' than up here givin' 'em a chance to talk us over.
+	the duke	Well, this is it, Capet. I ain't easy; I ain't comfortable. That doctor lays on my mind.
+	the duke	I wanted to know your plans. I've got a notion, and I think it's a sound one.
+	the king	What is it, duke?
+	the duke	That we better glide out of this before three in the morning, and clip it down the river with what we've got.
+	the duke	Specially, seeing we got it so easy—_given_ back to us, flung at our heads, as you may say,
+	the duke	when of course we allowed to have to steal it back. I'm for knocking off and lighting out.
+	narrator	That made me feel pretty bad. About an hour or two ago it would a been a little different,
+	narrator	but now it made me feel bad and disappointed. The king rips out and says:
+	the king	What! And not sell out the rest o' the property? March off like a passel of fools and leave eight or nine thous'n'
+	the king	dollars' worth o' property layin' around jest sufferin' to be scooped in?—and all good, salable stuff,
+	the king	too.
+	the duke	The duke he grumbled; said the bag of gold was enough, and he didn't want to go no deeper—didn't want to rob a lot of orphans of _everything_ they had.
+	the king	Why, how you talk!
+	narrator	the king said.
+	the king	We sha'n't rob 'em of nothing at all but jest this money. The people that _buys_ the property is the suff'rs; because as soon 's it's found out 'at we didn't own it—which won't be long after we've slid—the sale won't be valid,
+	the king	and it'll all go back to the estate. These yer orphans 'll git their house back agin,
+	the king	and that's enough for _them_; they're young and spry, and k'n easy earn a livin'. _They_ ain't a-goin to suffer.
+	the king	Why, jest think—there's thous'n's and thous'n's that ain't nigh so well off. Bless you, _they_ ain't got noth'n'
+	the king	to complain of.
+	narrator	Well, the king he talked him blind; so at last he give in, and said all right,
+	narrator	but said he believed it was blamed foolishness to stay, and that doctor hanging over them.
+	narrator	But the king says:
+	the king	Cuss the doctor! What do we k'yer for _him?_ Hain't we got all the fools in town on our side?
+	the king	And ain't that a big enough majority in any town?
+	narrator	So they got ready to go down stairs again. The duke says:
+	the duke	I don't think we put that money in a good place.
+	narrator	That cheered me up. I'd begun to think I warn't going to get a hint of no kind to help me.
+	narrator	The king says:
+	the king	Why?
+	the duke	Because Mary Jane 'll be in mourning from this out; and first you know the nigger that does up the rooms will get an order to box these duds up and put 'em away; and do you reckon a nigger can run across money and not borrow some of it?
+	narrator	"Your head's level agin, duke," says the king; and he comes a-fumbling under the curtain two or three foot from where I was.
+	narrator	I stuck tight to the wall and kept mighty still, though quivery; and I wondered what them fellows would say to me if they catched me; and I tried to think what I'd better do if they did catch me.
+	narrator	But the king he got the bag before I could think more than about a half a thought,
+	narrator	and he never suspicioned I was around. They took and shoved the bag through a rip in the straw tick that was under the feather-bed,
+	narrator	and crammed it in a foot or two amongst the straw and said it was all right now,
+	narrator	because a nigger only makes up the feather-bed, and don't turn over the straw tick only about twice a year,
+	narrator	and so it warn't in no danger of getting stole now. But I knowed better. I had it out of there before they was half-way down stairs.
+	narrator	I groped along up to my cubby, and hid it there till I could get a chance to do better.
+	narrator	I judged I better hide it outside of the house somewheres, because if they missed it they would give the house a good ransacking: I knowed that very well.
+	narrator	Then I turned in, with my clothes all on; but I couldn't a gone to sleep if I'd a wanted to,
+	narrator	I was in such a sweat to get through with the business. By-and-by I heard the king and the duke come up; so I rolled off my pallet and laid with my chin at the top of my ladder,
+	narrator	and waited to see if anything was going to happen. But nothing did. So I held on till all the late sounds had quit and the early ones hadn't begun yet; and then I slipped down the ladder.

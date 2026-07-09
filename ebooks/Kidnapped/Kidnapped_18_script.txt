@@ -1,0 +1,158 @@
+	narrator	Alan was the first to come round. He rose, went to the border of the wood,
+	narrator	peered out a little, and then returned and sat down.
+	alan	Well, yon was a hot burst, David.
+	narrator	I said nothing, nor so much as lifted my face. I had seen murder done, and a great,
+	narrator	ruddy, jovial gentleman struck out of life in a moment; the pity of that sight was still sore within me,
+	narrator	and yet that was but a part of my concern. Here was murder done upon the man Alan hated; here was Alan skulking in the trees and running from the troops; and whether his was the hand that fired or only the head that ordered,
+	narrator	signified but little. By my way of it, my only friend in that wild country was blood-guilty in the first degree; I held him in horror; I could not look upon his face; I would have rather lain alone in the rain on my cold isle,
+	narrator	than in that warm wood beside a murderer.
+	alan	Are ye still wearied?
+	david	No, I am not wearied now, and I can speak. You and me must twine, I liked you very well,
+	david	Alan, but your ways are not mine, and they're not God's: and the short and the long of it is just that we must twine.
+	alan	I will hardly twine from ye, David, without some kind of reason for the same, If ye ken anything against my reputation,
+	alan	it's the least thing that ye should do, for old acquaintance' sake, to let me hear the name of it; and if ye have only taken a distaste to my society,
+	alan	it will be proper for me to judge if I'm insulted.
+	david	Alan, what is the sense of this? Ye ken very well yon Campbell-man lies in his blood upon the road.
+	narrator	He was silent for a little; then says he,
+	alan	Did ever ye hear tell of the story of the Man and the Good People?
+	narrator	--by which he meant the fairies.
+	david	No, nor do I want to hear it.
+	alan	With your permission, Mr. Balfour, I will tell it you, whatever, The man, ye should ken,
+	alan	was cast upon a rock in the sea, where it appears the Good People were in use to come and rest as they went through to Ireland.
+	alan	The name of this rock is called the Skerryvore, and it's not far from where we suffered ship-wreck.
+	alan	Well, it seems the man cried so sore, if he could just see his little bairn before he died!
+	alan	that at last the king of the Good People took peety upon him, and sent one flying that brought back the bairn in a poke and laid it down beside the man where he lay sleeping.
+	alan	So when the man woke, there was a poke beside him and something into the inside of it that moved.
+	alan	Well, it seems he was one of these gentry that think aye the worst of things; and for greater security,
+	alan	he stuck his dirk throughout that poke before he opened it, and there was his bairn dead.
+	alan	I am thinking to myself, Mr. Balfour, that you and the man are very much alike.
+	david	Do you mean you had no hand in it? cried I, sitting up.
+	alan	I will tell you first of all, Mr. Balfour of Shaws, as one friend to another,
+	alan	that if I were going to kill a gentleman, it would not be in my own country,
+	alan	to bring trouble on my clan; and I would not go wanting sword and gun, and with a long fishing-rod upon my back.
+	david	Well, that's true!
+	alan	And now, continued Alan, taking out his dirk and laying his hand upon it in a certain manner,
+	alan	I swear upon the Holy Iron I had neither art nor part, act nor thought in it.
+	david	I thank God for that! cried I, and offered him my hand.
+	narrator	He did not appear to see it.
+	alan	And here is a great deal of work about a Campbell! They are not so scarce,
+	alan	that I ken!
+	david	At least, you cannot justly blame me, for you know very well what you told me in the brig.
+	david	But the temptation and the act are different, I thank God again for that. We may all be tempted; but to take a life in cold blood,
+	david	Alan!
+	narrator	And I could say no more for the moment.
+	david	And do you know who did it? I added. "Do you know that man in the black coat?
+	alan	I have nae clear mind about his coat, said Alan cunningly, "but it sticks in my head that it was blue.
+	david	Blue or black, did ye know him?
+	alan	I couldnae just conscientiously swear to him, says Alan. "He gaed very close by me, to be sure,
+	alan	but it's a strange thing that I should just have been tying my brogues.
+	david	Can you swear that you don't know him, Alan? I cried, half angered, half in a mind to laugh at his evasions.
+	alan	Not yet, says he; "but I've a grand memory for forgetting, David.
+	david	And yet there was one thing I saw clearly, said I; "and that was, that you exposed yourself and me to draw the soldiers.
+	alan	It's very likely, said Alan; "and so would any gentleman. You and me were innocent of that transaction.
+	david	The better reason, since we were falsely suspected, that we should get clear, I cried. "The innocent should surely come before the guilty.
+	alan	Why, David, said he, "the innocent have aye a chance to get assoiled in court; but for the lad that shot the bullet,
+	alan	I think the best place for him will be the heather. Them that havenae dipped their hands in any little difficulty,
+	alan	should be very mindful of the case of them that have. And that is the good Christianity.
+	alan	For if it was the other way round about, and the lad whom I couldnae just clearly see had been in our shoes,
+	alan	and we in his (as might very well have been), I think we would be a good deal obliged to him oursel's if he would draw the soldiers.
+	narrator	When it came to this, I gave Alan up. But he looked so innocent all the time,
+	narrator	and was in such clear good faith in what he said, and so ready to sacrifice himself for what he deemed his duty,
+	narrator	that my mouth was closed. Mr. Henderland's words came back to me: that we ourselves might take a lesson by these wild Highlanders.
+	narrator	Well, here I had taken mine. Alan's morals were all tail-first; but he was ready to give his life for them,
+	narrator	such as they were.
+	david	Alan, I'll not say it's the good Christianity as I understand it, but it's good enough.
+	david	And here I offer ye my hand for the second time.
+	alan	Whereupon he gave me both of his, saying surely I had cast a spell upon him,
+	alan	for he could forgive me anything. Then he grew very grave, and said we had not much time to throw away,
+	alan	but must both flee that country: he, because he was a deserter, and the whole of Appin would now be searched like a chamber,
+	alan	and every one obliged to give a good account of himself; and I, because I was certainly involved in the murder.
+	david	O! says I, willing to give him a little lesson, I have no fear of the justice of my country.
+	alan	As if this was your country! Or as if ye would be tried here, in a country of Stewarts!
+	david	It's all Scotland.
+	alan	Man, I whiles wonder at ye. This is a Campbell that's been killed. Well, it'll be tried in Inverara,
+	alan	the Campbells' head place; with fifteen Campbells in the jury-box and the biggest Campbell of all (and that's the Duke) sitting cocking on the bench.
+	alan	Justice, David? The same justice, by all the world, as Glenure found awhile ago at the roadside.
+	david	This frightened me a little, I confess, and would have frightened me more if I had known how nearly exact were Alan's predictions; indeed it was but in one point that he exaggerated,
+	david	there being but eleven Campbells on the jury; though as the other four were equally in the Duke's dependence,
+	david	it mattered less than might appear. Still, I cried out that he was unjust to the Duke of Argyle,
+	david	who (for all he was a Whig) was yet a wise and honest nobleman.
+	alan	Hoot! said Alan, the man's a Whig, nae doubt; but I would never deny he was a good chieftain to his clan.
+	alan	And what would the clan think if there was a Campbell shot, and naebody hanged, and their own chief the Justice General?
+	alan	But I have often observed, says Alan, that you Low-country bodies have no clear idea of what's right and wrong.
+	david	At this I did at last laugh out aloud, when to my surprise, Alan joined in,
+	david	and laughed as merrily as myself.
+	alan	Na, na, said he, we're in the Hielands, David; and when I tell ye to run,
+	alan	take my word and run. Nae doubt it's a hard thing to skulk and starve in the Heather,
+	alan	but it's harder yet to lie shackled in a red-coat prison.
+	david	I asked him whither we should flee; and as he told me "to the Lowlands," I was a little better inclined to go with him; for,
+	david	indeed, I was growing impatient to get back and have the upper-hand of my uncle. Besides,
+	david	Alan made so sure there would be no question of justice in the matter, that I began to be afraid he might be right.
+	david	Of all deaths, I would truly like least to die by the gallows; and the picture of that uncaney instrument came into my head with extraordinary clearness (as I had once seen it engraved at the top of a pedlar's ballad) and took away my appetite for courts of justice.
+	david	I'll chance it, Alan, said I. I'll go with you.
+	alan	But mind you, said Alan, it's no small thing. Ye maun lie bare and hard, and brook many an empty belly.
+	alan	Your bed shall be the moorcock's, and your life shall be like the hunted deer's, and ye shall sleep with your hand upon your weapons.
+	alan	Ay, man, ye shall taigle many a weary foot, or we get clear! I tell ye this at the start,
+	alan	for it's a life that I ken well. But if ye ask what other chance ye have,
+	alan	I answer: Nane. Either take to the heather with me, or else hang.
+	david	And that's a choice very easily made, said I; and we shook hands upon it.
+	alan	And now let's take another keek at the red-coats, says Alan, and he led me to the north-eastern fringe of the wood.
+	david	Looking out between the trees, we could see a great side of mountain, running down exceeding steep into the waters of the loch.
+	david	It was a rough part, all hanging stone, and heather, and big scrogs of birchwood; and away at the far end towards Balachulish,
+	david	little wee red soldiers were dipping up and down over hill and howe, and growing smaller every minute.
+	david	There was no cheering now, for I think they had other uses for what breath was left them; but they still stuck to the trail,
+	david	and doubtless thought that we were close in front of them.
+	alan	Alan watched them, smiling to himself. Ay, said he, they'll be gey weary before they've got to the end of that employ!
+	alan	And so you and me, David, can sit down and eat a bite, and breathe a bit longer,
+	alan	and take a dram from my bottle. Then we'll strike for Aucharn, the house of my kinsman,
+	alan	James of the Glens, where I must get my clothes, and my arms, and money to carry us along; and then,
+	alan	David, we'll cry, 'Forth, Fortune!' and take a cast among the heather.
+	david	So we sat again and ate and drank, in a place whence we could see the sun going down into a field of great,
+	david	wild, and houseless mountains, such as I was now condemned to wander in with my companion.
+	david	Partly as we so sat, and partly afterwards, on the way to Aucharn, each of us narrated his adventures; and I shall here set down so much of Alan's as seems either curious or needful.
+	david	It appears he ran to the bulwarks as soon as the wave was passed; saw me,
+	david	and lost me, and saw me again, as I tumbled in the roost; and at last had one glimpse of me clinging on the yard.
+	david	It was this that put him in some hope I would maybe get to land after all,
+	david	and made him leave those clues and messages which had brought me (for my sins) to that unlucky country of Appin.
+	david	In the meanwhile, those still on the brig had got the skiff launched, and one or two were on board of her already,
+	david	when there came a second wave greater than the first, and heaved the brig out of her place,
+	david	and would certainly have sent her to the bottom, had she not struck and caught on some projection of the reef.
+	david	When she had struck first, it had been bows-on, so that the stern had hitherto been lowest.
+	david	But now her stern was thrown in the air, and the bows plunged under the sea; and with that,
+	david	the water began to pour into the fore-scuttle like the pouring of a mill-dam.
+	narrator	It took the colour out of Alan's face, even to tell what followed. For there were still two men lying impotent in their bunks; and these,
+	narrator	seeing the water pour in and thinking the ship had foundered, began to cry out aloud,
+	narrator	and that with such harrowing cries that all who were on deck tumbled one after another into the skiff and fell to their oars.
+	narrator	They were not two hundred yards away, when there came a third great sea; and at that the brig lifted clean over the reef; her canvas filled for a moment,
+	narrator	and she seemed to sail in chase of them, but settling all the while; and presently she drew down and down,
+	narrator	as if a hand was drawing her; and the sea closed over the _Covenant_ of Dysart.
+	narrator	Never a word they spoke as they pulled ashore, being stunned with the horror of that screaming; but they had scarce set foot upon the beach when Hoseason woke up,
+	narrator	as if out of a muse, and bade them lay hands upon Alan. They hung back indeed,
+	narrator	having little taste for the employment; but Hoseason was like a fiend, crying that Alan was alone,
+	narrator	that he had a great sum about him, that he had been the means of losing the brig and drowning all their comrades,
+	narrator	and that here was both revenge and wealth upon a single cast. It was seven against one; in that part of the shore there was no rock that Alan could set his back to; and the sailors began to spread out and come behind him.
+	alan	And then, the little man with the red head--I havenae mind of the name that he is called.
+	david	Riach
+	alan	Ay Riach! Well, it was him that took up the clubs for me, asked the men if they werenae feared of a judgment,
+	alan	and, says he 'Dod, I'll put my back to the Hielandman's mysel'.' That's none such an entirely bad little man,
+	alan	yon little man with the red head, he has some spunks of decency.
+	david	Well, he was kind to me in his way.
+	alan	And so he was to Alan, and by my troth, I found his way a very good one!
+	alan	But ye see, David, the loss of the ship and the cries of these poor lads sat very ill upon the man; and I'm thinking that would be the cause of it.
+	david	Well, I would think so, for he was as keen as any of the rest at the beginning.
+	david	But how did Hoseason take it?
+	alan	It sticks in my mind that he would take it very ill, says Alan. But the little man cried to me to run,
+	alan	and indeed I thought it was a good observe, and ran. The last that I saw they were all in a knot upon the beach,
+	alan	like folk that were not agreeing very well together.
+	david	What do you mean by that?
+	alan	Well, the fists were going
+	narrator	said Alan
+	alan	and I saw one man go down like a pair of breeks But I thought it would be better no to wait Ye see there's a strip of Campbells in that end of Mull,
+	alan	which is no good company for a gentleman like me If it hadnae been for that I would have waited and looked for ye mysel',
+	alan	let alone giving a hand to the little man
+	narrator	(It was droll how Alan dwelt on Mr. Riach's stature, for, to say the truth, the one was not much smaller than the other)
+	alan	So, says he, continuing, "I set my best foot forward and whenever I met in with any one I cried out there was a wreck ashore Man,
+	alan	they didnae stop to fash with me! Ye should have seen them linking for the beach!
+	alan	And when they got there they found they had had the pleasure of a run, which is aye good for a Campbell I'm thinking it was a judgment on the clan that the brig went down in the lump and didnae break But it was a very unlucky thing for
+	alan	you, that same; for if any wreck had come ashore they would have hunted high and low,
+	alan	and would soon have found ye

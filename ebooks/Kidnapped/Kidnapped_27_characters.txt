@@ -1,0 +1,11 @@
+David Balfour	*male	The protagonist, a young man from Essendean born in 1733 who has been kidnapped, shipwrecked, and is now seeking to establish his identity and rights to the estate of Shaws. He is described as having poor appearance with muddy rags, and has been wandering and suffering in the streets of Queensferry.
+Mr. Rankeillor	*male	A lawyer in Queensferry who initially appears skeptical but becomes convinced of David's story. He is described as a shrewd, ruddy, kindly man with a well-powdered wig and spectacles. He has been the uncle's man of business and is knowledgeable about legal matters.
+*Alan Breck	*male	David's companion who is referred to as Mr. Thomson in the story due to legal concerns about mentioning his real name, which is known for being connected to the Appin murder and reward offer. He is described as a gentleman with choice qualities but possibly bloody-minded.
+*Alexander Balfour	*male	David's father, described as a schoolmaster of Essendean.
+*Grace Pitarrow	*female	David's mother, from Angus.
+*Ebenezer Balfour	*male	David's uncle who received him into his house and is mentioned as having given David considerable sums of money.
+*Mr. Campbell	*male	A minister who would vouch for David's identity and is mentioned as having been concerned about David's whereabouts.
+*Captain Hoseason	*male	A man who provided the story of David's drowning, which was used to explain his absence and caused trouble for David's friends.
+*James Stewart	*male	Referred to as Mr. Thomson's kinsman in the story.
+*Colin Campbell	*male	Referred to as Mr. Glen in the story.
+*Cluny	*male	Referred to as Mr. Jameson, a Highland chief in the story.

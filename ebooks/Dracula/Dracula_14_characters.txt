@@ -1,0 +1,9 @@
+Mina Harker	female	Jonathan Harker's wife, a kind and devoted woman who keeps a journal and is deeply concerned about her husband's wellbeing. She is intelligent, trustworthy, and shows great courage in facing the supernatural threats they encounter.
+Jonathan Harker	male	Mina's husband, a solicitor who has experienced traumatic events in Transylvania involving the Count. He suffers from brain fever and shock but is later helped by Dr. Van Helsing to regain his strength.
+Abraham Van Helsing	male	A Dutch doctor and expert in the supernatural who comes to help Mina and Jonathan. He is wise, experienced, and possesses deep knowledge about monsters and the occult.
+*Lucy Westenra	female	A young woman who died of a mysterious illness and was later revealed to have been turned into a vampire. She is described as beautiful, kind, and beloved by her friends.
+*Arthur Holmwood	*male	Lucy's fiancé and later husband, who is deeply affected by Lucy's death. He is described as noble and strong-willed, with a bubbling well of good spirits.
+*Quincey Morris	male	A friend of Arthur Holmwood who accompanies him during his time of grief and helps support him after Lucy's death.
+*Renfield	*male	A patient at Dr. Seward's asylum who becomes increasingly erratic and dangerous, eventually becoming involved in the vampire mystery.
+Dr. John Seward	male	A physician and friend of Van Helsing who works at the asylum where Renfield is kept. He keeps a diary documenting his experiences with the supernatural.
+*Mary	*female	The Harkers' housekeeper who serves as a helper and confidant to Mina, assisting with household duties.

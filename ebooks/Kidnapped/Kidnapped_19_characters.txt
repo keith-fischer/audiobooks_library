@@ -1,0 +1,9 @@
+Alan	male	A Scottish man who arrives at the farm with a stranger, wearing French clothes. He is confident and assertive, speaks Gaelic and Scots, and has a relationship with James Stewart as a kinsman. He is involved in a political conspiracy involving the death of Colin Roy.
+James Stewart	male	A farmer and landowner in his fifties who owns the farm where Alan arrives. He is anxious, fearful of consequences from a recent political incident involving Colin Roy's death, and concerned about his family. He is visibly distressed by the situation.
+*Colin Roy	male	A man who has died in an accident, described as being shot. His death is central to the conflict and blame that James Stewart fears will fall upon him.
+*Mungo Campbell	*male	A political figure who is mentioned as someone likely to pursue the person responsible for Colin Roy's death. He appears to be a rival of Alan and James.
+The Young Man	*male	James Stewart's eldest son who is seen burning papers and is scolded by his father for doing so. He appears to be a young adult with some involvement in the household's activities.
+Mrs. Stewart	female	James Stewart's wife who is visibly distressed and weeps during the scene. She shows deep affection for Alan and the unnamed stranger, blessing them.
+*The Lassie	*female	A young woman who emerges from the house carrying a bundle. Her presence causes Alan to react with interest, suggesting she may be of some significance.
+*The Servant Lass	*female	A servant girl with a red face who is described as rummaging about the room in fear and whimpering. She appears to be one of the many servants involved in the frantic preparations.
+*The Stranger	*male	A young gentleman from the Lowlands who is accompanying Alan. He is described as a laird and has no name revealed, though he is clearly important to Alan's plans.

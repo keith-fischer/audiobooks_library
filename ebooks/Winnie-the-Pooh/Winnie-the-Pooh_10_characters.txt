@@ -1,0 +1,8 @@
+Christopher Robin	male	A young boy who organizes a party for Pooh Bear to celebrate his heroic act of saving Piglet from the flood. He is thoughtful and considerate, giving Pooh a special pencil case as a gift.
+Pooh	*male	A large, friendly bear who is the recipient of Christopher Robin's party and gift. He is known for his love of honey, his simple-mindedness, and his heroic act of saving Piglet. He is described as having an 'enormous brain' and being a helpful, brave bear.
+Owl	*male	A wise old owl who serves as a messenger for the party invitation. He is knowledgeable and helpful, though sometimes overly formal in his speech.
+Piglet	*male	A small, timid pig who was saved by Pooh during the flood. He is gentle and easily frightened but loyal to his friends.
+Eeyore	*male	A gloomy, pessimistic donkey who is invited to the party but seems unenthusiastic about it. He often speaks in a melancholy tone and expects the worst.
+*Rabbit	*male	A practical, organized rabbit who is one of the attendees at the party. He is known for being busy and often has many friends and relations around him.
+Roo	*male	A young kangaroo who is excited about attending his first party. He is energetic and talkative, often interrupting others with his squeaks.
+Kanga	female	A kind, maternal kangaroo who is present at the party and takes care of Roo. She is nurturing and tries to keep her young son in check.

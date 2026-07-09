@@ -1,0 +1,187 @@
+	narrator	By-and-by it was getting-up time. So I come down the ladder and started for down-stairs; but as I come to the girls'
+	narrator	room the door was open, and I see Mary Jane setting by her old hair trunk,
+	narrator	which was open and she'd been packing things in it—getting ready to go to England. But she had stopped now with a folded gown in her lap,
+	narrator	and had her face in her hands, crying. I felt awful bad to see it; of course anybody would.
+	narrator	I went in there and says: "Miss Mary Jane, you can't a-bear to see people in trouble,
+	narrator	and _I_ can't—most always. Tell me about it."
+	mary jane	Miss Mary Jane, you can't a-bear to see people in trouble, and _I_ can't—most always. Tell me about it.
+	narrator	So she done it. And it was the niggers—I just expected it. She said the beautiful trip to England was most about spoiled for her; she didn't know _how_ she was ever going to be happy there,
+	narrator	knowing the mother and the children warn't ever going to see each other no more—and then busted out bitterer than ever,
+	narrator	and flung up her hands, and says:
+	mary jane	Oh, dear, dear, to think they ain't _ever_ going to see each other any more!
+	narrator	"But they _will_—and inside of two weeks—and I _know_ it!" says I. Laws, it was out before I could think!
+	narrator	And before I could budge she throws her arms around my neck and told me to say it _again_,
+	narrator	say it _again_, say it _again!_ I see I had spoke too sudden and said too much,
+	narrator	and was in a close place. I asked her to let me think a minute; and she set there,
+	narrator	very impatient and excited and handsome, but looking kind of happy and eased-up, like a person that's had a tooth pulled out.
+	narrator	So I went to studying it out. I says to myself, I reckon a body that ups and tells the truth when he is in a tight place is taking considerable many resks,
+	narrator	though I ain't had no experience, and can't say for certain; but it looks so to me,
+	narrator	anyway; and yet here's a case where I'm blest if it don't look to me like the truth is better and actuly _safer_ than a lie.
+	narrator	I must lay it by in my mind, and think it over some time or other,
+	narrator	it's so kind of strange and unregular. I never see nothing like it. Well, I says to myself at last,
+	narrator	I'm a-going to chance it; I'll up and tell the truth this time, though it does seem most like setting down on a kag of powder and touching it off just to see where you'll go to.
+	narrator	Then I says: "Miss Mary Jane, is there any place out of town a little ways where you could go and stay three or four days?"
+	mary jane	Yes; Mr. Lothrop's. Why?
+	narrator	"Never mind why yet. If I'll tell you how I know the niggers will see each other again inside of two weeks—here in this house—and _prove_ how I know it—will you go to Mr. Lothrop's and stay four days?"
+	mary jane	Four days!" she says; "I'll stay a year!
+	narrator	"All right," I says, "I don't want nothing more out of _you_ than just your word—I druther have it than another man's kiss-the-Bible."
+	narrator	She smiled and reddened up very sweet, and I says, "If you don't mind it, I'll shut the door—and bolt it."
+	narrator	Then I come back and set down again, and says: "Don't you holler. Just set still and take it like a man.
+	narrator	I got to tell the truth, and you want to brace up, Miss Mary, because it's a bad kind,
+	narrator	and going to be hard to take, but there ain't no help for it. These uncles of yourn ain't no uncles at all; they're a couple of frauds—regular dead-beats.
+	narrator	There, now we're over the worst of it, you can stand the rest middling easy." It jolted her up like everything,
+	narrator	of course; but I was over the shoal water now, so I went right along, her eyes a-blazing higher and higher all the time,
+	narrator	and told her every blame thing, from where we first struck that young fool going up to the steamboat,
+	narrator	clear through to where she flung herself on to the king's breast at the front door and he kissed her sixteen or seventeen times—and then up she jumps,
+	narrator	with her face afire like sunset, and says:
+	mary jane	The brute! Come, don't waste a minute—not a _second_—we'll have them tarred and feathered, and flung in the river!
+	narrator	Says I: "Cert'nly. But do you mean _before_ you go to Mr. Lothrop's, or—"
+	mary jane	Oh," she says, "what am I _thinking_ about!" she says, and set right down again. "Don't mind what I said—please don't—you _won't,_ now,
+	mary jane	_will_ you?" Laying her silky hand on mine in that kind of a way that I said I would die first.
+	mary jane	I never thought, I was so stirred up," she says; "now go on, and I won't do so any more.
+	mary jane	You tell me what to do, and whatever you say I'll do it.
+	narrator	"Well," I says, "it's a rough gang, them two frauds, and I'm fixed so I got to travel with them a while longer,
+	narrator	whether I want to or not—I druther not tell you why; and if you was to blow on them this town would get me out of their claws,
+	narrator	and _I'd_ be all right; but there'd be another person that you don't know about who'd be in big trouble.
+	narrator	Well, we got to save _him_, hain't we? Of course. Well, then, we won't blow on them."
+	narrator	Saying them words put a good idea in my head. I see how maybe I could get me and Jim rid of the frauds; get them jailed here,
+	narrator	and then leave. But I didn't want to run the raft in the daytime without anybody aboard to answer questions but me; so I didn't want the plan to begin working till pretty late to-night.
+	narrator	I says: "Miss Mary Jane, I'll tell you what we'll do, and you won't have to stay at Mr. Lothrop's so long,
+	narrator	nuther. How fur is it?"
+	mary jane	A little short of four miles—right out in the country, back here.
+	narrator	"Well, that'll answer. Now you go along out there, and lay low till nine or half-past to-night,
+	narrator	and then get them to fetch you home again—tell them you've thought of something. If you get here before eleven put a candle in this window,
+	narrator	and if I don't turn up wait _till_ eleven, and _then_ if I don't turn up it means I'm gone,
+	narrator	and out of the way, and safe. Then you come out and spread the news around,
+	narrator	and get these beats jailed."
+	mary jane	Good," she says, "I'll do it.
+	narrator	"And if it just happens so that I don't get away, but get took up along with them,
+	narrator	you must up and say I told you the whole thing beforehand, and you must stand by me all you can."
+	mary jane	Stand by you! indeed I will. They sha’n’t touch a hair of your head!
+	narrator	she says, and I see her nostrils spread and her eyes snap when she said it,
+	narrator	too. If I get away I sha’n’t be here, I says, "to prove these rapscallions ain't your uncles,
+	narrator	and I couldn't do it if I _was_ here. I could swear they was beats and bummers,
+	narrator	that's all, though that's worth something." Well, there's others can do that better than what I can,
+	narrator	and they're people that ain't going to be doubted as quick as I'd be. I'll tell you how to find them.
+	narrator	Gimme a pencil and a piece of paper. There—'Royal Nonesuch, Bricksville.' Put it away, and don't lose it.
+	narrator	When the court wants to find out something about these two, let them send up to Bricksville and say they've got the men that played the Royal Nonesuch,
+	narrator	and ask for some witnesses—why, you'll have that entire town down here before you can hardly wink,
+	narrator	Miss Mary. And they'll come a-biling, too. I judged we had got everything fixed about right now.
+	narrator	So I says: “Just let the auction go right along, and don’t worry. Nobody don’t have to pay for the things they buy till a whole day after the auction on accounts of the short notice,
+	narrator	and they ain’t going out of this till they get that money; and the way we’ve fixed it the sale ain’t going to count,
+	narrator	and they ain’t going to _get_ no money. It’s just like the way it was with the niggers—it warn’t no sale,
+	narrator	and the niggers will be back before long. Why, they can’t collect the money for the _niggers_ yet—they’re in the worst kind of a fix,
+	narrator	Miss Mary.” “Well,” she says, “I’ll run down to breakfast now, and then I’ll start straight for Mr. Lothrop’s.”
+	narrator	“’Deed, _that_ ain’t the ticket, Miss Mary Jane,” I says, “by no manner of means; go _before_ breakfast.”
+	narrator	“Why?” “What did you reckon I wanted you to go at all for, Miss Mary?” “Well,
+	narrator	I never thought—and come to think, I don’t know. What was it?” “Why, it’s because you ain’t one of these leather-face people.
+	narrator	I don’t want no better book than what your face is. A body can set down and read it off like coarse print.
+	narrator	Do you reckon you can go and face your uncles when they come to kiss you good-morning,
+	narrator	and never—” There, there, don't!
+	mary jane	Yes, I'll go before breakfast—I'll be glad to. And leave my sisters with them?
+	narrator	Yes; never mind about them. They've got to stand it yet a while. They might suspicion something if all of you was to go.
+	narrator	I don't want you to see them, nor your sisters, nor nobody in this town; if a neighbor was to ask how is your uncles this morning your face would tell something.
+	narrator	No, you go right along, Miss Mary Jane, and I'll fix it with all of them.
+	narrator	I'll tell Miss Susan to give your love to your uncles and say you've went away for a few hours for to get a little rest and change,
+	narrator	or to see a friend, and you'll be back to-night or early in the morning.
+	mary jane	Gone to see a friend is all right, but I won't have my love given to them.
+	narrator	Well, then, it sha’n’t be. It was well enough to tell _her_ so—no harm in it.
+	narrator	It was only a little thing to do, and no trouble; and it's the little things that smooths people's roads the most,
+	narrator	down here below; it would make Mary Jane comfortable, and it wouldn't cost nothing. Then I says: "There's one more thing—that bag of money."
+	narrator	"Well, they've got that; and it makes me feel pretty silly to think _how_ they got it."
+	narrator	"No, you're out, there. They hain't got it." "Why, who's got it?" "I wish I knowed,
+	narrator	but I don't. I _had_ it, because I stole it from them; and I stole it to give to you; and I know where I hid it,
+	narrator	but I'm afraid it ain't there no more. I'm awful sorry, Miss Mary Jane, I'm just as sorry as I can be; but I done the best I could; I did honest.
+	narrator	I come nigh getting caught, and I had to shove it into the first place I come to,
+	narrator	and run—and it warn't a good place." "Oh, stop blaming yourself—it's too bad to do it,
+	narrator	and I won't allow it—you couldn't help it; it wasn't your fault. Where did you hide it?"
+	narrator	I didn't want to set her to thinking about her troubles again; and I couldn't seem to get my mouth to tell her what would make her see that corpse laying in the coffin with that bag of money on his stomach.
+	narrator	So for a minute I didn't say nothing; then I says: "I'd ruther not _tell_ you where I put it,
+	narrator	Miss Mary Jane, if you don't mind letting me off; but I'll write it for you on a piece of paper,
+	narrator	and you can read it along the road to Mr. Lothrop's, if you want to. Do you reckon that'll do?"
+	narrator	"Oh, yes." So I wrote: "I put it in the coffin. It was in there when you was crying there,
+	narrator	away in the night. I was behind the door, and I was mighty sorry for you,
+	narrator	Miss Mary Jane." It made my eyes water a little to remember her crying there all by herself in the night,
+	narrator	and them devils laying there right under her own roof, shaming her and robbing her; and when I folded it up and give it to her I see the water come into her eyes,
+	narrator	too; and she shook me by the hand, hard, and says: "_Good_-bye. I'm going to do everything just as you've told me; and if I don't ever see you again,
+	narrator	I sha'n't ever forget you and I'll think of you a many and a many a time,
+	narrator	and I'll _pray_ for you, too!" —and she was gone. Pray for me! I reckoned if she knowed me she'd take a job that was more nerrer her size.
+	narrator	But I bet she done it, just the same—she was just that kind. She had the grit to pray for Judus if she took the notion—there warn't no back-down to her,
+	narrator	I judge. You may say what you want to, but in my opinion she had more sand in her than any girl I ever see; in my opinion she was just full of sand.
+	narrator	It sounds like flattery, but it ain't no flattery. And when it comes to beauty—and goodness,
+	narrator	too—she lays over them all. I hain't ever seen her since that time that I see her go out of that door; no,
+	narrator	I hain't ever seen her since, but I reckon I've thought of her a many and a many a million times,
+	narrator	and of her saying she would pray for me; and if ever I'd a thought it would do any good for me to pray for _her_,
+	narrator	blamed if I wouldn't a done it or bust. Well, Mary Jane she lit out the back way,
+	narrator	I reckon; because nobody see her go. When I struck Susan and the hare-lip, I says: "What’s the name of them people over on t’other side of the river that you all goes to see sometimes?"
+	susan	There’s several; but it’s the Proctors, mainly.
+	narrator	"That’s the name," I says; "I most forgot it. Well, Miss Mary Jane she told me to tell you she’s gone over there in a dreadful hurry—one of them’s sick."
+	susan	Which one?
+	narrator	"I don’t know; leastways, I kinder forget; but I thinks it’s—"
+	susan	Sakes alive, I hope it ain’t _Hanner?_
+	narrator	"I’m sorry to say it," I says, "but Hanner’s the very one."
+	susan	My goodness, and she so well only last week! Is she took bad?
+	narrator	"It ain’t no name for it. They set up with her all night, Miss Mary Jane said,
+	narrator	and they don’t think she’ll last many hours."
+	susan	Only think of that, now! What’s the matter with her?
+	narrator	I couldn’t think of anything reasonable, right off that way, so I says: "Mumps."
+	susan	Mumps your granny! They don’t set up with people that’s got the mumps.
+	narrator	"They don’t, don’t they? You better bet they do with _these_ mumps. These mumps is different.
+	narrator	It’s a new kind, Miss Mary Jane said."
+	susan	How’s it a new kind?
+	narrator	"Because it’s mixed up with other things."
+	susan	What other things?
+	narrator	"Well, measles, and whooping-cough, and erysiplas, and consumption, and yaller janders, and brain-fever, and I don’t know what all."
+	susan	My land! And they call it the _mumps?_
+	narrator	"That’s what Miss Mary Jane said."
+	susan	Well, what in the nation do they call it the _mumps_ for?
+	narrator	"Why, because it _is_ the mumps. That’s what it starts with."
+	susan	Well, ther’ ain’t no sense in it. A body might stump his toe, and take pison,
+	susan	and fall down the well, and break his neck, and bust his brains out, and somebody come along and ask what killed him,
+	susan	and some numskull up and say, ‘Why, he stumped his _toe_.’ Would ther’ be any sense in that?
+	susan	_No_. And ther’ ain’t no sense in _this_, nuther. Is it catching?
+	narrator	"Is it _ketching?_ Why, how you talk. Is a _harrow_ catching—in the dark? If you don’t hitch on to one tooth,
+	narrator	you’re bound to on another, ain’t you? And you can’t get away with that tooth without fetching the whole harrow along,
+	narrator	can you? Well, these kind of mumps is a kind of a harrow, as you may say—and it ain’t no slouch of a harrow,
+	narrator	nuther, you come to get it hitched on good."
+	susan	Well, it’s awful, _I_ think," says the hare-lip. "I’ll go to Uncle Harvey and—
+	narrator	"Oh, yes," I says, "I _would_. Of _course_ I would. I wouldn’t lose no time."
+	susan	Well, why wouldn’t you?
+	narrator	"Just look at it a minute, and maybe you can see. Hain’t your uncles obleegd to get along home to England as fast as they can?
+	narrator	And do you reckon they’d be mean enough to go off and leave you to go all that journey by yourselves?
+	narrator	_You_ know they’ll wait for you. So fur, so good. Your uncle Harvey’s a preacher, ain’t he?
+	narrator	Very well, then; is a _preacher_ going to deceive a steamboat clerk? is he going to deceive a _ship clerk?_—so as to get them to let Miss Mary Jane go aboard?
+	narrator	Now _you_ know he ain’t. What _will_ he do, then? Why, he’ll say, ‘It’s a great pity,
+	narrator	but my church matters has got to get along the best way they can; for my niece has been exposed to the dreadful pluribus-unum mumps,
+	narrator	and so it’s my bounden duty to set down here and wait the three months it takes to show on her if she’s got it.’
+	narrator	But never mind, if you think it’s best to tell your uncle Harvey—"
+	susan	Shucks, and stay fooling around here when we could all be having good times in England whilst we was waiting to find out whether Mary Jane’s got it or not?
+	susan	Why, you talk like a muggins.
+	narrator	"Well, anyway, maybe you’d better tell some of the neighbors."
+	susan	Listen at that, now. You do beat all for natural stupidness. Can’t you _see_ that _they’d_ go and tell?
+	susan	Ther’ ain’t no way but just to not tell anybody at _all_.
+	narrator	"Well, maybe you’re right—yes, I judge you _are_ right."
+	susan	But I reckon we ought to tell Uncle Harvey she’s gone out a while, anyway, so he won’t be uneasy about her?
+	narrator	"Yes, Miss Mary Jane she wanted you to do that. She says, ‘Tell them to give Uncle Harvey and William my love and a kiss,
+	narrator	and say I’ve run over the river to see Mr.’—Mr.—what _is_ the name of that rich family your uncle Peter used to think so much of?—I mean the one that—"
+	susan	Why, you must mean the Apthorps, ain’t it?
+	narrator	"Of course; bother them kind of names, a body can’t ever seem to remember them, half the time,
+	narrator	somehow. Yes, she said, say she has run over for to ask the Apthorps to be sure and come to the auction and buy this house,
+	narrator	because she allowed her uncle Peter would ruther they had it than anybody else; and she’s going to stick to them till they say they’ll come,
+	narrator	and then, if she ain’t too tired, she’s coming home; and if she is, she’ll be home in the morning anyway.
+	narrator	She said, don’t say nothing about the Proctors, but only about the Apthorps—which’ll be perfectly true,
+	narrator	because she _is_ going there to speak about their buying the house; I know it, because she told me so herself."
+	susan	All right," they said, and cleared out to lay for their uncles, and give them the love and the kisses,
+	susan	and tell them the message.
+	narrator	Everything was all right now. The girls wouldn’t say nothing because they wanted to go to England; and the king and the duke would ruther Mary Jane was off working for the auction than around in reach of Doctor Robinson.
+	narrator	I felt very good; I judged I had done it pretty neat—I reckoned Tom Sawyer couldn’t a done it no neater himself.
+	narrator	Of course he would a throwed more style into it, but I can’t do that very handy,
+	narrator	not being brung up to it. Well, they held the auction in the public square, along towards the end of the afternoon,
+	narrator	and it strung along, and strung along, and the old man he was on hand and looking his level pisonest,
+	narrator	up there longside of the auctioneer, and chipping in a little Scripture now and then, or a little goody-goody saying of some kind,
+	narrator	and the duke he was around goo-gooing for sympathy all he knowed how, and just spreading himself generly.
+	narrator	But by-and-by the thing dragged through, and everything was sold—everything but a little old trifling lot in the graveyard.
+	narrator	So they'd got to work that off—I never see such a girafft as the king was for wanting to swallow everything.
+	narrator	Well, whilst they was at it a steamboat landed, and in about two minutes up comes a crowd a-whooping and yelling and laughing and carrying on,
+	narrator	and singing out:
+	crowd	Here's your opposition line! here's your two sets o' heirs to old Peter Wilks—and you pays your money and you takes your choice!

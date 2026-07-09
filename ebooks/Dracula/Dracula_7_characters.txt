@@ -1,0 +1,16 @@
+Mina Murray	female	A woman who keeps a journal and is concerned about her husband Jonathan's whereabouts. She is caring and observant, noting Lucy's restlessness and the strange events around them.
+*Lucy	female	Mina's friend who experiences sleep-walking episodes and is sensitive to supernatural influences. She becomes increasingly restless and frightened by strange events.
+*Jonathan	*male	Mina's husband who is described as being at sea during the storm, causing Mina to worry about his safety and whereabouts.
+*Captain	*male	A sea captain who dies during a storm, steering his ship into port with the help of a dead man's body. He is described as being brave and honorable, ultimately choosing to tie himself to the wheel rather than abandon his ship.
+*Mr. Swales	*male	An elderly man who dies on a tombstone near the churchyard seat, apparently from fright. He is described as being found dead with a look of fear and horror on his face.
+*Petrofsky	*male	A crew member of the Russian ship Demeter who disappears during the voyage, contributing to the growing fear among the crew.
+*Olgaren	*male	A crew member of the Russian ship Demeter who reports seeing a strange man aboard the vessel, contributing to the crew's growing fear.
+*Abramoff	*male	A crew member of the Russian ship Demeter who relieves Petrofsky during his watch, but cannot account for Petrofsky's disappearance.
+First Mate	*male	The first mate of the Russian ship Demeter who becomes increasingly frustrated with his crew's superstitious fears and eventually loses his mind.
+*Second Mate	*male	The second mate of the Russian ship Demeter who volunteers to take over steering duties while crew members sleep, but later disappears.
+*Surgeon J. M. Caffyn	*male	A doctor who examines the dead seaman found at the wheel of the derelict ship and determines he has been dead for two days.
+*Mr. S. F. Billington	*male	A Whitby solicitor who takes possession of the cargo consigned to him from the Russian ship Demeter.
+*Russian Consul	*male	The Russian consul who acts on behalf of the charter-party to take possession of the derelict ship Demeter.
+*Mr. Caffyn	*male	A doctor who examines the dead seaman found at the wheel of the derelict ship and determines he has been dead for two days.
+*Coal Merchant	*male	A man whose half-bred mastiff is found dead in the roadway, apparently killed by a savage opponent.
+*The Dog	*male	A large dog that appears on shore after the ship crashes, then disappears from town. It is described as fierce and possibly dangerous.

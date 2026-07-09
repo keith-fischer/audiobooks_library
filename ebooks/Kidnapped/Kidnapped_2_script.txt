@@ -1,0 +1,102 @@
+	narrator	I COME TO MY JOURNEY’S END On the forenoon of the second day, coming to the top of a hill,
+	narrator	I saw all the country fall away before me down to the sea; and in the midst of this descent,
+	narrator	on a long ridge, the city of Edinburgh smoking like a kiln. There was a flag upon the castle,
+	narrator	and ships moving or lying anchored in the firth; both of which, for as far away as they were,
+	narrator	I could distinguish clearly; and both brought my country heart into my mouth. Presently after, I came by a house where a shepherd lived,
+	narrator	and got a rough direction for the neighbourhood of Cramond; and so, from one to another,
+	narrator	worked my way to the westward of the capital by Colinton, till I came out upon the Glasgow road.
+	narrator	And there, to my great pleasure and wonder, I beheld a regiment marching to the fifes,
+	narrator	every foot in time; an old red-faced general on a grey horse at the one end,
+	narrator	and at the other the company of Grenadiers, with their Pope’s-hats. The pride of life seemed to mount into my brain at the sight of the red coats and the hearing of that merry music.
+	narrator	A little farther on, and I was told I was in Cramond parish, and began to substitute in my inquiries the name of the house of Shaws.
+	narrator	It was a word that seemed to surprise those of whom I sought my way. At first I thought the plainness of my appearance,
+	narrator	in my country habit, and that all dusty from the road, consorted ill with the greatness of the place to which I was bound.
+	narrator	But after two, or maybe three, had given me the same look and the same answer,
+	narrator	I began to take it in my head there was something strange about the Shaws itself.
+	narrator	The better to set this fear at rest, I changed the form of my inquiries; and spying an honest fellow coming along a lane on the shaft of his cart,
+	narrator	I asked him if he had ever heard tell of a house they called the house of Shaws.
+	the carter	Ay
+	david balfour	What for? It's a great house?
+	the carter	Doubtless, the house is a big, muckle house.
+	david balfour	Ay, but the folk that are in it?
+	the carter	Folk? Are ye daft? There's nae folk there--to call folk.
+	david balfour	What? not Mr. Ebenezer?
+	the carter	Ou, ay, there's the laird, to be sure, if it's him you're wanting. What'll like be your business,
+	the carter	mannie?
+	david balfour	I was led to think that I would get a situation, looking as modest as I could.
+	the carter	What? cries the carter, in so sharp a note that his very horse started; and then,
+	the carter	Well, mannie, he added, it's nane of my affairs; but ye seem a decent-spoken lad; and if ye'll take a word from me,
+	the carter	ye'll keep clear of the Shaws.
+	narrator	The next person I came across was a dapper little man in a beautiful white wig,
+	narrator	whom I saw to be a barber on his rounds; and knowing well that barbers were great gossips,
+	narrator	I asked him plainly what sort of a man was Mr. Balfour of the Shaws.
+	the barber	Hoot, hoot, hoot, nae kind of a man, nae kind of a man at all; and began to ask me very shrewdly what my business was; but I was more than a match for him at that,
+	the barber	and he went on to his next customer no wiser than he came.
+	narrator	I cannot well describe the blow this dealt to my illusions. The more indistinct the accusations were,
+	narrator	the less I liked them, for they left the wider field to fancy. What kind of a great house was this,
+	narrator	that all the parish should start and stare to be asked the way to it? or what sort of a gentleman,
+	narrator	that his ill-fame should be thus current on the wayside? If an hour's walking would have brought me back to Essendean,
+	narrator	I had left my adventure then and there, and returned to Mr. Campbell's. But when I had come so far a way already,
+	narrator	mere shame would not suffer me to desist till I had put the matter to the touch of proof; I was bound,
+	narrator	out of mere self-respect, to carry it through; and little as I liked the sound of what I heard,
+	narrator	and slow as I began to travel, I still kept asking my way and still kept advancing.
+	narrator	It was drawing on to sundown when I met a stout, dark, sour-looking woman coming trudging down a hill; and she,
+	narrator	when I had put my usual question, turned sharp about, accompanied me back to the summit she had just left,
+	narrator	and pointed to a great bulk of building standing very bare upon a green in the bottom of the next valley.
+	narrator	The country was pleasant round about, running in low hills, pleasantly watered and wooded, and the crops,
+	narrator	to my eyes, wonderfully good; but the house itself appeared to be a kind of ruin; no road led up to it; no smoke arose from any of the chimneys; nor was there any semblance of a garden.
+	narrator	My heart sank.
+	david balfour	That!
+	the stout, dark, sour-looking woman	That is the house of Shaws! Blood built it; blood stopped the building of it; blood shall bring it down.
+	the stout, dark, sour-looking woman	See here! I spit upon the ground, and crack my thumb at it! Black be its fall!
+	the stout, dark, sour-looking woman	If ye see the laird, tell him what ye hear; tell him this makes the twelve hunner and nineteen time that Jennet Clouston has called down the curse on him and his house,
+	the stout, dark, sour-looking woman	byre and stable, man, guest, and master, wife, miss, or bairn--black, black be their fall! And the woman,
+	the stout, dark, sour-looking woman	whose voice had risen to a kind of eldritch sing-song, turned with a skip, and was gone.
+	narrator	I stood where she left me, with my hair on end. In those days folk still believed in witches and trembled at a curse; and this one,
+	narrator	falling so pat, like a wayside omen, to arrest me ere I carried out my purpose,
+	narrator	took the pith out of my legs. I sat me down and stared at the house of Shaws.
+	narrator	The more I looked, the pleasanter that country-side appeared; being all set with hawthorn bushes full of flowers; the fields dotted with sheep; a fine flight of rooks in the sky; and every sign of a kind soil and climate; and yet the barrack in the midst of it went
+	narrator	sore against my fancy. Country folk went by from the fields as I sat there on the side of the ditch,
+	narrator	but I lacked the spirit to give them a good-e'en. At last the sun went down,
+	narrator	and then, right up against the yellow sky, I saw a scroll of smoke go mounting,
+	narrator	not much thicker, as it seemed to me, than the smoke of a candle; but still there it was,
+	narrator	and meant a fire, and warmth, and cookery, and some living inhabitant that must have lit it; and this comforted my heart.
+	narrator	So I set forward by a little faint track in the grass that led in my direction.
+	narrator	It was very faint indeed to be the only way to a place of habitation; yet I saw no other.
+	narrator	Presently it brought me to stone uprights, with an unroofed lodge beside them, and coats of arms upon the top.
+	narrator	A main entrance it was plainly meant to be, but never finished; instead of gates of wrought iron,
+	narrator	a pair of hurdles were tied across with a straw rope; and as there were no park walls,
+	narrator	nor any sign of avenue, the track that I was following passed on the right hand of the pillars,
+	narrator	and went wandering on toward the house. The nearer I got to that, the drearier it appeared.
+	narrator	It seemed like the one wing of a house that had never been finished. What should have been the inner end stood open on the upper floors,
+	narrator	and showed against the sky with steps and stairs of uncompleted masonry. Many of the windows were unglazed,
+	narrator	and bats flew in and out like doves out of a dove-cote. The night had begun to fall as I got close; and in three of the lower windows,
+	narrator	which were very high up and narrow, and well barred, the changing light of a little fire began to glimmer.
+	narrator	Was this the palace I had been coming to? Was it within these walls that I was to seek new friends and begin great fortunes?
+	narrator	Why, in my father's house on Essen-Waterside, the fire and the bright lights would show a mile away,
+	narrator	and the door open to a beggar's knock! I came forward cautiously, and giving ear as I came,
+	narrator	heard some one rattling with dishes, and a little dry, eager cough that came in fits; but there was no sound of speech,
+	narrator	and not a dog barked. The door, as well as I could see it in the dim light,
+	narrator	was a great piece of wood all studded with nails; and I lifted my hand with a faint heart under my jacket,
+	narrator	and knocked once. Then I stood and waited. The house had fallen into a dead silence; a whole minute passed away,
+	narrator	and nothing stirred but the bats overhead. I knocked again, and hearkened again. By this time my ears had grown so accustomed to the quiet,
+	narrator	that I could hear the ticking of the clock inside as it slowly counted out the seconds; but whoever was in that house kept deadly still,
+	narrator	and must have held his breath. I was in two minds whether to run away; but anger got the upper hand,
+	narrator	and I began instead to rain kicks and buffets on the door, and to shout out aloud for Mr. Balfour.
+	narrator	I was in full career, when I heard the cough right overhead, and jumping back and looking up,
+	narrator	beheld a man's head in a tall nightcap, and the bell mouth of a blunderbuss, at one of the first-storey windows.
+	the man with the blunderbuss	It's loaded.
+	david balfour	I have come here with a letter, to Mr. Ebenezer Balfour of Shaws. Is he here?
+	the man with the blunderbuss	From whom is it?
+	david balfour	That is neither here nor there.
+	the man with the blunderbuss	Well, ye can put it down upon the doorstep, and be off with ye.
+	david balfour	I will do no such thing. I will deliver it into Mr. Balfour's hands, as it was meant I should.
+	david balfour	It is a letter of introduction.
+	the man with the blunderbuss	A what?
+	david balfour	I repeated what I had said.
+	the man with the blunderbuss	Who are ye, yourself?
+	david balfour	I am not ashamed of my name. They call me David Balfour.
+	the man with the blunderbuss	Is your father dead?
+	david balfour	Ay, he'll be dead, no doubt; and that'll be what brings ye chapping to my door.
+	the man with the blunderbuss	Well, man, I'll let ye in;
+	narrator	and he disappeared from the window.

@@ -1,0 +1,7 @@
+Piglet	*male	A small, anxious pig who gets trapped by flooding and writes a message in a bottle to seek help. He is timid, imaginative, and values companionship highly.
+Pooh	*male	A bear who discovers the East Pole and gets trapped by flooding. He is resourceful, optimistic despite his limited brain, and loves his friends.
+Christopher Robin	*male	A young boy who lives at the top of the forest and is Piglet's friend. He is thoughtful, caring about his friends' wellbeing.
+Owl	*male	A wise bird who is knowledgeable about things and helps with rescue efforts. He speaks in a formal, scholarly manner.
+*Rabbit	*male	A character mentioned as someone who could think of clever plans and escape by burrowing. He is a friend to the others.
+*Kanga	*female	A kangaroo who can escape by jumping and is concerned about her child Roo. She is described as not being clever but caring.
+*Eeyore	*male	A donkey who is miserable and escapes by making a loud noise until rescued. He is mentioned as having no particular skills but being consistently gloomy.

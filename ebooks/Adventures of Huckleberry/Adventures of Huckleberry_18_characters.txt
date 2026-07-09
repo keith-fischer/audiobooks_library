@@ -1,0 +1,12 @@
+Col. Grangerford	male	A tall, slim gentleman with a pale complexion, thin lips, and dark eyes. He is kind but can be intimidating when angry. He wears clean white linen clothing and a blue tail-coat on Sundays, carries a mahogany cane with a silver head, and is the patriarch of the Grangerford family.
+*Miss Charlotte	female	A twenty-five-year-old woman who is tall, proud, and grand. She is as good as she can be when not stirred up, but becomes intimidating like her father when angry. She is beautiful and holds her head high.
+Miss Sophia	female	A twenty-year-old woman who is gentle and sweet like a dove. She is beautiful but different from her sister Charlotte, being more delicate in nature.
+Buck Grangerford	*male	A young man who is described as tall and beautiful with a broad shoulder, brown face, long black hair, and black eyes. He is the son of Col. Grangerford and has a gun that he uses to shoot at Harney Shepherdson.
+*Tom Grangerford	*male	A tall, beautiful man with broad shoulders and a brown face. He is one of the older sons in the Grangerford family, dressed in white linen from head to foot.
+*Bob Grangerford	*male	A tall, beautiful man with broad shoulders and a brown face. He is one of the older sons in the Grangerford family, dressed in white linen from head to foot.
+*Young Harney Shepherdson	*male	A splendid young man who is described as beautiful and soldier-like. He rides a fine horse, carries a gun, and is involved in the feud with the Grangerfords.
+Jim	*male	A slave who is loyal to Huck and helps him escape. He is resourceful, kind-hearted, and has been hiding in the swamp after escaping from slavery.
+Jack	*male	A slave who works for Huck and Jim. He is smart, helpful, and helps Jim communicate with Huck.
+*Old Baldy Shepherdson	*male	An elderly man with white hair who is involved in the feud. He chases and kills Bud Grangerford, a cousin of Buck.
+*Bud Grangerford	*male	A fourteen-year-old cousin of Buck who was killed by Old Baldy Shepherdson during a chase in the woods.
+*Joe	*male	A nineteen-year-old young man who is Buck's cousin and was involved in the conflict with the Shepherdsons.

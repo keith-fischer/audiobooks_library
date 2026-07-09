@@ -1,0 +1,168 @@
+	narrator	CHAPTER V Letter from Miss Mina Murray to Miss Lucy Westenra. "9 May." "My dearest Lucy,-- "Forgive my long delay in writing,
+	narrator	but I have been simply overwhelmed with work. The life of an assistant schoolmistress is sometimes trying.
+	narrator	I am longing to be with you, and by the sea, where we can talk together freely and build our castles in the air.
+	narrator	I have been working very hard lately, because I want to keep up with Jonathan's studies,
+	narrator	and I have been practising shorthand very assiduously. When we are married I shall be able to be useful to Jonathan,
+	narrator	and if I can stenograph well enough I can take down what he wants to say in this way and write it out for him on the typewriter,
+	narrator	at which also I am practising very hard. He and I sometimes write letters in shorthand,
+	narrator	and he is keeping a stenographic journal of his travels abroad. When I am with you I shall keep a diary in the same way.
+	narrator	I don't mean one of those two-pages-to-the-week-with-Sunday-squeezed-in-a-corner diaries, but a sort of journal which I can write in whenever I feel inclined.
+	narrator	I do not suppose there will be much of interest to other people; but it is not intended for them.
+	narrator	I may show it to Jonathan some day if there is in it anything worth sharing,
+	narrator	but it is really an exercise book. I shall try to do what I see lady journalists do: interviewing and writing descriptions and trying to remember conversations.
+	narrator	I am told that, with a little practice, one can remember all that goes on or that one hears said during a day.
+	narrator	However, we shall see. I will tell you of my little plans when we meet. I have just had a few hurried lines from Jonathan from Transylvania.
+	narrator	He is well, and will be returning in about a week. I am longing to hear all his news.
+	narrator	It must be so nice to see strange countries. I wonder if we--I mean Jonathan and I--shall ever see them together.
+	narrator	There is the ten o'clock bell ringing. Good-bye. "Your loving "MINA. "Tell me all the news when you write.
+	narrator	You have not told me anything for a long time. I hear rumours, and especially of a tall,
+	narrator	handsome, curly-haired man??? Letter, Lucy Westenra to Mina Murray. "17, Chatham Street," "Wednesday." "My dearest Mina,-- "I must say you tax me _very_ unfairly with being a bad correspondent.
+	narrator	I wrote to you _twice_ since we parted, and your last letter was only your _second_.
+	narrator	Besides, I have nothing to tell you. There is really nothing to interest you. Town is very pleasant just now,
+	narrator	and we go a good deal to picture-galleries and for walks and rides in the park.
+	narrator	As to the tall, curly-haired man, I suppose it was the one who was with me at the last Pop.
+	narrator	Some one has evidently been telling tales. That was Mr. Holmwood. He often comes to see us,
+	narrator	and he and mamma get on very well together; they have so many things to talk about in common.
+	narrator	We met some time ago a man that would just _do for you_, if you were not already engaged to Jonathan.
+	narrator	He is an excellent _parti_, being handsome, well-off, and of good birth. He is a doctor and really clever.
+	narrator	Just fancy! He is only nine-and-twenty, and he has an immense lunatic asylum all under his own care.
+	narrator	Mr. Holmwood introduced him to me, and he called here to see us, and often comes now.
+	narrator	I think he is one of the most resolute men I ever saw, and yet the most calm.
+	narrator	He seems absolutely imperturbable. I can fancy what a wonderful power he must have over his patients.
+	narrator	He has a curious habit of looking one straight in the face, as if trying to read one's thoughts.
+	narrator	He tries this on very much with me, but I flatter myself he has got a tough nut to crack.
+	narrator	I know that from my glass. Do you ever try to read your own face? _I do_,
+	narrator	and I can tell you it is not a bad study, and gives you more trouble than you can well fancy if you have never tried it.
+	narrator	He says that I afford him a curious psychological study, and I humbly think I do.
+	narrator	I do not, as you know, take sufficient interest in dress to be able to describe the new fashions.
+	narrator	Dress is a bore. That is slang again, but never mind; Arthur says that every day.
+	narrator	There, it is all out. Mina, we have told all our secrets to each other since we were _children_; we have slept together and eaten together,
+	narrator	and laughed and cried together; and now, though I have spoken, I would like to speak more.
+	narrator	Oh, Mina, couldn't you guess? I love him. I am blushing as I write, for although I _think_ he loves me,
+	narrator	he has not told me so in words. But oh, Mina, I love him; I love him; I love him!
+	narrator	There, that does me good. I wish I were with you, dear, sitting by the fire undressing,
+	narrator	as we used to sit; and I would try to tell you what I feel. I do not know how I am writing this even to you.
+	narrator	I am afraid to stop, or I should tear up the letter, and I don't want to stop,
+	narrator	for I _do_ so want to tell you all. Let me hear from you _at once_,
+	narrator	and tell me all that you think about it. Mina, I must stop. Good-night. Bless me in your prayers; and,
+	narrator	Mina, pray for my happiness. "LUCY. "P.S.--I need not tell you this is a secret. Good-night again.
+	narrator	"L." Letter, Lucy Westenra to Mina Murray. "24 May." "My dearest Mina,-- "Thanks, and thanks, and thanks again for your sweet letter.
+	narrator	It was so nice to be able to tell you and to have your sympathy." My dear,
+	narrator	it never rains but it pours. How true the old proverbs are. Here am I, who shall be twenty in September,
+	narrator	and yet I never had a proposal till to-day, not a real proposal, and to-day I have had three.
+	narrator	Just fancy! THREE proposals in one day! Isn't it awful! I feel sorry, really and truly sorry,
+	narrator	for two of the poor fellows. Oh, Mina, I am so happy that I don't know what to do with myself.
+	narrator	And three proposals! But, for goodness' sake, don't tell any of the girls, or they would be getting all sorts of extravagant ideas and imagining themselves injured and slighted if in their very first day at home they did not get six at least.
+	narrator	Some girls are so vain! You and I, Mina dear, who are engaged and are going to settle down soon soberly into old married women,
+	narrator	can despise vanity. Well, I must tell you about the three, but you must keep it a secret,
+	narrator	dear, from _every one_, except, of course, Jonathan. You will tell him, because I would, if I were in your place,
+	narrator	certainly tell Arthur. A woman ought to tell her husband everything--don't you think so, dear?--and I must be fair.
+	narrator	Men like women, certainly their wives, to be quite as fair as they are; and women,
+	narrator	I am afraid, are not always quite as fair as they should be. Well, my dear,
+	narrator	number One came just before lunch. I told you of him, Dr. John Seward, the lunatic-asylum man,
+	narrator	with the strong jaw and the good forehead. He was very cool outwardly, but was nervous all the same.
+	narrator	He had evidently been schooling himself as to all sorts of little things, and remembered them; but he almost managed to sit down on his silk hat,
+	narrator	which men don't generally do when they are cool, and then when he wanted to appear at ease he kept playing with a lancet in a way that made me nearly scream.
+	narrator	He spoke to me, Mina, very straightforwardly. He told me how dear I was to him,
+	narrator	though he had known me so little, and what his life would be with me to help and cheer him.
+	narrator	He was going to tell me how unhappy he would be if I did not care for him,
+	narrator	but when he saw me cry he said that he was a brute and would not add to my present trouble.
+	narrator	Then he broke off and asked if I could love him in time; and when I shook my head his hands trembled,
+	narrator	and then with some hesitation he asked me if I cared already for any one else.
+	narrator	He put it very nicely, saying that he did not want to wring my confidence from me,
+	narrator	but only to know, because if a woman's heart was free a man might have hope.
+	narrator	And then, Mina, I felt a sort of duty to tell him that there was some one.
+	narrator	I only told him that much, and then he stood up, and he looked very strong and very grave as he took both my hands in his and said he hoped I would be happy,
+	narrator	and that if I ever wanted a friend I must count him one of my best.
+	narrator	Oh, Mina dear, I can't help crying: and you must excuse this letter being all blotted.
+	narrator	Being proposed to is all very nice and all that sort of thing, but it isn't at all a happy thing when you have to see a poor fellow,
+	narrator	whom you know loves you honestly, going away and looking all broken-hearted, and to know that,
+	narrator	no matter what he may say at the moment, you are passing quite out of his life.
+	narrator	My dear, I must stop here at present, I feel so miserable, though I am so happy.
+	narrator	_Evening_ Arthur has just gone, and I feel in better spirits than when I left off,
+	narrator	so I can go on telling you about the day. Well, my dear, number Two came after lunch.
+	narrator	He is such a nice fellow, an American from Texas, and he looks so young and so fresh that it seems almost impossible that he has been to so many places and has had such adventures.
+	narrator	I sympathise with poor Desdemona when she had such a dangerous stream poured in her ear,
+	narrator	even by a black man. I suppose that we women are such cowards that we think a man will save us from fears,
+	narrator	and we marry him. I know now what I would do if I were a man and wanted to make a girl love me.
+	narrator	No, I don't, for there was Mr. Morris telling us his stories, and Arthur never told any,
+	narrator	and yet---- My dear, I am somewhat previous. Mr. Quincey P. Morris found me alone. It seems that a man always does find a girl alone.
+	narrator	No, he doesn't, for Arthur tried twice to _make_ a chance, and I helping him all I could; I am not ashamed to say it now.
+	narrator	I must tell you beforehand that Mr. Morris doesn't always speak slang--that is to say, he never does so to strangers or before them,
+	narrator	for he is really well educated and has exquisite manners--but he found out that it amused me to hear him talk American slang,
+	narrator	and whenever I was present, and there was no one to be shocked, he said such funny things.
+	narrator	I am afraid, my dear, he has to invent it all, for it fits exactly into whatever else he has to say.
+	narrator	But this is a way slang has. I do not know myself if I shall ever speak slang; I do not know if Arthur likes it,
+	narrator	as I have never heard him use any as yet. Well, Mr. Morris sat down beside me and looked as happy and jolly as he could,
+	narrator	but I could see all the same that he was very nervous. He took my hand in his,
+	narrator	and said ever so sweetly:
+	quincey p. morris	Miss Lucy, I know I ain't good enough to regulate the fixin's of your little shoes,
+	quincey p. morris	but I guess if you wait till you find a man that is you will go join them seven young women with the lamps when you quit.
+	quincey p. morris	Won't you just hitch up alongside of me and let us go down the long road together,
+	quincey p. morris	driving in double harness?
+	narrator	Well, he did look so good-humoured and so jolly that it didn't seem half so hard to refuse him as it did poor Dr. Seward; so I said,
+	narrator	as lightly as I could, that I did not know anything of hitching, and that I wasn't broken to harness at all yet.
+	lucy westenra	Then he said that he had spoken in a light manner, and he hoped that if he had made a mistake in doing so on so grave,
+	lucy westenra	so momentous, an occasion for him, I would forgive him.
+	narrator	He really did look serious when he was saying it, and I couldn't help feeling a bit serious too--I know,
+	narrator	Mina, you will think me a horrid flirt--though I couldn't help feeling a sort of exultation that he was number two in one day.
+	narrator	And then, my dear, before I could say a word he began pouring out a perfect torrent of love-making,
+	narrator	laying his very heart and soul at my feet.
+	lucy westenra	Lucy, you are an honest-hearted girl, I know. I should not be here speaking to you as I am now if I did not believe you clean grit,
+	lucy westenra	right through to the very depths of your soul. Tell me, like one good fellow to another,
+	lucy westenra	is there any one else that you care for? And if there is I'll never trouble you a hair's breadth again,
+	lucy westenra	but will be, if you will let me, a very faithful friend.
+	narrator	My dear Mina, why are men so noble when we women are so little worthy of them?
+	narrator	Here was I almost making fun of this great-hearted, true gentleman. I burst into tears--I am afraid,
+	narrator	my dear, you will think this a very sloppy letter in more ways than one--and I really felt very badly.
+	lucy westenra	Yes, there is some one I love, though he has not told me yet that he even loves me.
+	narrator	I was right to speak to him so frankly, for quite a light came into his face,
+	narrator	and he put out both his hands and took mine--I think I put them into his--and said in a hearty way:
+	quincey p. morris	That's my brave girl. It's better worth being late for a chance of winning you than being in time for any other girl in the world.
+	quincey p. morris	Don't cry, my dear. If it's for me, I'm a hard nut to crack; and I take it standing up.
+	quincey p. morris	If that other fellow doesn't know his happiness, well, he'd better look for it soon, or he'll have to deal with me.
+	quincey p. morris	Little girl, your honesty and pluck have made me a friend, and that's rarer than a lover; it's more unselfish anyhow.
+	quincey p. morris	My dear, I'm going to have a pretty lonely walk between this and Kingdom Come. Won't you give me one kiss?
+	quincey p. morris	It'll be something to keep off the darkness now and then. You can, you know, for that other good fellow--he must be a good fellow,
+	quincey p. morris	my dear, and a fine fellow, or you could not love him--hasn't spoken yet.
+	narrator	That quite won me, Mina, for it _was_ brave and sweet of him, and noble, too,
+	narrator	to a rival--wasn't it?--and he so sad; so I leant over and kissed him.
+	quincey p. morris	Little girl, I hold your hand, and you've kissed me, and if these things don't make us friends nothing ever will.
+	quincey p. morris	Thank you for your sweet honesty to me, and good-bye.
+	narrator	He wrung my hand, and taking up his hat, went straight out of the room without looking back,
+	narrator	without a tear or a quiver or a pause; and I am crying like a baby.
+	lucy westenra	Oh, why must a man like that be made unhappy when there are lots of girls about who would worship the very ground he trod on?
+	lucy westenra	I know I would if I were free--only I don't want to be free.
+	narrator	My dear, this quite upset me, and I feel I cannot write of happiness just at once,
+	narrator	after telling you of it; and I don't wish to tell of the number three until it can be all happy.
+	lucy westenra	Ever your loving Lucy. P.S.--Oh, about number Three--I needn't tell you of number Three, need I?
+	lucy westenra	Besides, it was all so confused; it seemed only a moment from his coming into the room till both his arms were round me,
+	lucy westenra	and he was kissing me. I am very, very happy, and I don't know what I have done to deserve it.
+	lucy westenra	I must only try in the future to show that I am not ungrateful to God for all His goodness to me in sending to me such a lover,
+	lucy westenra	such a husband, and such a friend. Good-bye.
+	narrator	Dr. Seward's Diary. (Kept in phonograph) 25 May.--Ebb tide in appetite to-day. Cannot eat, cannot rest,
+	narrator	so diary instead. Since my rebuff of yesterday I have a sort of empty feeling; nothing in the world seems of sufficient importance to be worth the doing....
+	narrator	As I knew that the only cure for this sort of thing was work, I went down amongst the patients.
+	narrator	I picked out one who has afforded me a study of much interest. He is so quaint that I am determined to understand him as well as I can.
+	narrator	To-day I seemed to get nearer than ever before to the heart of his mystery. I questioned him more fully than I had ever done,
+	narrator	with a view to making myself master of the facts of his hallucination. In my manner of doing it there was,
+	narrator	I now see, something of cruelty. I seemed to wish to keep him to the point of his madness--a thing which I avoid with the patients as I would the mouth of hell.
+	narrator	(Mem., under what circumstances would I _not_ avoid the pit of hell?) Omnia Romæ venalia sunt.
+	narrator	Hell has its price! verb. sap. If there be anything behind this instinct it will be valuable to trace it afterwards accurately,
+	narrator	so I had better commence to do so, therefore-- R. M. Renfield, ætat 59.--Sanguine temperament; great physical strength; morbidly excitable; periods of gloom,
+	narrator	ending in some fixed idea which I cannot make out. I presume that the sanguine temperament itself and the disturbing influence end in a mentally-accomplished finish; a possibly dangerous man,
+	narrator	probably dangerous if unselfish. In selfish men caution is as secure an armour for their foes as for themselves.
+	narrator	What I think of on this point is, when self is the fixed point the centripetal force is balanced with the centrifugal; when duty,
+	narrator	a cause, etc., is the fixed point, the latter force is paramount, and only accident or a series of accidents can balance it.
+	narrator	_Letter, Quincey P. Morris to Hon. Arthur Holmwood. _25 May.
+	quincey p. morris	My dear Art, We’ve told yarns by the camp-fire in the prairies; and dressed one another’s wounds after trying a landing at the Marquesas; and drunk healths on the shore of Titicaca.
+	quincey p. morris	There are more yarns to be told, and other wounds to be healed, and another health to be drunk.
+	quincey p. morris	Won’t you let this be at my camp-fire to-morrow night? I have no hesitation in asking you,
+	quincey p. morris	as I know a certain lady is engaged to a certain dinner-party, and that you are free.
+	quincey p. morris	There will only be one other, our old pal at the Korea, Jack Seward. He’s coming,
+	quincey p. morris	too, and we both want to mingle our weeps over the wine-cup, and to drink a health with all our hearts to the happiest man in all the wide world,
+	quincey p. morris	who has won the noblest heart that God has made and the best worth winning. We promise you a hearty welcome,
+	quincey p. morris	and a loving greeting, and a health as true as your own right hand. We shall both swear to leave you at home if you drink too deep to a certain pair of eyes.
+	quincey p. morris	Come! Yours, as ever and always, QUINCEY P. MORRIS.
+	narrator	_Telegram from Arthur Holmwood to Quincey P. Morris. _26 May.
+	arthur holmwood	Count me in every time. I bear messages which will make both your ears tingle. ART.

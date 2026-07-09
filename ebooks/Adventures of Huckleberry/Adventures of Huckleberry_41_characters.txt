@@ -1,0 +1,15 @@
+The doctor	*male	An old man who is kind-looking and helpful, treating a boy's injury on Spanish Island. He is skeptical about the canoe's safety and seems to be a competent medical practitioner.
+Tom	*male	A boy who is the narrator of this chapter, pretending to be lost with his brother Sid while actually planning to help Tom escape. He is clever and resourceful, showing he can think ahead.
+*Sid	*male	Tom's brother who is also pretending to be lost with Tom. He is part of the plan to help Tom escape and goes to the post-office but doesn't return.
+Uncle Silas	*male	A family member who is concerned about the missing boys and takes charge of searching for them. He is protective of his family and seems to be a responsible adult figure.
+Aunt Sally	*female	Tom and Sid's aunt who is anxious about their whereabouts. She is emotional, worried, and shows deep concern for her family members.
+Old Mrs. Hotchkiss	*female	An elderly woman who is talkative and believes the runaway nigger was crazy. She is very vocal about her opinions and makes comments about the strange events.
+Old Mrs. Damrell	*female	An elderly woman who participates in the conversation about the strange events at the cabin. She is also talkative and contributes to the discussion.
+Sister Phelps	*female	A woman who is present during the discussion about the events at the cabin. She listens to others' opinions and participates in the conversation.
+Sister Damrell	*female	A woman who is present during the discussion about the events at the cabin. She listens to others' opinions and participates in the conversation.
+Sister Utterback	*female	A woman who is present during the discussion about the events at the cabin. She listens to others' opinions and participates in the conversation.
+*Sister Dunlap	*female	A woman who is present during the discussion about the events at the cabin. She listens to others' opinions and participates in the conversation.
+Brer Penrod	*male	A man who participates in the conversation about the strange events at the cabin. He is part of the group discussing the situation.
+Brer Hightower	*male	A man who participates in the conversation about the strange events at the cabin. He is part of the group discussing the situation.
+Brer Phelps	*male	A man who participates in the conversation about the strange events at the cabin. He is part of the group discussing the situation.
+Sister Ridgeway	*female	A woman who participates in the conversation about the strange events at the cabin. She is part of the group discussing the situation.

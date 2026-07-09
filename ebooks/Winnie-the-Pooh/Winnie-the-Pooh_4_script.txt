@@ -1,0 +1,92 @@
+	narrator	The Old Grey Donkey, Eeyore, stood by himself in a thistly corner of the forest, his front feet well apart,
+	narrator	his head on one side, and thought about things. Sometimes he thought sadly to himself, "Why?"
+	narrator	and sometimes he thought, "Wherefore?" and sometimes he thought, "Inasmuch as which?"--and sometimes he didn't quite know what he _was_ thinking about.
+	narrator	So when Winnie-the-Pooh came stumping along, Eeyore was very glad to be able to stop thinking for a little,
+	narrator	in order to say "How do you do?" in a gloomy manner to him.
+	winnie-the-pooh	And how are you?
+	eeyore	Not very how, he said. "I don't seem to have felt at all how for a long time.
+	winnie-the-pooh	Dear, dear, I'm sorry about that. Let's have a look at you.
+	narrator	So Eeyore stood there, gazing sadly at the ground, and Winnie-the-Pooh walked all round him once.
+	winnie-the-pooh	Why, what's happened to your tail?
+	eeyore	What _has_ happened to it?
+	winnie-the-pooh	It isn't there!
+	eeyore	Are you sure?
+	narrator	"Well, either a tail _is_ there or it isn't there. You can't make a mistake about it.
+	narrator	And yours _isn't_ there!" "Then what is?" "Nothing." "Let's have a look," said Eeyore, and he turned slowly round to the place where his tail had been a little while ago,
+	narrator	and then, finding that he couldn't catch it up, he turned round the other way, until he came back to where he was at first,
+	narrator	and then he put his head down and looked between his front legs, and at last he said,
+	narrator	with a long, sad sigh, "I believe you're right." "Of course I'm right," said Pooh. "That Accounts for a Good Deal,"
+	narrator	said Eeyore gloomily. "It Explains Everything. No Wonder." "You must have left it somewhere," said Winnie-the-Pooh.
+	narrator	"Somebody must have taken it," said Eeyore. "How Like Them," he added, after a long silence.
+	narrator	Pooh felt that he ought to say something helpful about it, but didn't quite know what.
+	narrator	So he decided to do something helpful instead. "Eeyore," he said solemnly, "I, Winnie-the-Pooh, will find your tail for you."
+	narrator	"Thank you, Pooh," answered Eeyore. "You're a real friend," said he. "Not like Some," he said.
+	narrator	So Winnie-the-Pooh went off to find Eeyore's tail. It was a fine spring morning in the forest as he started out.
+	narrator	Little soft clouds played happily in a blue sky, skipping from time to time in front of the sun as if they had come to put it out,
+	narrator	and then sliding away suddenly so that the next might have his turn. Through them and between them the sun shone bravely; and a copse which had worn its firs all the year round seemed old and dowdy now beside the new green lace which the beeches had put on
+	narrator	so prettily. Through copse and spinney marched Bear; down open slopes of gorse and heather, over rocky beds of streams,
+	narrator	up steep banks of sandstone into the heather again; and so at last, tired and hungry,
+	narrator	to the Hundred Acre Wood. For it was in the Hundred Acre Wood that Owl lived.
+	winnie-the-pooh	And if anyone knows anything about anything, it's Owl who knows something about something, or my name's not Winnie-the-Pooh,
+	winnie-the-pooh	Which it is, So there you are.
+	narrator	Owl lived at The Chestnuts, an old-world residence of great charm, which was grander than anybody else's,
+	narrator	or seemed so to Bear, because it had both a knocker _and_ a bell-pull. Underneath the knocker there was a notice which said: PLES RING IF AN RNSER IS REQIRD.
+	narrator	Underneath the bell-pull there was a notice which said: PLEZ CNOKE IF AN RNSR IS NOT REQID.
+	narrator	These notices had been written by Christopher Robin, who was the only one in the forest who could spell; for Owl,
+	narrator	wise though he was in many ways, able to read and write and spell his own name WOL,
+	narrator	yet somehow went all to pieces over delicate words like MEASLES and BUTTEREDTOAST.
+	winnie-the-pooh	Winnie-the-Pooh read the two notices very carefully, first from left to right, and afterwards, in case he had missed some of it,
+	winnie-the-pooh	from right to left. Then, to make quite sure, he knocked and pulled the knocker, and he pulled and knocked the bell-rope,
+	winnie-the-pooh	and he called out in a very loud voice, Owl! I require an answer! It's Bear speaking.
+	narrator	And the door opened, and Owl looked out.
+	owl	Hallo, Pooh, How's things?
+	winnie-the-pooh	Terrible and Sad, because Eeyore, who is a friend of mine, has lost his tail. And he's Moping about it.
+	winnie-the-pooh	So could you very kindly tell me how to find it for him?
+	owl	Well, the customary procedure in such cases is as follows.
+	winnie-the-pooh	What does Crustimoney Proseedcake mean? For I am a Bear of Very Little Brain, and long words Bother me.
+	owl	It means the Thing to Do.
+	winnie-the-pooh	As long as it means that, I don't mind, said Pooh humbly.
+	owl	The thing to do is as follows. First, Issue a Reward.
+	winnie-the-pooh	Just a moment, said Pooh, holding up his paw. What do we do to this--what you were saying?
+	winnie-the-pooh	You sneezed just as you were going to tell me.
+	owl	I _didn't_ sneeze.
+	winnie-the-pooh	Yes, you did, Owl.
+	owl	Excuse me, Pooh, I didn't. You can't sneeze without knowing it.
+	winnie-the-pooh	Well, you can't know it without something having been sneezed.
+	owl	What I _said_ was, 'First _Issue_ a Reward'.
+	winnie-the-pooh	You're doing it again, said Pooh sadly.
+	owl	A Reward! We write a notice to say that we will give a large something to anybody who finds Eeyore's tail.
+	pooh	I see, I see, Talking about large somethings, I generally have a small something about now--about this time in the morning,
+	pooh	just a mouthful of condensed milk or whatnot, with perhaps a lick of honey----
+	owl	Well, then, we write out this notice, and we put it up all over the forest.
+	pooh	A lick of honey, or--or not, as the case may be.
+	narrator	And he gave a deep sigh, and tried very hard to listen to what Owl was saying.
+	narrator	But Owl went on and on, using longer and longer words, until at last he came back to where he started,
+	narrator	and he explained that the person to write out this notice was Christopher Robin.
+	owl	It was he who wrote the ones on my front door for me. Did you see them,
+	owl	Pooh?
+	narrator	For some time now Pooh had been saying "Yes" and "No" in turn, with his eyes shut,
+	narrator	to all that Owl was saying, and having said, "Yes, yes," last time, he said "No,
+	narrator	not at all," now, without really knowing what Owl was talking about.
+	owl	Didn't you see them?
+	narrator	said Owl, a little surprised. "Come and look at them now." So they went outside. And Pooh looked at the knocker and the notice below it,
+	narrator	and he looked at the bell-rope and the notice below it, and the more he looked at the bell-rope,
+	narrator	the more he felt that he had seen something like it, somewhere else, sometime before.
+	owl	Handsome bell-rope, isn't it?
+	pooh	Yes.
+	narrator	It reminds me of something," he said, "but I can't think what. Where did you get it?
+	narrator	I just came across it in the Forest. It was hanging over a bush, and I thought at first somebody lived there,
+	narrator	so I rang it, and nothing happened, and then I rang it again very loudly, and it came off in my hand,
+	narrator	and as nobody seemed to want it, I took it home, and----
+	owl	Pooh,
+	pooh	You made a mistake. Somebody did want it.
+	owl	Who?
+	pooh	Eeyore. My dear friend Eeyore. He was--he was fond of it.
+	owl	Fond of it?
+	pooh	Attached to it," said Winnie-the-Pooh sadly.
+	narrator	So with these words he unhooked it, and carried it back to Eeyore; and when Christopher Robin had nailed it on in its right place again,
+	narrator	Eeyore frisked about the forest, waving his tail so happily that Winnie-the-Pooh came over all funny,
+	narrator	and had to hurry home for a little snack of something to sustain him. And, wiping his mouth half an hour afterwards,
+	narrator	he sang to himself proudly:
+	pooh	Who found the Tail? I, At a quarter to two (Only it was quarter to eleven really),
+	pooh	I found the Tail!

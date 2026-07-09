@@ -1,0 +1,186 @@
+	narrator	One day, when Christopher Robin and Winnie-the-Pooh and Piglet were all talking together, Christopher Robin finished the mouthful he was eating and said carelessly:
+	christopher robin	I saw a Heffalump to-day, Piglet.
+	piglet	What was it doing?
+	christopher robin	Just lumping along. I don't think it saw me.
+	piglet	I saw one once. At least, I think I did. Only perhaps it wasn't.
+	pooh	So did I, wondering what a Heffalump was like.
+	christopher robin	You don't often see them.
+	piglet	Not now.
+	pooh	Not at this time of year.
+	narrator	Then they all talked about something else, until it was time for Pooh and Piglet to go home together.
+	narrator	At first as they stumped along the path which edged the Hundred Acre Wood, they didn't say much to each other; but when they came to the stream and had helped each other across the stepping stones,
+	narrator	and were able to walk side by side again over the heather, they began to talk in a friendly way about this and that,
+	narrator	and Piglet said,
+	piglet	If you see what I mean, Pooh,
+	pooh	It's just what I think myself, Piglet,
+	piglet	But, on the other hand, Pooh, we must remember,
+	pooh	Quite true, Piglet, although I had forgotten it for the moment.
+	narrator	And then, just as they came to the Six Pine Trees, Pooh looked round to see that nobody else was listening,
+	narrator	and said in a very solemn voice:
+	pooh	Piglet, I have decided something.
+	piglet	What have you decided, Pooh?
+	pooh	I have decided to catch a Heffalump.
+	narrator	Pooh nodded his head several times as he said this, and waited for Piglet to say "How?"
+	narrator	or "Pooh, you couldn't!" or something helpful of that sort, but Piglet said nothing. The fact was Piglet was wishing that he had thought about it first.
+	pooh	I shall do it," said Pooh, after waiting a little longer, "by means of a trap.
+	pooh	And it must be a Cunning Trap, so you will have to help me, Piglet.
+	piglet	Pooh," said Piglet, feeling quite happy again now, "I will." And then he said, How shall we do it?
+	pooh	That's just it. How?
+	narrator	And then they sat down together to think it out. Pooh's first idea was that they should dig a Very Deep Pit,
+	narrator	and then the Heffalump would come along and fall into the Pit, and----
+	piglet	Why?
+	pooh	Why what?
+	piglet	Why would he fall in?
+	narrator	Pooh rubbed his nose with his paw, and said that the Heffalump might be walking along,
+	narrator	humming a little song, and looking up at the sky, wondering if it would rain, and so he wouldn't see the Very Deep Pit until he was half-way down,
+	narrator	when it would be too late.
+	piglet	That's a very good Trap, but supposing it were raining already?
+	narrator	Pooh rubbed his nose again, and said that he hadn't thought of that. And then he brightened up,
+	narrator	and said that, if it were raining already, the Heffalump would be looking at the sky wondering if it would clear up,
+	narrator	and so he wouldn't see the Very Deep Pit until he was half-way down.... When it would be too late.
+	piglet	Now that this point had been explained, he thought it was a Cunning Trap.
+	narrator	Pooh was very proud when he heard this, and he felt that the Heffalump was as good as caught already,
+	narrator	but there was just one other thing which had to be thought about, and it was this.
+	narrator	Where should they dig the Very Deep Pit?
+	piglet	The best place would be somewhere where a Heffalump was, just before he fell into it,
+	piglet	only about a foot farther on.
+	pooh	But then he would see us digging it.
+	piglet	Not if he was looking at the sky.
+	pooh	He would Suspect, if he happened to look down.
+	narrator	He thought for a long time and then added sadly, "It isn't as easy as I thought.
+	narrator	I suppose that's why Heffalumps hardly ever get caught."
+	piglet	That must be it.
+	narrator	They sighed and got up; and when they had taken a few gorse prickles out of themselves they sat down again; and all the time Pooh was saying to himself,
+	narrator	"If only I could think of something!" For he felt sure that a Very Clever Brain could catch a Heffalump if only he knew the right way to go about it.
+	pooh	Suppose," he said to Piglet, "you wanted to catch me, how would you do it?
+	piglet	Well," said Piglet, "I should do it like this. I should make a Trap, and I should put a Jar of Honey in the Trap,
+	piglet	and you would smell it, and you would go in after it, and----
+	pooh	And I would go in after it," said Pooh excitedly, "only very carefully so as not to hurt myself,
+	pooh	and I would get to the Jar of Honey, and I should lick round the edges first of all,
+	pooh	pretending that there wasn't any more, you know, and then I should walk away and think about it a little,
+	pooh	and then I should come back and start licking in the middle of the jar, and then----
+	piglet	Yes, well never mind about that. There you would be, and there I should catch you.
+	piglet	Now the first thing to think of is, What do Heffalumps like? I should think acorns,
+	piglet	shouldn't you? We'll get a lot of----I say, wake up, Pooh!
+	narrator	Pooh, who had gone into a happy dream, woke up with a start, and said that Honey was a much more trappy thing than Haycorns.
+	narrator	Piglet didn't think so; and they were just going to argue about it, when Piglet remembered that,
+	narrator	if they put acorns in the Trap, he would have to find the acorns, but if they put honey,
+	narrator	then Pooh would have to give up some of his own honey, so he said,
+	piglet	All right, honey then," just as Pooh remembered it too, and was going to say,
+	pooh	All right, haycorns.
+	piglet	Honey," said Piglet to himself in a thoughtful way, as if it were now settled. "I'll dig the pit,
+	piglet	while you go and get the honey.
+	pooh	Very well," said Pooh, and he stumped off.
+	narrator	As soon as he got home, he went to the larder; and he stood on a chair,
+	narrator	and took down a very large jar of honey from the top shelf. It had HUNNY written on it,
+	narrator	but, just to make sure, he took off the paper cover and looked at it, and it _looked_ just like honey.
+	pooh	But you never can tell, I remember my uncle saying once that he had seen cheese just this colour.
+	narrator	So he put his tongue in, and took a large lick.
+	pooh	Yes, it is. No doubt about that. And honey, I should say, right down to the bottom of the jar.
+	pooh	Unless, of course, somebody put cheese in at the bottom just for a joke. Perhaps I had better go a _little_ further ...
+	pooh	just in case ... in case Heffalumps _don't_ like cheese ... same as me.... Ah!
+	narrator	And he gave a deep sigh.
+	pooh	I _was_ right. It _is_ honey, right the way down.
+	narrator	Having made certain of this, he took the jar back to Piglet, and Piglet looked up from the bottom of his Very Deep Pit,
+	narrator	and said,
+	piglet	Got it?
+	pooh	Yes, but it isn't quite a full jar, and he threw it down to Piglet, and Piglet said,
+	piglet	No, it isn't! Is that all you've got left?
+	pooh	Yes.
+	narrator	Because it was. So Piglet put the jar at the bottom of the Pit, and climbed out,
+	narrator	and they went off home together.
+	piglet	Well, good night, Pooh,
+	narrator	said Piglet, when they had got to Pooh's house.
+	piglet	And we meet at six o'clock to-morrow morning by the Pine Trees, and see how many Heffalumps we've got in our Trap.
+	pooh	Six o'clock, Piglet. And have you got any string?
+	piglet	No. Why do you want string?
+	pooh	To lead them home with.
+	piglet	Oh! ... I _think_ Heffalumps come if you whistle.
+	pooh	Some do and some don't. You never can tell with Heffalumps. Well, good night!
+	piglet	Good night!
+	narrator	And off Piglet trotted to his house TRESPASSERS W, while Pooh made his preparations for bed.
+	narrator	Some hours later, just as the night was beginning to steal away, Pooh woke up suddenly with a sinking feeling.
+	narrator	He had had that sinking feeling before, and he knew what it meant. He was hungry.
+	narrator	So he went to the larder, and he stood on a chair and reached up to the top shelf,
+	narrator	and found--nothing.
+	pooh	That's funny,
+	narrator	he thought.
+	pooh	I know I had a jar of honey there. A full jar, full of honey right up to the top,
+	pooh	and it had HUNNY written on it, so that I should know it was honey. That's very funny.
+	narrator	And then he began to wander up and down, wondering where it was and murmuring a murmur to himself.
+	narrator	Like this: It's very, very funny, 'Cos I _know_ I had some honey; 'Cos it had a label on,
+	narrator	Saying HUNNY. A goloptious full-up pot too, And I don't know where it's got to, No,
+	narrator	I don't know where it's gone-- Well, it's funny. He had murmured this to himself three times in a singing sort of way,
+	narrator	when suddenly he remembered. He had put it into the Cunning Trap to catch the Heffalump.
+	narrator	- Christopher Robin (male): A young boy who is friends with Pooh and Piglet. He saw a Heffalump and mentions it to the others,
+	narrator	showing he is observant of his surroundings. He is practical and calm when dealing with Pooh's predicament,
+	narrator	laughing at the situation rather than being frightened. - Winnie-the-Pooh (*male): A large, friendly bear who is curious about Heffalumps and decides to catch one using a trap.
+	narrator	He is enthusiastic but somewhat naive, getting himself stuck in his own honey jar while trying to retrieve it.
+	narrator	He is kind-hearted but easily distracted by honey. - Piglet (*male): A small, timid pig who is initially afraid of Heffalumps but becomes involved in Pooh's plan to catch one.
+	narrator	He is thoughtful and practical, suggesting they use honey instead of acorns for the trap. He becomes frightened when he sees what appears to be a Heffalump and runs away.
+	narrator	- Heffalump (*male): A mysterious creature that appears to be a large, headless being with no clear form.
+	narrator	It is described as having an enormous head that looks like a jar, and it makes loud noises when frightened.
+	narrator	It is not actually dangerous but causes fear due to its strange appearance. PASSAGE:
+	pooh	Bother! It all comes of trying to be kind to Heffalumps.
+	narrator	And he got back into bed. But he couldn't sleep. The more he tried to sleep,
+	narrator	the more he couldn't. He tried Counting Sheep, which is sometimes a good way of getting to sleep,
+	narrator	and, as that was no good, he tried counting Heffalumps. And that was worse. Because every Heffalump that he counted was making straight for a pot of Pooh's honey,
+	narrator	and eating it all. For some minutes he lay there miserably, but when the five hundred and eighty-seventh Heffalump was licking its jaws,
+	narrator	and saying to itself, "Very good honey this, I don't know when I've tasted better," Pooh could bear it no longer.
+	narrator	He jumped out of bed, he ran out of the house, and he ran straight to the Six Pine Trees.
+	narrator	The Sun was still in bed, but there was a lightness in the sky over the Hundred Acre Wood which seemed to show that it was waking up and would soon be kicking off the clothes.
+	narrator	In the half-light the Pine Trees looked cold and lonely, and the Very Deep Pit seemed deeper than it was,
+	narrator	and Pooh's jar of honey at the bottom was something mysterious, a shape and no more.
+	narrator	But as he got nearer to it his nose told him that it was indeed honey,
+	narrator	and his tongue came out and began to polish up his mouth, ready for it.
+	pooh	Bother! A Heffalump has been eating it!
+	narrator	And then he thought a little and said, "Oh, no, I did. I forgot." Indeed, he had eaten most of it.
+	narrator	But there was a little left at the very bottom of the jar, and he pushed his head right in,
+	narrator	and began to lick.... By and by Piglet woke up. As soon as he woke he said to himself,
+	narrator	"Oh!" Then he said bravely, "Yes," and then, still more bravely, "Quite so." But he didn't feel very brave,
+	narrator	for the word which was really jiggeting about in his brain was "Heffalumps." What was a Heffalump like?
+	narrator	Was it Fierce? Did it come when you whistled? And how did it come? Was it Fond of Pigs at all?
+	narrator	If it was Fond of Pigs, did it make any difference what sort of Pig? Supposing it was Fierce with Pigs,
+	narrator	would it make any difference if the Pig had a grandfather called TRESPASSERS WILLIAM? He didn't know the answer to any of these questions ...
+	narrator	and he was going to see his first Heffalump in about an hour from now! Of course Pooh would be with him,
+	narrator	and it was much more Friendly with two. But suppose Heffalumps were Very Fierce with Pigs and Bears?
+	narrator	Wouldn't it be better to pretend that he had a headache, and couldn't go up to the Six Pine Trees this morning?
+	narrator	But then suppose that it was a very fine day, and there was no Heffalump in the trap,
+	narrator	here he would be, in bed all the morning, simply wasting his time for nothing. What should he do?
+	narrator	And then he had a Clever Idea. He would go up very quietly to the Six Pine Trees now,
+	narrator	peep very cautiously into the Trap, and see if there was a Heffalump there. And if there was,
+	narrator	he would go back to bed, and if there wasn't, he wouldn't. So off he went.
+	narrator	At first he thought that there wouldn't be a Heffalump in the Trap, and then he thought that there would,
+	narrator	and as he got nearer he was _sure_ that there would, because he could hear it heffalumping about it like anything.
+	piglet	Oh, dear, oh, dear, oh, dear!
+	narrator	And he wanted to run away. But somehow, having got so near, he felt that he must just see what a Heffalump was like.
+	narrator	So he crept to the side of the Trap and looked in.... And all the time Winnie-the-Pooh had been trying to get the honey-jar off his head.
+	narrator	The more he shook it, the more tightly it stuck.
+	winnie-the-pooh	_Bother!_ Oh, help! Ow!
+	narrator	And he tried bumping it against things, but as he couldn't see what he was bumping it against,
+	narrator	it didn't help him; and he tried to climb out of the Trap, but as he could see nothing but jar,
+	narrator	and not much of that, he couldn't find his way. So at last he lifted up his head,
+	narrator	jar and all, and made a loud, roaring noise of Sadness and Despair ... and it was at that moment that Piglet looked down.
+	piglet	Help, help! a Heffalump, a Horrible Heffalump! Help, help, a Herrible Hoffalump! Hoff, Hoff, a Hellible Horralump!
+	piglet	Holl, Holl, a Hoffable Hellerump!
+	narrator	And he didn't stop crying and scampering until he got to Christopher Robin's house.
+	christopher robin	Whatever's the matter, Piglet?
+	piglet	Heff a Heff--a Heff--a Heffalump.
+	christopher robin	Where?
+	piglet	Up there waving his paw.
+	christopher robin	What did it look like?
+	piglet	Like--like----It had the biggest head you ever saw, Christopher Robin. A great enormous thing, like--like nothing.
+	piglet	A huge big--well, like a--I don't know--like an enormous big nothing. Like a jar.
+	christopher robin	Well, I shall go and look at it. Come on.
+	narrator	Piglet wasn't afraid if he had Christopher Robin with him, so off they went....
+	piglet	I can hear it, can't you?
+	christopher robin	I can hear _something_.
+	narrator	It was Pooh bumping his head against a tree-root he had found.
+	piglet	There! Isn't it _awful_?
+	narrator	And he held on tight to Christopher Robin's hand. Suddenly Christopher Robin began to laugh ...
+	narrator	and he laughed ... and he laughed ... and he laughed. And while he was still laughing--_Crash_ went the Heffalump's head against the tree-root,
+	narrator	Smash went the jar, and out came Pooh's head again.... Then Piglet saw what a Foolish Piglet he had been,
+	narrator	and he was so ashamed of himself that he ran straight off home and went to bed with a headache.
+	narrator	But Christopher Robin and Pooh went home to breakfast together.
+	christopher robin	Oh, Bear! How I do love you!
+	winnie-the-pooh	So do I

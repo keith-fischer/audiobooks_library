@@ -1,0 +1,8 @@
+David Balfour	*male	The protagonist of the story, a young man traveling to the house of Shaws in search of a position. He is described as modest and determined, willing to face potential danger to prove himself. His father is deceased.
+*Ebenezer Balfour	*male	The laird of Shaws, also known as Mr. Balfour of the Shaws. He is the intended recipient of David's letter of introduction and appears to be a man of considerable wealth and status, though his reputation is questionable according to local gossip.
+*Jennet Clouston	*female	A woman who curses the house of Shaws and its inhabitants, claiming that 'blood built it; blood stopped the building of it; blood shall bring it down.' She is described as having a 'malignant anger' and speaking in an 'eldritch sing-song.'
+*Mr. Campbell	*male	A figure mentioned as David's employer or patron at Essendean, whom David considers returning to if he could. He is a landowner or gentleman of some standing.
+The carter	*male	A man who drives a cart and gives David directions about the house of Shaws. He warns David to 'keep clear of the Shaws' and seems suspicious of David's intentions.
+The barber	*male	A dapper man with a white wig who works as a barber and is described as a gossip. He gives David cryptic answers about Mr. Balfour of the Shaws and questions David's motives.
+The stout, dark, sour-looking woman	*female	A woman who points David toward the house of Shaws and delivers a curse against it. She is described as having 'a malignant anger' and speaks in an 'eldritch sing-song.'
+The man with the blunderbuss	*male	An elderly man who appears at a first-storey window with a blunderbuss, questioning David and eventually letting him in. He seems to be the housekeeper or a senior servant at Shaws.

@@ -1,0 +1,9 @@
+Alan	male	A Stewart clan member, known for his bravery and loyalty to friends. He stays with the narrator despite danger, hiding during the day and visiting at night. Skilled in sword fighting and music, particularly piping.
+David Balfour	male	The narrator, a young man who has been wounded and is recovering in Balquhidder. He is of uncertain parentage but claims to be related to the Balfour family of Baith. He is intelligent and diplomatic, though embarrassed by his lack of knowledge about his lineage.
+*Mrs. Maclaren	female	The hostess of the Maclaren household where David recovers. She shows great hospitality to Alan, treating him as a distinguished guest.
+Duncan Dhu	male	The host of the Maclaren household, a pipe player who is friendly and musical. He helps facilitate the reconciliation between Alan and Robin Oig.
+*James More	*male	Rob Roy's eldest son, leader of the Macgregors in Balquhidder. He is imprisoned in Edinburgh Castle awaiting trial.
+Robin Oig	male	One of Rob Roy's sons, known for his violent behavior and legal troubles. He is a Macgregor clan member who has been accused of forcing marriage. Despite his criminal reputation, he is skilled in piping and displays pride in his heritage.
+*Macgregor of Macgregor	*male	The chief of the Macgregor clan, in exile. He is the father of James More and Robin Oig.
+*Ardshiel	*male	Alan's kinsman and captain, who had a confrontation with someone named Macgregor-Campbell in the past.
+*Macgregor-Campbell	*male	A man who was the father of Robin Oig and James More, known for his clan's outlaw status. He is described as having a 'Campbell' name.

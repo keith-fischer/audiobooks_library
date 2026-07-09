@@ -1,0 +1,18 @@
+Jonathan Harker	male	A solicitor who is investigating the mysterious movements of Count Dracula. He keeps a detailed diary and is actively pursuing leads about the Count's activities, including tracking boxes of earth that have been moved from Carfax to various locations in London.
+*Thomas Snelling	male	A workman who was involved in transporting boxes from Carfax. He is described as being too drunk to remember details, but his wife provides information about his role as an assistant to Smollet.
+Joseph Smollet	male	A mate who was responsible for delivering boxes from Carfax. He is described as a decent, intelligent fellow and provides information about the destinations of boxes that were delivered to Chicksand Street and Jamaica Lane.
+*Mina Harker	female	Jonathan's wife who is kept in the dark about his investigations. She appears pale and tired, and shows signs of distress from not being included in the dangerous work they are undertaking.
+Sam Bloxam	*male	A workman who transported boxes between Carfax and a house in Piccadilly. He is described as rough of speech and bearing, but smart enough to provide information about the Count's activities.
+*Dr. Seward	male	A physician who is treating Renfield and keeping a diary of events. He is involved in the investigation alongside Jonathan Harker and others, and has been observing Renfield's strange behavior.
+Van Helsing	*male	An old Dutch doctor who is helping investigate Count Dracula. He is knowledgeable about ancient medicine and has been researching witch and demon cures that might be useful in their fight against the vampire.
+Lord Godalming	male	A friend of Jonathan Harker who is involved in the investigation. He is concerned about the burglary aspect of their mission and wants to find a key to access the house in Piccadilly.
+Quincey Morris	male	A friend of Jonathan Harker who is involved in the investigation. He expresses concern about how they will break into the house in Piccadilly and questions the practicality of their burglary plans.
+Renfield	*male	A lunatic patient under Dr. Seward's care who exhibits strange behavior and moods that seem to correlate with the Count's activities. He has been visited by the Count and shows signs of being influenced or controlled by him.
+*Count de Ville	*male	A foreign nobleman who purchased the house in Piccadilly. He is described as a mysterious figure who paid for the property with notes over the counter and has no known connection to the executors of Mr. Archibald Winter-Suffield.
+Mitchell	*male	A representative of the house agency Mitchell, Sons & Candy who provides information about the purchase of No. 347 Piccadilly but refuses to reveal details about the foreign purchaser.
+Corcoran	*male	The owner of the lodging house where Sam Bloxam was staying. He is described as a surly man who doesn't know the deputy he's looking for.
+The Deputy	*male	A man who works at Corcoran's lodging house and is referred to as the deputy. He helps Jonathan Harker locate Sam Bloxam.
+*The Foreman	*male	A foreman at the construction site where Sam Bloxam worked. He is surly and requires payment to provide information about the work.
+*The Gatekeeper	*male	A gatekeeper at the construction site where Sam Bloxam worked. He is described as surly and requires payment to provide information about the work.
+The Grooms and Helpers	*male	Several workmen who are seen around the mews in Piccadilly. They provide information about the empty house and suggest contacting Mitchell, Sons & Candy.
+*The Attendant	*male	A man assigned to watch Renfield's room overnight. He reports on the patient's behavior and alerts Dr. Seward when something unusual happens.

@@ -1,0 +1,187 @@
+	narrator	Before we had done cleaning out the round-house, a breeze sprang up from a little to the east of north.
+	narrator	This blew off the rain and brought out the sun. And here I must explain; and the reader would do well to look at a map.
+	narrator	On the day when the fog fell and we ran down Alan's boat, we had been running through the Little Minch.
+	narrator	At dawn after the battle, we lay becalmed to the east of the Isle of Canna or between that and Isle Eriska in the chain of the Long Island.
+	narrator	Now to get from there to the Linnhe Loch, the straight course was through the narrows of the Sound of Mull.
+	narrator	But the captain had no chart; he was afraid to trust his brig so deep among the islands; and the wind serving well,
+	narrator	he preferred to go by west of Tiree and come up under the southern coast of the great Isle of Mull.
+	narrator	All day the breeze held in the same point, and rather freshened than died down; and towards afternoon,
+	narrator	a swell began to set in from round the outer Hebrides. Our course, to go round about the inner isles,
+	narrator	was to the west of south, so that at first we had this swell upon our beam,
+	narrator	and were much rolled about. But after nightfall, when we had turned the end of Tiree and began to head more to the east,
+	narrator	the sea came right astern. Meanwhile, the early part of the day, before the swell came up,
+	narrator	was very pleasant; sailing, as we were, in a bright sunshine and with many mountainous islands upon different sides.
+	narrator	Alan and I sat in the round-house with the doors open on each side (the wind being straight astern),
+	narrator	and smoked a pipe or two of the captain's fine tobacco. It was at this time we heard each other's stories,
+	narrator	which was the more important to me, as I gained some knowledge of that wild Highland country on which I was so soon to land.
+	narrator	In those days, so close on the back of the great rebellion, it was needful a man should know what he was doing when he went upon the heather.
+	narrator	It was I that showed the example, telling him all my misfortune; which he heard with great good-nature.
+	david	Why,
+	alan breck stewart	I hate all that were of that name.
+	david	Why,
+	alan breck stewart	he is a man you should be proud to give your hand to. I know nothing I would help a Campbell to,
+	alan breck stewart	unless it was a leaden bullet. I would hunt all of that name like blackcocks. If I lay dying,
+	alan breck stewart	I would crawl upon my knees to my chamber window for a shot at one.
+	david	Why, Alan,
+	alan breck stewart	what ails ye at the Campbells? Well, ye ken very well that I am an Appin Stewart,
+	alan breck stewart	and the Campbells have long harried and wasted those of my name; ay, and got lands of us by treachery--but never with the sword,
+	alan breck stewart	he cried loudly, and with the word brought down his fist upon the table.
+	david	You that are so wasteful of your buttons,
+	alan breck stewart	I can hardly think you would be a good judge of business. Ah! I got my wastefulness from the same man I got the buttons from; and that was my poor father,
+	alan breck stewart	Duncan Stewart, grace be to him! He was the prettiest man of his kindred; and the best swordsman in the Hielands,
+	alan breck stewart	David, and that is the same as to say, in all the world, I should ken,
+	alan breck stewart	for it was him that taught me. He was in the Black Watch, when first it was mustered; and,
+	alan breck stewart	like other gentlemen privates, had a gillie at his back to carry his firelock for him on the march.
+	alan breck stewart	Well, the King, it appears, was wishful to see Hieland swordsmanship; and my father and three more were chosen out and sent to London town,
+	alan breck stewart	to let him see it at the best. So they were had into the palace and showed the whole art of the sword for two hours at a stretch,
+	alan breck stewart	before King George and Queen Carline, and the Butcher Cumberland, and many more of whom I havenae mind.
+	alan breck stewart	And when they were through, the King (for all he was a rank usurper) spoke them fair and gave each man three guineas in his hand.
+	alan breck stewart	Now, as they were going out of the palace, they had a porter's lodge to go by; and it came in on my father,
+	alan breck stewart	as he was perhaps the first private Hieland gentleman that had ever gone by that door,
+	alan breck stewart	it was right he should give the poor porter a proper notion of their quality. So he gives the King's three guineas into the man's hand,
+	alan breck stewart	as if it was his common custom; the three others that came behind him did the same; and there they were on the street,
+	alan breck stewart	never a penny the better for their pains. Some say it was one, that was the first to fee the King's porter; and some say it was another; but the truth of it is,
+	alan breck stewart	that it was Duncan Stewart, as I am willing to prove with either sword or pistol.
+	alan breck stewart	And that was the father that I had, God rest him!
+	david	I think he was not the man to leave you rich,
+	alan breck stewart	That's true, He left me my breeks to cover me, and little besides. And that was how I came to enlist,
+	alan breck stewart	which was a black spot upon my character at the best of times, and would still be a sore job for me if I fell among the red-coats.
+	david	What,
+	alan breck stewart	were you in the English army? That was I, But I deserted to the right side at Preston Pans--and that's some comfort.
+	david	I could scarcely share this view: holding desertion under arms for an unpardonable fault in honour.
+	david	But for all I was so young, I was wiser than say my thought. Dear, dear,
+	alan breck stewart	the punishment is death. Ay, if they got hands on me, it would be a short shrift and a lang tow for Alan!
+	alan breck stewart	But I have the King of France's commission in my pocket, which would aye be some protection.
+	david	I misdoubt it much,
+	alan breck stewart	I have doubts mysel', said Alan drily.
+	narrator	- Alan Breck Stewart (male): A Highland clansman and former soldier in the English army who deserted to the Jacobite side.
+	narrator	He is a member of the Appin Stewart clan, known for his swordsmanship and fierce loyalty to his chief Ardshiel.
+	narrator	He has a deep hatred for the Campbell clan, particularly Colin Campbell of Glenure known as the Red Fox.
+	narrator	He is described as skilled in music, poetry, fishing, and fencing. - David (male): The narrator of the story,
+	narrator	a young man who is traveling with Alan Breck Stewart. He is described as a Whig and relatively inexperienced,
+	narrator	being 'so young' but wiser than his thoughts suggest. He shows respect for Alan's character and is curious about Highland affairs.
+	narrator	- Duncan Stewart (*male): Alan Breck's father, a former soldier in the Black Watch who was known for his swordsmanship and had been chosen to demonstrate Highland sword skills before King George and Queen Caroline in London.
+	narrator	- Ardshiel (*male): The chief of the Appin Stewart clan, who was forced into exile after the defeat at Culloden.
+	narrator	He is described as a man of great stature and noble blood, now living in France but maintaining his clan's loyalty.
+	narrator	- James Stewart (*male): A relative of Ardshiel and Alan's father's friend, who serves as the agent for collecting rents from the clan members to support Ardshiel in exile.
+	narrator	He is described as a man who manages the financial affairs of the clan. - Colin Campbell of Glenure (*male): Known as the Red Fox,
+	narrator	a Campbell who has been appointed King's factor on Appin lands. He is described as having red hair and being a bitter enemy of the Stewart clan,
+	narrator	who seeks to drive out loyal Stewart tenants. - Sheamus (*male): A nickname for James Stewart,
+	narrator	who is described as Ardshiel's agent and the person who manages the collection of rents from the clan members.
+	narrator	PASSAGE:
+	david	And, good heaven, man, you that are a condemned rebel, and a deserter, and a man of the French King's--what tempts ye back into this country?
+	david	It's a braving of Providence.
+	alan breck stewart	Tut! I have been back every year since forty-six!
+	david	And what brings ye, man?
+	alan breck stewart	Well, ye see, I weary for my friends and country, said he. "France is a braw place,
+	alan breck stewart	nae doubt; but I weary for the heather and the deer. And then I have bit things that I attend to.
+	alan breck stewart	Whiles I pick up a few lads to serve the King of France: recruits, ye see; and that's aye a little money.
+	alan breck stewart	But the heart of the matter is the business of my chief, Ardshiel.
+	david	I thought they called your chief Appin,
+	alan breck stewart	Ay, but Ardshiel is the captain of the clan, said he, which scarcely cleared my mind.
+	alan breck stewart	"Ye see, David, he that was all his life so great a man, and come of the blood and bearing the name of kings,
+	alan breck stewart	is now brought down to live in a French town like a poor and private person.
+	alan breck stewart	He that had four hundred swords at his whistle, I have seen, with these eyes of mine,
+	alan breck stewart	buying butter in the market-place, and taking it home in a kale-leaf. This is not only a pain but a disgrace to us of his family and clan.
+	alan breck stewart	There are the bairns forby, the children and the hope of Appin, that must be learned their letters and how to hold a sword,
+	alan breck stewart	in that far country. Now, the tenants of Appin have to pay a rent to King George; but their hearts are staunch,
+	alan breck stewart	they are true to their chief; and what with love and a bit of pressure, and maybe a threat or two,
+	alan breck stewart	the poor folk scrape up a second rent for Ardshiel. Well, David, I'm the hand that carries it."
+	alan breck stewart	And he struck the belt about his body, so that the guineas rang.
+	david	Do they pay both?
+	alan breck stewart	Ay, David, both, says he.
+	david	What! two rents?
+	alan breck stewart	Ay, David, said he. "I told a different tale to yon captain man; but this is the truth of it.
+	alan breck stewart	And it's wonderful to me how little pressure is needed. But that's the handiwork of my good kinsman and my father's friend,
+	alan breck stewart	James of the Glens: James Stewart, that is: Ardshiel's half-brother. He it is that gets the money in,
+	alan breck stewart	and does the management.
+	narrator	This was the first time I heard the name of that James Stewart, who was afterwards so famous at the time of his hanging.
+	narrator	But I took little heed at the moment, for all my mind was occupied with the generosity of these poor Highlanders.
+	david	I call it noble, I cried. "I'm a Whig, or little better; but I call it noble.
+	alan breck stewart	Ay said he, "ye're a Whig, but ye're a gentleman; and that's what does it. Now,
+	alan breck stewart	if ye were one of the cursed race of Campbell, ye would gnash your teeth to hear tell of it.
+	alan breck stewart	If ye were the Red Fox..." And at that name, his teeth shut together, and he ceased speaking.
+	alan breck stewart	I have seen many a grim face, but never a grimmer than Alan's when he had named the Red Fox.
+	david	And who is the Red Fox?
+	alan breck stewart	Who is he? Well, and I'll tell you that. When the men of the clans were broken at Culloden,
+	alan breck stewart	and the good cause went down, and the horses rode over the fetlocks in the best blood of the north,
+	alan breck stewart	Ardshiel had to flee like a poor deer upon the mountains--he and his lady and his bairns.
+	alan breck stewart	A sair job we had of it before we got him shipped; and while he still lay in the heather,
+	alan breck stewart	the English rogues, that couldnae come at his life, were striking at his rights. They stripped him of his powers; they stripped him of his lands; they plucked the weapons from the hands of his clansmen,
+	alan breck stewart	that had borne arms for thirty centuries; ay, and the very clothes off their backs--so that it's now a sin to wear a tartan plaid,
+	alan breck stewart	and a man may be cast into a gaol if he has but a kilt about his legs.
+	alan breck stewart	One thing they couldnae kill. That was the love the clansmen bore their chief. These guineas are the proof of it.
+	alan breck stewart	And now, in there steps a man, a Campbell, red-headed Colin of Glenure----
+	david	Is that him you call the Red Fox?
+	alan breck stewart	Will ye bring me his brush? cries Alan, fiercely. "Ay, that's the man. In he steps,
+	alan breck stewart	and gets papers from King George, to be so-called King's factor on the lands of Appin.
+	alan breck stewart	And at first he sings small, and is hail-fellow-well-met with Sheamus--that's James of the Glens, my chieftain's agent.
+	alan breck stewart	But by-and-by, that came to his ears that I have just told you; how the poor commons of Appin,
+	alan breck stewart	the farmers and the crofters and the boumen, were wringing their very plaids to get a second rent,
+	alan breck stewart	and send it over-seas for Ardshiel and his poor bairns. What was it ye called it,
+	alan breck stewart	when I told ye?
+	david	I called it noble, Alan,
+	alan breck stewart	said I. And you little better than a common Whig! cries Alan. "But when it came to Colin Roy,
+	alan breck stewart	the black Campbell blood in him ran wild. He sat gnashing his teeth at the wine table.
+	alan breck stewart	What! should a Stewart get a bite of bread, and him not be able to prevent it?
+	alan breck stewart	Ah! Red Fox, if ever I hold you at a gun's end, the Lord have pity upon ye!"
+	alan breck stewart	(Alan stopped to swallow down his anger.) "Well, David, what does he do? He declares all the farms to let.
+	alan breck stewart	And, thinks he, in his black heart, 'I'll soon get other tenants that'll overbid these Stewarts,
+	alan breck stewart	and Maccolls, and Macrobs' (for these are all names in my clan, David); 'and then,' thinks he,
+	alan breck stewart	'Ardshiel will have to hold his bonnet on a French roadside.
+	david	Well, said I, "what followed?
+	alan breck stewart	Alan laid down his pipe, which he had long since suffered to go out, and set his two hands upon his knees.
+	alan breck stewart	Ay, said he, "ye'll never guess that! For these same Stewarts, and Maccolls, and Macrobs (that had two rents to pay,
+	alan breck stewart	one to King George by stark force, and one to Ardshiel by natural kindness) offered him a better price than any Campbell in all broad Scotland; and far he sent seeking them--as far as to the sides of Clyde and the cross of Edinburgh--seeking,
+	alan breck stewart	and fleeching, and begging them to come, where there was a Stewart to be starved and a red-headed hound of a Campbell to be pleased!
+	david	Well, Alan, said I, "that is a strange story, and a fine one, too. And Whig as I may be,
+	david	I am glad the man was beaten.
+	alan breck stewart	Him beaten?
+	narrator	echoed Alan.
+	alan breck stewart	It's little ye ken of Campbells, and less of the Red Fox. Him beaten? No: nor will be,
+	alan breck stewart	till his blood's on the hillside! But if the day comes, David man, that I can find time and leisure for a bit of hunting,
+	alan breck stewart	there grows not enough heather in all Scotland to hide him from my vengeance!
+	david	Man Alan, ye are neither very wise nor very Christian to blow off so many words of anger.
+	david	They will do the man ye call the Fox no harm, and yourself no good. Tell me your tale plainly out.
+	david	What did he next?
+	alan breck stewart	And that's a good observe, David, Troth and indeed, they will do him no harm; the more's the pity!
+	alan breck stewart	And barring that about Christianity (of which my opinion is quite otherwise, or I would be nae Christian),
+	alan breck stewart	I am much of your mind.
+	david	Opinion here or opinion there, it's a kent thing that Christianity forbids revenge.
+	alan breck stewart	Ay it's well seen it was a Campbell taught ye! It would be a convenient world for them and their sort,
+	alan breck stewart	if there was no such a thing as a lad and a gun behind a heather bush!
+	alan breck stewart	But that's nothing to the point. This is what he did.
+	david	Ay come to that.
+	alan breck stewart	Well, David, since he couldnae be rid of the loyal commons by fair means, he swore he would be rid of them by foul.
+	alan breck stewart	Ardshiel was to starve: that was the thing he aimed at. And since them that fed him in his exile wouldnae be bought out--right or wrong,
+	alan breck stewart	he would drive them out. Therefore he sent for lawyers, and papers, and red-coats to stand at his back.
+	alan breck stewart	And the kindly folk of that country must all pack and tramp, every father's son out of his father's house,
+	alan breck stewart	and out of the place where he was bred and fed, and played when he was a callant.
+	alan breck stewart	And who are to succeed them? Bare-leggit beggars! King George is to whistle for his rents; he maun dow with less; he can spread his butter thinner: what cares Red Colin?
+	alan breck stewart	If he can hurt Ardshiel, he has his wish; if he can pluck the meat from my chieftain's table,
+	alan breck stewart	and the bit toys out of his children's hands, he will gang hame singing to Glenure!
+	david	Let me have a word, Be sure, if they take less rents, be sure Government has a finger in the pie.
+	david	It's not this Campbell's fault, man--it's his orders. And if ye killed this Colin to-morrow, what better would ye be?
+	david	There would be another factor in his shoes, as fast as spur can drive.
+	alan breck stewart	Ye're a good lad in a fight, but, man! ye have Whig blood in ye! It's easier than ye would think,
+	alan breck stewart	A bare hillside (ye see) is like all one road; if there's a sentry at one place,
+	alan breck stewart	ye just go by another. And then the heather's a great help. And everywhere there are friends'
+	alan breck stewart	houses and friends' byres and haystacks. And besides, when folk talk of a country covered with troops,
+	alan breck stewart	it's but a kind of a byword at the best. A soldier covers nae mair of it than his boot-soles.
+	alan breck stewart	I have fished a water with a sentry on the other side of the brae, and killed a fine trout; and I have sat in a heather bush within six feet of another,
+	alan breck stewart	and learned a real bonny tune from his whistling. This was it, and whistled me the air.
+	alan breck stewart	And then, besides, it's no sae bad now as it was in forty-six. The Hielands are what they call pacified.
+	alan breck stewart	Small wonder, with never a gun or a sword left from Cantyre to Cape Wrath, but what tenty folk have hidden in their thatch!
+	alan breck stewart	But what I would like to ken, David, is just how long? Not long, ye would think,
+	alan breck stewart	with men like Ardshiel in exile and men like the Red Fox sitting birling the wine and oppressing the poor at home.
+	alan breck stewart	But it's a kittle thing to decide what folk'll bear, and what they will not. Or why would Red Colin be riding his horse all over my poor country of Appin,
+	alan breck stewart	and never a pretty lad to put a bullet in him?
+	narrator	And with this Alan fell into a muse, and for a long time sate very sad and silent.
+	narrator	I will add the rest of what I have to say about my friend, that he was skilled in all kinds of music,
+	narrator	but principally pipe-music; was a well-considered poet in his own tongue; had read several books both in French and English; was a dead shot,
+	narrator	a good angler, and an excellent fencer with the small sword as well as with his own particular weapon.
+	narrator	For his faults, they were on his face, and I now knew them all. But the worst of them,
+	narrator	his childish propensity to take offence and to pick quarrels, he greatly laid aside in my case,
+	narrator	out of regard for the battle of the round-house. But whether it was because I had done well myself,
+	narrator	or because I had been a witness of his own much greater prowess, is more than I can tell.
+	narrator	For though he had a great taste for courage in other men, yet he admired it most in Alan Breck.

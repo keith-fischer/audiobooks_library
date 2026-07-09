@@ -1,0 +1,5 @@
+Tom Sawyer	male	A clever and imaginative boy who devises plans to help Jim escape slavery. He is confident, resourceful, and determined to follow through with his ideas despite moral complexities.
+Huck Finn	male	The narrator who is conflicted about helping Jim escape slavery. He is practical, observant, and struggles with his conscience regarding Tom's plan.
+Jim	*male	A enslaved man who is being held captive in the hut. He is grateful for the help and shows his humanity through his reactions to being discovered.
+*Uncle Silas	male	An adult figure on the plantation who owns Jim and is likely to punish those who help him escape. He believes there are no witches on the plantation.
+The Nigger Man	*male	Jim's caretaker who feeds him and is superstitious about witches. He is kind-hearted but easily frightened, and believes he has been bewitched.

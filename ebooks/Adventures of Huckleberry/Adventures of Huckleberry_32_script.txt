@@ -1,0 +1,117 @@
+	narrator	When I got there it was all still and Sunday-like, and hot and sunshiny; the hands was gone to the fields; and there was them kind of faint dronings of bugs and flies in the air that makes it seem so lonesome and like everybody's dead and gone; and if
+	narrator	a breeze fans along and quivers the leaves it makes you feel mournful, because you feel like it's spirits whispering—spirits that's been dead ever so many years—and you always think they're talking about _you_.
+	narrator	As a general thing it makes a body wish _he_ was dead, too, and done with it all.
+	narrator	Phelps' was one of these little one-horse cotton plantations, and they all look alike. A rail fence round a two-acre yard; a stile made out of logs sawed off and up-ended in steps,
+	narrator	like barrels of a different length, to climb over the fence with, and for the women to stand on when they are going to jump on to a horse; some sickly grass-patches in the big yard,
+	narrator	but mostly it was bare and smooth, like an old hat with the nap rubbed off; big double log-house for the white folks—hewed logs,
+	narrator	with the chinks stopped up with mud or mortar, and these mud-stripes been whitewashed some time or another; round-log kitchen,
+	narrator	with a big broad, open but roofed passage joining it to the house; log smoke-house back of the kitchen; three little log nigger-cabins in a row t'other side the smoke-house; one little hut all by itself away down against the back fence,
+	narrator	and some outbuildings down a piece the other side; ash-hopper and big kettle to bile soap in by the little hut; bench by the kitchen door,
+	narrator	with bucket of water and a gourd; hound asleep there in the sun; more hounds asleep round about; about three shade trees away off in a corner; some currant bushes and gooseberry bushes in one place by the fence; outside of the fence a garden and a watermelon patch; then
+	narrator	the cotton fields begins, and after the fields the woods. I went around and clumb over the back stile by the ash-hopper,
+	narrator	and started for the kitchen. When I got a little ways I heard the dim hum of a spinning-wheel wailing along up and sinking along down again; and then I knowed for certain I wished I was dead—for that _is_ the lonesomest sound in the whole world.
+	narrator	I went right along, not fixing up any particular plan, but just trusting to Providence to put the right words in my mouth when the time come; for I'd noticed that Providence always did put the right words in my mouth if I left it alone.
+	narrator	When I got half-way, first one hound and then another got up and went for me,
+	narrator	and of course I stopped and faced them, and kept still. And such another powwow as they made!
+	narrator	In a quarter of a minute I was a kind of a hub of a wheel,
+	narrator	as you may say—spokes made out of dogs—circle of fifteen of them packed together around me,
+	narrator	with their necks and noses stretched up towards me, a-barking and howling; and more a-coming; you could see them sailing over fences and around corners from everywheres.
+	lize	Begone _you_ Tige! you Spot! begone sah!
+	narrator	and she fetched first one and then another of them a clip and sent them howling,
+	narrator	and then the rest followed; and the next second half of them come back, wagging their tails around me,
+	narrator	and making friends with me. There ain't no harm in a hound, nohow. And behind the woman comes a little nigger girl and two little nigger boys without anything on but tow-linen shirts,
+	narrator	and they hung on to their mother's gown, and peeped out from behind her at me,
+	narrator	bashful, the way they always do. And here comes the white woman running from the house,
+	narrator	about forty-five or fifty year old, bareheaded, and her spinning-stick in her hand; and behind her comes her little white children,
+	narrator	acting the same way the little niggers was doing. She was smiling all over so she could hardly stand—and says:
+	aunt sally phelps	It's _you_, at last!—_ain't_ it?
+	tom sawyer	Yes'm
+	aunt sally phelps	She grabbed me and hugged me tight; and then gripped me by both hands and shook and shook; and the tears come in her eyes,
+	aunt sally phelps	and run down over; and she couldn't seem to hug and shake enough, and kept saying,
+	aunt sally phelps	"You don't look as much like your mother as I reckoned you would; but law sakes,
+	aunt sally phelps	I don't care for that, I'm _so_ glad to see you! Dear, dear, it does seem like I could eat you up!
+	aunt sally phelps	Children, it's your cousin Tom!—tell him howdy.
+	narrator	But they ducked their heads, and put their fingers in their mouths, and hid behind her.
+	narrator	So she run on:
+	aunt sally phelps	Lize, hurry up and get him a hot breakfast right away—or did you get your breakfast on the boat?
+	tom sawyer	I had got it on the boat.
+	aunt sally phelps	So then she started for the house, leading me by the hand, and the children tagging after.
+	aunt sally phelps	When we got there she set me down in a split-bottomed chair, and set herself down on a little low stool in front of me,
+	aunt sally phelps	holding both of my hands, and says: Now I can have a _good_ look at you; and,
+	aunt sally phelps	laws-a-me, I've been hungry for it a many and a many a time, all these long years,
+	aunt sally phelps	and it's come at last! We been expecting you a couple of days and more. What kep'
+	aunt sally phelps	you?—boat get aground?
+	tom sawyer	Yes'm—she—
+	aunt sally phelps	Don't say yes'm—say Aunt Sally. Where'd she get aground?
+	tom sawyer	It warn't the grounding—that didn't keep us back but a little. We blew out a cylinder-head.
+	aunt sally phelps	Good gracious! anybody hurt?
+	tom sawyer	No'm. Killed a nigger.
+	narrator	Well, it’s lucky; because sometimes people do get hurt. Two years ago last Christmas your uncle Silas was coming up from Newrleans on the old _Lally Rook_,
+	narrator	and she blowed out a cylinder-head and crippled a man. And I think he died afterwards.
+	narrator	He was a Baptist. Your uncle Silas knowed a family in Baton Rouge that knowed his people very well.
+	narrator	Yes, I remember now, he _did_ die. Mortification set in, and they had to amputate him.
+	narrator	But it didn’t save him. Yes, it was mortification—that was it. He turned blue all over,
+	narrator	and died in the hope of a glorious resurrection. They say he was a sight to look at.
+	narrator	Your uncle’s been up to the town every day to fetch you. And he’s gone again,
+	narrator	not more’n an hour ago; he’ll be back any minute now. You must a met him on the road,
+	narrator	didn’t you?—oldish man, with a
+	tom sawyer	No, I didn’t see nobody, Aunt Sally. The boat landed just at daylight, and I left my baggage on the wharf-boat and went looking around the town and out a piece in the country,
+	tom sawyer	to put in the time and not get here too soon; and so I come down the back way.
+	aunt sally phelps	Who’d you give the baggage to?
+	tom sawyer	Nobody.
+	aunt sally phelps	Why, child, it’ll be stole!
+	tom sawyer	Not where _I_ hid it I reckon it won’t,
+	aunt sally phelps	How’d you get your breakfast so early on the boat?
+	tom sawyer	The captain see me standing around, and told me I better have something to eat before I went ashore; so he took me in the texas to the officers’
+	tom sawyer	lunch, and give me all I wanted.
+	narrator	I was getting so uneasy I couldn’t listen good. I had my mind on the children all the time; I wanted to get them out to one side and pump them a little,
+	narrator	and find out who I was. But I couldn’t get no show, Mrs. Phelps kept it up and run on so.
+	narrator	Pretty soon she made the cold chills streak all down my back, because she says:
+	aunt sally phelps	But here we’re a-running on this way, and you hain’t told me a word about Sis,
+	aunt sally phelps	nor any of them. Now I’ll rest my works a little, and you start up yourn; just tell me _everything_—tell me all about ’m all every one of ’m; and how they are,
+	aunt sally phelps	and what they’re doing, and what they told you to tell me; and every last thing you can think of.
+	narrator	Well, I see I was up a stump—and up it good. Providence had stood by me this fur all right,
+	narrator	but I was hard and tight aground now. I see it warn’t a bit of use to try to go ahead—I’d _got_ to throw up my hand.
+	narrator	So I says to myself, here’s another place where I got to resk the truth. I opened my mouth to begin; but she grabbed me and hustled me in behind the bed,
+	narrator	and says:
+	aunt sally phelps	Here he comes! Stick your head down lower—there, that’ll do; you can’t be seen now. Don’t you let on you’re here.
+	aunt sally phelps	I’ll play a joke on him. Children, don’t you say a word.
+	narrator	I see I was in a fix now. But it warn’t no use to worry; there warn’t nothing to do but just hold still,
+	narrator	and try and be ready to stand from under when the lightning struck. I had just one little glimpse of the old gentleman when he come in; then the bed hid him.
+	narrator	Mrs. Phelps she jumps for him, and says:
+	aunt sally phelps	Has he come?
+	uncle silas phelps	No,
+	aunt sally phelps	Good-_ness_ gracious! What in the world can have become of him?
+	uncle silas phelps	I can’t imagine,
+	aunt sally phelps	Uneasy! I’m ready to go distracted! He _must_ a come; and you’ve missed him along the road.
+	aunt sally phelps	I _know_ it’s so—something tells me so.
+	uncle silas phelps	Why, Sally, I _couldn’t_ miss him along the road—_you_ know that.
+	aunt sally phelps	But oh, dear, dear, what _will_ Sis say! He must a come! You must a missed him.
+	aunt sally phelps	He—
+	uncle silas phelps	Oh, don’t distress me any more’n I’m already distressed. I don’t know what in the world to make of it.
+	uncle silas phelps	I’m at my wit’s end, and I don’t mind acknowledging ’t I’m right down scared. But there’s no hope that he’s come; for he _couldn’t_ come and me miss him.
+	uncle silas phelps	Sally, it’s terrible—just terrible—something’s happened to the boat, sure!
+	aunt sally phelps	Why, Silas! Look yonder!—up the road!—ain’t that somebody coming?
+	narrator	He sprung to the window at the head of the bed, and that give Mrs. Phelps the chance she wanted.
+	narrator	She stooped down quick at the foot of the bed and give me a pull, and out I come; and when he turned back from the window there she stood,
+	narrator	a-beaming and a-smiling like a house afire, and I standing pretty meek and sweaty alongside. The old gentleman stared,
+	narrator	and says:
+	uncle silas phelps	Why, who’s that?
+	aunt sally phelps	Who do you reckon ’t is?
+	uncle silas phelps	I hain’t no idea. Who _is_ it?
+	aunt sally phelps	It’s _Tom Sawyer!_
+	narrator	By jings, I most slumped through the floor! But there warn’t no time to swap knives; the old man grabbed me by the hand and shook,
+	narrator	and kept on shaking; and all the time how the woman did dance around and laugh and cry; and then how they both did fire off questions about Sid,
+	narrator	and Mary, and the rest of the tribe. But if they was joyful, it warn’t nothing to what I was; for it was like being born again,
+	narrator	I was so glad to find out who I was. Well, they froze to me for two hours; and at last,
+	narrator	when my chin was so tired it couldn’t hardly go any more, I had told them more about my family—I mean the Sawyer family—than ever happened to any six Sawyer families.
+	narrator	And I explained all about how we blowed out a cylinder-head at the mouth of White River,
+	narrator	and it took us three days to fix it. Which was all right, and worked first-rate; because _they_ didn’t know but what it would take three days to fix it.
+	narrator	If I’d a called it a bolthead it would a done just as well. Now I was feeling pretty comfortable all down one side,
+	narrator	and pretty uncomfortable all up the other. Being Tom Sawyer was easy and comfortable, and it stayed easy and comfortable till by-and-by I hear a steamboat coughing along down the river.
+	narrator	Then I says to myself, s'pose Tom Sawyer comes down on that boat? And s'pose he steps in here any minute,
+	narrator	and sings out my name before I can throw him a wink to keep quiet? Well,
+	narrator	I couldn't _have_ it that way; it wouldn't do at all. I must go up the road and waylay him.
+	narrator	So I told the folks I reckoned I would go up to the town and fetch down my baggage.
+	narrator	The old gentleman was for going along with me, but I said no, I could drive the horse myself,
+	narrator	and I druther he wouldn't take no trouble about me.

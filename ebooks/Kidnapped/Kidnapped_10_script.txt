@@ -1,0 +1,122 @@
+	narrator	CHAPTER X THE SIEGE OF THE ROUND-HOUSE But now our time of truce was come to an end.
+	narrator	Those on deck had waited for my coming till they grew impatient; and scarce had Alan spoken,
+	narrator	when the captain showed face in the open door.
+	alan	Stand! and pointed his sword at him. The captain stood, indeed; but he neither winced nor drew back a foot.
+	the captain	A naked sword? This is a strange return for hospitality.
+	alan	Do ye see me? I am come of kings; I bear a king's name. My badge is the oak.
+	alan	Do ye see my sword? It has slashed the heads off mair Whigamores than you have toes upon your feet.
+	alan	Call up your vermin to your back, sir, and fall on! The sooner the clash begins,
+	alan	the sooner ye'll taste this steel throughout your vitals.
+	the captain	David, I'll mind this;
+	narrator	and the sound of his voice went through me with a jar. Next moment he was gone.
+	alan	And now, let your hand keep your head, for the grip is coming.
+	narrator	Alan drew a dirk, which he held in his left hand in case they should run in under his sword.
+	narrator	I, on my part, clambered up into the berth with an armful of pistols and something of a heavy heart,
+	narrator	and set open the window where I was to watch. It was a small part of the deck that I could overlook,
+	narrator	but enough for our purpose. The sea had gone down, and the wind was steady and kept the sails quiet; so that there was a great stillness in the ship,
+	narrator	in which I made sure I heard the sound of muttering voices. A little after, and there came a clash of steel upon the deck,
+	narrator	by which I knew they were dealing out the cutlasses and one had been let fall; and after that,
+	narrator	silence again. I do not know if I was what you call afraid; but my heart beat like a bird's,
+	narrator	both quick and little; and there was a dimness came before my eyes which I continually rubbed away,
+	narrator	and which continually returned. As for hope, I had none; but only a darkness of despair and a sort of anger against all the world that made me long to sell my life as dear as I was able.
+	narrator	I tried to pray, I remember, but that same hurry of my mind, like a man running,
+	narrator	would not suffer me to think upon the words; and my chief wish was to have the thing begin and be done with it.
+	narrator	It came all of a sudden when it did, with a rush of feet and a roar,
+	narrator	and then a shout from Alan, and a sound of blows and some one crying out as if hurt.
+	narrator	I looked back over my shoulder, and saw Mr. Shuan in the doorway, crossing blades with Alan.
+	narrator	"That's him that killed the boy!" I cried.
+	alan	Look to your window!
+	narrator	and as I turned back to my place, I saw him pass his sword through the mate's body.
+	narrator	It was none too soon for me to look to my own part; for my head was scarce back at the window,
+	narrator	before five men, carrying a spare yard for a battering-ram, ran past me and took post to drive the door in.
+	narrator	I had never fired with a pistol in my life, and not often with a gun; far less against a fellow-creature.
+	narrator	But it was now or never; and just as they swang the yard, I cried out: "Take that!"
+	narrator	and shot into their midst. I must have hit one of them, for he sang out and gave back a step,
+	narrator	and the rest stopped as if a little disconcerted. Before they had time to recover, I sent another ball over their heads; and at my third shot (which went as wide as the second) the whole party threw down the yard and ran for it.
+	narrator	Then I looked round again into the deck-house. The whole place was full of the smoke of my own firing,
+	narrator	just as my ears seemed to be burst with the noise of the shots. But there was Alan,
+	narrator	standing as before; only now his sword was running blood to the hilt, and himself so swelled with triumph and fallen into so fine an attitude,
+	narrator	that he looked to be invincible. Right before him on the floor was Mr. Shuan, on his hands and knees; the blood was pouring from his mouth,
+	narrator	and he was sinking slowly lower, with a terrible, white face; and just as I looked,
+	narrator	some of those from behind caught hold of him by the heels and dragged him bodily out of the round-house.
+	narrator	I believe he died as they were doing it.
+	alan	There's one of your Whigs for ye! and then turning to me, he asked if I had done much execution.
+	narrator	I told him I had winged one, and thought it was the captain.
+	alan	And I've settled two, No, there's not enough blood let; they'll be back again. To your watch,
+	alan	David. This was but a dram before meat.
+	narrator	I settled back to my place, re-charging the three pistols I had fired, and keeping watch with both eye and ear.
+	narrator	Our enemies were disputing not far off upon the deck, and that so loudly that I could hear a word or two above the washing of the seas.
+	narrator	"It was Shuan bauchled it," I heard one say. "Bungled." And another answered him with a "Wheesht,
+	narrator	man! He's paid the piper." After that the voices fell again into the same muttering as before.
+	narrator	Only now, one person spoke most of the time, as though laying down a plan, and first one and then another answered him briefly,
+	narrator	like men taking orders. By this, I made sure they were coming on again, and told Alan.
+	alan	It's what we have to pray for, Unless we can give them a good distaste of us,
+	alan	and done with it, there'll be nae sleep for either you or me. But this time,
+	alan	mind, they'll be in earnest.
+	narrator	By this, my pistols were ready, and there was nothing to do but listen and wait.
+	narrator	While the brush lasted, I had not the time to think if I was frightened; but now,
+	narrator	when all was still again, my mind ran upon nothing else. The thought of the sharp swords and the cold steel was strong in me; and presently,
+	narrator	when I began to hear stealthy steps and a brushing of men's clothes against the round-house wall,
+	narrator	and knew they were taking their places in the dark, I could have found it in my mind to cry out aloud.
+	narrator	All this was upon Alan's side; and I had begun to think my share of the fight was at an end,
+	narrator	when I heard some one drop softly on the roof above me. Then there came a single call on the sea-pipe,
+	narrator	and that was the signal. A knot of them made one rush of it, cutlass in hand,
+	narrator	against the door; and at the same moment, the glass of the skylight was dashed in a thousand pieces,
+	narrator	and a man leaped through and landed on the floor. Before he got his feet, I had clapped a pistol to his back,
+	narrator	and might have shot him, too; only at the touch of him (and him alive) my whole flesh misgave me,
+	narrator	and I could no more pull the trigger than I could have flown. He had dropped his cutlass as he jumped,
+	narrator	and when he felt the pistol, whipped straight round and laid hold of me, roaring out an oath; and at that either my courage came again,
+	narrator	or I grew so much afraid as came to the same thing; for I gave a shriek and shot him in the midst of the body.
+	narrator	He gave the most horrible, ugly groan and fell to the floor. The foot of a second fellow,
+	narrator	whose legs were dangling through the skylight, struck me at the same time upon the head; and at that I snatched another pistol and shot this one through the thigh,
+	narrator	so that he slipped through and tumbled in a lump on his companion's body. There was no talk of missing,
+	narrator	any more than there was time to aim; I clapped the muzzle to the very place and fired.
+	narrator	I might have stood and stared at them for long, but I heard Alan shout as if for help,
+	narrator	and that brought me to my senses. He had kept the door so long; but one of the seamen,
+	narrator	while he was engaged with others, had run in under his guard and caught him about the body.
+	narrator	Alan was dirking him with his left hand, but the fellow clung like a leech. Another had broken in and had his cutlass raised.
+	narrator	The door was thronged with their faces. I thought we were lost, and catching up my cutlass,
+	narrator	fell on them in flank. But I had not time to be of help. The wrestler dropped at last; and Alan,
+	narrator	leaping back to get his distance, ran upon the others like a bull, roaring as he went.
+	narrator	They broke before him like water, turning, and running, and falling one against another in their haste.
+	narrator	The sword in his hands flashed like quicksilver into the huddle of our fleeing enemies; and at every flash there came the scream of a man hurt.
+	narrator	I was still thinking we were lost, when lo! they were all gone, and Alan was driving them along the deck as a sheep-dog chases sheep.
+	narrator	Yet he was no sooner out than he was back again, being as cautious as he was brave; and meanwhile the seamen continued running and crying out as if he was still behind them; and we heard them tumble one upon another into the forecastle,
+	narrator	and clap-to the hatch upon the top. The round-house was like a shambles; three were dead inside,
+	narrator	another lay in his death agony across the threshold; and there were Alan and I victorious and unhurt.
+	alan	Come to my arms! David, I love you like a brother. And O, man, am I no a bonny fighter?
+	narrator	Thereupon he turned to the four enemies, passed his sword clean through each of them, and tumbled them out of doors one after the other.
+	narrator	As he did so, he kept humming and singing and whistling to himself, like a man trying to recall an air; only what he was trying was to make one.
+	narrator	All the while, the flush was in his face, and his eyes were as bright as a five-year-old child's with a new toy.
+	narrator	And presently he sat down upon the table, sword in hand; the air that he was making all the time began to run a little clearer,
+	narrator	and then clearer still; and then out he burst with a great voice into a Gaelic song.
+	narrator	I have translated it here, not in verse (of which I have no skill) but at least in the king's English.
+	narrator	He sang it often afterwards, and the thing became popular; so that I have heard it and had it explained to me,
+	narrator	many's the time. "This is the song of the sword of Alan; The smith made it,
+	narrator	The fire set it; Now it shines in the hand of Alan Breck." "Their eyes were many and bright,
+	narrator	Swift were they to behold, Many the hands they guided: The sword was alone." "The dun deer troop over the hill,
+	narrator	They are many, the hill is one; The dun deer vanish, The hill remains." "Come to me from the hills of heather,
+	narrator	Come from the isles of the sea. O far-beholding eagles, Here is your meat." Now this song which he made (both words and music) in the hour of our victory,
+	narrator	is something less than just to me, who stood beside him in the tussle. Mr. Shuan and five more were either killed outright or thoroughly disabled; but of these,
+	narrator	two fell by my hand, the two that came by the skylight. Four more were hurt,
+	narrator	and of that number, one (and he not the least important) got his hurt from me.
+	narrator	So that, altogether, I did my fair share both of the killing and the wounding, and might have claimed a place in Alan's verses.
+	narrator	But poets have to think upon their rhymes; and in good prose talk, Alan always did me more than justice.
+	narrator	In the meanwhile, I was innocent of any wrong being done me. For not only I knew no word of the Gaelic; but what with the long suspense of the waiting,
+	narrator	and the scurry and strain of our two spirts of fighting, and more than all, the horror I had of some of my own share in it,
+	narrator	the thing was no sooner over than I was glad to stagger to a seat. There was that tightness on my chest that I could hardly breathe; the thought of the two men I had shot sat upon me like a nightmare; and all upon a sudden,
+	narrator	and before I had a guess of what was coming, I began to sob and cry like any child.
+	alan	I'll take the first watch. Ye've done well by me, David, first and last; and I wouldn't lose you for all Appin--no,
+	alan	nor for Breadalbane.
+	narrator	So I made up my bed on the floor; and he took the first spell, pistol in hand and sword on knee,
+	narrator	three hours by the captain's watch upon the wall. Then he roused me up, and I took my turn of three hours; before the end of which it was broad day,
+	narrator	and a very quiet morning, with a smooth, rolling sea that tossed the ship and made the blood run to and fro on the round-house floor,
+	narrator	and a heavy rain that drummed upon the roof. All my watch there was nothing stirring; and by the banging of the helm,
+	narrator	I knew they had even no one at the tiller. Indeed (as I learned afterwards) there were so many of them hurt or dead,
+	narrator	and the rest in so ill a temper, that Mr. Riach and the captain had to take turn and turn like Alan and me,
+	narrator	or the brig might have gone ashore and nobody the wiser. It was a mercy the night had fallen so still,
+	narrator	for the wind had gone down as soon as the rain began. Even as it was,
+	narrator	I judged by the wailing of a great number of gulls that went crying and fishing round the ship,
+	narrator	that she must have drifted pretty near the coast or one of the islands of the Hebrides; and at last,
+	narrator	looking out of the door of the round-house, I saw the great stone hills of Skye on the right hand,
+	narrator	and, a little more astern, the strange isle of Rum.

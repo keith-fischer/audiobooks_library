@@ -1,0 +1,9 @@
+Tom Sawyer	male	A mischievous and adventurous boy who helps Huck Finn steal Jim from slavery. He is clever, theatrical, and enjoys playing pranks. He pretends to be a stranger from Hicksville, Ohio, when visiting the house.
+Huck Finn	male	The narrator of the story, a young boy who has faked his own death to escape his abusive father. He is resourceful and morally conflicted about helping Jim escape slavery.
+*Jim	*male	An enslaved Black man who is being helped by Huck and Tom to escape slavery. He is described as old Miss Watson's Jim.
+Archibald Nichols	*male	An elderly farmer and preacher who lives near the house. He is kind-hearted, simple-minded, and runs a one-horse log church for both worship and schooling.
+Aunt Sally	female	The aunt of the main character, a hospitable but quick-tempered woman who is surprised by Tom's arrival and becomes flustered when he kisses her.
+Uncle Silas	*male	The uncle of the main character, who is also a preacher and runs a one-horse log church. He blesses the dinner and shows hospitality to his guests.
+*Sid Sawyer	*male	Tom Sawyer's younger brother who is pretending to be a stranger from Hicksville, Ohio. He is part of the prank involving Tom's arrival at the house.
+*The King	*male	A con artist character who is part of the Royal Nonesuch show. He gets tarred and feathered by a mob in town.
+*The Duke	*male	A con artist character who is part of the Royal Nonesuch show. He gets tarred and feathered by a mob in town.

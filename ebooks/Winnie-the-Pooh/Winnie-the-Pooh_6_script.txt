@@ -1,0 +1,237 @@
+	narrator	Eeyore, the old grey Donkey, stood by the side of the stream, and looked at himself in the water.
+	eeyore	Pathetic. That's what it is. Pathetic.
+	narrator	He turned and walked slowly down the stream for twenty yards, splashed across it, and walked slowly back on the other side.
+	narrator	Then he looked at himself in the water again.
+	eeyore	As I thought. No better from _this_ side. But nobody minds. Nobody cares. Pathetic, that's what it is.
+	narrator	There was a crackling noise in the bracken behind him, and out came Pooh.
+	pooh	Good morning, Eeyore.
+	eeyore	Good morning, Pooh Bear. If it _is_ a good morning, Which I doubt.
+	pooh	Why, what's the matter?
+	eeyore	Nothing, Pooh Bear, nothing. We can't all, and some of us don't. That's all there is to it.
+	pooh	Can't all _what_?
+	eeyore	Gaiety. Song-and-dance. Here we go round the mulberry bush.
+	pooh	Oh! He thought for a long time, and then asked, What mulberry bush is that?
+	eeyore	Bon-hommy, French word meaning bonhommy, I'm not complaining, but There It Is.
+	narrator	Pooh sat down on a large stone, and tried to think this out. It sounded to him like a riddle,
+	narrator	and he was never much good at riddles, being a Bear of Very Little Brain. So he sang _Cottleston Pie_ instead:
+	pooh	Cottleston, Cottleston, Cottleston Pie, A fly can't bird, but a bird can fly. Ask me a riddle and I reply: _Cottleston,
+	pooh	Cottleston, Cottleston Pie_.
+	narrator	That was the first verse. When he had finished it, Eeyore didn't actually say that he didn't like it,
+	narrator	so Pooh very kindly sang the second verse to him:
+	pooh	Cottleston, Cottleston, Cottleston Pie, A fish can't whistle and neither can I. Ask me a riddle and I reply: _Cottleston,
+	pooh	Cottleston, Cottleston Pie_.
+	narrator	Eeyore still said nothing at all, so Pooh hummed the third verse quietly to himself:
+	pooh	Cottleston, Cottleston, Cottleston Pie, Why does a chicken, I don't know why. Ask me a riddle and I reply: _Cottleston,
+	pooh	Cottleston, Cottleston Pie_.
+	eeyore	That's right. Sing. Umty-tiddly, umty-too. Here we go gathering Nuts and May. Enjoy yourself.
+	pooh	I am.
+	eeyore	Some can.
+	pooh	Why, what's the matter?
+	eeyore	_Is_ anything the matter?
+	pooh	You seem so sad, Eeyore.
+	eeyore	Sad? Why should I be sad? It's my birthday. The happiest day of the year.
+	pooh	Your birthday?
+	eeyore	Of course it is. Can't you see? Look at all the presents I have had. Look at the birthday cake.
+	eeyore	Candles and pink sugar.
+	narrator	Pooh looked--first to the right and then to the left.
+	pooh	Presents? Birthday cake? _Where?_
+	eeyore	Can't you see them?
+	pooh	No.
+	eeyore	Neither can I. Joke, Ha ha!
+	narrator	Pooh scratched his head, being a little puzzled by all this.
+	pooh	But is it really your birthday?
+	eeyore	It is.
+	pooh	Oh! Well, Many happy returns of the day, Eeyore.
+	eeyore	And many happy returns to you, Pooh Bear.
+	pooh	But it isn't _my_ birthday.
+	eeyore	No, it's mine.
+	pooh	But you said 'Many happy returns'----
+	eeyore	Well, why not? You don't always want to be miserable on my birthday, do you?
+	pooh	Oh, I see.
+	eeyore	It's bad enough, being miserable myself, what with no presents and no cake and no candles,
+	eeyore	and no proper notice taken of me at all, but if everybody else is going to be miserable too----
+	narrator	This was too much for Pooh. "Stay there!" he called to Eeyore, as he turned and hurried back home as quick as he could; for he felt that he must get poor Eeyore a present of _some_ sort at once,
+	narrator	and he could always think of a proper one afterwards. Outside his house he found Piglet,
+	narrator	jumping up and down trying to reach the knocker.
+	pooh	Hallo, Piglet.
+	piglet	Hallo, Pooh.
+	pooh	What are _you_ trying to do?
+	piglet	I was trying to reach the knocker, I just came round----
+	pooh	Let me do it for you, So he reached up and knocked at the door. "I have just seen Eeyore,"
+	pooh	he began, "and poor Eeyore is in a Very Sad Condition, because it's his birthday, and nobody has taken any notice of it,
+	pooh	and he's very Gloomy--you know what Eeyore is--and there he was, and----What a long time whoever lives here is answering this door."
+	pooh	And he knocked again.
+	piglet	But Pooh, it's your own house!
+	pooh	Oh! So it is, he said. "Well, let's go in.
+	narrator	So in they went. The first thing Pooh did was to go to the cupboard to see if he had quite a small jar of honey left; and he had,
+	narrator	so he took it down.
+	pooh	I'm giving this to Eeyore, as a present. What are _you_ going to give?
+	piglet	Couldn't I give it too? From both of us?
+	pooh	No, That would _not_ be a good plan.
+	piglet	All right, then, I'll give him a balloon. I've got one left from my party. I'll go and get it now,
+	piglet	shall I?
+	pooh	That, Piglet, is a _very_ good idea. It is just what Eeyore wants to cheer him up.
+	pooh	Nobody can be uncheered with a balloon.
+	narrator	So off Piglet trotted; and in the other direction went Pooh, with his jar of honey.
+	narrator	It was a warm day, and he had a long way to go. He hadn't gone more than half-way when a sort of funny feeling began to creep all over him.
+	narrator	It began at the tip of his nose and trickled all through him and out at the soles of his feet.
+	narrator	It was just as if somebody inside him were saying, "Now then, Pooh, time for a little something."
+	pooh	Dear, dear, I didn't know it was as late as that.
+	narrator	So he sat down and took the top off his jar of honey. "Lucky I brought this with me,"
+	narrator	he thought. "Many a bear going out on a warm day like this would never have thought of bringing a little something with him."
+	narrator	And he began to eat. Now let me see,
+	pooh	I thought, as he took his last lick of the inside of the jar, "where was I going?
+	pooh	Ah, yes, Eeyore." He got up slowly.
+	narrator	And then, suddenly, he remembered. He had eaten Eeyore's birthday present!
+	pooh	Bother! What shall I do? I must give him something.
+	narrator	For a little while he couldn't think of anything. Then he thought: "Well, it's a very nice pot,
+	narrator	even if there's no honey in it, and if I washed it clean, and got somebody to write 'A Happy Birthday'
+	narrator	on it, Eeyore could keep things in it, which might be Useful." So, as he was just passing the Hundred Acre Wood,
+	narrator	he went inside to call on Owl, who lived there.
+	pooh	Good morning, Owl.
+	owl	Good morning, Pooh.
+	pooh	Many happy returns of Eeyore's birthday.
+	owl	Oh, is that what it is?
+	pooh	What are you giving him, Owl?
+	owl	What are you giving him, Pooh?
+	pooh	I'm giving him a Useful Pot to Keep Things In, and I wanted to ask you----
+	owl	Is this it?
+	pooh	Yes, and I wanted to ask you----
+	owl	Somebody has been keeping honey in it.
+	pooh	You can keep anything in it, It's Very Useful like that. And I wanted to ask you----
+	owl	You ought to write 'A Happy Birthday' on it.
+	pooh	That was what I wanted to ask you, Because my spelling is Wobbly. It's good spelling but it Wobbles,
+	pooh	and the letters get in the wrong places. Would you write 'A Happy Birthday' on it for me?
+	owl	It's a nice pot, Looking at it all round. Couldn't I give it too? From both of us?
+	pooh	No, That would not be a good plan. Now I'll just wash it first, and then you can write on it.
+	narrator	Well, he washed the pot out, and dried it, while Owl licked the end of his pencil,
+	narrator	and wondered how to spell "birthday."
+	owl	Can you read, Pooh? There's a notice about knocking and ringing outside my door, which Christopher Robin wrote.
+	owl	Could you read it?
+	pooh	Christopher Robin told me what it said, and then I could.
+	owl	Well, I'll tell you what this says, and then you'll be able to.
+	narrator	So Owl wrote ... and this is what he wrote: HIPY PAPY BTHUTHDTH THUTHDA BTHUTHDY.
+	pooh	I'm just saying 'A Happy Birthday',
+	owl	said Owl carelessly.
+	pooh	It's a nice long one, said Pooh, very much impressed by it.
+	owl	Well, actually, of course, I'm saying 'A Very Happy Birthday with love from Pooh.' Naturally it takes a good deal of pencil to say a long thing like that.
+	pooh	Oh, I see, said Pooh.
+	narrator	While all this was happening, Piglet had gone back to his own house to get Eeyore's balloon.
+	narrator	He held it very tightly against himself, so that it shouldn't blow away, and he ran as fast as he could so as to get to Eeyore before Pooh did; for he thought that he would like to be the first one to give a present,
+	narrator	just as if he had thought of it without being told by anybody. And running along,
+	narrator	and thinking how pleased Eeyore would be, he didn't look where he was going ... and suddenly he put his foot in a rabbit hole,
+	narrator	and fell down flat on his face. BANG!!!???***!!! Piglet lay there, wondering what had happened. At first he thought that the whole world had blown up; and then he thought that perhaps only the Forest part of it had; and then he thought that perhaps only _he_ had,
+	narrator	and he was now alone in the moon or somewhere, and would never see Christopher Robin or Pooh or Eeyore again.
+	narrator	And then he thought, "Well, even if I'm in the moon, I needn't be face downwards all the time,"
+	narrator	so he got cautiously up and looked about him. He was still in the Forest! "Well,
+	narrator	that's funny," he thought. "I wonder what that bang was. I couldn't have made such a noise just falling down."
+	narrator	And where's my balloon? And what's that small piece of damp rag doing? It was the balloon!
+	piglet	Oh, dear!
+	narrator	said Piglet
+	piglet	Oh, dear, oh, dearie, dearie, dear! Well, it's too late now. I can't go back, and I haven't another balloon,
+	piglet	and perhaps Eeyore doesn't _like_ balloons so _very_ much. Good morning, Eeyore,
+	narrator	shouted Piglet.
+	eeyore	Good morning, Little Piglet,
+	narrator	said Eeyore. "If it _is_ a good morning," he said. "Which I doubt," said he. "Not that it matters,"
+	narrator	he said.
+	piglet	Many happy returns of the day,
+	narrator	said Piglet, having now got closer.
+	eeyore	Just say that again,
+	piglet	Many hap----
+	eeyore	Wait a moment.
+	narrator	Balancing on three legs, he began to bring his fourth leg very cautiously up to his ear.
+	narrator	"I did this yesterday," he explained, as he fell down for the third time. "It's quite easy.
+	narrator	It's so as I can hear better.... There, that's done it! Now then, what were you saying?"
+	narrator	He pushed his ear forward with his hoof.
+	piglet	Many happy returns of the day,
+	narrator	said Piglet again.
+	eeyore	Meaning me?
+	piglet	Of course, Eeyore.
+	eeyore	My birthday?
+	piglet	Yes.
+	eeyore	Me having a real birthday?
+	narrator	Eeyore took down his right hoof from his right ear, turned round, and with great difficulty put up his left hoof.
+	eeyore	I must have that in the other ear, Now then.
+	piglet	A present,
+	narrator	said Piglet very loudly
+	eeyore	Meaning me again?
+	narrator	Yes.
+	eeyore	My birthday still?
+	narrator	Of course, Eeyore.
+	eeyore	Me going on having a real birthday?
+	narrator	Yes, Eeyore, and I brought you a balloon.
+	eeyore	Balloon? You did say balloon? One of those big coloured things you blow up? Gaiety, song-and-dance,
+	eeyore	here we are and there we are?
+	piglet	Yes, but I'm afraid--I'm very sorry, Eeyore--but when I was running along to bring it you,
+	piglet	I fell down.
+	eeyore	Dear, dear, how unlucky! You ran too fast, I expect. You didn't hurt yourself, Little Piglet?
+	piglet	No, but I--I--oh, Eeyore, I burst the balloon!
+	narrator	There was a very long silence.
+	eeyore	My balloon?
+	piglet	Yes, but I'm afraid--I'm very sorry, Eeyore--but when I was running along to bring it you,
+	piglet	I fell down.
+	eeyore	Dear, dear, how unlucky! You ran too fast, I expect. You didn't hurt yourself, Little Piglet?
+	piglet	No, but I--I--oh, Eeyore, I burst the balloon!
+	narrator	There was a very long silence.
+	eeyore	My balloon?
+	piglet	My birthday balloon? Yes, Eeyore,
+	narrator	said Piglet sniffing a little.
+	piglet	Here it is. With--with many happy returns of the day.
+	narrator	And he gave Eeyore the small piece of damp rag.
+	eeyore	Is this it?
+	narrator	said Eeyore, a little surprised.
+	piglet	My present?
+	narrator	Piglet nodded.
+	eeyore	The balloon?
+	piglet	Yes.
+	eeyore	Thank you, Piglet,
+	narrator	said Eeyore. "You don't mind my asking," he went on, "but what colour was this balloon when it--when it _was_ a balloon?"
+	piglet	Red.
+	eeyore	I just wondered.... Red,
+	narrator	he murmured to himself. "My favourite colour.... How big was it?"
+	piglet	About as big as me.
+	eeyore	I just wondered.... About as big as Piglet,
+	narrator	he said to himself sadly. "My favourite size. Well, well." Piglet felt very miserable, and didn't know what to say.
+	narrator	He was still opening his mouth to begin something, and then deciding that it wasn't any good saying _that_,
+	narrator	when he heard a shout from the other side of the river, and there was Pooh.
+	pooh	Many happy returns of the day,
+	narrator	called out Pooh, forgetting that he had said it already.
+	eeyore	Thank you, Pooh, I'm having them,
+	narrator	said Eeyore gloomily.
+	pooh	I've brought you a little present,
+	narrator	said Pooh excitedly.
+	eeyore	I've had it,
+	narrator	said Eeyore. Pooh had now splashed across the stream to Eeyore, and Piglet was sitting a little way off,
+	narrator	his head in his paws, snuffling to himself.
+	pooh	It's a Useful Pot,
+	narrator	said Pooh. "Here it is. And it's got 'A Very Happy Birthday with love from Pooh'
+	narrator	written on it. That's what all that writing is. And it's for putting things in. There!"
+	narrator	When Eeyore saw the pot, he became quite excited.
+	eeyore	Why!
+	narrator	he said. "I believe my Balloon will just go into that Pot!"
+	pooh	Oh, no, Eeyore,
+	narrator	said Pooh. "Balloons are much too big to go into Pots. What you do with a balloon is,
+	narrator	you hold the ballon----"
+	eeyore	Not mine,
+	narrator	said Eeyore proudly. "Look, Piglet!" And as Piglet looked sorrowfully round, Eeyore picked the balloon up with his teeth,
+	narrator	and placed it carefully in the pot; picked it out and put it on the ground; and then picked it up again and put it carefully back.
+	pooh	So it does!
+	narrator	said Pooh. "It goes in!"
+	piglet	So it does!
+	narrator	said Piglet. "And it comes out!"
+	eeyore	Doesn't it?
+	narrator	said Eeyore. "It goes in and out like anything."
+	pooh	I'm very glad,
+	narrator	said Pooh happily, "that I thought of giving you a Useful Pot to put things in."
+	piglet	I'm very glad,
+	narrator	said Piglet happily, "that I thought of giving you Something to put in a Useful Pot."
+	narrator	But Eeyore wasn't listening. He was taking the balloon out, and putting it back again, as happy as could be....
+	christopher robin	And didn't _I_ give him anything?
+	narrator	asked Christopher Robin sadly. "Of course you did," I said. "You gave him--don't you remember--a little--a little----"
+	christopher robin	I gave him a box of paints to paint things with.
+	narrator	"That was it."
+	christopher robin	Why didn't I give it to him in the morning?
+	narrator	"You were so busy getting his party ready for him. He had a cake with icing on the top,
+	narrator	and three candles, and his name in pink sugar, and----"
+	christopher robin	Yes, _I_ remember,
+	narrator	said Christopher Robin.

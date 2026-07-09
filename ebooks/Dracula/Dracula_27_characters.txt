@@ -1,0 +1,8 @@
+Mina Harker	female	The protagonist and narrator of the story, a woman who is deeply in love with Jonathan Harker. She is intelligent, determined, and brave, showing great strength throughout the narrative as she faces supernatural threats. She is described as having a scar on her forehead and being pale and weak at times, but also radiant and strong when needed.
+Abraham Van Helsing	male	A Dutch doctor and expert on supernatural phenomena who leads the fight against Dracula. He is determined, knowledgeable, and resolute in his mission to protect others from the vampire threat.
+Jonathan Harker	male	Mina's husband, a young English solicitor who becomes the first victim of Dracula. He is brave and determined but also vulnerable to supernatural threats, having been transformed into a vampire.
+*Dr. John Seward	male	A physician and close friend of Van Helsing who works alongside him in the fight against Dracula. He is intelligent and dedicated to his work.
+Quincey Morris	male	A wealthy American friend of Jonathan and the others who joins them in their quest to destroy Dracula. He is brave, determined, and ultimately sacrifices himself for the cause.
+*Lord Godalming	male	A British aristocrat who joins the fight against Dracula. He is brave and determined, working alongside his friends to protect Mina and others from the vampire threat.
+*Count Dracula	*male	The main antagonist of the story, a vampire who has been terrorizing people for centuries. He is described as having pale skin and red eyes, with a vindictive nature.
+The Three Vampires	*female	Three female vampires who are associated with Count Dracula. They appear as beautiful women in the story, but are revealed to be dangerous creatures who feed on human blood.

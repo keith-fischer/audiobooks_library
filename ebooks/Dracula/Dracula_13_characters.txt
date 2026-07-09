@@ -1,0 +1,14 @@
+Dr. Seward	male	A physician and diary keeper who is deeply involved in the supernatural events surrounding Lucy Westenra's death. He is a close friend of Van Helsing and Arthur Holmwood, and serves as the primary narrator of much of the story.
+Van Helsing	male	A Dutch physician and professor who is a key figure in investigating the supernatural events. He is described as being both a doctor and lawyer, and shows deep concern for Lucy's case.
+*Lucy Westenra	female	A young woman who becomes a vampire and dies, causing great sorrow to her family. She is described as extremely beautiful both in life and death.
+Arthur Holmwood	male	Lucy's fiancé who is deeply affected by her death. He is described as a devoted and loving man, and later becomes the owner of Lucy's estate.
+*Mrs. Westenra	female	Lucy's mother who dies before Lucy, leaving her estate to Arthur Holmwood.
+*Quincey Morris	male	A friend of Arthur who accompanies him back to Ring after Lucy's death. He is described as a fine fellow and moral Viking.
+Mina Harker	female	Jonathan Harker's wife who keeps a journal and is involved in the supernatural events. She is described as intelligent, well-educated, and devoted to her husband.
+*Jonathan Harker	male	Mina's husband who is a solicitor and partner in his firm. He has been abroad on business and suffers from nervous problems.
+Mr. Marquand	male	A solicitor who handles the legal affairs of Mrs. Westenra's estate and explains the testamentary disposition.
+The Undertaker	*male	A professional who handles the funeral arrangements for Lucy and Mrs. Westenra, described as having a suavity about his work.
+*The Woman	*female	A servant who shows devotion by watching alone by Lucy's bier, though her name is not given.
+*The Dark Man	*male	A mysterious man with a beaky nose, black moustache and pointed beard who is observed by Jonathan Harker.
+*The Pretty Girl	*female	A beautiful young woman in a cart-wheel hat who is observed by Jonathan Harker and the dark man.
+*The Children	*male	Young children who have gone missing in Hampstead, claiming to have been with a 'bloofer lady' and showing wounds to their throats.

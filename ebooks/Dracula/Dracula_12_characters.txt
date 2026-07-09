@@ -1,0 +1,13 @@
+Dr. Seward	male	A physician who keeps a diary and is deeply involved in Lucy's medical care and the supernatural events surrounding her death. He is a key figure in the investigation of Lucy's condition.
+Van Helsing	male	A Dutch doctor and expert in the supernatural who arrives at Hillingham to help with Lucy's case. He is stern, knowledgeable, and takes charge of the situation.
+Lucy Westenra	female	The main female character who becomes a vampire. She is described as beautiful and dies from a supernatural affliction, with her mother also dying before her.
+*Mrs. Westenra	female	Lucy's mother who dies of heart disease and is found dead in her room with wounds on her throat.
+Arthur Holmwood	male	Lucy's fiancé who arrives at Hillingham to see her and later becomes a key figure in the supernatural investigation.
+Quincey Morris	male	A friend of Arthur who offers to help with Lucy's care and later becomes involved in the supernatural events.
+Mina Harker	female	Lucy's friend who writes letters to her and later becomes involved in the supernatural investigation. She is married to Jonathan Harker.
+*Jonathan Harker	male	Mina's husband who is also involved in the supernatural investigation. He was previously a partner of Mr. Hawkins.
+Mr. Hawkins	*male	A wealthy benefactor who adopted Jonathan Harker and left him a fortune. He dies suddenly, causing Mina great sorrow.
+Patrick Hennessey	male	A doctor who works at the asylum and provides reports on Renfield's condition. He is responsible for treating patients there.
+*Renfield	*male	A patient at the asylum who has violent outbursts and shows signs of vampirism. He is described as having fits and being dangerous.
+Jack Smollet	male	A carrier who encounters Renfield and is threatened by him. He works for Harris & Sons Moving and Shipment Company.
+*Thomas Snelling	male	A carrier who encounters Renfield and is threatened by him. He works for Harris & Sons Moving and Shipment Company.

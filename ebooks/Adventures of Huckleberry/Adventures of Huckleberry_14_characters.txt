@@ -1,0 +1,6 @@
+Huck	male	The narrator of the story, a young boy who tells the tale. He is adventurous and enjoys reading books about kings and nobility, but also has a practical side that sees through the absurdity of some stories.
+Jim	*male	A enslaved man who travels with Huck on the raft. He is practical, level-headed, and skeptical of stories about kings and nobility. He has a strong sense of right and wrong and is deeply concerned for his own safety.
+*King Sollermun	*male	A biblical king mentioned in the story, known for his wisdom and having many wives. Jim is skeptical of his wisdom and questions how someone with so many wives could be considered wise.
+*Louis Sixteenth	*male	A French king who was executed during the French Revolution. He had a son known as 'the dolphin' who was also imprisoned and may have escaped to America.
+*The dolphin	*male	Louis Sixteenth's son who was imprisoned and may have escaped to America. Jim expresses sympathy for the boy, noting he would be lonely in America without any kings.
+*The widow	*female	A woman who tells Huck about Solomon's wisdom. She is a source of information for the story but does not appear directly in this chapter.

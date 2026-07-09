@@ -1,0 +1,9 @@
+Alan	male	A Highland man who is a deserter and suspected of involvement in a murder. He is morally conflicted, willing to sacrifice himself for what he believes is his duty, and has a strong sense of clan loyalty. He is cunning and evasive when questioned about the murder, but appears genuinely remorseful.
+David	male	The narrator, a gentleman from Shaws who is involved in the murder of a Campbell. He has a strong moral compass and is horrified by Alan's actions, but eventually comes to terms with the situation. He is determined to flee the country and avoid prosecution.
+*Campbell-man	*male	A gentleman who was murdered in the road, described as a 'great, ruddy, jovial gentleman'. He is killed by someone in the black coat.
+*Hoseason	male	A sailor who becomes enraged after the shipwreck and seeks to capture Alan, blaming him for the loss of the brig. He is described as being like a 'fiend' and is determined to take revenge.
+*Riach	*male	A small man with a red head who helps Alan escape from Hoseason and the other sailors. He is described as having 'some spunks of decency' and is willing to stand up for Alan despite the danger.
+*Mr. Henderland	*male	A character mentioned by David as having given him advice about learning from the Highlanders, though his specific role in this chapter is not detailed.
+*The Duke	*male	The Duke of Argyle, described as a 'Whig' who is also a 'wise and honest nobleman', but Alan believes he would not be impartial in the trial of a Campbell.
+*James of the Glens	*male	Alan's kinsman who owns a house in Aucharn where Alan plans to gather supplies before fleeing.
+*Glenure	*male	A character mentioned by Alan as having been treated unjustly at the roadside, used to illustrate his point about justice in Campbell territory.

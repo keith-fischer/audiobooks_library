@@ -1,0 +1,8 @@
+Kanga	female	A large kangaroo who carries her baby, Baby Roo, in her pocket. She is described as fierce during winter months but affectionate at other times. She is practical and caring, teaching Baby Roo to jump while also being protective of him.
+Baby Roo	male	Kanga's young child who is learning to jump in the sand. He is playful and curious, often falling into mouse holes while practicing his jumps.
+Pooh	male	A bear who is the main character in the story. He is simple-minded but kind-hearted, often misunderstood by others. In this chapter he helps with the plan to capture Baby Roo.
+Rabbit	male	A clever and organized rabbit who leads the group. He is practical, makes plans, and takes charge of situations. In this chapter he devises the plan to capture Baby Roo.
+Piglet	male	A small, timid rabbit who is easily frightened but eager to be helpful. He becomes the substitute for Baby Roo in Kanga's pocket during the plan.
+Christopher Robin	*male	A young boy who is the owner of the toys and animals in the forest. He knows all the characters well and helps resolve conflicts between them.
+*Eeyore	*male	A donkey who is mentioned as being present in the group discussion but does not play a major role in this chapter.
+*Owl	*male	An owl who is mentioned as being present in the group discussion but does not play a major role in this chapter.

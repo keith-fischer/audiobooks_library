@@ -1,0 +1,7 @@
+Huck	*male	A young boy who is conflicted about helping Jim escape slavery. He struggles with his conscience and moral beliefs, ultimately deciding to follow his own self-interest rather than do what he believes is right.
+Jim	*male	A enslaved man who is attempting to escape to freedom in the free states. He is deeply concerned about his freedom and has plans to buy his family's freedom, showing both intelligence and determination.
+*Pap	*male	Huck's father, described as a drunk and abusive man who is sick with smallpox. He is portrayed negatively in the story.
+*Miss Watson	*female	A woman who owned Jim and attempted to teach him manners and religion. She is portrayed as kind but ultimately complicit in the institution of slavery.
+*Mary Ann	*female	One of the sick family members mentioned by Huck, likely Pap's wife or another relative.
+Parker	*male	A man who encounters Huck and Jim on the river. He is initially suspicious but eventually helps them by giving money for passage.
+John	*male	A man who travels with Parker on a skiff. He is more skeptical and suspicious of Huck's story about his father.

@@ -1,0 +1,5 @@
+Tom	male	A mischievous boy who devises and executes elaborate plans, including a fake abduction scheme to help Jim escape. He is adventurous, clever but reckless, and gets injured during the escape attempt.
+Huck	male	The narrator, a boy who is loyal to Tom and Jim. He helps plan the escape and is practical about their dangerous situation, showing concern for others' wellbeing.
+Jim	*male	A enslaved man who is being helped to escape by Tom and Huck. He is grateful for his freedom, loyal to his friends, and shows wisdom despite being portrayed as simple.
+Aunt Sally	female	Tom and Huck's aunt who is anxious and worried about the family situation. She is strict, protective of her nephew Tom, and becomes alarmed when she discovers their secret activities.
+*The Duke	*male	A con man who is part of the gang that has been involved in the fraudulent activities. He owns clothing and a shirt that is used for bandaging Tom's injury.

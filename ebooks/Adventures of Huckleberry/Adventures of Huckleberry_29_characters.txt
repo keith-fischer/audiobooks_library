@@ -1,0 +1,12 @@
+*The Duke	*male	A con artist and fraud who travels with the King, pretending to be a Wilks brother. He is described as appearing happy and satisfied but becomes visibly distressed when questioned about the stolen gold.
+The King	*male	A con artist and fraud who travels with the Duke, pretending to be a Wilks brother. He displays sorrowful expressions and makes false claims about the stolen gold, attempting to maintain his deception.
+*Peter Wilks	*male	A deceased man whose brothers are attempting to claim his inheritance. He is mentioned as having left a bag of gold and being tattooed with a blue arrow on his breast.
+Harvey Wilks	*male	Peter Wilks' brother who arrives with his disabled brother William. He claims to have come from Cincinnati on the Susan Powell and is involved in the fraudulent scheme.
+*William Wilks	*male	Peter Wilks' brother who cannot hear or speak and is described as having only one hand to make signs with. He is claimed to be the disabled brother of Harvey.
+Hines	*male	A rough, husky man who questions the king about his whereabouts and becomes suspicious of him. He is described as a local resident who lives near the Pint.
+Doctor	*male	A local doctor who leads the investigation into the fraudulent Wilks brothers and becomes suspicious of their claims. He is described as sharp-looking.
+Levi Bell	*male	A lawyer who has come from Louisville and is involved in the investigation. He appears to be a key figure in exposing the frauds.
+Ab Turner	*male	A local man who helped bury Peter Wilks and is called upon to verify details about the body's markings.
+The Boy	*male	The narrator of the story, a young boy who is caught up in the fraudulent scheme and ultimately escapes with Jim.
+*Jim	*male	A slave who is traveling with the narrator. He is described as old King Lear and a drownded A-rab, showing his complex background.
+*Mary Jane	*female	The narrator's sister who is described as the best girl he ever saw and having sand. She is mentioned as being away from town when the narrator escapes.

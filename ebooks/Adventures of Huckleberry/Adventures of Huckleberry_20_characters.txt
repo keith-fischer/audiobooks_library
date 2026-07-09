@@ -1,0 +1,14 @@
+Jim	male	A runaway slave owned by the narrator's family, who is traveling down the Mississippi River with Huck and the Duke. He is described as a 'nigger' in the story, but shows kindness to Huck and is easily amused by jokes.
+Huck	male	The narrator of the story, a young boy who is traveling down the Mississippi River with Jim and the Duke. He is resourceful, observant, and has a complex relationship with Jim.
+The Duke	*male	A con man who travels with Huck and Jim, claiming to be various famous people including a Shakespearian tragedian. He is scheming and manipulative, often taking charge of their plans.
+The King	*male	Another con man who travels with Huck and Jim, claiming to be royalty. He is portrayed as less educated than the Duke but also scheming and prone to exaggeration.
+*Pap	*male	Huck's father, who is mentioned as having had plays at the palace when Huck was young. He died and left Huck with his brother Ike.
+*Ike	*male	Huck's brother who died young, mentioned as being four years old when their father drowned in a river accident.
+*Uncle Ben	*male	Huck's uncle who owns a small farm on the river, mentioned as being in Missouri where Huck was born.
+*Dr. Armand de Montalban	*male	A fictional character claimed by the Duke to be a famous lecturer on Phrenology, though this is part of his fraudulent activities.
+*Garrick the Younger	*male	A fictional character claimed by the Duke to be a world-renowned Shakespearian tragedian, another of his fraudulent identities.
+*Romeo	*male	A character from Shakespeare's play, whom the Duke plans to have the King portray in a performance.
+*Juliet	*female	A character from Shakespeare's play, whom the Duke plans to have the King portray in a performance.
+*Richard III	*male	A character from Shakespeare's play, whom the Duke plans to have the King portray in a performance.
+The Preacher	*male	A camp meeting preacher who delivers an emotional sermon about sin and salvation, leading to a revival atmosphere.
+*The Sick Nigger	*male	A sick black man found sunning himself in a back yard who provides directions to the camp meeting.

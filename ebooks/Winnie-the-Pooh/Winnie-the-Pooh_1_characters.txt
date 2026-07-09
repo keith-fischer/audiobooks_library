@@ -1,0 +1,6 @@
+*Edward Bear	male	Main character of the story, also known as Winnie-the-Pooh. A bear who likes honey and enjoys stories. He is curious, thoughtful, and somewhat clumsy.
+Christopher Robin	male	A young boy who is Edward Bear's friend and the narrator of the story. He helps Pooh with his honey adventures and is fond of him.
+Winnie-the-Pooh	male	The main bear character, also known as Edward Bear. He is curious about bees and honey, climbs trees to get honey, and uses a balloon to reach it.
+*Piglet	*male	A small, timid character who is a friend of Christopher Robin and Pooh. Mentioned as being at the party where Christopher Robin got balloons.
+*Rabbit	*male	A character who is a relative of Piglet. Mentioned as having had a blue balloon at the party.
+*Heffalump	*male	A creature mentioned in a story that Pooh and Piglet tried to catch, but failed to catch.

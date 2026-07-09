@@ -1,0 +1,5 @@
+Dr. Seward	male	A physician who is deeply involved in Lucy's care and treatment. He is methodical, observant, and committed to his patients. He serves as a key figure in the medical care of Lucy Westenra and is closely associated with Professor Van Helsing.
+Arthur Holmwood	male	Lucy Westenra's fiancé, a young and strong man who is deeply devoted to Lucy. He volunteers to give blood for her transfusion, showing his willingness to sacrifice for her wellbeing.
+Lucy Westenra	female	A young woman who is gravely ill and undergoing medical treatment. She is described as pale, weak, and in need of blood transfusions. Her condition deteriorates significantly but improves after treatment.
+Mrs. Westenra	*female	Lucy's mother, who is concerned about her daughter's health. She shows some emotional distance from the medical situation and appears to be in a state of mild shock regarding Lucy's illness.
+Van Helsing	male	A renowned specialist who arrives to assist with Lucy's case. He is methodical, secretive about his methods, and displays a strong sense of purpose in treating Lucy. He is also very protective of the medical secrets he holds.

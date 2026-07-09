@@ -1,0 +1,19 @@
+The Duke	*male	A con artist and fraud who works with the King. He is clever and resourceful, dressing Jim up as a sick Arab to avoid being tied up all day. He pretends to be from England and plays the role of a deaf and dumb person.
+The King	*male	A con artist and fraud who works with the Duke. He pretends to be Reverend Elexander Blodgett from England and is skilled at playing the role of a grieving relative. He speaks with an English accent.
+Jim	*male	A runaway slave who is dressed up as a sick Arab by the Duke. He wears King Lear's outfit, white horse-hair wig and whiskers, and is painted blue to look like he has been drowned. He is tired of being tied up all day.
+Huckleberry	*male	The narrator of the story, a young boy who helps the Duke and King with their schemes. He is tasked with paddling the canoe and assisting with their plans.
+Adolphus	*male	A young man who is mistaken for Mr. Wilks by the King and Duke. He is traveling to Orleans on a ship bound for Rio Janeiro, and has a red-headed sister named Mary Jane.
+*Peter Wilks	*male	A deceased tanner who was the brother of Harvey and George Wilks. He died the night before, and his funeral is scheduled for the next day.
+*Harvey Wilks	*male	The brother of Peter and George Wilks who lives in England (Sheffield) as a dissentering minister. He was expected to visit his dying brother but did not arrive in time.
+*George Wilks	*male	The married brother of Peter and Harvey Wilks who died along with his wife the previous year.
+*William Wilks	*male	The deaf and dumb brother of Peter and Harvey Wilks, who is mentioned as being about thirty or thirty-five years old.
+*Mary Jane	*female	The red-headed daughter of George Wilks who is mentioned as being nineteen years old.
+*Susan	*female	One of the daughters of George Wilks who is fifteen years old.
+*Joanna	*female	The youngest daughter of George Wilks who is about fourteen years old and has a hare-lip.
+*Hobson	*male	The Baptist preacher who was a close friend of Peter Wilks.
+*Deacon Lot Hovey	*male	A friend of Peter Wilks who is mentioned as being one of the people who will help care for the Wilks sisters.
+*Ben Rucker	*male	A friend of Peter Wilks who is mentioned as being one of the people who will help care for the Wilks sisters.
+*Abner Shackleford	*male	A friend of Peter Wilks who is mentioned as being one of the people who will help care for the Wilks sisters.
+*Levi Bell	*male	The lawyer who was a close friend of Peter Wilks and will help with the inheritance.
+*Dr. Robinson	*male	A friend of Peter Wilks who is mentioned as being one of the people who will help care for the Wilks sisters.
+*Widow Bartley	*female	A friend of Peter Wilks who is mentioned as being one of the people who will help care for the Wilks sisters.

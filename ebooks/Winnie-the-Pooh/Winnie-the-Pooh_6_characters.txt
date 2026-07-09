@@ -1,0 +1,5 @@
+Eeyore	male	The old grey donkey who is gloomy and miserable, having a birthday with no presents or cake
+Pooh	male	A bear of very little brain who gives Eeyore a jar of honey as a birthday present, later turning it into a useful pot
+Piglet	male	A small pig who gives Eeyore a balloon as a birthday present, but accidentally bursts it
+Christopher Robin	*male	A young boy who gave Eeyore a box of paints for his birthday party
+Owl	*male	An owl who helps Pooh write a birthday message on the pot and lives in the Hundred Acre Wood

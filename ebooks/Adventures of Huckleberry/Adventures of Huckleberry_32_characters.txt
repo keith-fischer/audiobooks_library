@@ -1,0 +1,9 @@
+Tom Sawyer	male	Main character, a boy who has been away and is returning to his aunt's plantation. He is described as being about the same age as his cousin, and has a habit of telling stories to explain his absence. He is resourceful and quick-thinking.
+Aunt Sally Phelps	female	Tom Sawyer's aunt who lives on a cotton plantation. She is warm and affectionate, eager to see her nephew after his long absence. She is described as being about 45-50 years old, bareheaded with a spinning stick in her hand.
+Uncle Silas Phelps	male	Aunt Sally's husband, an older man who has been searching for Tom Sawyer. He is described as being about 45-50 years old and appears distressed when Tom doesn't arrive. He is concerned about his nephew's whereabouts.
+Lize	*female	A female servant or family member who works in the kitchen. She is described as a nigger woman and helps with household tasks like cooking.
+*Tige	*male	A large hound dog that barks at Tom Sawyer when he arrives. He is described as a large, fierce-looking dog.
+*Spot	*male	A hound dog that barks at Tom Sawyer when he arrives. He is described as a large, fierce-looking dog.
+*Lize's children	*male	Two young nigger boys and a little girl who are described as being without anything on but tow-linen shirts. They are bashful and hide behind their mother when Tom Sawyer arrives.
+*Mrs. Phelps	*female	Aunt Sally's sister who is described as being about 45-50 years old. She is warm and affectionate, eager to see her nephew after his long absence.
+*The children	*male	Aunt Sally's and Uncle Silas' children who are described as being young, with one of them being a little girl and the others boys. They are bashful and hide behind their mother when Tom Sawyer arrives.

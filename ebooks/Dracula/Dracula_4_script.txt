@@ -1,0 +1,284 @@
+	narrator	I awoke in my own bed. If it be that I had not dreamt, the Count must have carried me here.
+	narrator	I tried to satisfy myself on the subject, but could not arrive at any unquestionable result.
+	narrator	To be sure, there were certain small evidences, such as that my clothes were folded and laid by in a manner which was not my habit.
+	narrator	My watch was still unwound, and I am rigorously accustomed to wind it the last thing before going to bed,
+	narrator	and many such details. But these things are no proof, for they may have been evidences that my mind was not as usual,
+	narrator	and, from some cause or another, I had certainly been much upset. I must watch for proof.
+	narrator	Of one thing I am glad: if it was that the Count carried me here and undressed me,
+	narrator	he must have been hurried in his task, for my pockets are intact. I am sure this diary would have been a mystery to him which he would not have brooked.
+	narrator	He would have taken or destroyed it. As I look round this room, although it has been to me so full of fear,
+	narrator	it is now a sort of sanctuary, for nothing can be more dreadful than those awful women,
+	narrator	who were--who _are_--waiting to suck my blood. I have been down to look at that room again in daylight,
+	narrator	for I _must_ know the truth. When I got to the doorway at the top of the stairs I found it closed.
+	narrator	It had been so forcibly driven against the jamb that part of the woodwork was splintered.
+	narrator	I could see that the bolt of the lock had not been shot, but the door is fastened from the inside.
+	narrator	I fear it was no dream, and must act on this surmise. I am surely in the toils.
+	narrator	Last night the Count asked me in the suavest tones to write three letters, one saying that my work here was nearly done,
+	narrator	and that I should start for home within a few days, another that I was starting on the next morning from the time of the letter,
+	narrator	and the third that I had left the castle and arrived at Bistritz. I would fain have rebelled,
+	narrator	but felt that in the present state of things it would be madness to quarrel openly with the Count whilst I am so absolutely in his power; and to refuse would be to excite his suspicion and to arouse his anger.
+	narrator	He knows that I know too much, and that I must not live, lest I be dangerous to him; my only chance is to prolong my opportunities.
+	narrator	Something may occur which will give me a chance to escape. I saw in his eyes something of that gathering wrath which was manifest when he hurled that fair woman from him.
+	narrator	He explained to me that posts were few and uncertain, and that my writing now would ensure ease of mind to my friends; and he assured me with so much impressiveness that he would countermand the later letters,
+	narrator	which would be held over at Bistritz until due time in case chance would admit of my prolonging my stay,
+	narrator	that to oppose him would have been to create new suspicion. I therefore pretended to fall in with his views,
+	narrator	and asked him what dates I should put on the letters. He calculated a minute, and then said:
+	count dracula	The first should be June 12, the second June 19, and the third June 29.
+	narrator	I know now the span of my life. God help me! There is a chance of escape,
+	narrator	or at any rate of being able to send word home. A band of Szgany have come to the castle,
+	narrator	and are encamped in the courtyard. These Szgany are gipsies; I have notes of them in my book.
+	narrator	They are peculiar to this part of the world, though allied to the ordinary gipsies all the world over.
+	narrator	There are thousands of them in Hungary and Transylvania, who are almost outside all law. They attach themselves as a rule to some great noble or _boyar_,
+	narrator	and call themselves by his name. They are fearless and without religion, save superstition, and they talk only their own varieties of the Romany tongue.
+	narrator	I shall write some letters home, and shall try to get them to have them posted.
+	narrator	I have already spoken them through my window to begin acquaintancehip. They took their hats off and made obeisance and many signs,
+	narrator	which, however, I could not understand any more than I could their spoken language. I have written the letters.
+	narrator	Mina's is in shorthand, and I simply ask Mr. Hawkins to communicate with her. To her I have explained my situation,
+	narrator	but without the horrors which I may only surmise. It would shock and frighten her to death were I to expose my heart to her.
+	narrator	Should the letters not carry, then the Count shall not yet know my secret or the extent of my knowledge.
+	narrator	I have given the letters; I threw them through the bars of my window with a gold piece,
+	narrator	and made what signs I could to have them posted. The man who took them pressed them to his heart and bowed,
+	narrator	and then put them in his cap. I could do no more. I stole back to the study,
+	narrator	and began to read. As the Count did not come in, I have written here. The Count has come.
+	narrator	He sat down beside me, and said in his smoothest voice as he opened two letters:
+	count dracula	The Szgany has given me these, of which, though I know not whence they come, I shall,
+	count dracula	of course, take care. See!
+	narrator	he must have looked at it
+	count dracula	one is from you, and to my friend Peter Hawkins; the other
+	narrator	here he caught sight of the strange symbols as he opened the envelope, and the dark look came into his face,
+	narrator	and his eyes blazed wickedly
+	count dracula	the other is a vile thing, an outrage upon friendship and hospitality! It is not signed.
+	count dracula	Well! so it cannot matter to us.
+	narrator	And he calmly held letter and envelope in the flame of the lamp till they were consumed.
+	narrator	Then he went on:
+	count dracula	The letter to Hawkins--that I shall, of course, send on, since it is yours. Your letters are sacred to me.
+	count dracula	Your pardon, my friend, that unknowingly I did break the seal. Will you not cover it again?
+	narrator	He held out the letter to me, and with a courteous bow handed me a clean envelope.
+	narrator	I could only redirect it and hand it to him in silence. When he went out of the room I could hear the key turn softly.
+	narrator	A minute later I went over and tried it, and the door was locked.
+	count dracula	So, my friend, you are tired? Get to bed. There is the surest rest. I may not have the pleasure to talk to-night,
+	count dracula	since there are many labours to me; but you will sleep, I pray.
+	narrator	I passed to my room and went to bed, and, strange to say, slept without dreaming.
+	narrator	Despair has its own calms. 31 May.--This morning when I woke I thought I would provide myself with some paper and envelopes from my bag and keep them in my pocket,
+	narrator	so that I might write in case I should get an opportunity, but again a surprise,
+	narrator	again a shock! Every scrap of paper was gone, and with it all my notes, my memoranda,
+	narrator	relating to railways and travel, my letter of credit, in fact all that might be useful to me were I once outside the castle.
+	narrator	I sat and pondered awhile, and then some thought occurred to me, and I made search of my portmanteau and in the wardrobe where I had placed my clothes.
+	narrator	The suit in which I had travelled was gone, and also my overcoat and rug; I could find no trace of them anywhere.
+	narrator	This looked like some new scheme of villainy. 17 June.--This morning, as I was sitting on the edge of my bed cudgelling my brains,
+	narrator	I heard without a cracking of whips and pounding and scraping of horses' feet up the rocky path beyond the courtyard.
+	narrator	With joy I hurried to the window, and saw drive into the yard two great leiter-wagons,
+	narrator	each drawn by eight sturdy horses, and at the head of each pair a Slovak, with his wide hat,
+	narrator	great nail-studded belt, dirty sheepskin, and high boots. They had also their long staves in hand.
+	narrator	I ran to the door, intending to descend and try and join them through the main hall,
+	narrator	as I thought that way might be opened for them. Again a shock: my door was fastened on the outside.
+	narrator	Then I ran to the window and cried to them. They looked up at me stupidly and pointed,
+	narrator	but just then the "hetman" of the Szgany came out, and seeing them pointing to my window,
+	narrator	said something, at which they laughed. Henceforth no effort of mine, no piteous cry or agonised entreaty,
+	narrator	would make them even look at me. They resolutely turned away. The leiter-wagons contained great, square boxes,
+	narrator	with handles of thick rope; these were evidently empty by the ease with which the Slovaks handled them,
+	narrator	and by their resonance as they were roughly moved. When they were all unloaded and packed in a great heap in one corner of the yard,
+	narrator	the Slovaks were given some money by the Szgany, and spitting on it for luck, lazily went each to his horse's head.
+	narrator	Shortly afterwards, I heard the cracking of their whips die away in the distance. 24 June,
+	narrator	before morning.--Last night the Count left me early, and locked himself into his own room. As soon as I dared I ran up the winding stair,
+	narrator	and looked out of the window, which opened south. I thought I would watch for the Count,
+	narrator	for there is something going on. The Szgany are quartered somewhere in the castle and are doing work of some kind.
+	narrator	I know it, for now and then I hear a far-away muffled sound as of mattock and spade,
+	narrator	and, whatever it is, it must be the end of some ruthless villainy. I had been at the window somewhat less than half an hour,
+	narrator	when I saw something coming out of the Count's window. I drew back and watched carefully,
+	narrator	and saw the whole man emerge. It was a new shock to me to find that he had on the suit of clothes which I had worn whilst travelling here,
+	narrator	and slung over his shoulder the terrible bag which I had seen the women take away.
+	narrator	There could be no doubt as to his quest, and in my garb, too! This, then,
+	narrator	is his new scheme of evil: that he will allow others to see me, as they think,
+	narrator	so that he may both leave evidence that I have been seen in the towns or villages posting my own letters,
+	narrator	and that any wickedness which he may do shall by the local people be attributed to me.
+	narrator	It makes me rage to think that this can go on, and whilst I am shut up here,
+	narrator	a veritable prisoner, but without that protection of the law which is even a criminal's right and consolation.
+	narrator	I thought I would watch for the Count's return, and for a long time sat doggedly at the window.
+	narrator	Then I began to notice that there were some quaint little specks floating in the rays of the moonlight.
+	narrator	They were like the tiniest grains of dust, and they whirled round and gathered in clusters in a nebulous sort of way.
+	narrator	I watched them with a sense of soothing, and a sort of calm stole over me.
+	narrator	I leaned back in the embrasure in a more comfortable position, so that I could enjoy more fully the aërial gambolling.
+	narrator	Something made me start up, a low, piteous howling of dogs somewhere far below in the valley,
+	narrator	which was hidden from my sight. Louder it seemed to ring in my ears, and the floating motes of dust to take new shapes to the sound as they danced in the moonlight.
+	narrator	I felt myself struggling to awake to some call of my instincts; nay, my very soul was struggling,
+	narrator	and my half-remembered sensibilities were striving to answer the call. I was becoming hypnotised! Quicker and quicker danced the dust; the moonbeams seemed to quiver as they went by me into the mass of gloom beyond.
+	narrator	More and more they gathered till they seemed to take dim phantom shapes. And then I started,
+	narrator	broad awake and in full possession of my senses, and ran screaming from the place. The phantom shapes,
+	narrator	which were becoming gradually materialised from the moonbeams, were those of the three ghostly women to whom I was doomed.
+	narrator	I fled, and felt somewhat safer in my own room, where there was no moonlight and where the lamp was burning brightly.
+	narrator	When a couple of hours had passed I heard something stirring in the Count's room, something like a sharp wail quickly suppressed; and then there was silence,
+	narrator	deep, awful silence, which chilled me. With a beating heart, I tried the door; but I was locked in my prison,
+	narrator	and could do nothing. I sat down and simply cried. As I sat I heard a sound in the courtyard without--the agonised cry of a woman.
+	narrator	I rushed to the window, and throwing it up, peered out between the bars. There, indeed,
+	narrator	was a woman with dishevelled hair, holding her hands over her heart as one distressed with running.
+	narrator	She was leaning against a corner of the gateway. When she saw my face at the window she threw herself forward,
+	narrator	and shouted in a voice laden with menace:
+	the three ghostly women	Monster, give me my child! Monster, give me my child!
+	narrator	She threw herself on her knees, and raising up her hands, cried the same words in tones which wrung my heart.
+	narrator	Then she tore her hair and beat her breast, and abandoned herself to all the violences of extravagant emotion.
+	narrator	Finally, she threw herself forward, and, though I could not see her, I could hear the beating of her naked hands against the door.
+	narrator	Somewhere high overhead, probably on the tower, I heard the voice of the Count calling in his harsh,
+	narrator	metallic whisper. His call seemed to be answered from far and wide by the howling of wolves.
+	narrator	Before many minutes had passed a pack of them poured, like a pent-up dam when liberated,
+	narrator	through the wide entrance into the courtyard. There was no cry from the woman, and the howling of the wolves was but short.
+	narrator	Before long they streamed away singly, licking their lips. I could not pity her, for I knew now what had become of her child,
+	narrator	and she was better dead. What shall I do? what can I do? How can I escape from this dreadful thing of night and gloom and fear?
+	narrator	25 June, morning.--No man knows till he has suffered from the night how sweet and how dear to his heart and eye the morning can be.
+	narrator	When the sun grew so high this morning that it struck the top of the great gateway opposite my window,
+	narrator	the high spot which it touched seemed to me as if the dove from the ark had lighted there.
+	narrator	My fear fell from me as if it had been a vaporous garment which dissolved in the warmth.
+	narrator	I must take action of some sort whilst the courage of the day is upon me.
+	narrator	Last night one of my post-dated letters went to post, the first of that fatal series which is to blot out the very traces of my existence from the earth.
+	narrator	Let me not think of it. Action! It has always been at night-time that I have been molested or threatened,
+	narrator	or in some way in danger or in fear. I have not yet seen the Count in the daylight.
+	narrator	Can it be that he sleeps when others wake, that he may be awake whilst they sleep?
+	narrator	If I could only get into his room! But there is no possible way. The door is always locked,
+	narrator	no way for me. Yes, there is a way, if one dares to take it. Where his body has gone why may not another body go?
+	narrator	I have seen him myself crawl from his window. Why should not I imitate him, and go in by his window?
+	narrator	The chances are desperate, but my need is more desperate still. I shall risk it. At the worst it can only be death; and a man's death is not a calf's,
+	narrator	and the dreaded Hereafter may still be open to me. God help me in my task!
+	narrator	Good-bye, Mina, if I fail; good-bye, my faithful friend and second father; good-bye, all, and last of all Mina!
+	narrator	Same day, later.--I have made the effort, and God, helping me, have come safely back to this room.
+	narrator	I must put down every detail in order. I went whilst my courage was fresh straight to the window on the south side,
+	narrator	and at once got outside on the narrow ledge of stone which runs around the building on this side.
+	narrator	The stones are big and roughly cut, and the mortar has by process of time been washed away between them.
+	narrator	I took off my boots, and ventured out on the desperate way. I looked down once,
+	narrator	so as to make sure that a sudden glimpse of the awful depth would not overcome me,
+	narrator	but after that kept my eyes away from it. I knew pretty well the direction and distance of the Count's window,
+	narrator	and made for it as well as I could, having regard to the opportunities available. I did not feel dizzy--I suppose I was too excited--and the time seemed ridiculously short till I found myself standing on the window-sill and trying to raise up the sash.
+	narrator	I was filled with agitation, however, when I bent down and slid feet foremost in through the window.
+	narrator	Then I looked around for the Count, but, with surprise and gladness, made a discovery. The room was empty!
+	narrator	It was barely furnished with odd things, which seemed to have never been used; the furniture was something the same style as that in the south rooms,
+	narrator	and was covered with dust. I looked for the key, but it was not in the lock,
+	narrator	and I could not find it anywhere. The only thing I found was a great heap of gold in one corner--gold of all kinds,
+	narrator	Roman, and British, and Austrian, and Hungarian, and Greek and Turkish money, covered with a film of dust,
+	narrator	as though it had lain long in the ground. None of it that I noticed was less than three hundred years old.
+	narrator	There were also chains and ornaments, some jewelled, but all of them old and stained. At one corner of the room was a heavy door.
+	narrator	I tried it, for, since I could not find the key of the room or the key of the outer door,
+	narrator	which was the main object of my search, I must make further examination, or all my efforts would be in vain.
+	narrator	It was open, and led through a stone passage to a circular stairway, which went steeply down.
+	narrator	I descended, minding carefully where I went, for the stairs were dark, being only lit by loopholes in the heavy masonry.
+	narrator	At the bottom there was a dark, tunnel-like passage, through which came a deathly, sickly odour,
+	narrator	the odour of old earth newly turned. As I went through the passage the smell grew closer and heavier.
+	narrator	At last I pulled open a heavy door which stood ajar, and found myself in an old,
+	narrator	ruined chapel, which had evidently been used as a graveyard. The roof was broken, and in two places were steps leading to vaults,
+	narrator	but the ground had recently been dug over, and the earth placed in great wooden boxes,
+	narrator	manifestly those which had been brought by the Slovaks. There was nobody about, and I made search for any further outlet,
+	narrator	but there was none. Then I went over every inch of the ground, so as not to lose a chance.
+	narrator	I went down even into the vaults, where the dim light struggled, although to do so was a dread to my very soul.
+	narrator	Into two of these I went, but saw nothing except fragments of old coffins and piles of dust; in the third,
+	narrator	however, I made a discovery. There, in one of the great boxes, of which there were fifty in all,
+	narrator	on a pile of newly dug earth, lay the Count! He was either dead or asleep,
+	narrator	I could not say which--for the eyes were open and stony, but without the glassiness of death--and the cheeks had the warmth of life through all their pallor; the lips were as red as ever.
+	narrator	But there was no sign of movement, no pulse, no breath, no beating of the heart.
+	narrator	I bent over him, and tried to find any sign of life, but in vain. He could not have lain there long,
+	narrator	for the earthy smell would have passed away in a few hours. By the side of the box was its cover,
+	narrator	pierced with holes here and there. I thought he might have the keys on him, but when I went to search I saw the dead eyes,
+	narrator	and in them, dead though they were, such a look of hate, though unconscious of me or my presence,
+	narrator	that I fled from the place, and leaving the Count's room by the window, crawled again up the castle wall.
+	narrator	Regaining my room, I threw myself panting upon the bed and tried to think.... 29 June.--To-day is the date of my last letter,
+	narrator	and the Count has taken steps to prove that it was genuine, for again I saw him leave the castle by the same window,
+	narrator	and in my clothes. As he went down the wall, lizard fashion, I wished I had a gun or some lethal weapon,
+	narrator	that I might destroy him; but I fear that no weapon wrought alone by man's hand would have any effect on him.
+	narrator	I dared not wait to see him return, for I feared to see those weird sisters.
+	narrator	I came back to the library, and read there till I fell asleep. I was awakened by the Count,
+	narrator	who looked at me as grimly as a man can look as he said:
+	count dracula	To-morrow, my friend, we must part. You return to your beautiful England, I to some work which may have such an end that we may never meet.
+	count dracula	Your letter home has been despatched; to-morrow I shall not be here, but all shall be ready for your journey.
+	count dracula	In the morning come the Szgany, who have some labours of their own here, and also come some Slovaks.
+	count dracula	When they have gone, my carriage shall come for you, and shall bear you to the Borgo Pass to meet the diligence from Bukovina to Bistritz.
+	count dracula	But I am in hopes that I shall see more of you at Castle Dracula.
+	jonathan harker	Why may I not go to-night?
+	count dracula	Because, dear sir, my coachman and horses are away on a mission.
+	jonathan harker	But I would walk with pleasure. I want to get away at once.
+	count dracula	And your baggage?
+	jonathan harker	I do not care about it. I can send for it some other time.
+	count dracula	You English have a saying which is close to my heart, for its spirit is that which rules our _boyars_: 'Welcome the coming; speed the parting guest.'
+	count dracula	Come with me, my dear young friend. Not an hour shall you wait in my house against your will,
+	count dracula	though sad am I at your going, and that you so suddenly desire it. Come!
+	narrator	With a stately gravity, he, with the lamp, preceded me down the stairs and along the hall.
+	count dracula	Hark!
+	narrator	Close at hand came the howling of many wolves. It was almost as if the sound sprang up at the rising of his hand,
+	narrator	just as the music of a great orchestra seems to leap under the bâton of the conductor.
+	narrator	After a pause of a moment, he proceeded, in his stately way, to the door, drew back the ponderous bolts,
+	narrator	unhooked the heavy chains, and began to draw it open. To my intense astonishment I saw that it was unlocked.
+	narrator	Suspiciously, I looked all round, but could see no key of any kind. As the door began to open,
+	narrator	the howling of the wolves without grew louder and angrier; their red jaws, with champing teeth,
+	narrator	and their blunt-clawed feet as they leaped, came in through the opening door. I knew then that to struggle at the moment against the Count was useless.
+	narrator	With such allies as these at his command, I could do nothing. But still the door continued slowly to open,
+	narrator	and only the Count's body stood in the gap. Suddenly it struck me that this might be the moment and means of my doom; I was to be given to the wolves,
+	narrator	and at my own instigation. There was a diabolical wickedness in the idea great enough for the Count,
+	narrator	and as a last chance I cried out:
+	jonathan harker	Shut the door; I shall wait till morning!
+	narrator	and covered my face with my hands to hide my tears of bitter disappointment.
+	count dracula	With one sweep of his powerful arm, the Count threw the door shut, and the great bolts clanged and echoed through the hall as they shot back into their places.
+	narrator	In silence we returned to the library, and after a minute or two I went to my own room.
+	narrator	The last I saw of Count Dracula was his kissing his hand to me; with a red light of triumph in his eyes,
+	narrator	and with a smile that Judas in hell might be proud of. When I was in my room and about to lie down,
+	narrator	I thought I heard a whispering at my door. I went to it softly and listened.
+	narrator	Unless my ears deceived me, I heard the voice of the Count:
+	count dracula	Back, back, to your own place! Your time is not yet come. Wait! Have patience! To-night is mine.
+	count dracula	To-morrow night is yours!
+	narrator	There was a low, sweet ripple of laughter, and in a rage I threw open the door,
+	narrator	and saw without the three terrible women licking their lips. As I appeared they all joined in a horrible laugh,
+	narrator	and ran away. I came back to my room and threw myself on my knees. It is then so near the end?
+	narrator	To-morrow! to-morrow! Lord, help me, and those to whom I am dear! _30 June, morning._--These may be the last words I ever write in this diary.
+	narrator	I slept till just before the dawn, and when I woke threw myself on my knees,
+	narrator	for I determined that if Death came he should find me ready. At last I felt that subtle change in the air,
+	narrator	and knew that the morning had come. Then came the welcome cock-crow, and I felt that I was safe.
+	narrator	With a glad heart, I opened my door and ran down to the hall. I had seen that the door was unlocked,
+	narrator	and now escape was before me. With hands that trembled with eagerness, I unhooked the chains and drew back the massive bolts.
+	narrator	But the door would not move. Despair seized me. I pulled, and pulled, at the door,
+	narrator	and shook it till, massive as it was, it rattled in its casement. I could see the bolt shot.
+	narrator	It had been locked after I left the Count. Then a wild desire took me to obtain that key at any risk,
+	narrator	and I determined then and there to scale the wall again and gain the Count's room.
+	narrator	He might kill me, but death now seemed the happier choice of evils. Without a pause I rushed up to the east window,
+	narrator	and scrambled down the wall, as before, into the Count's room. It was empty, but that was as I expected.
+	narrator	I could not see a key anywhere, but the heap of gold remained. I went through the door in the corner and down the winding stair and along the dark passage to the old chapel.
+	narrator	I knew now well enough where to find the monster I sought. The great box was in the same place,
+	narrator	close against the wall, but the lid was laid on it, not fastened down, but with the nails ready in their places to be hammered home.
+	narrator	I knew I must reach the body for the key, so I raised the lid, and laid it back against the wall; and then I saw something which filled my very soul with horror.
+	narrator	There lay the Count, but looking as if his youth had been half renewed, for the white hair and moustache were changed to dark iron-grey; the cheeks were fuller,
+	narrator	and the white skin seemed ruby-red underneath; the mouth was redder than ever, for on the lips were gouts of fresh blood,
+	narrator	which trickled from the corners of the mouth and ran over the chin and neck. Even the deep,
+	narrator	burning eyes seemed set amongst swollen flesh, for the lids and pouches underneath were bloated. It seemed as if the whole awful creature were simply gorged with blood.
+	narrator	He lay like a filthy leech, exhausted with his repletion. I shuddered as I bent over to touch him,
+	narrator	and every sense in me revolted at the contact; but I had to search, or I was lost.
+	narrator	The coming night might see my own body a banquet in a similar way to those horrid three.
+	narrator	I felt all over the body, but no sign could I find of the key. Then I stopped and looked at the Count.
+	count dracula	There was a mocking smile on the bloated face which seemed to drive me mad.
+	narrator	This was the being I was helping to transfer to London, where, perhaps, for centuries to come he might,
+	narrator	amongst its teeming millions, satiate his lust for blood, and create a new and ever-widening circle of semi-demons to batten on the helpless.
+	narrator	The very thought drove me mad. A terrible desire came upon me to rid the world of such a monster.
+	narrator	There was no lethal weapon at hand, but I seized a shovel which the workmen had been using to fill the cases,
+	narrator	and lifting it high, struck, with the edge downward, at the hateful face. But as I did so the head turned,
+	narrator	and the eyes fell full upon me, with all their blaze of basilisk horror. The sight seemed to paralyse me,
+	narrator	and the shovel turned in my hand and glanced from the face, merely making a deep gash above the forehead.
+	narrator	The shovel fell from my hand across the box, and as I pulled it away the flange of the blade caught the edge of the lid which fell over again,
+	narrator	and hid the horrid thing from my sight. The last glimpse I had was of the bloated face,
+	narrator	blood-stained and fixed with a grin of malice which would have held its own in the nethermost hell.
+	narrator	I thought and thought what should be my next move, but my brain seemed on fire,
+	narrator	and I waited with a despairing feeling growing over me. As I waited I heard in the distance a gipsy song sung by merry voices coming closer,
+	narrator	and through their song the rolling of heavy wheels and the cracking of whips; the Szgany and the Slovaks of whom the Count had spoken were coming.
+	narrator	With a last look around and at the box which contained the vile body, I ran from the place and gained the Count's room,
+	narrator	determined to rush out at the moment the door should be opened. With strained ears, I listened,
+	narrator	and heard downstairs the grinding of the key in the great lock and the falling back of the heavy door.
+	narrator	There must have been some other means of entry, or some one had a key for one of the locked doors.
+	narrator	Then there came the sound of many feet tramping and dying away in some passage which sent up a clanging echo.
+	narrator	I turned to run down again towards the vault, where I might find the new entrance; but at the moment there seemed to come a violent puff of wind,
+	narrator	and the door to the winding stair blew to with a shock that set the dust from the lintels flying.
+	narrator	When I ran to push it open, I found that it was hopelessly fast. I was again a prisoner,
+	narrator	and the net of doom was closing round me more closely. As I write there is in the passage below a sound of many tramping feet and the crash of weights being set down heavily,
+	narrator	doubtless the boxes, with their freight of earth. There is a sound of hammering; it is the box being nailed down.
+	narrator	Now I can hear the heavy feet tramping again along the hall, with many other idle feet coming behind them.
+	narrator	The door is shut, and the chains rattle; there is a grinding of the key in the lock; I can hear the key withdraw: then another door opens and shuts; I hear the creaking of lock and bolt.
+	narrator	Hark! in the courtyard and down the rocky way the roll of heavy wheels, the crack of whips,
+	narrator	and the chorus of the Szgany as they pass into the distance. I am alone in the castle with those awful women.
+	narrator	Faugh! Mina is a woman, and there is nought in common. They are devils of the Pit!
+	jonathan harker	I shall not remain alone with them; I shall try to scale the castle wall farther than I have yet attempted.
+	jonathan harker	I shall take some of the gold with me, lest I want it later. I may find a way from this dreadful place.
+	jonathan harker	And then away for home! away to the quickest and nearest train! away from this cursed spot,
+	jonathan harker	from this cursed land, where the devil and his children still walk with earthly feet! At least God's mercy is better than that of these monsters,
+	jonathan harker	and the precipice is steep and high. At its foot a man may sleep--as a man.
+	jonathan harker	Good-bye, all! Mina!

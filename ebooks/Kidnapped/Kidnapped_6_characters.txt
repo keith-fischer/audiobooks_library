@@ -1,0 +1,6 @@
+Ebenezer	male	Mr. Balfour, the narrator's uncle, a wealthy landowner who has been harried out of house and home by Alexander Rankeillor. He is described as a 'wicked auld man' and has killed Alexander Rankeillor to gain his inheritance.
+Ransome	*male	A young man who appears to be a companion or associate of the narrator, described as less wicked than his fellow seamen. He is present at the inn and later becomes a companion to the narrator.
+Captain Hoseason	male	A tall, dark ship-captain who is described as cold and self-possessed. He appears to be a complex character, neither entirely good nor bad, who ultimately betrays the narrator by kidnapping him.
+*Alexander Rankeillor	*male	The narrator's cousin who was killed by Ebenezer Balfour to gain his inheritance. He is described as a poor lad who had trudged from Ettrick Forest and was later revealed to be the rightful heir.
+Landlord	*male	A local innkeeper who knows the story of Ebenezer's crime against Alexander Rankeillor and speaks about it with knowledge of the local gossip.
+*Jennet Clouston	*female	A woman who is mentioned as one of many people who would like to see Ebenezer Balfour 'girning in the tow' (in chains) for his crimes.

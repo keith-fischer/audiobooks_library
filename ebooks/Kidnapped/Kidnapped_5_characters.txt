@@ -1,0 +1,6 @@
+Uncle Ebenezer	male	The narrator's uncle who is hostile and threatening. He has met the narrator with treachery and violence, and seeks to destroy him. He is planning a venture with Captain Hoseason and wants the narrator to accompany him.
+the prisoner	*male	A man who was previously held captive by the narrator's uncle. He is polite and civil, but seems to be preparing a lie while also being honest about not having one ready.
+Ransome	male	A cabin-boy who is described as half-grown and wearing sea-clothes. He brings a letter from 'old Heasyoasy' to Mr. Belflower and is described as having a pathetic appearance with tears and laughter in his face.
+*Captain Hoseason	*male	The captain of the trading brig _Covenant_ from Dysart. Described as rough, fierce, unscrupulous, and brutal by Ransome, though he is not a seaman himself. He has drawn a bill upon the narrator's uncle.
+*Mr. Shuan	*male	The navigator of the _Covenant_ who is described as a fine seaman but addicted to drink. He has beaten Ransome severely, leaving a great wound on his leg.
+*the father of Ransome	*male	Ransome's father who lived in an English seaport and is now dead.

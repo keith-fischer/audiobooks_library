@@ -1,0 +1,83 @@
+	narrator	CHAPTER XI THE CAPTAIN KNUCKLES UNDER Alan and I sat down to breakfast about six of the clock.
+	narrator	The floor was covered with broken glass and in a horrid mess of blood, which took away my hunger.
+	narrator	In all other ways we were in a situation not only agreeable but merry; having ousted the officers from their own cabin,
+	narrator	and having at command all the drink in the ship--both wine and spirits--and all the dainty part of what was eatable,
+	narrator	such as the pickles and the fine sort of bread. This, of itself, was enough to set us in good humour,
+	narrator	but the richest part of it was this, that the two thirstiest men that ever came out of Scotland (Mr.
+	narrator	Shuan being dead) were now shut in the fore-part of the ship and condemned to what they hated most--cold water.
+	alan breck	And depend upon it, we shall hear more of them ere long. Ye may keep a man from the fighting,
+	alan breck	but never from his bottle.
+	narrator	We made good company for each other. Alan, indeed, expressed himself most lovingly; and taking a knife from the table,
+	narrator	cut me off one of the silver buttons from his coat.
+	alan breck	I had them from my father, Duncan Stewart; and now give ye one of them to be a keepsake for last night's work.
+	alan breck	And wherever ye go and show that button, the friends of Alan Breck will come around you.
+	narrator	He said this as if he had been Charlemagne, and commanded armies; and indeed, much as I admired his courage,
+	narrator	I was always in danger of smiling at his vanity: in danger, I say, for had I not kept my countenance,
+	narrator	I would be afraid to think what a quarrel might have followed. As soon as we were through with our meal he rummaged in the captain's locker till he found a clothes-brush; and then taking off his coat,
+	narrator	began to visit his suit and brush away the stains, with such care and labour as I supposed to have been only usual with women.
+	narrator	To be sure, he had no other; and, besides (as he said), it belonged to a king and so behoved to be royally looked after.
+	narrator	For all that, when I saw what care he took to pluck out the threads where the button had been cut away,
+	narrator	I put a higher value on his gift. He was still so engaged when we were hailed by Mr. Riach from the deck,
+	narrator	asking for a parley; and I, climbing through the skylight and sitting on the edge of it,
+	narrator	pistol in hand and with a bold front, though inwardly in fear of broken glass, hailed him back again and bade him speak out.
+	narrator	He came to the edge of the round-house, and stood on a coil of rope, so that his chin was on a level with the roof; and we looked at each other awhile in silence.
+	narrator	Mr. Riach, as I do not think he had been very forward in the battle, so he had got off with nothing worse than a blow upon the cheek: but he looked out of heart and very weary,
+	narrator	having been all night afoot, either standing watch or doctoring the wounded.
+	mr. riach	This is a bad job,
+	narrator	said he at last, shaking his head. "It was none of our choosing," said I.
+	mr. riach	The captain, says he, "would like to speak with your friend. They might speak at the window.
+	narrator	"And how do we know what treachery he means?" cried I.
+	mr. riach	He means none, David," returned Mr. Riach, "and if he did, I'll tell ye the honest truth,
+	mr. riach	we couldnae get the men to follow.
+	narrator	"Is that so?" said I.
+	mr. riach	I'll tell ye more than that," said he. "It's not only the men; it's me. I'm frich'ened,
+	mr. riach	Davie." And he smiled across at me. "No," he continued, "what we want is to be shut of him.
+	narrator	Thereupon I consulted with Alan, and the parley was agreed to and parole given upon either side; but this was not the whole of Mr. Riach's business,
+	narrator	and he now begged me for a dram with such instancy and such reminders of his former kindness,
+	narrator	that at last I handed him a pannikin with about a gill of brandy. He drank a part,
+	narrator	and then carried the rest down upon the deck, to share it (I suppose) with his superior.
+	narrator	A little after, the captain came (as was agreed) to one of the windows, and stood there in the rain,
+	narrator	with his arm in a sling, and looking stern and pale, and so old that my heart smote me for having fired upon him.
+	alan breck	Put that thing up!
+	captain hoseason	Have I not passed my word, sir? or do ye seek to affront me?
+	alan breck	Captain, I doubt your word is a breakable. Last night ye haggled and argle-bargled like an apple-wife; and then passed me your word,
+	alan breck	and gave me your hand to back it; and ye ken very well what was the upshot.
+	alan breck	Be damned to your word!
+	captain hoseason	Well, well, sir, ye'll get little good by swearing. (And truly that was a fault of which the captain was quite free.) But we have other things to speak,
+	captain hoseason	he continued, bitterly. "Ye've made a sore hash of my brig; I haven't hands enough left to work her; and my first officer (whom I could ill spare) has got your sword throughout his vitals,
+	captain hoseason	and passed without speech. There is nothing left me, sir, but to put back into the port of Glasgow after hands; and there (by your leave) ye will find them that are better able to talk to you.
+	alan breck	Ay? And faith, I'll have a talk with them mysel'! Unless there's naebody speaks English in that town,
+	alan breck	I have a bonny tale for them. Fifteen tarry sailors upon the one side, and a man and a halfling boy upon the other!
+	alan breck	O, man, it's peetiful!
+	captain hoseason	No,
+	alan breck	continued Alan, "that'll no do. Ye'll just have to set me ashore as we agreed.
+	captain hoseason	Ay, said Hoseason, "but my first officer is dead--ye ken best how. There's none of the rest of us acquaint with this coast,
+	captain hoseason	sir; and it's one very dangerous to ships.
+	alan breck	I give ye your choice, says Alan. "Set me on dry ground in Appin, or Ardgour,
+	alan breck	or in Morven, or Arisaig, or Morar; or, in brief, where ye please, within thirty miles of my own country; except in a country of the Campbells.
+	alan breck	That's a broad target. If ye miss that, ye must be as feckless at the sailoring as I have found ye at the fighting.
+	alan breck	Why, my poor country people in their bit cobles pass from island to island in all weathers,
+	alan breck	ay, and by night too, for the matter of that.
+	captain hoseason	A coble’s not a ship, sir. It has nae draught of water.
+	alan breck	Well, then, to Glasgow if ye list! We’ll have the laugh of ye at the least.
+	captain hoseason	My mind runs little upon laughing.
+	alan breck	But all this will cost money, sir. Well, sir, I am nae weathercock. Thirty guineas, if ye land me on the sea-side; and sixty,
+	alan breck	if ye put me in the Linnhe Loch.
+	captain hoseason	But see, sir, where we lie, we are but a few hours' sail from Ardnamurchan. Give me sixty,
+	captain hoseason	and I'll set ye there.
+	alan breck	And I’m to wear my brogues and run jeopardy of the red-coats to please you? No,
+	alan breck	sir; if ye want sixty guineas earn them, and set me in my own country.
+	captain hoseason	It's to risk the brig, sir, and your own lives along with her.
+	alan breck	Take it or want it.
+	captain hoseason	Could ye pilot us at all?
+	alan breck	Well, it's doubtful. I'm more of a fighting man (as ye have seen for yoursel') than a sailor-man.
+	alan breck	But I have been often enough picked up and set down upon this coast, and should ken something of the lie of it.
+	captain hoseason	If I had lost less money on this unchancy cruise, says he, I would see you in a rope's end before I risked my brig,
+	captain hoseason	sir. But be it as ye will. As soon as I get a slant of wind (and there's some coming,
+	captain hoseason	or I'm the more mistaken) I'll put it in hand. But there's one thing more. We may meet in with a king's ship and she may lay us aboard,
+	captain hoseason	sir, with no blame of mine: they keep the cruisers thick upon this coast, ye ken who for.
+	captain hoseason	Now, sir, if that was to befall, ye might leave the money.
+	alan breck	Captain, if ye see a pennant, it shall be your part to run away. And now,
+	alan breck	as I hear you're a little short of brandy in the fore-part, I'll offer ye a change: a bottle of brandy against two buckets of water.
+	narrator	That was the last clause of the treaty, and was duly executed on both sides; so that Alan and I could at last wash out the round-house and be quit of the memorials of those whom we had slain,
+	narrator	and the captain and Mr. Riach could be happy again in their own way, the name of which was drink.

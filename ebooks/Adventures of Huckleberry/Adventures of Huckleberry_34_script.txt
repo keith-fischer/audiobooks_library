@@ -1,0 +1,137 @@
+	narrator	We stopped talking, and got to thinking. By-and-by Tom says:
+	tom sawyer	Looky here, Huck, what fools we are to not think of it before! I bet I know where Jim is.
+	huck finn	No! Where?
+	tom sawyer	In that hut down by the ash-hopper. Why, looky here. When we was at dinner, didn't you see a nigger man go in there with some vittles?
+	huck finn	Yes.
+	tom sawyer	What did you think the vittles was for?
+	huck finn	For a dog.
+	tom sawyer	So'd I. Well, it wasn't for a dog.
+	huck finn	Why?
+	tom sawyer	Because part of it was watermelon.
+	huck finn	So it was—I noticed it. Well, it does beat all that I never thought about a dog not eating watermelon.
+	huck finn	It shows how a body can see and don't see at the same time.
+	tom sawyer	Well, the nigger unlocked the padlock when he went in, and he locked it again when he came out.
+	tom sawyer	He fetched uncle a key about the time we got up from table—same key, I bet.
+	tom sawyer	Watermelon shows man, lock shows prisoner; and it ain't likely there's two prisoners on such a little plantation,
+	tom sawyer	and where the people's all so kind and good. Jim's the prisoner. All right—I'm glad we found it out detective fashion; I wouldn't give shucks for any other way.
+	tom sawyer	Now you work your mind, and study out a plan to steal Jim, and I will study out one,
+	tom sawyer	too; and we'll take the one we like the best.
+	narrator	What a head for just a boy to have! If I had Tom Sawyer's head I would n't trade it off to be a duke,
+	narrator	nor mate of a steamboat, nor clown in a circus, nor nothing I can think of.
+	narrator	I went to thinking out a plan, but only just to be doing something; I knowed very well where the right plan was going to come from.
+	narrator	Pretty soon Tom says:
+	tom sawyer	Ready?
+	huck finn	Yes,
+	tom sawyer	All right—bring it out.
+	huck finn	My plan is this, We can easy find out if it's Jim in there. Then get up my canoe to-morrow night,
+	huck finn	and fetch my raft over from the island. Then the first dark night that comes steal the key out of the old man's britches after he goes to bed,
+	huck finn	and shove off down the river on the raft with Jim, hiding daytimes and running nights,
+	huck finn	the way me and Jim used to do before. Wouldn't that plan work?
+	tom sawyer	_Work?_ Why, cert'nly it would work, like rats a-fighting. But it's too blame' simple; there ain't nothing _to_ it.
+	tom sawyer	What's the good of a plan that ain't no more trouble than that? It's as mild as goose-milk.
+	tom sawyer	Why, Huck, it wouldn't make no more talk than breaking into a soap factory.
+	narrator	I never said nothing, because I warn't expecting nothing different; but I knowed mighty well that whenever he got _his_ plan ready it wouldn't have none of them objections to it.
+	narrator	And it didn't. He told me what it was, and I see in a minute it was worth fifteen of mine for style,
+	narrator	and would make Jim just as free a man as mine would, and maybe get us all killed besides.
+	narrator	So I was satisfied, and said we would waltz in on it. I needn't tell what it was here,
+	narrator	because I knowed it wouldn't stay the way, it was. I knowed he would be changing it around every which way as we went along,
+	narrator	and heaving in new bullinesses wherever he got a chance. And that is what he done.
+	narrator	Well, one thing was dead sure, and that was that Tom Sawyer was in earnest, and was actuly going to help steal that nigger out of slavery.
+	narrator	That was the thing that was too many for me. Here was a boy that was respectable and well brung up; and had a character to lose; and folks at home that had characters; and he was bright and not leather-headed; and knowing and not ignorant; and not mean,
+	narrator	but kind; and yet here he was, without any more pride, or rightness, or feeling, than to stoop to this business,
+	narrator	and make himself a shame, and his family a shame, before everybody. I _couldn't_ understand it no way at all.
+	narrator	It was outrageous, and I knowed I ought to just up and tell him so; and so be his true friend,
+	narrator	and let him quit the thing right where he was and save himself. And I _did_ start to tell him; but he shut me up,
+	narrator	and says:
+	tom sawyer	Don't you reckon I know what I'm about? Don't I generly know what I'm about?
+	huck finn	Yes.
+	tom sawyer	Didn't I _say_ I was going to help steal the nigger?
+	huck finn	Yes.
+	tom sawyer	_Well_, then.
+	narrator	That's all he said, and that's all I said. It warn't no use to say any more; because when he said he'd do a thing,
+	narrator	he always done it. But _I_ couldn't make out how he was willing to go into this thing; so I just let it go,
+	narrator	and never bothered no more about it. If he was bound to have it so, _I_ couldn't help it.
+	narrator	When we got home the house was all dark and still; so we went on down to the hut by the ash-hopper for to examine it.
+	narrator	We went through the yard so as to see what the hounds would do. They knowed us,
+	narrator	and didn't make no more noise than country dogs is always doing when anything comes by in the night.
+	narrator	When we got to the cabin we took a look at the front and the two sides; and on the side I warn't acquainted with—which was the north side—we found a square window-hole,
+	narrator	up tolerable high, with just one stout board nailed across it. I says:
+	huck finn	Here's the ticket. This hole's big enough for Jim to get through if we wrench off the board.
+	tom sawyer	It's as simple as tit-tat-toe, three-in-a-row, and as easy as playing hooky. I should _hope_ we can find a way that's a little more complicated than _that_,
+	tom sawyer	Huck Finn.
+	huck finn	Well, then, how'll it do to saw him out, the way I done before I was murdered that time?
+	tom sawyer	That's more _like_, he says. "It's real mysterious, and troublesome, and good," he says; "but I bet we can find a way that's twice as long.
+	tom sawyer	There ain't no hurry; le's keep on looking around.
+	narrator	Betwixt the hut and the fence, on the back side, was a lean-to that joined the hut at the eaves,
+	narrator	and was made out of plank. It was as long as the hut, but narrow—only about six foot wide.
+	narrator	The door to it was at the south end, and was padlocked. Tom he went to the soap-kettle and searched around,
+	narrator	and fetched back the iron thing they lift the lid with; so he took it and prized out one of the staples.
+	narrator	The chain fell down, and we opened the door and went in, and shut it, and struck a match,
+	narrator	and see the shed was only built against a cabin and hadn’t no connection with it; and there warn’t no floor to the shed,
+	narrator	nor nothing in it but some old rusty played-out hoes and spades and picks and a crippled plow.
+	narrator	The match went out, and so did we, and shoved in the staple again, and the door was locked as good as ever.
+	narrator	Tom was joyful.
+	tom sawyer	Now we’re all right. We’ll _dig_ him out. It’ll take about a week!
+	narrator	Then we started for the house, and I went in the back door—you only have to pull a buckskin latch-string,
+	narrator	they don’t fasten the doors—but that warn’t romantical enough for Tom Sawyer; no way would do him but he must climb up the lightning-rod.
+	narrator	But after he got up half way about three times, and missed fire and fell every time,
+	narrator	and the last time most busted his brains out, he thought he’d got to give it up; but after he was rested he allowed he would give her one more turn for luck,
+	narrator	and this time he made the trip. In the morning we was up at break of day,
+	narrator	and down to the nigger cabins to pet the dogs and make friends with the nigger that fed Jim—if it _was_ Jim that was being fed.
+	narrator	The niggers was just getting through breakfast and starting for the fields; and Jim’s nigger was piling up a tin pan with bread and meat and things; and whilst the others was leaving,
+	narrator	the key come from the house. This nigger had a good-natured, chuckle-headed face, and his wool was all tied up in little bunches with thread.
+	narrator	That was to keep witches off. He said the witches was pestering him awful these nights,
+	narrator	and making him see all kinds of strange things, and hear all kinds of strange words and noises,
+	narrator	and he didn’t believe he was ever witched so long before in his life. He got so worked up,
+	narrator	and got to running on so about his troubles, he forgot all about what he’d been a-going to do.
+	narrator	So Tom says:
+	tom sawyer	What’s the vittles for? Going to feed the dogs?
+	the nigger man	Yes, Mars Sid, _a_ dog. Cur’us dog, too. Does you want to go en look at ’im?
+	tom sawyer	Yes.
+	narrator	I hunched Tom, and whispers:
+	huck finn	You going, right here in the daybreak? _That_ warn’t the plan.
+	tom sawyer	No, it warn’t; but it’s the plan _now_.
+	narrator	So, drat him, we went along, but I didn’t like it much. When we got in we couldn’t hardly see anything,
+	narrator	it was so dark; but Jim was there, sure enough, and could see us; and he sings out:
+	jim	Why, _Huck!_ En good _lan_’! ain’ dat Misto Tom?
+	narrator	I just knowed how it would be; I just expected it. _I_ didn’t know nothing to do; and if I had I couldn’t a done it,
+	narrator	because that nigger busted in and says:
+	the nigger man	Why, de gracious sakes! do he know you genlmen?
+	narrator	We could see pretty well now. Tom he looked at the nigger, steady and kind of wondering,
+	narrator	and says:
+	tom sawyer	Does _who_ know us?
+	the nigger man	Why, dis-yer runaway nigger.
+	tom sawyer	I don’t reckon he does; but what put that into your head?
+	the nigger man	What _put_ it dar? Didn’ he jis’ dis minute sing out like he knowed you?
+	tom sawyer	Well, that’s mighty curious. _Who_ sung out? _When_ did he sing out? _what_ did he sing out?
+	tom sawyer	And turns to me, perfectly ca’m, and says, "Did _you_ hear anybody sing out?
+	narrator	Of course there warn’t nothing to be said but the one thing; so I says:
+	huck finn	No; _I_ ain’t heard nobody say nothing.
+	narrator	Then he turns to Jim, and looks him over like he never see him before, and says:
+	tom sawyer	Did you sing out?
+	jim	No, sah," says Jim; "_I_ hain’t said nothing, sah.
+	tom sawyer	Not a word?
+	jim	No, sah, I hain’t said a word.
+	tom sawyer	Did you ever see us before?
+	jim	No, sah; not as _I_ knows on.
+	narrator	So Tom turns to the nigger, which was looking wild and distressed, and says, kind of severe:
+	tom sawyer	What do you reckon’s the matter with you, anyway? What made you think somebody sung out?
+	the nigger man	Oh, it’s de dad-blame’ witches, sah, en I wisht I was dead, I do. Dey’s awluz at it,
+	the nigger man	sah, en dey do mos’ kill me, dey sk’yers me so. Please to don’t tell nobody ’bout it sah,
+	the nigger man	er ole Mars Silas he’ll scole me; ’kase he say dey _ain’t_ no witches. I jis’
+	the nigger man	wish to goodness he was heah now—_den_ what would he say! I jis’ bet he couldn’
+	the nigger man	fine no way to git aroun’ it _dis_ time. But it’s awluz jis’ so; people dat’s _sot_,
+	the nigger man	stays sot; dey won’t look into noth’n’en fine it out f’r deyselves, en when _you_ fine it out en tell um ’bout it,
+	the nigger man	dey doan’ b’lieve you.
+	tom sawyer	Take this dime, and don’t tell nobody; and buy some more thread to tie up your wool with.
+	narrator	And then looks at Jim, and says:
+	tom sawyer	I wonder if Uncle Silas is going to hang this nigger. If I was to catch a nigger that was ungrateful enough to run away,
+	tom sawyer	_I_ wouldn’t give him up, I’d hang him.
+	narrator	And whilst the nigger stepped to the door to look at the dime and bite it to see if it was good,
+	narrator	he whispers to Jim and says:
+	tom sawyer	Don’t ever let on to know us. And if you hear any digging going on nights,
+	tom sawyer	it’s us; we’re going to set you free.
+	narrator	Jim only had time to grab us by the hand and squeeze it; then the nigger come back,
+	narrator	and we said we’d come again some time if the nigger wanted us to; and he said he would,
+	narrator	more particular if it was dark, because the witches went for him mostly in the dark,
+	narrator	and it was good to have folks around then.

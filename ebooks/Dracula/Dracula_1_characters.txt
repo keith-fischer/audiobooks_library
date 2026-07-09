@@ -1,0 +1,7 @@
+Jonathan Harker	male	The protagonist of the story, an English solicitor who travels to Transylvania to meet Count Dracula. He keeps a journal of his journey and experiences.
+*Count Dracula	male	The mysterious nobleman who owns the castle in Transylvania and is the main antagonist of the story. He sends a letter to Jonathan Harker inviting him to his castle.
+The Old Lady	*female	An elderly woman who works at the Hotel Royale in Bistritz and greets Jonathan Harker upon his arrival. She is deeply religious and expresses fear about his journey.
+*The Landlady	*female	An elderly woman who is the wife of the landlord at the Hotel Royale in Bistritz. She receives Jonathan Harker and shows him to his room.
+The Driver	*male	A driver who transports Jonathan Harker from Bistritz to the Borgo Pass. He is described as having a long brown beard and wearing a great black hat that hides his face.
+The Passenger	*male	A fellow passenger on the coach who whispers a line from Burger's 'Lenore' about dead people traveling fast.
+The Strange Driver	*male	A tall man with a long brown beard who drives the calèche that picks up Jonathan Harker at the Borgo Pass. He has very bright red eyes and a sharp-looking mouth with white teeth.

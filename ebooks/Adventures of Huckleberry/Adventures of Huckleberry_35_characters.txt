@@ -1,0 +1,5 @@
+Tom	male	The main protagonist who devises elaborate plans for escaping Jim, showing extensive knowledge of adventure literature and insisting on following heroic conventions despite practical limitations
+Huck	male	Tom's companion who provides practical objections to Tom's elaborate schemes and represents a more realistic, down-to-earth approach to the situation
+*Jim	*male	The enslaved man who is the object of Tom's elaborate escape plan, described as being chained to his bed with a ten-foot chain
+*Uncle Silas	*male	Jim's owner who trusts everyone and leaves the key to Jim with a 'punkin-headed nigger' without sending anyone to watch him
+*Aunt Sally	*female	The aunt who would be upset if the characters steal sheets and shirts to make Jim's rope ladder

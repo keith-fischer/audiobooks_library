@@ -1,0 +1,130 @@
+	narrator	I came to myself in darkness, in great pain, bound hand and foot, and deafened by many unfamiliar noises.
+	narrator	There sounded in my ears a roaring of water as of a huge mill-dam, the thrashing of heavy sprays,
+	narrator	the thundering of the sails, and the shrill cries of seamen. The whole world now heaved giddily up,
+	narrator	and now rushed giddily downward; and so sick and hurt was I in body, and my mind so much confounded,
+	narrator	that it took me a long while, chasing my thoughts up and down, and ever stunned again by a fresh stab of pain,
+	narrator	to realise that I must be lying somewhere bound in the belly of that unlucky ship,
+	narrator	and that the wind must have strengthened to a gale. With the clear perception of my plight,
+	narrator	there fell upon me a blackness of despair, a horror of remorse at my own folly,
+	narrator	and a passion of anger at my uncle, that once more bereft me of my senses.
+	narrator	When I returned again to life, the same uproar, the same confused and violent movements, shook and deafened me; and presently,
+	narrator	to my other pains and distresses, there was added the sickness of an unused landsman on the sea.
+	narrator	In that time of my adventurous youth, I suffered many hardships; but none that was so crushing to my mind and body,
+	narrator	or lit by so few hopes, as these first hours aboard the brig. I heard a gun fire,
+	narrator	and supposed the storm had proved too strong for us, and we were firing signals of distress.
+	narrator	The thought of deliverance, even by death in the deep sea, was welcome to me. Yet it was no such matter; but (as I was afterwards told) a common habit of the captain's,
+	narrator	which I here set down to show that even the worst man may have his kindlier side.
+	narrator	We were then passing, it appeared, within some miles of Dysart, where the brig was built,
+	narrator	and where old Mrs. Hoseason, the captain's mother, had come some years before to live; and whether outward or inward bound,
+	narrator	the _Covenant_ was never suffered to go by that place by day, without a gun fired and colours shown.
+	narrator	I had no measure of time; day and night were alike in that ill-smelling cavern of the ship's bowels where I lay; and the misery of my situation drew out the hours to double.
+	narrator	How long, therefore, I lay waiting to hear the ship split upon some rock, or to feel her reel head foremost into the depths of the sea,
+	narrator	I have not the means of computation. But sleep at length stole from me the consciousness of sorrow.
+	narrator	I was awakened by the light of a hand-lantern shining in my face. A small man of about thirty,
+	narrator	with green eyes and a tangle of fair hair, stood looking down at me.
+	mr. riach	Well, how goes it?
+	narrator	I answered by a sob; and my visitor then felt my pulse and temples, and set himself to wash and dress the wound upon my scalp.
+	mr. riach	Ay, a sore dunt. What, man? Cheer up! The world's no done; you've made a bad start of it but you'll make a better.
+	mr. riach	Have you had any meat?
+	narrator	I said I could not look at it: and thereupon he gave me some brandy and water in a tin pannikin,
+	narrator	and left me once more to myself. The next time he came to see me, I was lying betwixt sleep and waking,
+	narrator	my eyes wide open in the darkness, the sickness quite departed, but succeeded by a horrid giddiness and swimming that was almost worse to bear.
+	narrator	I ached, besides, in every limb, and the cords that bound me seemed to be of fire.
+	narrator	The smell of the hole in which I lay seemed to have become a part of me; and during the long interval since his last visit I had suffered tortures of fear,
+	narrator	now from the scurrying of the ship's rats, that sometimes pattered on my very face, and now from the dismal imaginings that haunt the bed of fever.
+	narrator	The glimmer of the lantern, as a trap opened, shone in like the heaven's sunlight; and though it only showed me the strong,
+	narrator	dark beams of the ship that was my prison, I could have cried aloud for gladness.
+	narrator	The man with the green eyes was the first to descend the ladder, and I noticed that he came somewhat unsteadily.
+	narrator	He was followed by the captain. Neither said a word; but the first set to and examined me,
+	narrator	and dressed my wound as before, while Hoseason looked me in my face with an odd,
+	narrator	black look.
+	mr. riach	Now, sir, you see for yourself: a high fever, no appetite, no light, no meat: you see for yourself what that means.
+	captain hoseason	I am no conjurer, Mr. Riach.
+	mr. riach	Give me leave, sir: you've a good head upon your shoulders, and a good Scotch tongue to ask with; but I will leave you no manner of excuse; I want that boy taken out of this hole and put in the forecastle.
+	captain hoseason	What ye may want, sir, is a matter of concern to nobody but yoursel'; but I can tell ye that which is to be.
+	captain hoseason	Here he is; here he shall bide.
+	mr. riach	Admitting that you have been paid in a proportion, I will crave leave humbly to say that I have not.
+	mr. riach	Paid I am, and none too much, to be the second officer of this old tub,
+	mr. riach	and you ken very well if I do my best to earn it. But I was paid for nothing more.
+	captain hoseason	If ye could hold back your hand from the tin-pan, Mr. Riach, I would have no complaint to make of ye; and instead of asking riddles,
+	captain hoseason	I make bold to say that ye would keep your breath to cool your porridge. We'll be required on deck,"
+	captain hoseason	he added, in a sharper note, and set one foot upon the ladder.
+	mr. riach	Admitting that you have been paid to do a murder----
+	captain hoseason	What's that? What kind of talk is that?
+	mr. riach	It seems it is the talk that you can understand.
+	captain hoseason	Mr. Riach, I have sailed with ye three cruises. In all that time, sir, ye should have learned to know me: I'm a stiff man,
+	captain hoseason	and a dour man; but for what ye say the now--fie, fie!--it comes from a bad heart and a black conscience.
+	captain hoseason	If ye say the lad will die----
+	mr. riach	Ay, will he!
+	captain hoseason	Well, sir, is not that enough?
+	narrator	Flit him where ye please! Thereupon the captain ascended the ladder; and I, who had lain silent throughout this strange conversation,
+	narrator	beheld Mr. Riach turn after him and bow as low as to his knees in what was plainly a spirit of derision.
+	narrator	Even in my then state of sickness, I perceived two things: that the mate was touched with liquor,
+	narrator	as the captain hinted, and that (drunk or sober) he was like to prove a valuable friend.
+	narrator	Five minutes afterwards my bonds were cut, I was hoisted on a man's back, carried up to the forecastle,
+	narrator	and laid in a bunk on some sea-blankets; where the first thing that I did was to lose my senses.
+	narrator	It was a blessed thing indeed to open my eyes again upon the daylight, and to find myself in the society of men.
+	narrator	The forecastle was a roomy place enough, set all about with berths, in which the men of the watch below were seated smoking,
+	narrator	or lying down asleep. The day being calm and the wind fair, the scuttle was open,
+	narrator	and not only the good daylight, but from time to time (as the ship rolled) a dusty beam of sunlight shone in,
+	narrator	and dazzled and delighted me. I had no sooner moved, moreover, than one of the men brought me a drink of something healing which Mr. Riach had prepared,
+	narrator	and bade me lie still and I should soon be well again. There were no bones broken,
+	narrator	he explained: 'A clour on the head was naething. Man,' said he, 'it was me that gave it ye!'
+	narrator	Here I lay for the space of many days a close prisoner, and not only got my health again,
+	narrator	but came to know my companions. They were a rough lot indeed, as sailors mostly are: being men rooted out of all the kindly parts of life,
+	narrator	and condemned to toss together on the rough seas, with masters no less cruel. There were some among them that had sailed with the pirates and seen things it would be a shame even to speak of; some were men that had run from the king's ships,
+	narrator	and went with a halter round their necks, of which they made no secret; and all,
+	narrator	as the saying goes, were 'at a word and a blow' with their best friends. Yet I had not been many days shut up with them before I began to be ashamed of my first judgment,
+	narrator	when I had drawn away from them at the Ferry pier, as though they had been unclean beasts.
+	narrator	No class of man is altogether bad, but each has its own faults and virtues; and these shipmates of mine were no exception to the rule.
+	narrator	Rough they were, sure enough; and bad, I suppose; but they had many virtues. They were kind when it occurred to them,
+	narrator	simple even beyond the simplicity of a country lad like me, and had some glimmerings of honesty.
+	narrator	There was one man, of maybe forty, that would sit on my berthside for hours and tell me of his wife and child.
+	narrator	He was a fisher that had lost his boat, and thus been driven to the deep-sea voyaging.
+	narrator	Well, it is years ago now: but I have never forgotten him. His wife (who was 'young by him,'
+	narrator	as he often told me) waited in vain to see her man return; he would never again make the fire for her in the morning,
+	narrator	nor yet keep the bairn when she was sick. Indeed, many of these poor fellows (as the event proved) were upon their last cruise; the deep seas and cannibal fish received them; and it is a thankless business to speak ill of the dead.
+	narrator	Among other good deeds that they did, they returned my money, which had been shared among them; and though it was about a third short,
+	narrator	I was very glad to get it, and hoped great good from it in the land I was going to.
+	narrator	The ship was bound for the Carolinas; and you must not suppose that I was going to that place merely as an exile.
+	narrator	The trade was even then much depressed; since that, and with the rebellion of the colonies and the formation of the United States,
+	narrator	it has, of course, come to an end; but in those days of my youth, white men were still sold into slavery on the plantations,
+	narrator	and that was the destiny to which my wicked uncle had condemned me. The cabin-boy Ransome (from whom I had first heard of these atrocities) came in at times from the round-house,
+	narrator	where he berthed and served, now nursing a bruised limb in silent agony, now raving against the cruelty of Mr. Shuan.
+	narrator	It made my heart bleed; but the men had a great respect for the chief mate,
+	narrator	who was, as they said, 'the only seaman of the whole jing-bang, and none such a bad man when he was sober.'
+	narrator	Indeed, I found there was a strange peculiarity about our two mates: that Mr. Riach was sullen,
+	narrator	unkind, and harsh when he was sober, and Mr. Shuan would not hurt a fly except when he was drinking.
+	narrator	I asked about the captain; but I was told drink made no difference upon that man of iron.
+	narrator	I did my best in the small time allowed me to make some thing like a man,
+	narrator	or rather I should say something like a boy, of the poor creature, Ransome. But his mind was scarce truly human.
+	narrator	He could remember nothing of the time before he came to sea; only that his father had made clocks,
+	narrator	and had a starling in the parlour, which could whistle 'The North Countrie;' all else had been blotted out in these years of hardship and cruelties.
+	narrator	He had a strange notion of the dry land, picked up from sailor's stories: that it was a place where lads were put to some kind of slavery called a trade,
+	narrator	and where apprentices were continually lashed and clapped into foul prisons. In a town, he thought every second person a decoy,
+	narrator	and every third house a place in which seamen would be drugged and murdered. To be sure,
+	narrator	I would tell him how kindly I had myself been used upon that dry land he was so much afraid of,
+	narrator	and how well fed and carefully taught both by my friends and my parents: and if he had been recently hurt,
+	narrator	he would weep bitterly and swear to run away; but if he was in his usual crackbrain humour,
+	narrator	or (still more) if he had had a glass of spirits in the roundhouse, he would deride the notion.
+	narrator	It was Mr. Riach (Heaven forgive him!) who gave the boy drink; and it was, doubtless,
+	narrator	kindly meant; but besides that it was ruin to his health, it was the pitifullest thing in life to see this unhappy,
+	narrator	unfriended creature staggering, and dancing, and talking he knew not what. Some of the men laughed,
+	narrator	but not all; others would grow as black as thunder (thinking, perhaps, of their own childhood or their own children) and bid him stop that nonsense,
+	narrator	and think what he was doing. As for me, I felt ashamed to look at him,
+	narrator	and the poor child still comes about me in my dreams. All this time, you should know,
+	narrator	the _Covenant_ was meeting continual head-winds and tumbling up and down against head-seas, so that the scuttle was almost constantly shut,
+	narrator	and the forecastle lighted only by a swinging lantern on a beam. There was constant labour for all hands; the sails had to be made and shortened every hour; the strain told on the men's temper; there was a growl of quarrelling all day long from berth to berth; and
+	narrator	as I was never allowed to set my foot on deck, you can picture to yourselves how weary of my life I grew to be,
+	narrator	and how impatient for a change. And a change I was to get, as you shall hear; but I must first tell of a conversation I had with Mr. Riach,
+	narrator	which put a little heart in me to bear my troubles. Getting him in a favourable stage of drink (for indeed he never looked near me when he was sober),
+	narrator	I pledged him to secrecy, and told him my whole story.
+	mr. riach	He declared it was like a ballad; that he would do his best to help me; that I should have paper,
+	mr. riach	pen, and ink, and write one line to Mr. Campbell and another to Mr. Rankeillor; and that if I had told the truth,
+	mr. riach	ten to one he would be able (with their help) to pull me through and set me in my rights.
+	mr. riach	And in the meantime, keep your heart up. You're not the only one, I'll tell you that.
+	mr. riach	There's many a man hoeing tobacco over-seas that should be mounting his horse at his own door at home; many and many!
+	mr. riach	And life is all a variorum, at the best. Look at me: I'm a laird's son and more than half a doctor,
+	mr. riach	and here I am, man-Jack to Hoseason!
+	narrator	I thought it would be civil to ask him for his story.
+	mr. riach	He whistled loud. Never had one," said he. "I like fun, that's all." And he skipped out of the forecastle.

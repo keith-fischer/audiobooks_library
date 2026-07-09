@@ -1,0 +1,4 @@
+Pap	*male	The narrator's father, a middle-aged man with greasy black hair and whiskers. He is described as having a pale, sickly white complexion and wearing rags. He is abusive, drunk, and has a history of physical punishment.
+*The widow	*female	A woman who has taken in the narrator and taught him to read and write. She is described as having a role in the boy's education.
+*Judge Thatcher	*male	A judge in the town who has custody of money that Pap believes belongs to his son. He is involved in legal proceedings regarding the narrator's guardianship.
+The new judge	*male	A newly arrived judge who makes a ruling that allows Pap to keep custody of his son, despite the boy's mistreatment.

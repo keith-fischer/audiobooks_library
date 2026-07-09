@@ -1,0 +1,9 @@
+Huck Finn	male	The narrator of the story, a young boy who has run away from his abusive father and is traveling down the Mississippi River with Jim. He is morally conflicted about helping Jim escape slavery, ultimately deciding to help him despite his conscience telling him otherwise.
+*Jim	male	A runaway slave who has been owned by Miss Watson. He is loyal, kind-hearted, and grateful to Huck Finn for helping him escape slavery. He is eventually captured by the Phelps family.
+*The King	*male	A fraud who pretends to be a royal figure. He is part of the con man duo with the Duke and is involved in various schemes to swindle people. He gets drunk and ends up in a doggery where he is bullied by loafers.
+The Duke	*male	A fraud who pretends to be a duke. He partners with the King in various schemes and con games, including the Royal Nonesuch performance. He is manipulative and gets angry easily.
+*Silas Phelps	*male	A farmer who owns the property where Jim is being held. He is described as an old man and is involved in the capture of Jim.
+*Miss Watson	*female	Jim's owner who has run away from her. She is described as a poor old woman and would sell Jim back to slavery if she knew where he was.
+*Abram G. Foster	*male	A farmer who bought Jim from the King and Duke. He is described as a man who lives forty miles back in the country on the road to Lafayette.
+The Boy	*male	A young boy Huck encounters who tells him about Jim being captured by Silas Phelps. He is described as someone who has seen the handbill and knows about the reward.
+*The Loafers	*male	A group of men who bully the King in a doggery. They are described as loafers who take advantage of the King's drunken state.

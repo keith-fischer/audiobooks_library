@@ -1,0 +1,15 @@
+Jim	*male	A companion and fellow traveler who is scared and physically weak, described as being on a wreck with the narrator. He is loyal to the narrator and helps in escaping from the gang.
+Packard	*male	A member of the gang who is involved in stealing from a wreck and planning to take money that belongs to someone else. He is described as being in the boat with Bill.
+Bill	*male	A member of the gang who is involved in stealing from a wreck and planning to take money that belongs to someone else. He is described as being with Packard in the boat.
+*Jim Turner	*male	A person who is trapped on a wreck and in danger, described as being in a fix with the gang.
+*Bill Whipple	*male	A person who died in a wreck, described as the best creature and someone the narrator almost wishes had been him.
+*Miss Hooker	*female	A woman who was visiting at Booth's Landing and got caught in a ferry accident, resulting in her being on the wreck with others.
+*Pap	*male	The narrator's father, who is described as being in trouble with his family on the wreck.
+*Mam	*female	The narrator's mother, who is described as being in trouble with her family on the wreck.
+*Sis	*female	The narrator's sister, who is described as being in trouble with her family on the wreck.
+*The widow	*female	A woman who would be proud of the narrator for helping rapscallions and dead beats.
+*Jim Hornback	*male	An uncle of Miss Hooker who is wealthy and generous, described as someone who would pay for help.
+The watchman	*male	A ferry boat watchman who is sleeping on the bitts and gets woken up by the narrator.
+*The ferryman	*male	A person who was lost in a ferry accident along with the nigger woman and horses.
+*The nigger woman	*female	A person who was lost in a ferry accident along with the ferryman and horses.
+*The engineer	*male	A person who is being roused by the watchman to help with a rescue.

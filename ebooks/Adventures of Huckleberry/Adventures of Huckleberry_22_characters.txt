@@ -1,0 +1,6 @@
+Sherburn	male	A calm and deliberate man who stands on his porch with a double-barrel gun, confronting a mob. He is articulate and scornful, exposing the cowardice of the crowd and mocking their attempt to lynch a man. He is from the South and has lived in both the North and South.
+*Buck Harkness	male	A man who initiates the mob's attempt to lynch Sherburn. He is described as a 'half-a-man' and is left behind when the mob disperses, looking 'tolerable cheap.'
+*The drunk man	*male	A man who attempts to ride a horse during the circus performance. He is drunk and causes chaos, but then reveals himself as one of the performers by shedding seventeen suits of clothes.
+*The ring-master	*male	A circus performer who manages the show and is fooled by the drunk man's disguise. He becomes visibly upset when he realizes his own performer has tricked him.
+*The clown	*male	A circus performer who constantly makes jokes and is quick-witted, able to respond instantly with humor to the ring-master's words.
+*The duke	*male	A traveling performer who runs a failing theater show. He is easily angered, believes the local audience lacks sophistication, and attempts to improve his act by advertising a high-brow tragedy.

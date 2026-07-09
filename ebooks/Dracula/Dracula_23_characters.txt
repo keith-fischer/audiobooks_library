@@ -1,0 +1,7 @@
+Dr. Seward	*male	A physician and member of the group investigating the vampire threat. He is practical, observant, and dedicated to helping others. He keeps a diary of the events.
+Jonathan Harker	male	A young man who has recently married Mina. He is deeply devoted to his wife and suffers greatly from her affliction with the vampire. He is brave but overwhelmed by grief.
+Mina Harker	female	Jonathan's wife, a kind and devoted woman who is the target of the vampire's attacks. She shows remarkable strength and compassion despite her suffering.
+Van Helsing	*male	An elderly Dutch doctor who is the leader of the group investigating the vampire. He is wise, determined, and possesses extensive knowledge about supernatural matters.
+Arthur Holmwood	*male	Lord Godalming, a wealthy young man who is deeply in love with Mina. He is brave and resourceful, taking charge of the group's actions during their hunt.
+Quincey Morris	*male	A young American who is also deeply in love with Mina. He is adventurous, determined, and takes initiative during their quest to stop the vampire.
+The Count	*male	The vampire antagonist, a centuries-old creature with supernatural powers. He is cunning, evil, and seeks to spread his influence through Mina.

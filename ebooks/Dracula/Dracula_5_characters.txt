@@ -1,0 +1,8 @@
+*Mina Murray	female	An assistant schoolmistress and engaged to Jonathan Harker. She is dedicated to keeping up with Jonathan's studies, practicing shorthand and typing. She writes letters in shorthand and plans to keep a journal of her experiences.
+Lucy Westenra	female	A young woman engaged to Arthur Holmwood and the recipient of multiple marriage proposals. She is described as beautiful, with a tendency to be vain about her appearance and dress. She has recently received three proposals in one day.
+*Jonathan Harker	*male	Mina's fiancé who is traveling in Transylvania. He keeps a stenographic journal of his travels and writes letters to Mina.
+Arthur Holmwood	*male	Lucy's fiancé who is described as tall, handsome, and curly-haired. He visits Lucy regularly and has a close relationship with her mother.
+*Dr. John Seward	*male	A doctor who works at a lunatic asylum and proposes to Lucy. He is described as having a strong jaw, good forehead, and being resolute yet calm.
+Quincey P. Morris	*male	An American from Texas who proposes to Lucy. He is described as young, fresh-looking, and having had many adventures. He has excellent manners despite speaking slang when he wants to amuse Lucy.
+*R. M. Renfield	*male	A patient in Dr. Seward's asylum who is the subject of medical study due to his strange behavior and hallucinations.
+*Jack Seward	*male	A friend of Quincey P. Morris and Dr. John Seward who is invited to join Arthur Holmwood for a dinner party.

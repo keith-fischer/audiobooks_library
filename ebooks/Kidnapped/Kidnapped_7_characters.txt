@@ -1,0 +1,8 @@
+*Uncle	*male	The narrator's uncle who has kidnapped him and sold him into slavery. He is portrayed as cruel, manipulative, and morally corrupt.
+Mr. Riach	*male	The second officer of the brig _Covenant_, a man in his thirties with green eyes and fair hair. He is harsh when sober but shows kindness to the narrator, treating his wounds and helping him escape from the ship's hold. He is intelligent but has a sullen, unkind personality when sober.
+Captain Hoseason	*male	The captain of the brig _Covenant_, an older man who is described as cruel and dour. He has a drinking problem, though he claims to be the only one who can't be influenced by alcohol. He is the father of Mrs. Hoseason.
+*Mrs. Hoseason	*female	The captain's mother, who lives in Dysart. She is an elderly woman who has been living there for years.
+*Ransome	*male	A cabin boy on the ship who has been traumatized by his experiences at sea. He has no memory of his life before the ship and believes the land is a place of slavery and cruelty. He suffers from mental instability due to his traumatic experiences.
+*Mr. Shuan	*male	The chief mate of the brig _Covenant_, who is described as being kind when sober but cruel and violent when drinking. He is respected by the crew despite his harsh nature.
+*Mr. Campbell	*male	A person to whom the narrator wishes to write a letter, likely a friend or family member who can help him regain his freedom.
+*Mr. Rankeillor	*male	A person to whom the narrator wishes to write a letter, likely a friend or family member who can help him regain his freedom.

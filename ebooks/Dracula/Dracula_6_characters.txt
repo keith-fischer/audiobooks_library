@@ -1,0 +1,11 @@
+*Mina Murray	female	A young woman writing in her journal, staying in Whitby with Lucy Westenra. She is concerned about her missing husband Jonathan and worries about Lucy's sleepwalking.
+Lucy Westenra	female	Mina's friend, staying in Whitby with her mother. She is described as sweetly pretty and beautiful, planning for her upcoming marriage to Arthur Holmwood.
+*Mrs. Westenra	female	Lucy's mother, naturally anxious about her daughter's sleepwalking habit and Lucy's father who also had the same habit.
+*Jonathan Harker	*male	Mina's husband who has not written to her for a month, causing her anxiety. He is mentioned as being in Castle Dracula.
+*Mr. Hawkins	*male	A kind man who sends Mina a letter from Jonathan, though the letter is brief and mysterious.
+*Arthur Holmwood	*male	The Hon. Arthur Holmwood, only son of Lord Godalming and Lucy's fiancé who is coming to visit Whitby.
+*Lord Godalming	*male	Arthur Holmwood's father, who is not very well and requires Arthur to visit him.
+*Dr. Seward	*male	A doctor who is observing and documenting the case of patient Renfield, noting his peculiar behavior and zoöphagous tendencies.
+Renfield	*male	A patient in Dr. Seward's care who exhibits abnormal behavior, including a disturbing obsession with consuming living creatures to absorb their life force.
+Mr. Swales	*male	An elderly local man who sits in the churchyard and tells stories, including legends about Whitby. He is skeptical of supernatural tales but has a deep knowledge of local history.
+The Coastguard	*male	A local figure who stops to talk with Mina and notices a strange Russian ship approaching the harbor.

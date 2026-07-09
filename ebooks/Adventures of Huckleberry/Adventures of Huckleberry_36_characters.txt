@@ -1,0 +1,7 @@
+Tom Sawyer	male	The main protagonist who devises and executes the plan to free Jim. He is principled yet pragmatic, willing to bend moral rules for what he sees as a greater cause. He is strategic and determined.
+Huck Finn	male	Tom's companion who assists in the escape plan. He is more casual about morality and practicality, supporting Tom's ideas even when they seem impractical. He is resourceful and loyal.
+Jim	*male	The enslaved man being helped to escape. He is grateful and trusting of his rescuers, though initially confused by their elaborate plans. He is practical and obedient to Tom's instructions.
+Nat	*male	The enslaved man who feeds Jim. He is superstitious and easily frightened, believing he saw supernatural creatures. He is cooperative with the escape plan.
+*Uncle Silas	male	Jim's guardian who visits him regularly to pray with him. He is kind and caring toward Jim.
+*Aunt Sally	female	Jim's guardian who visits him to check on his comfort and food. She is kind and caring toward Jim.
+*Mars Sid	*male	Tom Sawyer, who is pretending to be Sid, one of the boys in the story. He is clever and manipulative, taking charge of the escape plan.

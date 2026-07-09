@@ -1,0 +1,9 @@
+Tom Sawyer	male	The main protagonist of the story, a clever and adventurous boy who helps Jim escape from slavery. He is proud, joyful, and full of mischief. He pretends to be Sid while in the hospital.
+Huck Finn	male	The narrator of the story, a mischievous and independent boy who helps Tom plan Jim's escape. He is resourceful and loyal, though he struggles with his upbringing and the moral complexities of helping a runaway slave.
+Jim	*male	A runaway slave who is freed by Tom and Huck. He is loyal, grateful, and believes he has a hairy breast that predicts his wealth.
+Aunt Polly	female	Tom's aunt who raises him and is the mother of Sid. She is strict, caring, and initially angry at Tom for his pranks but later shows affection.
+Aunt Sally	female	Tom's aunt who is also his guardian. She is emotional, protective of her family, and initially believes Tom has been a bad influence.
+*Uncle Silas	male	Tom's uncle who is confused and overwhelmed by the events of the story. He becomes disoriented after learning about Tom's deception.
+Old Doctor	*male	A kind and caring physician who helps treat Tom after he is shot. He defends Jim's actions and praises his loyalty.
+*Sid	*male	Tom's younger brother who is mistaken for Tom by Aunt Sally. He is portrayed as a good-natured boy.
+*Old Miss Watson	female	The late owner of Jim who freed him in her will. She was ashamed to sell him and wanted to set him free.

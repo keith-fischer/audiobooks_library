@@ -1,0 +1,15 @@
+Huck	*male	The narrator of the story, a young boy who has faked his own death and is hiding on an island. He is resourceful, independent, and has a strong sense of morality despite his rough upbringing.
+Jim	*male	Miss Watson's enslaved man who has escaped from slavery and is hiding on the island. He is superstitious, loyal, and deeply religious, having been raised in a Christian household.
+*Pap	*male	Huck's abusive father who appears on the ferry boat searching for Huck. He is a drunkard and antagonist to Huck.
+*Judge Thatcher	*male	A local citizen and legal figure who is involved in the search for Huck's body. He appears aboard the ferry boat.
+*Bessie Thatcher	*female	Judge Thatcher's daughter who is aboard the ferry boat searching for Huck. She is part of the community investigating the murder.
+*Jo Harper	*male	A local boy who joins the search party on the ferry boat. He is part of Huck's social circle.
+*Tom Sawyer	*male	A local boy who is aboard the ferry boat searching for Huck. He is known for his adventures and mischief.
+*Aunt Polly	*female	Tom Sawyer's aunt who is aboard the ferry boat searching for Huck. She is a maternal figure in Tom's life.
+*Sid	*male	Tom Sawyer's brother who is aboard the ferry boat searching for Huck. He is part of Tom's family circle.
+*Mary	*female	A member of Tom Sawyer's family who is aboard the ferry boat searching for Huck. She is part of the community investigating.
+*Miss Watson	*female	Jim's owner who is mentioned as having planned to sell him. She represents the oppressive slaveholding society.
+*Balum	*male	A superstitious black man who Jim gives money to in hopes of making a profit. He is described as 'chuckleheads' and considered lucky by others.
+*Bob	*male	A black man who owns a wood-flat (raft) that gets stolen. He is involved in Jim's failed business venture.
+*Old Misto Bradish	*male	A white man who owns a one-legged black servant. He is mentioned as having started a bank that failed.
+*One-laigged nigger	*male	A black man who owns a bank that fails. He is described as one-legged and tries to prevent Jim from starting his own bank.

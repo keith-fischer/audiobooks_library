@@ -1,0 +1,170 @@
+	narrator	The news was all over town in two minutes, and you could see the people tearing down on the run from every which way,
+	narrator	some of them putting on their coats as they come. Pretty soon we was in the middle of a crowd,
+	narrator	and the noise of the tramping was like a soldier march. The windows and dooryards was full; and every minute somebody would say,
+	narrator	over a fence: "Is it _them?" And somebody trotting along with the gang would answer back and say: "You bet it is."
+	narrator	When we got to the house the street in front of it was packed, and the three girls was standing in the door.
+	narrator	Mary Jane _was_ red-headed, but that don't make no difference, she was most awful beautiful, and her face and her eyes was all lit up like glory,
+	narrator	she was so glad her uncles was come.
+	the king	Spread your arms!
+	narrator	The king he spread his arms, and Mary Jane she jumped for them, and the hare-lip jumped for the duke,
+	narrator	and there they _had_ it! Everybody most, leastways women, cried for joy to see them meet again at last and have such good times.
+	narrator	Then the king he hunched the duke private—I see him do it—and then he looked around and see the coffin,
+	narrator	over in the corner on two chairs; so then him and the duke, with a hand across each other's shoulder,
+	narrator	and t'other hand to their eyes, walked slow and solemn over there, everybody dropping back to give them room,
+	narrator	and all the talk and noise stopping, people saying "Sh!" and all the men taking their hats off and drooping their heads,
+	narrator	so you could a heard a pin fall. And when they got there they bent over and looked in the coffin,
+	narrator	and took one sight, and then they bust out a-crying so you could a heard them to Orleans,
+	narrator	most; and then they put their arms around each other's necks, and hung their chins over each other's shoulders; and then for three minutes,
+	narrator	or maybe four, I never see two men leak the way they done. And, mind you,
+	narrator	everybody was doing the same; and the place was that damp I never see anything like it.
+	narrator	Then one of them got on one side of the coffin, and t'other on t'other side,
+	narrator	and they kneeled down and rested their foreheads on the coffin, and let on to pray all to themselves.
+	narrator	Well, when it come to that it worked the crowd like you never see anything like it,
+	narrator	and everybody broke down and went to sobbing right out loud—the poor girls, too; and every woman,
+	narrator	nearly, went up to the girls, without saying a word, and kissed them, solemn, on the forehead,
+	narrator	and then put their hand on their head, and looked up towards the sky, with the tears running down,
+	narrator	and then busted out and went off sobbing and swabbing, and give the next woman a show.
+	narrator	I never see anything so disgusting. Well, by-and-by the king he gets up and comes forward a little,
+	narrator	and works himself up and slobbers out a speech, all full of tears and flapdoodle about its being a sore trial for him and his poor brother to lose the diseased,
+	narrator	and to miss seeing diseased alive after the long journey of four thousand mile, but it's a trial that's sweetened and sanctified to us by this dear sympathy and these holy tears,
+	narrator	and so he thanks them out of his heart and out of his brother's heart, because out of their mouths they can't,
+	narrator	words being too weak and cold, and all that kind of rot and slush, till it was just sickening; and then he blubbers out a pious goody-goody Amen,
+	narrator	and turns himself loose and goes to crying fit to bust. And the minute the words were out of his mouth somebody over in the crowd struck up the doxolojer,
+	narrator	and everybody joined in with all their might, and it just warmed you up and made you feel as good as church letting out.
+	narrator	Music _is_ a good thing; and after all that soul-butter and hogwash I never see it freshen up things so,
+	narrator	and sound so honest and bully. Then the king begins to work his jaw again, and says how him and his nieces would be glad if a few of the main principal friends of the family would take supper here with them this evening,
+	narrator	and help set up with the ashes of the diseased; and says if his poor brother laying yonder could speak he knows who he would name,
+	narrator	for they was names that was very dear to him, and mentioned often in his letters; and so he will name the same,
+	narrator	to wit, as follows, vizz.:—Rev. Mr. Hobson, and Deacon Lot Hovey, and Mr. Ben Rucker, and Abner Shackleford,
+	narrator	and Levi Bell, and Dr. Robinson, and their wives, and the widow Bartley. Rev. Hobson and Dr. Robinson was down to the end of the town a-hunting together—that is,
+	narrator	I mean the doctor was shipping a sick man to t'other world, and the preacher was pinting him right.
+	narrator	Lawyer Bell was away up to Louisville on business. But the rest was on hand, and so they all come and shook hands with the king and thanked him and talked to him; and then they shook hands with the duke and didn't say nothing,
+	narrator	but just kept a-smiling and bobbing their heads like a passel of sapheads whilst he made all sorts of signs with his hands and said
+	the duke	Goo-goo—goo-goo-goo
+	narrator	all the time, like a baby that can't talk. So the king he blattered along, and managed to inquire about pretty much everybody and dog in town,
+	narrator	by his name, and mentioned all sorts of little things that happened one time or another in the town,
+	narrator	or to George's family, or to Peter. And he always let on that Peter wrote him the things; but that was a lie: he got every blessed one of them out of that young flathead that we canoed up to the steamboat.
+	narrator	Then Mary Jane she fetched the letter her father left behind, and the king he read it out loud and cried over it.
+	narrator	It give the dwelling-house and three thousand dollars, gold, to the girls; and it give the tanyard (which was doing a good business),
+	narrator	along with some other houses and land (worth about seven thousand), and three thousand dollars in gold to Harvey and William,
+	narrator	and told where the six thousand cash was hid down cellar. So these two frauds said they'd go and fetch it up,
+	narrator	and have everything square and above-board; and told me to come with a candle. We shut the cellar door behind us,
+	narrator	and when they found the bag they spilt it out on the floor, and it was a lovely sight,
+	narrator	all them yaller-boys. My, the way the king's eyes did shine!
+	the king	Oh, _this_ ain't bully nor noth'n! Oh, no, I reckon not! Why, Bilji, it beats the Nonesuch,
+	the king	_don't_ it?
+	the duke	It did.
+	narrator	They pawed the yaller-boys, and sifted them through their fingers and let them jingle down on the floor; and the king says:
+	the king	It ain't no use talkin'; bein' brothers to a rich dead man and representatives of furrin heirs that's got left is the line for you and me,
+	the king	Bilge. Thish yer comes of trust'n to Providence. It's the best way, in the long run.
+	the king	I've tried 'em all, and ther' ain't no better way.
+	narrator	Most everybody would a been satisfied with the pile, and took it on trust; but no,
+	narrator	they must count it. So they counts it, and it comes out four hundred and fifteen dollars short.
+	the king	Dern him, I wonder what he done with that four hundred and fifteen dollars?
+	narrator	They worried over that awhile, and ransacked all around for it.
+	the duke	Well, he was a pretty sick man, and likely he made a mistake—I reckon that's the way of it.
+	the duke	The best way's to let it go, and keep still about it. We can spare it.
+	the king	Oh, shucks, yes, we can _spare_ it. I don't k'yer noth'n 'bout that—it's the _count_ I'm thinkin'
+	the king	about. We want to be awful square and open and above-board here, you know. We want to lug this h-yer money up stairs and count it before everybody—then ther'
+	the king	ain't noth'n suspicious. But when the dead man says ther's six thous'n dollars, you know, we don't want to—
+	the duke	Hold on, says the duke. "Le's make up the deffisit," and he begun to haul out yaller-boys out of his pocket.
+	the king	It's a most amaz'n' good idea, duke—you _have_ got a rattlin' clever head on you," says the king.
+	the king	"Blest if the old Nonesuch ain't a heppin' us out agin," and _he_ begun to haul out yaller-jackets and stack them up.
+	narrator	It most busted them, but they made up the six thousand clean and clear.
+	the duke	Say, I got another idea. Le's go up stairs and count this money, and then take and _give it to the girls_.
+	narrator	- Mary Jane (female): A beautiful red-headed girl, described as almost awful beautiful with a face and eyes lit up with joy.
+	narrator	She is one of the Wilks sisters who inherits money from their father's will. - The hare-lip (female): One of the Wilks sisters who jumps for the duke when he arrives.
+	narrator	She is described as having a hare-lip and is one of Mary Jane's sisters. - The king (male): A fraud who pretends to be one of the Wilks brothers.
+	narrator	He is described as spreading his arms and jumping for Mary Jane when they meet, and later claiming to be Harvey Wilks.
+	narrator	- The duke (male): A fraud who pretends to be the other Wilks brother. He is described as being hugged by Mary Jane's sister and making goo-goo sounds like a baby.
+	narrator	- Rev. Mr. Hobson (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Deacon Lot Hovey (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Mr. Ben Rucker (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Abner Shackleford (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Levi Bell (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Dr. Robinson (*male): A doctor and friend of the Wilks family who is invited to supper.
+	narrator	He exposes the frauds as impostors. - Susan (female): One of the Wilks sisters who is hugged by the duke and later takes money from him.
+	narrator	- Joanner (female): One of the Wilks sisters who is hugged by the duke and later takes money from him.
+	narrator	- The doctor (*male): A man who exposes the frauds as impostors. He is described as having an iron jaw and speaks with authority.
+	narrator	PASSAGE:
+	the duke	Good land, duke, lemme hug you! It's the most dazzling idea 'at ever a man struck.
+	the duke	You have cert'nly got the most astonishin' head I ever see. Oh, this is the boss dodge,
+	the duke	ther' ain't no mistake 'bout it. Let 'em fetch along their suspicions now if they want to—this'll lay 'em out.
+	narrator	When we got up-stairs everybody gethered around the table, and the king he counted it and stacked it up,
+	narrator	three hundred dollars in a pile—twenty elegant little piles. Everybody looked hungry at it, and licked their chops.
+	narrator	Then they raked it into the bag again, and I see the king begin to swell himself up for another speech.
+	narrator	He says:
+	the king	Friends all, my poor brother that lays yonder has done generous by them that's left behind in the vale of sorrers.
+	the king	He has done generous by these yer poor little lambs that he loved and sheltered, and that's left fatherless and motherless.
+	the king	Yes, and we that knowed him knows that he would a done _more_ generous by 'em if he hadn't ben afeard o'
+	the king	woundin' his dear William and me. Now, _wouldn't_ he? Ther' ain't no question 'bout it in _my_ mind.
+	the king	Well, then, what kind o' brothers would it be that 'd stand in his way at sech a time?
+	the king	And what kind o' uncles would it be that 'd rob—yes, _rob_—sech poor sweet lambs as these 'at he loved so at sech a time?
+	the king	If I know William—and I _think_ I do—he—well, I'll jest ask him. I knowed it; I reckon _that_'ll convince anybody the way _he_ feels about it.
+	the king	Here, Mary Jane, Susan, Joanner, take the money—take it _all_. It's the gift of him that lays yonder,
+	the king	cold but joyful.
+	narrator	Mary Jane she went for him, Susan and the hare-lip went for the duke, and then such another hugging and kissing I never see yet.
+	narrator	And everybody crowded up with the tears in their eyes, and most shook the hands off of them frauds,
+	narrator	saying all the time: "You _dear_ good souls!—how _lovely!_—how _could_ you!" Well, then, pretty soon all hands got to talking about the diseased again,
+	narrator	and how good he was, and what a loss he was, and all that; and before long a big iron-jawed man worked himself in there from outside,
+	narrator	and stood a-listening and looking, and not saying anything; and nobody saying anything to him either,
+	narrator	because the king was talking and they was all busy listening. The king was saying—in the middle of something he'd started in on—
+	the king	—they bein' partickler friends o' the diseased. That's why they're invited here this evenin'; but tomorrow we want _all_ to come—everybody; for he respected everybody,
+	the king	he liked everybody, and so it's fitten that his funeral orgies sh'd be public.
+	narrator	And so he went a-mooning on and on, liking to hear himself talk, and every little while he fetched in his funeral orgies again,
+	narrator	till the duke he couldn't stand it no more so he writes on a little scrap of paper,
+	narrator	"obsequies", you old fool, and folds it up, and goes to goo-gooing and reaching it over people's heads to him
+	the king	obsequies, you old fool
+	narrator	and folds it up, and goes to goo-gooing and reaching it over people's heads to him
+	the king	The king he reads it and puts it in his pocket, and says:
+	narrator	- Mary Jane (female): A beautiful red-headed girl, described as almost awful beautiful with a face and eyes lit up with joy.
+	narrator	She is one of the Wilks sisters who inherits money from their father's will. - The hare-lip (female): One of the Wilks sisters who jumps for the duke when he arrives.
+	narrator	She is described as having a hare-lip and is one of Mary Jane's sisters. - The king (male): A fraud who pretends to be one of the Wilks brothers.
+	narrator	He is described as spreading his arms and jumping for Mary Jane when they meet, and later claiming to be Harvey Wilks.
+	narrator	- The duke (male): A fraud who pretends to be the other Wilks brother. He is described as being hugged by Mary Jane's sister and making goo-goo sounds like a baby.
+	narrator	- Rev. Mr. Hobson (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Deacon Lot Hovey (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Mr. Ben Rucker (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Abner Shackleford (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Levi Bell (*male): A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+	narrator	- Dr. Robinson (*male): A doctor and friend of the Wilks family who is invited to supper.
+	narrator	He exposes the frauds as impostors. - Susan (female): One of the Wilks sisters who is hugged by the duke and later takes money from him.
+	narrator	- Joanner (female): One of the Wilks sisters who is hugged by the duke and later takes money from him.
+	narrator	- The doctor (*male): A man who exposes the frauds as impostors. He is described as having an iron jaw and speaks with authority.
+	narrator	PASSAGE: "Poor William, afflicted as he is, his _heart's_ aluz right. Asks me to invite everybody to come to the funeral—wants me to make 'em all welcome.
+	narrator	But he needn't a worried—it was jest what I was at." Then he weaves along again,
+	narrator	perfectly ca'm, and goes to dropping in his funeral orgies again every now and then, just like he done before.
+	narrator	And when he done it the third time he says: "I say orgies, not because it's the common term,
+	narrator	because it ain't—obsequies bein' the common term—but because orgies is the right term. Obsequies ain't used in England no more now—it's gone out.
+	narrator	We say orgies now in England. Orgies is better, because it means the thing you're after more exact.
+	narrator	It's a word that's made up out'n the Greek _orgo_, outside, open, abroad; and the Hebrew _jeesum_,
+	narrator	to plant, cover up; hence in_ter._ So, you see, funeral orgies is an open er public funeral."
+	narrator	He was the _worst_ I ever struck. Well, the iron-jawed man he laughed right in his face.
+	narrator	Everybody was shocked. Everybody says, "Why, _doctor!_" and Abner Shackleford says:
+	abner shackleford	Why, Robinson, hain't you heard the news? This is Harvey Wilks.
+	the king	Is it my poor brother's dear good friend and physician? I—
+	the doctor	Keep your hands off of me! _You_ talk like an Englishman, _don't_ you? It's the worst imitation I ever heard.
+	the doctor	_You_ Peter Wilks's brother! You're a fraud, that's what you are!
+	narrator	Well, how they all took on! They crowded around the doctor and tried to quiet him down,
+	narrator	and tried to explain to him and tell him how Harvey 'd showed in forty ways that he _was_ Harvey,
+	narrator	and knowed everybody by name, and the names of the very dogs, and begged and _begged_ him not to hurt Harvey's feelings and the poor girl's feelings,
+	narrator	and all that. But it warn't no use; he stormed right along, and said any man that pretended to be an Englishman and couldn't imitate the lingo no better than what he did was a fraud and a liar.
+	narrator	The poor girls was hanging to the king and crying; and all of a sudden the doctor ups and turns on _them_.
+	narrator	He says:
+	the doctor	I was your father's friend, and I'm your friend; and I warn you _as_ a friend,
+	the doctor	and an honest one that wants to protect you and keep you out of harm and trouble,
+	the doctor	to turn your backs on that scoundrel and have nothing to do with him, the ignorant tramp,
+	the doctor	with his idiotic Greek and Hebrew, as he calls it. He is the thinnest kind of an impostor—has come here with a lot of empty names and facts which he picked up somewheres,
+	the doctor	and you take them for _proofs_, and are helped to fool yourselves by these foolish friends here,
+	the doctor	who ought to know better. Mary Jane Wilks, you know me for your friend, and for your unselfish friend,
+	the doctor	too. Now listen to me; turn this pitiful rascal out—I _beg_ you to do it. Will you?
+	mary jane	Here is my answer." She hove up the bag of money and put it in the king's hands,
+	mary jane	and says, "Take this six thousand dollars, and invest for me and my sisters any way you want to,
+	mary jane	and don't give us no receipt for it.
+	narrator	Then she put her arm around the king on one side, and Susan and the hare-lip done the same on the other.
+	narrator	Everybody clapped their hands and stomped on the floor like a perfect storm, whilst the king held up his head and smiled proud.
+	narrator	The doctor says:
+	the doctor	All right; I wash _my_ hands of the matter. But I warn you all that a time 's coming when you're going to feel sick whenever you think of this day."
+	the doctor	And away he went.
+	the king	All right, doctor," says the king, kinder mocking him; "we'll try and get 'em to send for you;"
+	the king	which made them all laugh, and they said it was a prime good hit.

@@ -1,0 +1,6 @@
+David Balfour	male	The protagonist of the chapter, a young man who has recently discovered his inheritance and is seeking to reclaim his family estate. He is described as having changed his appearance from a beggarman to someone who looks more like himself. He is determined and strategic, planning a scheme with his lawyer to deal with his uncle.
+Mr. Rankeillor	male	A lawyer who serves as David's advisor and confidant. He is knowledgeable about the family history, particularly regarding the inheritance dispute with David's uncle. He is shrewd and practical, offering advice on how to handle the situation diplomatically.
+*Ebenezer	*male	David's uncle, described as having changed from a gallant young man to an old and selfish man. He is the current owner of the Shaws estate, which David believes should rightfully belong to him.
+*Torrance	*male	Mr. Rankeillor's clerk who accompanies them on their mission to Shaws. He is described as a 'poor oaf' and serves as a witness in their scheme.
+Alan Breck	*male	David's friend who is involved in the scheme to confront his uncle. He is described as a Highlandman with a strong sense of honor and is willing to help David in his quest for justice.
+*Mrs. Rankeillor	*female	Mr. Rankeillor's wife who is present during their discussion and later joins them for dinner.

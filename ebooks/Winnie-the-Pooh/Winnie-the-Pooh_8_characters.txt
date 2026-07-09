@@ -1,0 +1,9 @@
+Christopher Robin	male	A young boy who leads the expedition to discover the North Pole. He is practical, organized, and enjoys adventures with his friends.
+Pooh	male	A friendly bear who is eager to join adventures. He makes up songs and accidentally discovers the North Pole using a pole.
+Rabbit	male	A practical and organized animal who is part of the expedition. He has a large circle of friends-and-relations who join the journey.
+Piglet	*male	A small, timid pig who is part of the expedition. He worries about dangers but joins willingly when Christopher Robin leads.
+Kanga	female	A kangaroo who carries her son Roo in her pouch. She is protective and proud of Roo's independence.
+Owl	*male	An owl who is knowledgeable and gives advice during the expedition. He explains what an ambush is to Pooh.
+Eeyore	*male	A donkey who is melancholy and often complains. He reluctantly joins the expedition but finds it unsettling.
+Roo	*male	Kanga's young son who is curious and adventurous. He falls into the stream but enjoys swimming despite his mother's concern.
+*Alexander Beetle	*male	A small beetle who gets caught in the 'hush' of the expedition and buries himself to avoid being disturbed.

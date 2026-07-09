@@ -1,0 +1,6 @@
+Dr. Seward	*male	A doctor and diary keeper who is present during the events in the churchyard. He is observant, caring, and part of the group investigating Lucy's mysterious death.
+Arthur	male	Lucy's fiancé who is deeply affected by her transformation into a vampire. He shows great courage when he performs the final act of destroying Lucy's undead form.
+Van Helsing	*male	A Dutch professor and expert on supernatural matters who leads the investigation into Lucy's death. He is methodical, brave, and possesses deep religious faith.
+Quincey Morris	male	A wealthy American who joins the group in their quest to destroy Lucy's vampire form. He is phlegmatic and brave, showing cool courage in the face of danger.
+Lucy Westenra	*female	The deceased woman whose body is discovered empty in the tomb, later revealed to have been transformed into a vampire. She appears both beautiful and horrific during her vampiric form.
+*Child	*male	A small child who is found near Lucy's tomb and later taken by the vampire. The child is described as being unharmed but moaning after being dropped.

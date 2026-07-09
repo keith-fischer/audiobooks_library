@@ -1,0 +1,7 @@
+Jonathan Harker	male	A solicitor and the narrator of the diary. He is married to Mina and deeply devoted to her. He is brave but struggles with despair during the crisis.
+Mina Harker	female	Jonathan's wife, a brave and devoted woman who is deeply affected by the supernatural events. She insists on being kept in full confidence of their mission.
+Dr. Van Helsing	male	An elderly Dutch doctor who is the intellectual leader of their group. He is wise, determined, and has extensive knowledge about supernatural matters.
+*Dr. Seward	male	A doctor who works with Van Helsing and Jonathan. He is practical and concerned about legal procedures and medical matters.
+*Renfield	*male	A patient in Dr. Seward's asylum who has been possessed by the vampire Count. He is found dead with a bruised and crushed face.
+Lord Godalming	male	A wealthy friend of Jonathan who helps organize their efforts. He is resourceful and takes charge of coordinating the search for other lairs.
+Quincey Morris	male	A friend of Jonathan who is practical and resourceful. He suggests using cabs for transportation to avoid drawing attention.

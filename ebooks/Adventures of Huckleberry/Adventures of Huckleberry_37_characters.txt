@@ -1,0 +1,10 @@
+Aunt Sally	female	The aunt who is angry about missing household items like shirts, spoons, and candles. She is hot-tempered, cross, and prone to yelling at children. She keeps a thimble for disciplining children.
+Uncle Silas	male	Aunt Sally's husband who is forgetful and absent-minded. He loses track of his belongings, including a shirt that goes missing from the clothesline and a spoon he claims to have put in his pocket. He is easily flustered by his wife's accusations.
+Tom	male	A mischievous boy who helps plan and execute the theft of household items. He is clever, quick-thinking, and enjoys trickery. He's involved in the pie-making scheme.
+*Jim	*male	A slave who is involved in the plan to steal items and create a rope ladder for an escape. He helps with the pie-making and is skilled at hiding items.
+*Nat	*male	A boy who is part of the group involved in stealing items and making the pie. He doesn't look when they put the witch pie in Jim's pan.
+Lize	*female	The black woman who works for the family and reports that a sheet is missing from the clothesline.
+*Matilda Angelina Araminta Phelps	*female	A child who gets hit with a thimble when she reaches for sugar. She is easily startled and quickly withdraws her hand.
+*The calf	*male	An animal that is blamed for taking the shirt, though it's unlikely to have taken the spoon or other items.
+*The rats	*male	Animals that are blamed for taking the candles and possibly other items, though this is likely a cover-up.
+*The children	*male	Several unnamed children who are present during breakfast and are disciplined by Aunt Sally.

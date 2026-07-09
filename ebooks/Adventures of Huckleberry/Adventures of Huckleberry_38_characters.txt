@@ -1,0 +1,6 @@
+Jim	*male	A enslaved man who is being held captive and must create an inscription and coat of arms for his prison cell. He is portrayed as superstitious, afraid of animals like snakes and rats, and reluctant to follow Tom's elaborate prison customs. He works on making pens with a brickbat and is tasked with carving inscriptions into a grindstone.
+Tom	*male	A mischievous boy who is planning elaborate prison customs for Jim. He insists on proper inscriptions, coat of arms, and pets for the prisoner, despite Jim's objections. He is imaginative but impatient with Jim's lack of enthusiasm and believes he knows what's best for the situation.
+Huck	*male	A boy who works alongside Tom and Jim on the prison preparations. He is pragmatic, often questioning Tom's elaborate plans and expressing concern for Jim's well-being.
+*Lady Jane Grey	*female	A historical figure mentioned by Tom as an example of a prisoner who left inscriptions behind. She was the Queen of England for nine days in 1553.
+*Gilford Dudley	*male	A historical figure mentioned by Tom as an example of a prisoner who left inscriptions behind. He was the Duke of Northumberland and executed in 1553.
+*Northumberland	*male	An alias for the Duke of Northumberland, a historical figure mentioned by Tom as an example of a prisoner who left inscriptions behind.

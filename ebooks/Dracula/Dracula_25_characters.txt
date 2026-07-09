@@ -1,0 +1,10 @@
+Dr. Seward	*male	A physician and diarist who keeps a detailed record of events. He is deeply concerned about Mrs. Harker's condition and works alongside Van Helsing to confront the supernatural threat.
+Mrs. Harker	female	Jonathan Harker's wife, who is struggling with a supernatural curse that threatens to transform her. She has been hypnotized by Van Helsing and is central to the group's mission.
+Jonathan Harker	*male	Mrs. Harker's husband, a solicitor who has been through traumatic experiences with the vampire Count Dracula. He is determined to protect his wife and destroy the threat.
+Van Helsing	*male	A Dutch doctor and expert on the supernatural who leads the group's efforts against Count Dracula. He is knowledgeable about vampire lore and takes charge of their mission.
+Lord Godalming	*male	A British aristocrat who is part of the group hunting Count Dracula. He handles communications with authorities and helps organize their efforts.
+Quincey Morris	*male	A wealthy American who joins the group in their pursuit of Count Dracula. He is brave and resourceful, willing to take action against the vampire threat.
+*Count Dracula	*male	The vampire antagonist who has been terrorizing the group. He is cunning, powerful, and seeks to escape from their pursuit.
+Mina Harker	female	Jonathan Harker's wife, who is being controlled by Count Dracula. She has been hypnotized and possesses knowledge of the vampire's movements.
+Rufus Smith	*male	A representative from Lloyd's who sends telegrams about the ship's status to Lord Godalming.
+*Harker	*male	Jonathan Harker, Mrs. Harker's husband, who is determined to protect his wife and destroy the vampire threat.

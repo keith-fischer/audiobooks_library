@@ -1,0 +1,6 @@
+The King	male	A con man who pretends to be royalty, practicing Shakespearean acting and sword fighting with the Duke. He is easily distracted by his performances and gets into trouble, such as falling overboard during sword practice.
+The Duke	male	A con man who partners with the King, also pretending to be royalty. He is more experienced in performing and teaches the King Shakespearean acting techniques, including how to deliver Hamlet's soliloquy.
+Boggs	male	An angry, drunk old man who threatens Colonel Sherburn. He is known for his violent behavior and constant threats, but is harmless when sober.
+Colonel Sherburn	male	A proud, well-dressed man who calmly confronts Boggs and ultimately kills him in a duel. He is respected by the town but becomes the target of mob vengeance.
+*Boggs's Daughter	female	A young woman around sixteen years old, described as sweet and gentle-looking but pale and scared. She is deeply affected by her father's death.
+*Jim	*male	A character who stays behind on the raft while others go into town. He is not directly involved in the events described but is part of the group traveling together.

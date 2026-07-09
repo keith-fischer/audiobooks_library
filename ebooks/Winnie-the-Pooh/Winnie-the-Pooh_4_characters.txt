@@ -1,0 +1,4 @@
+Eeyore	male	The Old Grey Donkey who loses his tail and is gloomy and sad about it. He is friends with Winnie-the-Pooh.
+Winnie-the-Pooh	male	A bear who finds Eeyore's lost tail and helps him find it. He is kind-hearted and determined to help his friend.
+Owl	*male	A wise old owl who lives at The Chestnuts and gives advice about finding Eeyore's tail. He is knowledgeable but sometimes uses overly complex language.
+*Christopher Robin	*male	The human child who lives in the forest and is capable of spelling. He wrote the notices on Owl's door and helps fix Eeyore's tail.

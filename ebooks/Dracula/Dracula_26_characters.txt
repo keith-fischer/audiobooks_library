@@ -1,0 +1,10 @@
+Dr. Seward	male	A physician and member of the group investigating Count Dracula. He is practical, observant, and dedicated to stopping the vampire. He accompanies Mina on their journey to Dracula's castle.
+Mina Harker	female	Jonathan Harker's wife, a strong and intelligent woman who becomes central to the investigation of Count Dracula. She uses her hypnotic abilities to help locate the vampire and later accompanies Van Helsing on their journey.
+Jonathan Harker	male	Mina's husband, a young solicitor who was bitten by Count Dracula and later becomes a key figure in the fight against him. He is brave, determined, and deeply loves Mina.
+Lord Godalming	male	A wealthy nobleman who leads the group's efforts to pursue and destroy Count Dracula. He is resourceful, brave, and committed to protecting Mina.
+Quincey Morris	male	A wealthy American who joins the group in their quest to destroy Count Dracula. He is adventurous, skilled with firearms, and dedicated to the cause.
+Dr. Van Helsing	male	An elderly Dutch physician and expert on supernatural phenomena who leads the investigation against Count Dracula. He is wise, experienced, and determined to stop the vampire.
+Captain Donelson	*male	The captain of the ship _Czarina Catherine_ who transported Count Dracula from London to Galatz. He is superstitious but practical, and was initially suspicious of the box containing Dracula.
+*Immanuel Hildesheim	*male	A Hebrew businessman in Galatz who received a box from London for Count Dracula. He was paid with an English bank note and helped arrange the transfer of the box.
+*Petrof Skinsky	*male	A Slovak trader in Galatz who was instructed by Count Dracula to arrange transportation of the box. He was found dead with his throat torn open, suggesting a vampire attack.
+*Count Dracula	*male	The main antagonist, a vampire who has been transformed into a creature of the night. He is cunning, powerful, and seeks to return to his castle in Transylvania.

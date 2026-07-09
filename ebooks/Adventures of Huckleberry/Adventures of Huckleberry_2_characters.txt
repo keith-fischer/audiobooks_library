@@ -1,0 +1,7 @@
+Miss Watson	female	The widow who owns the garden where the story begins. She has a large black servant named Jim.
+Jim	male	Miss Watson's large black servant who works in the kitchen. He is described as a 'big nigger' and becomes a central figure in the story after being tricked by Tom and Huck.
+Tom Sawyer	male	The main protagonist who organizes the gang and leads the adventure. He is imaginative, creative, and loves pirate and robber stories.
+Huck Finn	male	The narrator and Tom's friend who joins the gang. He is practical, cautious, and more realistic than Tom.
+*Jo Harper	*male	A boy who joins the gang with Tom and Huck. He is elected second captain of the Gang.
+Ben Rogers	*male	A boy who joins the gang and participates in planning their robberies. He questions some of Tom's ideas about ransom.
+*Little Tommy Barnes	*male	A young boy who joins the gang but falls asleep and gets scared when woken up. He wants to go home.

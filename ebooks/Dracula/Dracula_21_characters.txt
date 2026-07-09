@@ -1,0 +1,9 @@
+Dr. Seward	male	A physician and diarist who is deeply involved in the events surrounding Renfield's injury and the vampire threat. He is methodical, observant, and committed to helping others.
+Renfield	male	A patient in Dr. Seward's care who has suffered a severe head injury from falling out of bed and beating his head on the floor. He becomes delirious and speaks of supernatural encounters with a vampire.
+Simmons	*male	A nurse or attendant who works with Dr. Seward and Renfield, present during the incident when Renfield was found injured on the floor.
+Van Helsing	male	A Professor and expert on vampires who arrives to assist with Renfield's medical emergency. He is calm, knowledgeable, and determined in his approach.
+Arthur	*male	Lord Godalming, a friend of Jonathan Harker who arrives at the scene and is involved in discussions about the vampire threat.
+Quincey	*male	Quincey Morris, a friend of Jonathan Harker who arrives at the scene and is involved in discussions about the vampire threat.
+Jonathan Harker	male	A solicitor who has been attacked by a vampire and is married to Mina. He awakens from a stupor in his wife's room, finding her covered in blood.
+Mina	female	Jonathan Harker's wife, who has been attacked by a vampire and is now covered in blood. She tells her story of the attack with great fear and horror.
+The Count	*male	A vampire who has attacked Mina and is the central antagonist of this chapter. He appears as a tall, thin man in black with pale skin and red eyes.

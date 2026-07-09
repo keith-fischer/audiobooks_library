@@ -1,0 +1,9 @@
+Mary Jane	female	A young woman who is part of the family and is deeply affected by the death of Peter. She shows emotional vulnerability during the funeral, crying when she sees the coffin.
+*Peter	male	The deceased man whose body is being mourned in the parlor. He has been buried and his remains are described as lying in a coffin with a wet cloth over his face.
+The King	*male	A con man who is part of the fraudulent gang. He claims to be from England and is involved in selling property and people, including the niggers.
+The Duke	*male	A con man who works with the King in their fraudulent schemes. He is described as being uneasy about the sale of the niggers and is involved in the funeral arrangements.
+*The Undertaker	*male	A professional who organizes the funeral and handles the coffin. He is described as soft-spoken, stealthy, and popular in town for his actions during the funeral.
+*The Reverend Hobson	*male	The minister who delivers the funeral sermon. He is described as speaking slowly and solemnly during the service.
+*The Widow Bartley	female	A woman present at the funeral who is part of the community gathering to mourn Peter.
+*The Niggers	*male	A group of enslaved people who are sold by the King and Duke. They include a mother and her children, with two sons going to Memphis and the mother to Orleans.
+The Girls	female	Two young women who are part of the family and are affected by the sale of their niggers. They are described as being happy about the prospect of returning to England with the King and Duke.

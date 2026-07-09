@@ -1,0 +1,158 @@
+	narrator	With my stepping ashore I began the most unhappy part of my adventures. It was half-past twelve in the morning,
+	narrator	and though the wind was broken by the land, it was a cold night. I dared not sit down (for I thought I should have frozen),
+	narrator	but took off my shoes and walked to and fro upon the sand, bare-foot, and beating my breast with infinite weariness.
+	narrator	There was no sound of man or cattle; not a cock crew, though it was about the hour of their first waking; only the surf broke outside in the distance,
+	narrator	which put me in mind of my perils and those of my friend. To walk by the sea at that hour of the morning,
+	narrator	and in a place so desert-like and lonesome, struck me with a kind of fear. As soon as the day began to break I put on my shoes and climbed a hill--the ruggedest scramble I ever undertook--falling,
+	narrator	the whole way, between big blocks of granite, or leaping from one to another. When I got to the top the dawn was come.
+	narrator	There was no sign of the brig, which must have lifted from the reef and sunk.
+	narrator	The boat, too, was nowhere to be seen. There was never a sail upon the ocean; and in what I could see of the land was neither house nor man.
+	narrator	I was afraid to think what had befallen my shipmates, and afraid to look longer at so empty a scene.
+	narrator	What with my wet clothes and weariness, and my belly that now began to ache with hunger,
+	narrator	I had enough to trouble me without that. So I set off eastward along the south coast,
+	narrator	hoping to find a house where I might warm myself, and perhaps get news of those I had lost.
+	narrator	And at the worst, I considered the sun would soon rise and dry my clothes. After a little,
+	narrator	my way was stopped by a creek or inlet of the sea, which seemed to run pretty deep into the land; and as I had no means to get across,
+	narrator	I must needs change my direction to go about the end of it. It was still the roughest kind of walking; indeed the whole,
+	narrator	not only of Earraid, but of the neighbouring part of Mull (which they call the Ross) is nothing but a jumble of granite rocks with heather in among.
+	narrator	At first the creek kept narrowing as I had looked to see; but presently to my surprise it began to widen out again.
+	narrator	At this I scratched my head, but had still no notion of the truth: until at last I came to a rising ground,
+	narrator	and it burst upon me all in a moment that I was cast upon a little barren isle,
+	narrator	and cut off on every side by the salt seas. Instead of the sun rising to dry me,
+	narrator	it came on to rain, with a thick mist; so that my case was lamentable. I stood in the rain,
+	narrator	and shivered, and wondered what to do, till it occurred to me that perhaps the creek was fordable.
+	narrator	Back I went to the narrowest point and waded in. But not three yards from shore,
+	narrator	I plumped in head over ears; and if ever I was heard of more, it was rather by God's grace than my own prudence.
+	narrator	I was no wetter (for that could hardly be), but I was all the colder for this mishap; and having lost another hope was the more unhappy.
+	narrator	And now, all at once, the yard came in my head. What had carried me through the roost would surely serve me to cross this little quiet creek in safety.
+	narrator	With that I set off, undaunted, across the top of the isle, to fetch and carry it back.
+	narrator	It was a weary tramp in all ways, and if hope had not buoyed me up,
+	narrator	I must have cast myself down and given up. Whether with the sea salt, or because I was growing fevered,
+	narrator	I was distressed with thirst, and had to stop, as I went, and drink the peaty water out of the hags.
+	narrator	I came to the bay at last, more dead than alive; and at the first glance,
+	narrator	I thought the yard was something farther out than when I left it. In I went,
+	narrator	for the third time, into the sea. The sand was smooth and firm, and shelved gradually down,
+	narrator	so that I could wade out till the water was almost to my neck and the little waves splashed into my face.
+	narrator	But at that depth my feet began to leave me, and I durst venture in no farther.
+	narrator	As for the yard, I saw it bobbing very quietly some twenty feet beyond. I had borne up well until this last disappointment; but at that I came ashore,
+	narrator	and flung myself down upon the sands and wept. The time I spent upon the island is still so horrible a thought to me,
+	narrator	that I must pass it lightly over. In all the books I have read of people cast away,
+	narrator	they had either their pockets full of tools, or a chest of things would be thrown upon the beach along with them,
+	narrator	as if on purpose. My case was very different. I had nothing in my pockets but money and Alan's silver button; and being inland bred,
+	narrator	I was as much short of knowledge as of means. I knew indeed that shell-fish were counted good to eat; and among the rocks of the isle I found a great plenty of limpets,
+	narrator	which at first I could scarcely strike from their places, not knowing quickness to be needful.
+	narrator	There were, besides, some of the little shells that we call buckies; I think periwinkle is the English name.
+	narrator	Of these two I made my whole diet, devouring them cold and raw as I found them; and so hungry was I,
+	narrator	that at first they seemed to me delicious. Perhaps they were out of season, or perhaps there was something wrong in the sea about my island.
+	narrator	But at least I had no sooner eaten my first meal than I was seized with giddiness and retching,
+	narrator	and lay for a long time no better than dead. A second trial of the same food (indeed I had no other) did better with me,
+	narrator	and revived my strength. But as long as I was on the island, I never knew what to expect when I had eaten; sometimes all was well,
+	narrator	and sometimes I was thrown into a miserable sickness; nor could I ever distinguish what particular fish it was that hurt me.
+	narrator	All day it streamed rain; the island ran like a sop, there was no dry spot to be found; and when I lay down that night,
+	narrator	between two boulders that made a kind of roof, my feet were in a bog. The second day I crossed the island to all sides.
+	narrator	There was no one part of it better than another; it was all desolate and rocky; nothing living on it but game birds which I lacked the means to kill,
+	narrator	and the gulls which haunted the outlying rocks in a prodigious number. But the creek, or strait,
+	narrator	that cut off the isle from the main-land of the Ross, opened out on the north into a bay,
+	narrator	and the bay again opened into the Sound of Iona; and it was the neighbourhood of this place that I chose to be my home; though if I had thought upon the very name of home in such a spot,
+	narrator	I must have burst out weeping. I had good reasons for my choice. There was in this part of the isle a little hut of a house like a pig's hut,
+	narrator	where fishers used to sleep when they came there upon their business; but the turf roof of it had fallen entirely in; so that the hut was of no use to me,
+	narrator	and gave me less shelter than my rocks. What was more important, the shell-fish on which I lived grew there in great plenty; when the tide was out I could gather a peck at a time: and this was doubtless a convenience.
+	narrator	But the other reason went deeper. I had become in no way used to the horrid solitude of the isle,
+	narrator	but still looked round me on all sides (like a man that was hunted), between fear and hope that I might see some human creature coming.
+	narrator	Now, from a little up the hillside over the bay, I could catch a sight of the great,
+	narrator	ancient church and the roofs of the people's houses in Iona. And on the other hand,
+	narrator	over the low country of the Ross, I saw smoke go up, morning and evening, as if from a homestead in a hollow of the land.
+	narrator	I used to watch this smoke, when I was wet and cold, and had my head half turned with loneliness; and think of the fireside and the company,
+	narrator	till my heart burned. It was the same with the roofs of Iona. Altogether, this sight I had of men's homes and comfortable lives,
+	narrator	although it put a point on my own sufferings, yet it kept hope alive, and helped me to eat my raw shell-fish (which had soon grown to be a disgust),
+	narrator	and saved me from the sense of horror I had whenever I was quite alone with dead rocks,
+	narrator	and fowls, and the rain, and the cold sea. I say it kept hope alive; and indeed it seemed impossible that I should be left to die on the shores of my own country,
+	narrator	and within view of a church-tower and the smoke of men's houses. But the second day passed; and though as long as the light lasted I kept a bright look-out for boats on the Sound or men passing on the Ross,
+	narrator	no help came near me. It still rained, and I turned in to sleep, as wet as ever,
+	narrator	and with a cruel sore throat, but a little comforted, perhaps, by having said good-night to my next neighbours,
+	narrator	the people of Iona.
+	charles ii	a man could stay outdoors more days in the year in the climate of England than in any other.
+	narrator	This was very like a king, with a palace at his back and changes of dry clothes.
+	narrator	But he must have had better luck on his flight from Worcester than I had on that miserable isle.
+	narrator	It was the height of the summer; yet it rained for more than twenty-four hours, and did not clear until the afternoon of the third day.
+	narrator	This was the day of incidents. In the morning I saw a red deer, a buck with a fine spread of antlers,
+	narrator	standing in the rain on the top of the island; but he had scarce seen me rise from under my rock,
+	narrator	before he trotted off upon the other side. I supposed he must have swum the strait; though what should bring any creature to Earraid,
+	narrator	was more than I could fancy. A little after, as I was jumping about after my limpets,
+	narrator	I was startled by a guinea-piece, which fell upon a rock in front of me and glanced off into the sea.
+	narrator	When the sailors gave me my money again, they kept back not only about a third of the whole sum,
+	narrator	but my father's leather purse; so that from that day out, I carried my gold loose in a pocket with a button.
+	narrator	I now saw there must be a hole, and clapped my hand to the place in a great hurry.
+	narrator	But this was to lock the stable door after the steed was stolen. I had left the shore at Queensferry with near on fifty pounds; now I found no more than two guinea-pieces and a silver shilling.
+	narrator	It is true I picked up a third guinea a little after, where it lay shining on a piece of turf.
+	narrator	That made a fortune of three pounds and four shillings, English money, for a lad, the rightful heir of an estate,
+	narrator	and now starving on an isle at the extreme end of the wild Highlands. This state of my affairs dashed me still further; and,
+	narrator	indeed my plight on that third morning was truly pitiful. My clothes were beginning to rot; my stockings in particular were quite worn through,
+	narrator	so that my shanks went naked; my hands had grown quite soft with the continual soaking; my throat was very sore,
+	narrator	my strength had much abated, and my heart so turned against the horrid stuff I was condemned to eat,
+	narrator	that the very sight of it came near to sicken me. And yet the worst was not yet come.
+	narrator	There is a pretty high rock on the northwest of Earraid, which (because it had a flat top and overlooked the Sound) I was much in the habit of frequenting; not that ever I stayed in one place,
+	narrator	save when asleep, my misery giving me no rest. Indeed, I wore myself down with continual and aimless goings and comings in the rain.
+	narrator	As soon, however, as the sun came out, I lay down on the top of that rock to dry myself.
+	narrator	The comfort of the sunshine is a thing I cannot tell. It set me thinking hopefully of my deliverance,
+	narrator	of which I had begun to despair; and I scanned the sea and the Ross with a fresh interest.
+	narrator	On the south of my rock, a part of the island jutted out and hid the open ocean,
+	narrator	so that a boat could thus come quite near me upon that side, and I be none the wiser.
+	narrator	Well, all of a sudden, a coble with a brown sail and a pair of fishers aboard of it,
+	narrator	came flying round that corner of the isle, bound for Iona. I shouted out, and then fell on my knees on the rock and reached up my hands and prayed to them.
+	narrator	They were near enough to hear--I could even see the colour of their hair; and there was no doubt but they observed me,
+	narrator	for they cried out in the Gaelic tongue, and laughed. But the boat never turned aside,
+	narrator	and flew on, right before my eyes, for Iona. I could not believe such wickedness, and ran along the shore from rock to rock,
+	narrator	crying on them piteously even after they were out of reach of my voice, I still cried and waved to them; and when they were quite gone,
+	narrator	I thought my heart would have burst. All the time of my troubles I wept only twice.
+	narrator	Once, when I could not reach the yard, and now, the second time, when these fishers turned a deaf ear to my cries.
+	narrator	But this time I wept and roared like a wicked child, tearing up the turf with my nails,
+	narrator	and grinding my face in the earth. If a wish would kill men, those two fishers would never have seen morning,
+	narrator	and I should likely have died upon my island. When I was a little over my anger,
+	narrator	I must eat again, but with such loathing of the mess as I could now scarce control.
+	narrator	Sure enough, I should have done as well to fast, for my fishes poisoned me again.
+	narrator	I had all my first pains; my throat was so sore I could scarce swallow; I had a fit of strong shuddering,
+	narrator	which clucked my teeth together; and there came on me that dreadful sense of illness, which we have no name for either in Scotch or English.
+	narrator	I thought I should have died, and made my peace with God, forgiving all men, even my uncle and the fishers; and as soon as I had thus made up my mind to the worst,
+	narrator	clearness came upon me; I observed the night was falling dry; my clothes were dried a good deal; truly,
+	narrator	I was in a better case than ever before, since I had landed on the isle; and so I got to sleep at last,
+	narrator	with a thought of gratitude. The next day (which was the fourth of this horrible life of mine) I found my bodily strength run very low.
+	narrator	But the sun shone, the air was sweet, and what I managed to eat of the shell-fish agreed well with me and revived my courage.
+	narrator	I was scarce back on my rock (where I went always the first thing after I had eaten) before I observed a boat coming down the Sound,
+	narrator	and with her head, as I thought, in my direction. I began at once to hope and fear exceedingly; for I thought these men might have thought better of their cruelty and be coming back to my assistance.
+	narrator	But another disappointment, such as yesterday's, was more than I could bear. I turned my back,
+	narrator	accordingly, upon the sea, and did not look again till I had counted many hundreds. The boat was still heading for the island.
+	narrator	The next time I counted the full thousand, as slowly as I could, my heart beating so as to hurt me.
+	narrator	And then it was out of all question. She was coming straight to Earraid! I could no longer hold myself back,
+	narrator	but ran to the seaside and out, from one rock to another, as far as I could go.
+	narrator	It is a marvel I was not drowned; for when I was brought to a stand at last,
+	narrator	my legs shook under me, and my mouth was so dry, I must wet it with the sea-water before I was able to shout.
+	narrator	All this time the boat was coming on; and now I was able to perceive it was the same boat and the same two men as yesterday.
+	narrator	This I knew by their hair, which the one had of a bright yellow and the other black.
+	narrator	But now there was a third man along with them, who looked to be of a better class.
+	narrator	As soon as they were come within easy speech, they let down their sail and lay quiet.
+	narrator	In spite of my supplications, they drew no nearer in, and what frightened me most of all,
+	narrator	the new man tee-hee'd with laughter as he talked and looked at me.
+	the third man	tee-hee'd with laughter as he talked and looked at me. Yes, yes--yes, yes, I told him I had no Gaelic; and at this he became very angry,
+	the third man	and I began to suspect he thought he was talking English.
+	narrator	Listening very close, I caught the word "whateffer" several times; but all the rest was Gaelic and might have been Greek and Hebrew for me.
+	narrator	"Whatever," said I, to show him I had caught a word.
+	the third man	Yes, yes--yes, yes, I told him I had no Gaelic; and at this he became very angry,
+	the third man	and I began to suspect he thought he was talking English. Yes, yes, Tide.
+	narrator	Do you mean when the tide is out--?
+	the third man	Yes, yes, Tide.
+	narrator	At that I turned tail upon their boat (where my adviser had once more begun to tee-hee with laughter),
+	narrator	leaped back the way I had come, from one stone to another, and set off running across the isle as I had never run before.
+	narrator	In about half an hour I came out upon the shores of the creek; and, sure enough,
+	narrator	it was shrunk into a little trickle of water, through which I dashed, not above my knees,
+	narrator	and landed with a shout on the main island. A sea-bred boy would not have stayed a day on Earraid; which is only what they call a tidal islet,
+	narrator	and except in the bottom of the neaps, can be entered and left twice in every twenty-four hours,
+	narrator	either dry-shod, or at the most by wading. Even I, who had the tide going out and in before me in the bay,
+	narrator	and even watched for the ebbs, the better to get my shellfish--even I (I say) if I had sat down to think,
+	narrator	instead of raging at my fate, must have soon guessed the secret, and got free. It was no wonder the fishers had not understood me.
+	narrator	The wonder was rather that they had ever guessed my pitiful illusion, and taken the trouble to come back.
+	narrator	I had starved with cold and hunger on that island for close upon one hundred hours.
+	narrator	But for the fishers, I might have left my bones there, in pure folly. And even as it was,
+	narrator	I had paid for it pretty dear, not only in past sufferings, but in my present case; being clothed like a beggar-man,
+	narrator	scarce able to walk, and in great pain of my sore throat. I have seen wicked men and fools,
+	narrator	a great many of both; and I believe they both get paid in the end; but the fools first.

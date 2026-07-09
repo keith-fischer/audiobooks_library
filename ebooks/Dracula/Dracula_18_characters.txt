@@ -1,0 +1,7 @@
+Dr. Seward	male	A physician and diary keeper who is the central figure in this chapter. He runs the asylum where Mr. Renfield is a patient, and serves as the leader of the group investigating Dracula. He is methodical, observant, and committed to his patients.
+Mrs. Harker	female	The wife of Jonathan Harker, a key character who has been documenting events related to Dracula. She is intelligent, compassionate, and plays a crucial role in the investigation by organizing records of events.
+Mr. Renfield	*male	A patient in Dr. Seward's asylum who is obsessed with consuming living creatures to prolong his life. He exhibits both madness and moments of apparent sanity, showing philosophical depth.
+Lord Godalming	male	A wealthy British aristocrat who is involved in the investigation of Dracula. He is brave and committed to protecting Lucy, and later becomes part of the group hunting the vampire.
+Mr. Morris	male	A friend of the group who is described as being from Texas. He is practical, direct in speech (laconic), and actively participates in the investigation of Dracula.
+Professor Van Helsing	*male	A Dutch doctor and expert on supernatural phenomena who leads the investigation against Dracula. He is knowledgeable, wise, and determined to destroy the vampire.
+Jonathan Harker	male	Mrs. Harker's husband who has been documenting events related to Dracula and is married to Mina. He is a key witness in the investigation.

@@ -1,0 +1,348 @@
+	narrator	CHAPTER XVIII DR. SEWARD’S DIARY _30 September._--I got home at five o’clock, and found that Godalming and Morris had not only arrived,
+	narrator	but had already studied the transcript of the various diaries and letters which Harker and his wonderful wife had made and arranged.
+	narrator	Harker had not yet returned from his visit to the carriers’ men, of whom Dr. Hennessey had written to me.
+	narrator	Mrs. Harker gave us a cup of tea, and I can honestly say that, for the first time since I have lived in it,
+	narrator	this old house seemed like _home_. When we had finished, Mrs. Harker said:
+	mrs. harker	Dr. Seward, may I ask a favour? I want to see your patient, Mr. Renfield. Do let me see him.
+	mrs. harker	What you have said of him in your diary interests me so much!
+	narrator	She looked so appealing and so pretty that I could not refuse her, and there was no possible reason why I should; so I took her with me.
+	narrator	When I went into the room, I told the man that a lady would like to see him; to which he simply answered: "Why?"
+	narrator	"She is going through the house, and wants to see every one in it," I answered.
+	narrator	"Oh, very well," he said; "let her come in, by all means; but just wait a minute till I tidy up the place."
+	narrator	His method of tidying was peculiar: he simply swallowed all the flies and spiders in the boxes before I could stop him.
+	narrator	It was quite evident that he feared, or was jealous of, some interference. When he had got through his disgusting task,
+	narrator	he said cheerfully: "Let the lady come in," and sat down on the edge of his bed with his head down,
+	narrator	but with his eyelids raised so that he could see her as she entered. For a moment I thought that he might have some homicidal intent; I remembered how quiet he had been just before he attacked me in my own study,
+	narrator	and I took care to stand where I could seize him at once if he attempted to make a spring at her.
+	narrator	She came into the room with an easy gracefulness which would at once command the respect of any lunatic--for easiness is one of the qualities mad people most respect.
+	narrator	She walked over to him, smiling pleasantly, and held out her hand.
+	mrs. harker	Good-evening, Mr. Renfield, You see, I know you, for Dr. Seward has told me of you.
+	mr. renfield	Why?
+	mrs. harker	Oh no! I have a husband of my own, to whom I was married before I ever saw Dr. Seward,
+	mrs. harker	or he me. I am Mrs. Harker.
+	mr. renfield	Then what are you doing here?
+	mrs. harker	My husband and I are staying on a visit with Dr. Seward.
+	mr. renfield	Then don’t stay.
+	mrs. harker	But why not?
+	narrator	I thought that this style of conversation might not be pleasant to Mrs. Harker, any more than it was to me,
+	narrator	so I joined in:
+	dr. seward	How did you know I wanted to marry any one?
+	mr. renfield	What an asinine question!
+	mrs. harker	I don’t see that at all, Mr. Renfield, said Mrs. Harker, at once championing me.
+	mr. renfield	You will, of course, understand, Mrs. Harker, that when a man is so loved and honoured as our host is,
+	mr. renfield	everything regarding him is of interest in our little community. Dr. Seward is loved not only by his household and his friends,
+	mr. renfield	but even by his patients, who, being some of them hardly in mental equilibrium, are apt to distort causes and effects.
+	mr. renfield	Since I myself have been an inmate of a lunatic asylum, I cannot but notice that the sophistic tendencies of some of its inmates lean towards the errors of _non causa_ and _ignoratio elenchi_.
+	dr. seward	What an asinine question!
+	narrator	I positively opened my eyes at this new development. Here was my own pet lunatic--the most pronounced of his type that I had ever met with--talking elemental philosophy,
+	narrator	and with the manner of a polished gentleman. I wonder if it was Mrs. Harker’s presence which had touched some chord in his memory.
+	narrator	If this new phase was spontaneous, or in any way due to her unconscious influence, she must have some rare gift or power.
+	narrator	We continued to talk for some time; and, seeing that he was seemingly quite reasonable, she ventured,
+	narrator	looking at me questioningly as she began, to lead him to his favourite topic. I was again astonished,
+	narrator	for he addressed himself to the question with the impartiality of the completest sanity; he even took himself as an example when he mentioned certain things.
+	mr. renfield	Why, I myself am an instance of a man who had a strange belief. Indeed, it was no wonder that my friends were alarmed,
+	mr. renfield	and insisted on my being put under control. I used to fancy that life was a positive and perpetual entity,
+	mr. renfield	and that by consuming a multitude of live things, no matter how low in the scale of creation,
+	mr. renfield	one might indefinitely prolong life. At times I held the belief so strongly that I actually tried to take human life.
+	mr. renfield	The doctor here will bear me out that on one occasion I tried to kill him for the purpose of strengthening my vital powers by the assimilation with my own body of his life through the medium of his blood--relying,
+	mr. renfield	of course, upon the Scriptural phrase, 'For the blood is the life.' Though, indeed, the vendor of a certain nostrum has vulgarised the truism to the very point of contempt.
+	mr. renfield	Isn’t that true, doctor?
+	dr. seward	I nodded assent, for I was so amazed that I hardly knew what to either think or say; it was hard to imagine that I had seen him eat up his spiders and flies not five minutes before.
+	narrator	Looking at my watch, I saw that I should go to the station to meet Van Helsing,
+	narrator	so I told Mrs. Harker that it was time to leave. She came at once, after saying pleasantly to Mr. Renfield: "Good-bye,
+	narrator	and I hope I may see you often, under auspices pleasanter to yourself," to which, to my astonishment,
+	narrator	he replied: Good-bye, my dear. I pray God I may never see your sweet face again.
+	narrator	May He bless and keep you! When I went to the station to meet Van Helsing I left the boys behind me.
+	narrator	Poor Art seemed more cheerful than he has been since Lucy first took ill, and Quincey is more like his own bright self than he has been for many a long day.
+	professor van helsing	Ah, friend John, how goes all? Well? So! I have been busy, for I come here to stay if need be.
+	professor van helsing	All affairs are settled with me, and I have much to tell. Madam Mina is with you?
+	professor van helsing	Yes. And her so fine husband? And Arthur and my friend Quincey, they are with you,
+	professor van helsing	too? Good!
+	narrator	As I drove to the house I told him of what had passed, and of how my own diary had come to be of some use through Mrs. Harker's suggestion; at which the Professor interrupted me:
+	professor van helsing	Ah, that wonderful Madam Mina! She has man's brain--a brain that a man should have were he much gifted--and a woman's heart.
+	professor van helsing	The good God fashioned her for a purpose, believe me, when He made that so good combination.
+	professor van helsing	Friend John, up to now fortune has made that woman of help to us; after to-night she must not have to do with this so terrible affair.
+	professor van helsing	It is not good that she run a risk so great. We men are determined--nay, are we not pledged?--to destroy this monster; but it is no part for a woman.
+	professor van helsing	Even if she be not harmed, her heart may fail her in so much and so many horrors; and hereafter she may suffer--both in waking,
+	professor van helsing	from her nerves, and in sleep, from her dreams. And, besides, she is young woman and not so long married; there may be other things to think of some time,
+	professor van helsing	if not now. You tell me she has wrote all, then she must consult with us; but to-morrow she say good-bye to this work,
+	professor van helsing	and we go alone.
+	narrator	I agreed heartily with him, and then I told him what we had found in his absence: that the house which Dracula had bought was the very next one to my own.
+	narrator	He was amazed, and a great concern seemed to come on him.
+	professor van helsing	Oh that we had known it before!
+	narrator	he said, "for then we might have reached him in time to save poor Lucy. However,
+	narrator	'the milk that is spilt cries not out afterwards,' as you say. We shall not think of that,
+	narrator	but go on our way to the end." Then he fell into a silence that lasted till we entered my own gateway.
+	professor van helsing	Before we went to prepare for dinner he said to Mrs. Harker: I am told, Madam Mina,
+	professor van helsing	by my friend John that you and your husband have put up in exact order all things that have been,
+	professor van helsing	up to this moment.
+	mrs. harker	Not up to this moment, Professor, but up to this morning.
+	professor van helsing	But why not up to now? We have seen hitherto how good light all the little things have made.
+	professor van helsing	We have told our secrets, and yet no one who has told is the worse for it.
+	mrs. harker	Dr. Van Helsing, will you read this, and tell me if it must go in. It is my record of to-day.
+	mrs. harker	I too have seen the need of putting down at present everything, however trivial; but there is little in this except what is personal.
+	mrs. harker	Must it go in?
+	professor van helsing	It need not go in if you do not wish it; but I pray that it may.
+	professor van helsing	It can but make your husband love you the more, and all us, your friends, more honour you--as well as more esteem and love.
+	narrator	She took it back with another blush and a bright smile. And so now, up to this very hour,
+	narrator	all the records we have are complete and in order. The Professor took away one copy to study after dinner,
+	narrator	and before our meeting, which is fixed for nine o'clock. The rest of us have already read everything; so when we meet in the study we shall all be informed as to facts,
+	narrator	and can arrange our plan of battle with this terrible and mysterious enemy. Mina Harker's Journal.
+	narrator	30 September.--When we met in Dr. Seward's study two hours after dinner, which had been at six o'clock,
+	narrator	we unconsciously formed a sort of board or committee. Professor Van Helsing took the head of the table,
+	narrator	to which Dr. Seward motioned him as he came into the room. He made me sit next to him on his right,
+	narrator	and asked me to act as secretary; Jonathan sat next to me. Opposite us were Lord Godalming,
+	narrator	Dr. Seward, and Mr. Morris--Lord Godalming being next the Professor, and Dr. Seward in the centre.
+	narrator	The Professor said:
+	professor van helsing	I may, I suppose, take it that we are all acquainted with the facts that are in these papers.
+	narrator	We all expressed assent, and he went on:
+	professor van helsing	Then it were, I think good that I tell you something of the kind of enemy with which we have to deal.
+	professor van helsing	I shall then make known to you something of the history of this man, which has been ascertained for me.
+	professor van helsing	So we then can discuss how we shall act, and can take our measure according. There are such beings as vampires; some of us have evidence that they exist.
+	professor van helsing	Even had we not the proof of our own unhappy experience, the teachings and the records of the past give proof enough for sane peoples.
+	professor van helsing	I admit that at the first I was sceptic. Were it not that through long years I have train myself to keep an open mind,
+	professor van helsing	I could not have believe until such time as that fact thunder on my ear. See!
+	professor van helsing	see! I prove; I prove. Alas! Had I known at the first what now I know--nay,
+	professor van helsing	had I even guess at him--one so precious life had been spared to many of us who did love her.
+	professor van helsing	But that is gone; and we must so work, that other poor souls perish not, whilst we can save.
+	professor van helsing	The _nosferatu_ do not die like the bee when he sting once. He is only stronger; and being stronger,
+	professor van helsing	have yet more power to work evil. This vampire which is amongst us is of himself so strong in person as twenty men; he is of cunning more than mortal,
+	professor van helsing	for his cunning be the growth of ages; he have still the aids of necromancy, which is,
+	professor van helsing	as his etymology imply, the divination by the dead, and all the dead that he can come nigh to are for him at command; he is brute,
+	professor van helsing	and more than brute; he is devil in callous, and the heart of him is not; he can,
+	professor van helsing	within limitations, appear at will when, and where, and in any of the forms that are to him; he can,
+	professor van helsing	within his range, direct the elements; the storm, the fog, the thunder; he can command all the meaner things: the rat,
+	professor van helsing	and the owl, and the bat--the moth, and the fox, and the wolf; he can grow and become small; and he can at times vanish and come unknown.
+	professor van helsing	How then are we to begin our strike to destroy him? How shall we find his where; and having found it,
+	professor van helsing	how can we destroy? My friends, this is much; it is a terrible task that we undertake,
+	professor van helsing	and there may be consequence to make the brave shudder. For if we fail in this our fight he must surely win; and then where end we?
+	professor van helsing	Life is nothings; I heed him not. But to fail here, is not mere life or death.
+	professor van helsing	It is that we become as him; that we henceforward become foul things of the night like him--without heart or conscience,
+	professor van helsing	preying on the bodies and the souls of those we love best. To us for ever are the gates of heaven shut; for who shall open them to us again?
+	professor van helsing	We go on for all time abhorred by all; a blot on the face of God’s sunshine; an arrow in the side of Him who died for man.
+	professor van helsing	But we are face to face with duty; and in such case must we shrink? For me,
+	professor van helsing	I say, no; but then I am old, and life, with his sunshine, his fair places,
+	professor van helsing	his song of birds, his music and his love, lie far behind. You others are young.
+	professor van helsing	Some have seen sorrow; but there are fair days yet in store. What say you?
+	narrator	Whilst he was speaking, Jonathan had taken my hand. I feared, oh so much, that the appalling nature of our danger was overcoming him when I saw his hand stretch out; but it was life to me to feel its touch--so strong,
+	narrator	so self-reliant, so resolute. A brave man's hand can speak for itself; it does not even need a woman's love to hear its music.
+	narrator	When the Professor had done speaking my husband looked in my eyes, and I in his; there was no need for speaking between us.
+	jonathan harker	I answer for Mina and myself.
+	mr. morris	Count me in, Professor.
+	lord godalming	I am with you, for Lucy's sake, if for no other reason.
+	dr. seward	Simply nodded.
+	narrator	The Professor stood up and, after laying his golden crucifix on the table, held out his hand on either side.
+	narrator	I took his right hand, and Lord Godalming his left; Jonathan held my right with his left and stretched across to Mr. Morris.
+	narrator	So as we all took hands our solemn compact was made. I felt my heart icy cold,
+	narrator	but it did not even occur to me to draw back. We resumed our places, and Dr. Van Helsing went on with a sort of cheerfulness which showed that the serious work had begun.
+	professor van helsing	Well, you know what we have to contend against; but we, too, are not without strength.
+	professor van helsing	We have on our side power of combination--a power denied to the vampire kind; we have sources of science; we are free to act and think; and the hours of the day and the night are ours equally.
+	professor van helsing	In fact, so far as our powers extend, they are unfettered, and we are free to use them.
+	professor van helsing	We have self-devotion in a cause, and an end to achieve which is not a selfish one.
+	professor van helsing	These things are much. Now let us see how far the general powers arrayed against us are restrict,
+	professor van helsing	and how the individual cannot. In fine, let us consider the limitations of the vampire in general,
+	professor van helsing	and of this one in particular.
+	narrator	All we have to go upon are traditions and superstitions. These do not at the first appear much,
+	narrator	when the matter is one of life and death--nay of more than either life or death.
+	narrator	Yet must we be satisfied; in the first place because we have to be--no other means is at our control--and secondly,
+	narrator	because, after all, these things--tradition and superstition--are everything. Does not the belief in vampires rest for others--though not,
+	narrator	alas! for us--on them? A year ago which of us would have received such a possibility,
+	narrator	in the midst of our scientific, sceptical, matter-of-fact nineteenth century? We even scouted a belief that we saw justified under our very eyes.
+	narrator	Take it, then, that the vampire, and the belief in his limitations and his cure, rest for the moment on the same base.
+	narrator	For, let me tell you, he is known everywhere that men have been. In old Greece,
+	narrator	in old Rome; he flourish in Germany all over, in France, in India, even in the Chernosese; and in China,
+	narrator	so far from us in all ways, there even is he, and the peoples fear him at this day.
+	narrator	He have follow the wake of the berserker Icelander, the devil-begotten Hun, the Slav, the Saxon,
+	narrator	the Magyar. So far, then, we have all we may act upon; and let me tell you that very much of the beliefs are justified by what we have seen in our own so unhappy experience.
+	narrator	The vampire live on, and cannot die by mere passing of the time; he can flourish when that he can fatten on the blood of the living.
+	narrator	Even more, we have seen amongst us that he can even grow younger; that his vital faculties grow strenuous,
+	narrator	and seem as though they refresh themselves when his special pabulum is plenty. But he cannot flourish without this diet; he eat not as others.
+	narrator	Even friend Jonathan, who lived with him for weeks, did never see him to eat, never!
+	narrator	He throws no shadow; he make in the mirror no reflect, as again Jonathan observe. He has the strength of many of his hand--witness again Jonathan when he shut the door against the wolfs,
+	narrator	and when he help him from the diligence too. He can transform himself to wolf, as we gather from the ship arrival in Whitby,
+	narrator	when he tear open the dog; he can be as bat, as Madam Mina saw him on the window at Whitby,
+	narrator	and as friend John saw him fly from this so near house, and as my friend Quincey saw him at the window of Miss Lucy.
+	narrator	He can come in mist which he create--that noble ship's captain proved him of this; but,
+	narrator	from what we know, the distance he can make this mist is limited, and it can only be round himself.
+	narrator	He come on moonlight rays as elemental dust--as again Jonathan saw those sisters in the castle of Dracula.
+	narrator	He become so small--we ourselves saw Miss Lucy, ere she was at peace, slip through a hairbreadth space at the tomb door.
+	narrator	He can, when once he find his way, come out from anything or into anything, no matter how close it be bound or even fused up with fire--solder you call it.
+	narrator	He can see in the dark--no small power this, in a world which is one half shut from the light.
+	narrator	Ah, but hear me through. He can do all these things, yet he is not free.
+	narrator	Nay; he is even more prisoner than the slave of the galley, than the madman in his cell.
+	narrator	He cannot go where he lists; he who is not of nature has yet to obey some of nature's laws--why we know not.
+	narrator	He may not enter anywhere at the first, unless there be some one of the household who bid him to come; though afterwards he can come as he please.
+	narrator	His power ceases, as does that of all evil things, at the coming of the day.
+	narrator	Only at certain times can he have limited freedom. If he be not at the place whither he is bound,
+	narrator	he can only change himself at noon or at exact sunrise or sunset. These things are we told,
+	narrator	and in this record of ours we have proof by inference. Thus, whereas he can do as he will within his limit,
+	narrator	when he have his earth-home, his coffin-home, his hell-home, the place unhallowed, as we saw when he went to the grave of the suicide at Whitby; still at other time he can only change when the time come.
+	narrator	It is said, too, that he can only pass running water at the slack or the flood of the tide.
+	narrator	Then there are things which so afflict him that he has no power, as the garlic that we know of; and as for things sacred,
+	narrator	as this symbol, my crucifix, that was amongst us even now when we resolve, to them he is nothing,
+	narrator	but in their presence he take his place far off and silent with respect. There are others,
+	narrator	too, which I shall tell you of, lest in our seeking we may need them. The branch of wild rose on his coffin keep him that he move not from it; a sacred bullet fired into the coffin kill him so that he be true dead; and as for the
+	narrator	stake through him, we know already of its peace; or the cut-off head that giveth rest.
+	narrator	We have seen it with our eyes.
+	professor van helsing	Thus when we find the habitation of this man-that-was, we can confine him to his coffin and destroy him,
+	professor van helsing	if we obey what we know. But he is clever. I have asked my friend Arminius,
+	professor van helsing	of Buda-Pesth University, to make his record; and, from all the means that are, he tell me of what he has been.
+	professor van helsing	He must, indeed, have been that Voivode Dracula who won his name against the Turk, over the great river on the very frontier of Turkey-land.
+	professor van helsing	If it be so, then was he no common man; for in that time, and for centuries after,
+	professor van helsing	he was spoken of as the cleverest and the most cunning, as well as the bravest of the sons of the 'land beyond the forest.
+	professor van helsing	That mighty brain and that iron resolution went with him to his grave, and are even now arrayed against us.
+	professor van helsing	The Draculas were, says Arminius, a great and noble race, though now and again were scions who were held by their coevals to have had dealings with the Evil One.
+	professor van helsing	They learned his secrets in the Scholomance, amongst the mountains over Lake Hermanstadt, where the devil claims the tenth scholar as his due.
+	professor van helsing	In the records are such words as 'stregoica'--witch, 'ordog,' and 'pokol'--Satan and hell; and in one manuscript this very Dracula is spoken of as 'wampyr,'
+	professor van helsing	which we all understand too well. There have been from the loins of this very one great men and good women,
+	professor van helsing	and their graves make sacred the earth where alone this foulness can dwell. For it is not the least of its terrors that this evil thing is rooted deep in all good; in soil barren of holy memories it cannot rest.
+	narrator	Whilst they were talking Mr. Morris was looking steadily at the window, and he now got up quietly,
+	narrator	and went out of the room.
+	professor van helsing	And now we must settle what we do. We have here much data, and we must proceed to lay out our campaign.
+	professor van helsing	We know from the inquiry of Jonathan that from the castle to Whitby came fifty boxes of earth,
+	professor van helsing	all of which were delivered at Carfax; we also know that at least some of these boxes have been removed.
+	professor van helsing	It seems to me, that our first step should be to ascertain whether all the rest remain in the house beyond that wall where we look to-day; or whether any more have been removed.
+	professor van helsing	If the latter, we must trace----
+	narrator	Here we were interrupted in a very startling way. Outside the house came the sound of a pistol-shot; the glass of the window was shattered with a bullet,
+	narrator	which, ricochetting from the top of the embrasure, struck the far wall of the room. I am afraid I am at heart a coward,
+	narrator	for I shrieked out. The men all jumped to their feet; Lord Godalming flew over to the window and threw up the sash.
+	mr. morris	Sorry! I fear I have alarmed you. I shall come in and tell you about it.
+	mr. morris	It was an idiotic thing of me to do, and I ask your pardon, Mrs. Harker,
+	mr. morris	most sincerely; I fear I must have frightened you terribly. But the fact is that whilst the Professor was talking there came a big bat and sat on the window-sill.
+	mr. morris	I have got such a horror of the damned brutes from recent events that I cannot stand them,
+	mr. morris	and I went out to have a shot, as I have been doing of late of evenings,
+	mr. morris	whenever I have seen one. You used to laugh at me for it then, Art.
+	dr. van helsing	Did you hit it?
+	mr. morris	I don't know; I fancy not, for it flew away into the wood.
+	professor van helsing	We must trace each of these boxes; and when we are ready, we must either capture or kill this monster in his lair; or we must,
+	professor van helsing	so to speak, sterilise the earth, so that no more he can seek safety in it.
+	professor van helsing	Thus in the end we may find him in his form of man between the hours of noon and sunset,
+	professor van helsing	and so engage with him when he is at his most weak. And now for you,
+	professor van helsing	Madam Mina, this night is the end until all be well. You are too precious to us to have such risk.
+	professor van helsing	When we part to-night, you no more must question. We shall tell you all in good time.
+	professor van helsing	We are men and are able to bear; but you must be our star and our hope,
+	professor van helsing	and we shall act all the more free that you are not in the danger, such as we are.
+	narrator	All the men, even Jonathan, seemed relieved; but it did not seem to me good that they should brave danger and,
+	narrator	perhaps, lessen their safety--strength being the best safety--through care of me; but their minds were made up,
+	narrator	and, though it was a bitter pill for me to swallow, I could say nothing, save to accept their chivalrous care of me.
+	mr. morris	As there is no time to lose, I vote we have a look at his house right now.
+	mr. morris	Time is everything with him; and swift action on our part may save another victim.
+	narrator	I own that my heart began to fail me when the time for action came so close,
+	narrator	but I did not say anything, for I had a greater fear that if I appeared as a drag or a hindrance to their work,
+	narrator	they might even leave me out of their counsels altogether. They have now gone off to Carfax,
+	narrator	with means to get into the house. Manlike, they had told me to go to bed and sleep; as if a woman can sleep when those she loves are in danger!
+	narrator	I shall lie down and pretend to sleep, lest Jonathan have added anxiety about me when he returns.
+	narrator	Dr. Seward's Diary. 1 October, 4 a. m. Just as we were about to leave the house,
+	narrator	an urgent message was brought to me from Renfield to know if I would see him at once,
+	narrator	as he had something of the utmost importance to say to me. I told the messenger to say that I would attend to his wishes in the morning; I was busy just at the moment.
+	narrator	The attendant added: 'He seems very importunate, sir. I have never seen him so eager. I don't know but what,
+	narrator	if you don't see him soon, he will have one of his violent fits.' I knew the man would not have said this without some cause,
+	narrator	so I said: 'All right; I'll go now'; and I asked the others to wait a few minutes for me,
+	narrator	as I had to go and see my 'patient.'
+	professor van helsing	Take me with you, friend John. His case in your diary interest me much, and it had bearing,
+	professor van helsing	too, now and again on _our_ case. I should much like to see him, and especial when his mind is disturbed.
+	lord godalming	May I come also?
+	mr. morris	Me too? May I come?
+	jonathan harker	May I come?
+	narrator	I nodded, and we all went down the passage together. We found him in a state of considerable excitement,
+	narrator	but far more rational in his speech and manner than I had ever seen him. There was an unusual understanding of himself,
+	narrator	which was unlike anything I had ever met with in a lunatic; and he took it for granted that his reasons would prevail with others entirely sane.
+	narrator	We all four went into the room, but none of the others at first said anything.
+	narrator	His request was that I would at once release him from the asylum and send him home.
+	narrator	This he backed up with arguments regarding his complete recovery, and adduced his own existing sanity.
+	narrator	“I appeal to your friends,” he said, “they will, perhaps, not mind sitting in judgment on my case.
+	narrator	By the way, you have not introduced me.” I was so much astonished, that the oddness of introducing a madman in an asylum did not strike me at the moment; and,
+	narrator	besides, there was a certain dignity in the man’s manner, so much of the habit of equality,
+	narrator	that I at once made the introduction: “Lord Godalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr. Renfield.”
+	narrator	He shook hands with each of them, saying in turn:--
+	lord godalming	I had the honour of seconding your father at the Windham; I grieve to know, by your holding the title,
+	lord godalming	that he is no more. He was a man loved and honoured by all who knew him; and in his youth was,
+	lord godalming	I have heard, the inventor of a burnt rum punch, much patronised on Derby night. Mr. Morris,
+	lord godalming	you should be proud of your great state. Its reception into the Union was a precedent which may have far-reaching effects hereafter,
+	lord godalming	when the Pole and the Tropics may hold alliance to the Stars and Stripes. The power of Treaty may yet prove a vast engine of enlargement,
+	lord godalming	when the Monroe doctrine takes its true place as a political fable. What shall any man say of his pleasure at meeting Van Helsing?
+	lord godalming	Sir, I make no apology for dropping all forms of conventional prefix. When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter,
+	lord godalming	conventional forms are unfitting, since they would seem to limit him to one of a class.
+	lord godalming	You, gentlemen, who by nationality, by heredity, or by the possession of natural gifts, are fitted to hold your respective places in the moving world,
+	lord godalming	I take to witness that I am as sane as at least the majority of men who are in full possession of their liberties.
+	lord godalming	And I am sure that you, Dr. Seward, humanitarian and medico-jurist as well as scientist, will deem it a moral duty to deal with me as one to be considered as under exceptional circumstances.
+	narrator	He made this last appeal with a courtly air of conviction which was not without its own charm.
+	narrator	I think we were all staggered. For my own part, I was under the conviction, despite my knowledge of the man's character and history,
+	narrator	that his reason had been restored; and I felt under a strong impulse to tell him that I was satisfied as to his sanity,
+	narrator	and would see about the necessary formalities for his release in the morning. I thought it better to wait,
+	narrator	however, before making so grave a statement, for of old I knew the sudden changes to which this particular patient was liable.
+	narrator	So I contented myself with making a general statement that he appeared to be improving very rapidly; that I would have a longer chat with him in the morning,
+	narrator	and would then see what I could do in the direction of meeting his wishes.
+	lord godalming	This did not at all satisfy him, for he said quickly:
+	narrator	But I fear, Dr. Seward, that you hardly apprehend my wish. I desire to go at once--here--now--this very hour--this very moment,
+	narrator	if I may. Time presses, and in our implied agreement with the old scytheman it is of the essence of the contract.
+	narrator	I am sure it is only necessary to put before so admirable a practitioner as Dr. Seward so simple,
+	narrator	yet so momentous a wish, to ensure its fulfilment. He looked at me keenly, and seeing the negative in my face,
+	narrator	turned to the others, and scrutinised them closely. Not meeting any sufficient response, he went on: "Is it possible that I have erred in my supposition?"
+	narrator	You have," I said frankly, but at the same time, as I felt, brutally. There was a considerable pause,
+	narrator	and then he said slowly: "Then I suppose I must only shift my ground of request.
+	narrator	Let me ask for this concession--boon, privilege, what you will. I am content to implore in such a case,
+	narrator	not on personal grounds, but for the sake of others. I am not at liberty to give you the whole of my reasons; but you may,
+	narrator	I assure you, take it from me that they are good ones, sound and unselfish, and spring from the highest sense of duty.
+	narrator	Could you look, sir, into my heart, you would approve to the full the sentiments which animate me.
+	narrator	Nay, more, you would count me amongst the best and truest of your friends." Again he looked at us all keenly.
+	narrator	I had a growing conviction that this sudden change of his entire intellectual method was but yet another form or phase of his madness,
+	narrator	and so determined to let him go on a little longer, knowing from experience that he would,
+	narrator	like all lunatics, give himself away in the end. Van Helsing was gazing at him with a look of utmost intensity,
+	narrator	his bushy eyebrows almost meeting with the fixed concentration of his look.
+	professor van helsing	Let me ask for this concession--boon, privilege, what you will. I am content to implore in such a case,
+	professor van helsing	not on personal grounds, but for the sake of others. I am not at liberty to give you the whole of my reasons; but you may,
+	professor van helsing	I assure you, take it from me that they are good ones, sound and unselfish, and spring from the highest sense of duty.
+	professor van helsing	Could you look, sir, into my heart, you would approve to the full the sentiments which animate me.
+	professor van helsing	Nay, more, you would count me amongst the best and truest of your friends. For it was as of one addressing an equal:
+	narrator	- Dr. Seward (male): A physician and diary keeper who is the central figure in this chapter.
+	narrator	He runs the asylum where Mr. Renfield is a patient, and serves as the leader of the group investigating Dracula.
+	narrator	He is methodical, observant, and committed to his patients. - Mrs. Harker (female): The wife of Jonathan Harker,
+	narrator	a key character who has been documenting events related to Dracula. She is intelligent, compassionate, and plays a crucial role in the investigation by organizing records of events.
+	narrator	- Mr. Renfield (*male): A patient in Dr. Seward's asylum who is obsessed with consuming living creatures to prolong his life.
+	narrator	He exhibits both madness and moments of apparent sanity, showing philosophical depth. - Lord Godalming (male): A wealthy British aristocrat who is involved in the investigation of Dracula.
+	narrator	He is brave and committed to protecting Lucy, and later becomes part of the group hunting the vampire.
+	narrator	- Mr. Morris (male): A friend of the group who is described as being from Texas.
+	narrator	He is practical, direct in speech (laconic), and actively participates in the investigation of Dracula. - Professor Van Helsing (*male): A Dutch doctor and expert on supernatural phenomena who leads the investigation against Dracula.
+	narrator	He is knowledgeable, wise, and determined to destroy the vampire. - Jonathan Harker (male): Mrs. Harker's husband who has been documenting events related to Dracula and is married to Mina.
+	narrator	PASSAGE:
+	professor van helsing	Can you not tell frankly your real reason for wishing to be free to-night? I will undertake that if you will satisfy even me--a stranger,
+	professor van helsing	without prejudice, and with the habit of keeping an open mind--Dr. Seward will give you, at his own risk and on his own responsibility,
+	professor van helsing	the privilege you seek.
+	mr. renfield	He shook his head sadly, and with a look of poignant regret on his face.
+	professor van helsing	Come, sir, bethink yourself. You claim the privilege of reason in the highest degree, since you seek to impress us with your complete reasonableness.
+	professor van helsing	You do this, whose sanity we have reason to doubt, since you are not yet released from medical treatment for this very defect.
+	professor van helsing	If you will not help us in our effort to choose the wisest course, how can we perform the duty which you yourself put upon us?
+	professor van helsing	Be wise, and help us; and if we can we shall aid you to achieve your wish.
+	mr. renfield	He still shook his head as he said: Dr. Van Helsing, I have nothing to say.
+	mr. renfield	Your argument is complete, and if I were free to speak I should not hesitate a moment; but I am not my own master in the matter.
+	mr. renfield	I can only ask you to trust me. If I am refused, the responsibility does not rest with me.
+	dr. seward	I thought it was now time to end the scene, which was becoming too comically grave,
+	dr. seward	so I went towards the door, simply saying: Come, my friends, we have work to do.
+	dr. seward	Good-night.
+	narrator	As, however, I got near the door, a new change came over the patient. He moved towards me so quickly that for the moment I feared that he was about to make another homicidal attack.
+	narrator	My fears, however, were groundless, for he held up his two hands imploringly, and made his petition in a moving manner.
+	narrator	As he saw that the very excess of his emotion was militating against him, by restoring us more to our old relations,
+	narrator	he became still more demonstrative. I glanced at Van Helsing, and saw my conviction reflected in his eyes; so I became a little more fixed in my manner,
+	narrator	if not more stern, and motioned to him that his efforts were unavailing. I had previously seen something of the same constantly growing excitement in him when he had to make some request of which at the time he had thought much,
+	narrator	such, for instance, as when he wanted a cat; and I was prepared to see the collapse into the same sullen acquiescence on this occasion.
+	narrator	My expectation was not realised, for, when he found that his appeal would not be successful,
+	narrator	he got into quite a frantic condition.
+	mr. renfield	He threw himself on his knees, and held up his hands, wringing them in plaintive supplication,
+	mr. renfield	and poured forth a torrent of entreaty, with the tears rolling down his cheeks, and his whole face and form expressive of the deepest emotion: Let me entreat you,
+	mr. renfield	Dr. Seward, oh, let me implore you, to let me out of this house at once.
+	mr. renfield	Send me away how you will and where you will; send keepers with me with whips and chains; let them take me in a strait-waistcoat,
+	mr. renfield	manacled and leg-ironed, even to a gaol; but let me go out of this. You don’t know what you do by keeping me here.
+	mr. renfield	I am speaking from the depths of my heart--of my very soul. You don’t know whom you wrong,
+	mr. renfield	or how; and I may not tell. Woe is me! I may not tell. By all you hold sacred--by all you hold dear--by your love that is lost--by your hope that lives--for the sake of the Almighty,
+	mr. renfield	take me out of this and save my soul from guilt! Can’t you hear me, man?
+	mr. renfield	Can’t you understand? Will you never learn? Don’t you know that I am sane and earnest now; that I am no lunatic in a mad fit,
+	mr. renfield	but a sane man fighting for his soul? Oh, hear me! hear me! Let me go!
+	mr. renfield	let me go! let me go!
+	dr. seward	I thought that the longer this went on the wilder he would get, and so would bring on a fit; so I took him by the hand and raised him up.
+	dr. seward	Come, no more of this; we have had quite enough already. Get to your bed and try to behave more discreetly.
+	mr. renfield	He suddenly stopped and looked at me intently for several moments. Then, without a word, he rose and moving over,
+	mr. renfield	sat down on the side of the bed. The collapse had come, as on former occasion,
+	mr. renfield	just as I had expected. When I was leaving the room, last of our party, he said to me in a quiet,
+	mr. renfield	well-bred voice: You will, I trust, Dr. Seward, do me the justice to bear in mind,
+	mr. renfield	later on, that I did what I could to convince you to-night.

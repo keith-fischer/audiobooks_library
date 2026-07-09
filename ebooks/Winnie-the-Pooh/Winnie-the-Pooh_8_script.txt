@@ -1,0 +1,258 @@
+	narrator	One fine day Pooh had stumped up to the top of the Forest to see if his friend Christopher Robin was interested in Bears at all.
+	narrator	At breakfast that morning (a simple meal of marmalade spread lightly over a honeycomb or two) he had suddenly thought of a new song.
+	narrator	It began like this:
+	pooh	Sing Ho! for the life of a Bear.
+	narrator	When he had got as far as this, he scratched his head, and thought to himself "That's a very good start for a song,
+	narrator	but what about the second line?" He tried singing "Ho," two or three times, but it didn't seem to help.
+	narrator	'Perhaps it would be better,' he thought, 'if I sang Hi for the life of a Bear.'
+	narrator	So he sang it ... but it wasn't. 'Very well, then,' he said, 'I shall sing that first line twice,
+	narrator	and perhaps if I sing it very quickly, I shall find myself singing the third and fourth lines before I have time to think of them,
+	narrator	and that will be a Good Song. Now then:'
+	pooh	Sing Ho! for the life of a Bear! Sing Ho! for the life of a Bear!
+	pooh	I don't much mind if it rains or snows, Cos I've got a lot of honey on my nice new nose,
+	pooh	I don't much care if it snows or thaws, Cos I've got a lot of honey on my nice clean paws!
+	pooh	Sing Ho! for a Bear! Sing Ho! for a Pooh! And I'll have a little something in an hour or two!
+	narrator	He was so pleased with this song that he sang it all the way to the top of the Forest,
+	narrator	"and if I go on singing it much longer," he thought, "it will be time for the little something,
+	narrator	and then the last line won't be true." So he turned it into a hum instead.
+	narrator	Christopher Robin was sitting outside his door, putting on his Big Boots. As soon as he saw the Big Boots,
+	narrator	Pooh knew that an Adventure was going to happen, and he brushed the honey off his nose with the back of his paw,
+	narrator	and spruced himself up as well as he could, so as to look Ready for Anything.
+	pooh	Good-morning, Christopher Robin.
+	christopher robin	Hallo, Pooh Bear. I can't get this boot on.
+	pooh	That's bad.
+	christopher robin	Do you think you could very kindly lean against me, 'cos I keep pulling so hard that I fall over backwards.
+	pooh	I don't think I've ever been on one of those.
+	narrator	Pooh sat down, dug his feet into the ground, and pushed hard against Christopher Robin's back,
+	narrator	and Christopher Robin pushed hard against his, and pulled and pulled at his boot until he had got it on.
+	pooh	And that's that. What do we do next?
+	christopher robin	We are all going on an Expedition.
+	narrator	said Christopher Robin, as he got up and brushed himself.
+	christopher robin	Thank you, Pooh.
+	pooh	Going on an Expotition?
+	christopher robin	Expedition, silly old Bear. It's got an 'x' in it.
+	pooh	Oh!
+	narrator	said Pooh. But he didn't really.
+	christopher robin	We're going to discover the North Pole.
+	pooh	Oh! What _is_ the North Pole?
+	christopher robin	It's just a thing you discover.
+	narrator	said Christopher Robin carelessly, not being quite sure himself.
+	pooh	Oh! I see. Are bears any good at discovering it?
+	christopher robin	Of course they are. And Rabbit and Kanga and all of you. It's an Expedition. That's what an Expedition means.
+	christopher robin	A long line of everybody. You'd better tell the others to get ready, while I see if my gun's all right.
+	christopher robin	And we must all bring Provisions.
+	pooh	Bring what?
+	christopher robin	Things to eat.
+	pooh	Oh!
+	narrator	said Pooh happily.
+	pooh	I thought you said Provisions. I'll go and tell them.
+	narrator	And he stumped off. The first person he met was Rabbit.
+	pooh	Hallo, Rabbit, is that you?
+	rabbit	Let's pretend it isn't, and see what happens.
+	pooh	I've got a message for you.
+	rabbit	I'll give it to him.
+	pooh	We're all going on an Expotition with Christopher Robin!
+	rabbit	What is it when we're on it?
+	pooh	A sort of boat, I think.
+	rabbit	Oh! that sort.
+	pooh	Yes. And we're going to discover a Pole or something. Or was it a Mole? Anyhow we're going to discover it.
+	rabbit	We are, are we?
+	pooh	Yes. And we've got to bring Pro--things to eat with us. In case we want to eat them.
+	pooh	Now I'm going down to Piglet's. Tell Kanga, will you?
+	narrator	He left Rabbit and hurried down to Piglet's house. The Piglet was sitting on the ground at the door of his house blowing happily at a dandelion,
+	narrator	and wondering whether it would be this year, next year, sometime or never. He had just discovered that it would be never,
+	narrator	and was trying to remember what "_it_" was, and hoping it wasn't anything nice, when Pooh came up.
+	pooh	Oh! Piglet, we're going on an Expotition, all of us, with things to eat. To discover something.
+	piglet	To discover what?
+	pooh	Oh! just something.
+	piglet	Nothing fierce?
+	pooh	Christopher Robin didn't say anything about fierce. He just said it had an 'x'.
+	piglet	It isn't their necks I mind, It's their teeth. But if Christopher Robin is coming I don't mind anything.
+	narrator	In a little while they were all ready at the top of the Forest, and the Expotition started.
+	narrator	First came Christopher Robin and Rabbit, then Piglet and Pooh; then Kanga, with Roo in her pocket,
+	narrator	and Owl; then Eeyore; and, at the end, in a long line, all Rabbit's friends-and-relations.
+	rabbit	I didn't ask them, explained Rabbit carelessly. They just came. They always do. They can march at the end,
+	rabbit	after Eeyore.
+	eeyore	What I say, is that it's unsettling. I didn't want to come on this Expo--what Pooh said.
+	eeyore	I only came to oblige. But here I am; and if I am the end of the Expo--what we're talking about--then let me _be_ the end.
+	eeyore	But if, every time I want to sit down for a little rest, I have to brush away half a dozen of Rabbit's smaller friends-and-relations first,
+	eeyore	then this isn't an Expo--whatever it is--at all, it's simply a Confused Noise. That's what _I_ say.
+	owl	I see what Eeyore means. If you ask me----
+	eeyore	I'm not asking anybody. I'm just telling everybody. We can look for the North Pole, or we can play 'Here we go gathering Nuts and May'
+	eeyore	with the end part of an ant's nest. It's all the same to me.
+	narrator	There was a shout from the top of the line.
+	christopher robin	Come on!
+	pooh	Come on!
+	piglet	Come on!
+	owl	Come on!
+	rabbit	We're starting. I must go.
+	narrator	And he hurried off to the front of the Expotition with Christopher Robin.
+	eeyore	All right. We're going. Only Don't Blame Me.
+	narrator	So off they all went to discover the Pole. And as they walked, they chattered to each other of this and that,
+	narrator	all except Pooh, who was making up a song.
+	pooh	This is the first verse,
+	piglet	First verse of what?
+	pooh	My song.
+	piglet	What song?
+	pooh	This one.
+	piglet	Which one?
+	pooh	Well, if you listen, Piglet, you'll hear it.
+	piglet	How do you know I'm not listening?
+	narrator	Pooh couldn't answer that one, so he began to sing. They all went off to discover the Pole,
+	narrator	Owl and Piglet and Rabbit and all; It's a Thing you Discover, as I've been tole By Owl and Piglet and Rabbit and all.
+	narrator	Eeyore, Christopher Robin and Pooh And Rabbit's relations all went too-- And where the Pole was none of them knew....
+	narrator	Sing Hey! for Owl and Rabbit and all!
+	christopher robin	Hush!
+	narrator	said Christopher Robin turning round to Pooh, "we're just coming to a Dangerous Place."
+	pooh	Hush!
+	narrator	said Pooh turning round quickly to Piglet.
+	piglet	Hush!
+	narrator	said Piglet to Kanga.
+	kanga	Hush!
+	narrator	said Kanga to Owl, while Roo said "Hush!" several times to himself very quietly.
+	owl	Hush!
+	narrator	said Owl to Eeyore.
+	eeyore	_Hush!_
+	narrator	said Eeyore in a terrible voice to all Rabbit's friends-and-relations, and "Hush!" they said hastily to each other all down the line,
+	narrator	until it got to the last one of all. And the last and smallest friend-and-relation was so upset to find that the whole Expotition was saying "Hush!"
+	narrator	to _him_, that he buried himself head downwards in a crack in the ground, and stayed there for two days until the danger was over,
+	narrator	and then went home in a great hurry, and lived quietly with his Aunt ever-afterwards. His name was Alexander Beetle.
+	narrator	They had come to a stream which twisted and tumbled between high rocky banks, and Christopher Robin saw at once how dangerous it was.
+	christopher robin	It's just the place,
+	narrator	he explained, "for an Ambush."
+	pooh	What sort of bush?
+	narrator	whispered Pooh to Piglet. "A gorse-bush?"
+	owl	My dear Pooh,
+	narrator	said Owl in his superior way, "don't you know what an Ambush is?"
+	piglet	Owl,
+	narrator	said Piglet, looking round at him severely, "Pooh's whisper was a perfectly private whisper, and there was no need----"
+	owl	An Ambush,
+	narrator	said Owl, "is a sort of Surprise."
+	pooh	So is a gorse-bush sometimes,
+	narrator	said Pooh.
+	piglet	An Ambush, as I was about to explain to Pooh,
+	narrator	said Piglet, "is a sort of Surprise."
+	owl	If people jump out at you suddenly, that's an Ambush,
+	narrator	said Owl.
+	piglet	It's an Ambush, Pooh, when people jump at you suddenly,
+	narrator	explained Piglet.
+	pooh	Pooh, who now knew what an Ambush was, said that a gorse-bush had sprung at him suddenly one day when he fell off a tree,
+	pooh	and he had taken six days to get all the prickles out of himself.
+	owl	We are not _talking_ about gorse-bushes,
+	narrator	said Owl a little crossly.
+	pooh	I am,
+	narrator	said Pooh. They were climbing very cautiously up the stream now, going from rock to rock,
+	narrator	and after they had gone a little way they came to a place where the banks widened out at each side,
+	narrator	so that on each side of the water there was a level strip of grass on which they could sit down and rest.
+	narrator	As soon as he saw this, Christopher Robin called "Halt!" and they all sat down and rested.
+	christopher robin	I think,
+	narrator	said Christopher Robin, "that we ought to eat all our Provisions now, so that we shan't have so much to carry."
+	pooh	Eat all our what?
+	piglet	All that we've brought,
+	narrator	said Piglet, getting to work.
+	pooh	That's a good idea,
+	narrator	said Pooh, and he got to work too.
+	christopher robin	Have you all got something?
+	narrator	asked Christopher Robin with his mouth full.
+	eeyore	All except me,
+	narrator	said Eeyore. "As Usual." He looked round at them in his melancholy way. "I suppose none of you are sitting on a thistle by any chance?"
+	pooh	I believe I am,
+	narrator	said Pooh. "Ow!" He got up, and looked behind him. "Yes, I was. I thought so."
+	eeyore	Thank you, Pooh. If you've quite finished with it.
+	narrator	He moved across to Pooh's place, and began to eat.
+	eeyore	It don't do them any Good, you know, sitting on them,
+	narrator	he went on, as he looked up munching. "Takes all the Life out of them. Remember that another time,
+	narrator	all of you. A little Consideration, a little Thought for Others, makes all the difference." As soon as he had finished his lunch Christopher Robin whispered to Rabbit,
+	narrator	and Rabbit said "Yes, yes, of course," and they walked a little way up the stream together.
+	christopher robin	I didn't want the others to hear,
+	narrator	said Christopher Robin.
+	rabbit	Quite so,
+	narrator	said Rabbit, looking important.
+	christopher robin	It's--I wondered--It's only--Rabbit, I suppose _you_ don't know, What does the North Pole _look_ like?
+	rabbit	Well,
+	narrator	said Rabbit, stroking his whiskers. "Now you're asking me."
+	christopher robin	I did know once, only I've sort of forgotten,
+	narrator	said Christopher Robin carelessly.
+	rabbit	It's a funny thing,
+	narrator	said Rabbit, "but I've sort of forgotten too, although I did know _once_."
+	christopher robin	I suppose it's just a pole stuck in the ground?
+	rabbit	Sure to be a pole,
+	narrator	said Rabbit, "because of calling it a pole, and if it's a pole, well, I should think it would be sticking in the ground,
+	narrator	shouldn't you, because there'd be nowhere else to stick it."
+	christopher robin	Yes, that's what I thought.
+	rabbit	The only thing,
+	narrator	said Rabbit, "is, _where is it sticking_?"
+	christopher robin	That's what we're looking for,
+	narrator	said Christopher Robin. They went back to the others. Piglet was lying on his back, sleeping peacefully.
+	narrator	Roo was washing his face and paws in the stream, while Kanga explained to everybody proudly that this was the first time he had ever washed his face himself,
+	narrator	and Owl was telling Kanga an Interesting Anecdote full of long words like Encyclop√¶dia and Rhododendron to which Kanga wasn't listening.
+	eeyore	I don't hold with all this washing, This modern Behind-the-ears nonsense. What do _you_ think, Pooh?
+	pooh	Well, _I_ think----
+	narrator	But we shall never know what Pooh thought, for there came a sudden squeak from Roo,
+	narrator	a splash, and a loud cry of alarm from Kanga.
+	eeyore	So much for _washing_.
+	rabbit	Roo's fallen in!
+	narrator	cried Rabbit, and he and Christopher Robin came rushing down to the rescue.
+	roo	Look at me swimming!
+	narrator	squeaked Roo from the middle of his pool, and was hurried down a waterfall into the next pool.
+	kanga	Are you all right, Roo dear?
+	roo	Yes! Look at me sw----
+	narrator	and down he went over the next waterfall into another pool. Everybody was doing something to help.
+	narrator	Piglet, wide awake suddenly, was jumping up and down and making "Oo, I say" noises; Owl was explaining that in a case of Sudden and Temporary Immersion the Important Thing was to keep the Head Above Water; Kanga was jumping along the bank,
+	narrator	saying "Are you _sure_ you're all right, Roo dear?" to which Roo, from whatever pool he was in at the moment,
+	narrator	was answering "Look at me swimming!" Eeyore had turned round and hung his tail over the first pool into which Roo fell,
+	narrator	and with his back to the accident was grumbling quietly to himself, and saying, "All this washing; but catch on to my tail,
+	narrator	little Roo, and you'll be all right"; and, Christopher Robin and Rabbit came hurrying past Eeyore,
+	narrator	and were calling out to the others in front of them.
+	christopher robin	All right, Roo, I'm coming.
+	rabbit	Get something across the stream lower down, some of you fellows,
+	narrator	called Rabbit. But Pooh was getting something. Two pools below Roo he was standing with a long pole in his paws,
+	narrator	and Kanga came up and took one end of it, and between them they held it across the lower part of the pool; and Roo,
+	narrator	still bubbling proudly, "Look at me swimming," drifted up against it, and climbed out.
+	roo	Did you see me swimming?
+	narrator	squeaked Roo excitedly, while Kanga scolded him and rubbed him down.
+	roo	Pooh, did you see me swimming? That's called swimming, what I was doing. Rabbit, did you see what I was doing?
+	roo	Swimming. Hallo, Piglet! I say, Piglet! What do you think I was doing! Swimming! Christopher Robin,
+	roo	did you see me----
+	narrator	But Christopher Robin wasn't listening. He was looking at Pooh.
+	christopher robin	Pooh, where did you find that pole?
+	pooh	I just found it, I thought it ought to be useful. I just picked it up.
+	christopher robin	Pooh, the Expedition is over. You have found the North Pole!
+	pooh	Oh!
+	narrator	Eeyore was sitting with his tail in the water when they all got back to him.
+	eeyore	Tell Roo to be quick, somebody, My tail's getting cold. I don't want to mention it,
+	eeyore	but I just mention it. I don't want to complain but there it is. My tail's cold.
+	roo	Here I am!
+	eeyore	Oh, there you are.
+	roo	Did you see me swimming?
+	eeyore	As I expected, Lost all feeling. Numbed it. That's what it's done. Numbed it. Well, as long as nobody minds,
+	eeyore	I suppose it's all right.
+	christopher robin	Poor old Eeyore. I'll dry it for you,
+	narrator	said Christopher Robin, and he took out his handkerchief and rubbed it up.
+	eeyore	Thank you, Christopher Robin. You're the only one who seems to understand about tails. They don't think--that's what the matter with some of these others.
+	eeyore	They've no imagination. A tail isn't a tail to _them_, it's just a Little Bit Extra at the back.
+	christopher robin	Never mind, Eeyore, Is that better?
+	eeyore	It's feeling more like a tail perhaps. It Belongs again, if you know what I mean.
+	eeyore	Hullo, Pooh. Thank you for asking, but I shall be able to use it again in a day or two.
+	pooh	Hullo, Pooh. Thank you for asking, but I shall be able to use it again in a day or two.
+	pooh	Use what?
+	eeyore	What we are talking about.
+	pooh	I wasn't talking about anything, I said. He thought for a little and then suggested helpfully,
+	pooh	"Perhaps it was somebody else.
+	eeyore	Well, thank him for me when you see him.
+	pooh	Pooh's found the North Pole,
+	christopher robin	Pooh's found the North Pole,
+	narrator	said Christopher Robin. "Isn't that lovely?"
+	pooh	Is that it?
+	eeyore	Yes,
+	christopher robin	Yes,
+	pooh	Yes,
+	eeyore	Is that what we were looking for?
+	christopher robin	Yes,
+	pooh	Yes,
+	eeyore	Oh! Well, anyhow--it didn't rain,
+	narrator	he said. They stuck the pole in the ground, and Christopher Robin tied a message on to it.
+	narrator	NORTH POLE DISCOVERED BY POOH POOH FOUND IT. Then they all went home again. And I think,
+	narrator	but I am not quite sure, that Roo had a hot bath and went straight to bed.
+	narrator	But Pooh went back to his own house, and feeling very proud of what he had done,
+	narrator	had a little something to revive himself.

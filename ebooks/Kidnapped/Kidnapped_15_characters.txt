@@ -1,0 +1,7 @@
+The old gentleman	male	An elderly man who owns a turf-roofed house in Mull. He speaks little English but is kind and hospitable, offering shelter and food to the narrator. He recognizes the narrator as 'the lad with the silver button' and advises him to follow his friend to Torosay.
+*The old gentleman's wife	female	A kind woman who serves the narrator oat-bread and cold grouse. She has no English but shows warmth through gestures and smiles.
+*Alan	*male	A friend of the narrator who arrived on Mull first, dressed in breeches and stockings with a feathered hat. He is described as having a vanity for dress.
+*Hector Maclean	male	A wealthy man in Mull (though poor by southern standards) who is the host of a house where the narrator stays. He is described as courteous and well-spoken but also a cheat who takes advantage of the narrator's money.
+The rascal guide	*male	A dishonest man who claims to be a guide but is actually a thief and cheat. He takes money from the narrator for guidance, then betrays him by leading him astray and ultimately attempting to rob him.
+Duncan Mackiegh	*male	A blind man who claims to be a catechist but is actually an armed highwayman and possible murderer. He carries a pistol and threatens the narrator with violence.
+The innkeeper	*male	An innkeeper at Torosay who is a Maclean of high family. He speaks good English and engages in scholarly conversation with the narrator, showing knowledge of Latin and French.

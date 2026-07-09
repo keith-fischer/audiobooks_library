@@ -1,0 +1,5 @@
+Jim	*male	A enslaved man who is traveling down the Mississippi River with Huck Finn. He is loyal, practical, and often provides moral guidance to Huck.
+Huck Finn	*male	A young boy who is traveling down the Mississippi River with Jim. He is adventurous, mischievous, and often acts on impulse.
+Jim Turner	*male	A man who is tied up and threatened by two other men on a steamboat wreck. He appears to be involved in some kind of criminal activity.
+Bill	*male	One of two men who are threatening Jim Turner on the steamboat wreck. He is aggressive and wants to kill Jim Turner.
+Jake Packard	*male	One of two men who are threatening Jim Turner on the steamboat wreck. He is more calculating and wants to avoid killing Jim Turner.

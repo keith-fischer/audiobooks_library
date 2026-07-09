@@ -1,0 +1,13 @@
+Mary Jane	female	A beautiful red-headed girl, described as almost awful beautiful with a face and eyes lit up with joy. She is one of the Wilks sisters who inherits money from their father's will.
+*The hare-lip	female	One of the Wilks sisters who jumps for the duke when he arrives. She is described as having a hare-lip and is one of Mary Jane's sisters.
+The king	male	A fraud who pretends to be one of the Wilks brothers. He is described as spreading his arms and jumping for Mary Jane when they meet, and later claiming to be Harvey Wilks.
+The duke	male	A fraud who pretends to be the other Wilks brother. He is described as being hugged by Mary Jane's sister and making goo-goo sounds like a baby.
+*Rev. Mr. Hobson	*male	A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+*Deacon Lot Hovey	*male	A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+*Mr. Ben Rucker	*male	A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+Abner Shackleford	*male	A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+*Levi Bell	*male	A friend of the Wilks family who is invited to supper and asked to attend the funeral.
+*Dr. Robinson	*male	A doctor and friend of the Wilks family who is invited to supper. He exposes the frauds as impostors.
+*Susan	female	One of the Wilks sisters who is hugged by the duke and later takes money from him.
+*Joanner	female	One of the Wilks sisters who is hugged by the duke and later takes money from him.
+The doctor	*male	A man who exposes the frauds as impostors. He is described as having an iron jaw and speaks with authority.

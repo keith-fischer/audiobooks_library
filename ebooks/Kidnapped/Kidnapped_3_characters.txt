@@ -1,0 +1,5 @@
+Davie	*male	The narrator and protagonist, a young man who has come to meet his uncle after learning of his father's death. He is proud, independent, and determined not to be a beggar despite his poverty.
+Uncle Ebenezer	*male	Davie's uncle, a miserly and nervous man who appears to be an old serving-man. He is secretive, suspicious of others, and seems to have a complicated relationship with his nephew.
+*Alexander	*male	Davie's father, who is dead and whose death prompted Davie to seek out his uncle. He was a secret man according to the uncle.
+*Jennet Clouston	*female	A neighbor who is described as a witch and has been involved in conflict with Uncle Ebenezer over the past twelve years.
+*Campbell	*male	A family name associated with Davie's friends, though only one person of this name is mentioned - the minister.
