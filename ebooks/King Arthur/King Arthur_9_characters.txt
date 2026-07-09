@@ -1,0 +1,9 @@
+Sir Gawain	male	A knight of King Arthur's Round Table, known for his honor and chivalry. He is accused of treason and must defend himself in a royal court, leading him to refrain from participating in the tournament. He ultimately proves his worth by defeating Meliance of Lis and earning the admiration of the people.
+*Meliance of Lis	male	A brave and hardy knight who has challenged Thiebault of Tintagel to a tournament. He is considered the best knight by his fair friend, but is defeated by Sir Gawain in the tournament.
+Thiebault of Tintagel	male	The lord of the castle who organized the tournament against Meliance of Lis. He is initially suspicious of Gawain but later shows him honor and hospitality.
+*Teudaves	male	A knight who is the master of the squire mentioned in the story. He is described as worthy and brave.
+Garin	*male	A nobleman who takes Sir Gawain in as a guest at his house. He is the father of Herman and stands up to Thiebault when he accuses Gawain.
+*Herman	*male	The son of Garin, who accompanies his father to speak with Thiebault about the tournament.
+Maid with the Narrow Sleeves	*female	The younger daughter of Thiebault, known for her tight sleeves. She is the one who initiates the tournament by challenging Meliance of Lis's superiority and later asks Sir Gawain to participate in the tourney.
+Elder daughter of Thiebault	*female	The older daughter of Thiebault who is jealous and angry with her younger sister. She beats the Maid with the Narrow Sleeves after a quarrel over Sir Gawain's prowess.
+Squire	*male	A squire who leads a Spanish charger and is described as tall and strong. He attempts to take Sir Gawain's armor but is deterred by Gawain.

@@ -1,0 +1,237 @@
+	narrator	The land of Britain being now in peace, and many great and valiant knights therein ready to take part in whatsoever battles or adventures might
+	narrator	arise
+	narrator	King Arthur resolved to follow all his enemies to their own coasts.
+	narrator	Anon he fitted out a great fleet, and sailing first to Ireland, in one battle he miserably routed the people of the country.
+	narrator	The King of Ireland also he took prisoner, and forced all earls and barons to pay him homage.
+	narrator	Having conquered Ireland, he went next to Iceland and subdued it also, and the winter being then arrived
+	narrator	returned to Britain.
+	narrator	In the next year he set forth to Norway, whence many times the heathen had descended on the British coasts; for he was determined to
+	narrator	give so terrible a lesson to those savages as should be told through all their tribes both far and near
+	narrator	and make his name fearful to them.
+	narrator	As soon as he was come, Riculf, the king, with all the power of that country, met and gave him battle; but
+	narrator	after mighty slaughter, the Britons had at length the advantage, and slew Riculf and a countless multitude besides.
+	narrator	Having thus defeated them, they set the cities on fire, dispersed the country people, and pursued the victory till they had reduced all Norway
+	narrator	as also Dacia, under the dominion of King Arthur.
+	narrator	Now, therefore, having thus chastised those pagans who so long had harassed Britain, and put his yoke upon them
+	narrator	he voyaged on to Gaul, being steadfastly set upon defeating the Roman governor of that province, and so beginning to make good the threats which
+	narrator	he had sent the emperor by his ambassadors.
+	narrator	So soon as he was landed on the shores of Gaul, there came to him a countryman who told him of a fearful giant in
+	narrator	the land of Brittany
+	narrator	who had slain, murdered, and devoured many people, and had lived for seven years upon young children only
+	narrator	"insomuch," said the man, "that all the children of the country are destroyed; and but the other day he seized upon our duchess
+	narrator	as she rode out with her men, and took her away to his lodging in a cave of a mountain
+	narrator	and though five hundred people followed her, yet could they give her no help or rescue, but left her shrieking and crying lamentably in the
+	narrator	giant's hands; and
+	narrator	Lord, she is thy cousin Hoel's wife, who is of thy near kindred; wherefore, as thou art a rightful king
+	narrator	have pity on this lady; and as thou art a valiant conqueror, avenge us and deliver us."
+	king arthur	Alas! this is a great mischief that ye tell of. I had rather than the best realm I have
+	king arthur	that I had rescued that lady ere the giant laid his hand on her; but tell me now
+	king arthur	good fellow, canst thou bring me where this giant haunteth?
+	narrator	"Yea, Lord!" replied the man; "lo, yonder, where thou seest two great fires, there shalt thou find him
+	narrator	and more treasure also than is in all Gaul besides."
+	narrator	Then the king returned to his tent, and, calling Sir Key and Sir Bedwin, desired them to get horses ready for himself and them
+	narrator	for that after evensong he would ride a pilgrimage with them alone to St.
+	narrator	Michael's Mount.
+	narrator	So in the evening they departed, and rode as fast as they could till they came near the mount
+	narrator	and there alighted; and the king commanded the two knights to await him at the hill foot
+	narrator	while he went up alone.
+	narrator	Then he ascended the mountain till he came to a great fire.
+	narrator	And there he found a sorrowful widow wringing her hands and weeping miserably, sitting by a new-made grave.
+	narrator	And saluting her, King Arthur prayed her wherefore she made such heavy lamentations.
+	narrator	"Sir knight," she said, "speak softly, for yonder is a devil, who, if he hear thy voice
+	narrator	will come and straightway slay thee. Alas! what dost thou here? Fifty such men as thou were powerless to resist him. Here lieth dead my
+	narrator	lady
+	narrator	Duchess of Brittany, wife to Sir Hoel, who was the fairest lady in the world, foully and shamefully slaughtered by that fiend! Beware that thou
+	narrator	go not too nigh
+	narrator	for he hath overcome and vanquished fifteen kings, and hath made himself a coat of precious stones
+	narrator	embroidered with their beards; but if thou art so hardy, and wilt speak with him, at yonder great fire he is at supper."
+	king arthur	Well, I will accomplish mine errand, for all thy fearful words;
+	narrator	and so went forth to the crest of the hill, and saw where the giant sat at supper
+	narrator	gnawing on a limb of a man, and baking his huge frame by the fire, while three damsels turned three spits
+	narrator	whereon were spitted, like larks, twelve young children lately born.
+	narrator	When King Arthur saw all that, his heart bled for sorrow, and he trembled for rage and indignation; then lifting up his voice he cried
+	narrator	aloud--"God
+	narrator	that wieldeth all the world, give thee short life and shameful death, and may the devil have thy soul! Why hast thou slain those children
+	narrator	and that fair lady! Wherefore arise
+	narrator	and prepare thee to perish, thou glutton and fiend, for this day thou shalt die by my hands."
+	narrator	Then the giant, mad with fury at these words, started up, and seizing a great club, smote the king
+	narrator	and struck his crown from off his head.
+	narrator	But King Arthur smote him with his sword so mightily in return, that all his blood gushed forth in streams.
+	narrator	At that the giant, howling in great anguish, threw away his club of iron, and caught the king in both his arms and strove to
+	narrator	crush his ribs together.
+	narrator	But King Arthur struggled and writhed, and twisted him about so that the giant could not hold him tightly; and as they fiercely wrestled
+	narrator	they both fell, and rolling over one another, tumbled--wrestling, and struggling, and fighting frantically--from rock to rock
+	narrator	till they came to the sea.
+	narrator	And as they tore and strove and tumbled, the king ever and anon smote at the giant with his dagger
+	narrator	till his arms stiffened in death around King Arthur's body, and groaning horribly, he died.
+	narrator	So presently the two knights came and found the king locked fast in the giant's arms, and very faint and weary
+	narrator	and loosed him from their hold.
+	narrator	Then the king bade Sir Key to smite off the giant's head, and set it on the truncheon of a spear
+	narrator	and bear it to Sir Hoel, and tell him that his enemy is slain; and afterwards let it be fastened to the castle gate
+	narrator	that all the people may behold it.
+	narrator	And go ye two up on the mountain and fetch me my shield and sword, and also the great club of iron ye will see
+	narrator	there; and as for the treasure
+	narrator	ye shall find there wealth beyond counting, but take as much as ye will, for I have his kirtle and the club
+	narrator	I desire no more.
+	narrator	Then the knights fetched the club and kirtle, as the king had ordered, and took the treasure to themselves
+	narrator	as much as they could carry, and returned to the army.
+	narrator	But when this deed was noised abroad, all the people came in multitudes to thank the king
+	narrator	who told them to give thanks to God, and to divide the giant's spoils amongst them equally.
+	narrator	And King Arthur desired Sir Hoel to build a church upon the mount, and dedicate it to the Archangel Michael.
+	narrator	On the morrow, all the host moved onwards into the country of Champagne, and Flollo, the Roman tribune
+	narrator	retired before them into Paris.
+	narrator	But while he was preparing to collect more forces from the neighboring countries, King Arthur came upon him unawares; and besieged him in the town.
+	narrator	And when a month had passed, Flollo--full of grief at the starvation of his people, who died in hundreds day by day--sent to King Arthur
+	narrator	and desired that they two might fight together; for he was a man of mighty stature and courage
+	narrator	and thought himself sure of the victory.
+	narrator	This challenge, King Arthur, full weary of the siege, accepted with great joy, and sent back word to Flollo that he would meet him whensoever
+	narrator	he appointed.
+	narrator	And a truce being made on both sides, they met together the next day on the island without the city
+	narrator	where all the people also were gathered to see the issue.
+	narrator	And as the king and Flollo rode up to the lists, each was so nobly armed and horsed
+	narrator	and sat so mightily upon his saddle, that no man could tell which way the battle would end.
+	narrator	When they had saluted one another, and presented themselves against each other with their lances aloft, they put spurs to their horses and began a
+	narrator	fierce encounter.
+	narrator	But King Arthur, carrying his spear more warily, struck it on the upper part of Flollo's breast
+	narrator	and flung him from his saddle to the earth.
+	narrator	Then drawing his sword, he cried to him to rise, and rushed upon him; but Flollo, starting up
+	narrator	met him with his spear couched, and pierced the breast of King Arthur's horse, and overthrew both horse and man.
+	narrator	The Britons, when they saw their king upon the ground, could scarcely keep themselves from breaking up the truce and falling on the Gauls.
+	narrator	But as they were about to burst the barriers, and rush upon the lists, King Arthur hastily arose
+	narrator	and, guarding himself with his shield, ran with speed on Flollo.
+	narrator	And now they renewed the assault with great rage, being sorely bent upon each other's death.
+	narrator	At length, Flollo, seizing his advantage, gave King Arthur a huge stroke upon the helm, which nigh overthrew him
+	narrator	and drew forth his blood in streams.
+	narrator	But when King Arthur saw his armor and shield all red with blood, he was inflamed with fury
+	narrator	and lifting up Excalibur on high, with all his might, he struck straight through the helmet into Flollo's head
+	narrator	and smote it into halves; and Flollo falling backwards, and tearing up the ground with his spurs
+	narrator	expired.
+	narrator	As soon as this news spread, the citizens all ran together, and, opening the gates, surrendered the city to the conqueror.
+	narrator	And when he had overrun the whole province with his arms, and reduced it everywhere to subjection
+	narrator	he returned again to Britain, and held his court at Caerleon, with greater state than ever.
+	narrator	Anon he invited thereto all the kings, dukes, earls, and barons, who owed him homage, that he might treat them royally
+	narrator	and reconcile them to each other, and to his rule.
+	narrator	And never was there a city more fit and pleasant for such festivals.
+	narrator	For on one side it was washed by a noble river, so that the kings and princes from the countries beyond sea might conveniently sail
+	narrator	up to it; and on the other side
+	narrator	the beauty of the groves and meadows, and the stateliness and magnificence of the royal palaces, with lofty gilded roofs
+	narrator	made it even rival the grandeur of Rome.
+	narrator	It was famous also for two great and noble churches, whereof one was built in honor of the martyr Julius
+	narrator	and adorned with a choir of virgins who had devoted themselves wholly to the service of God; and the other
+	narrator	founded in memory of St.
+	narrator	Aaron, his companion, maintained a convent of canons, and was the third metropolitan church of Britain.
+	narrator	Besides, there was a college of two hundred philosophers, learned in astronomy, and all the other sciences and arts.
+	narrator	In this place, therefore, full of such delights, King Arthur held his court, with many jousts and tournaments
+	narrator	and royal huntings, and rested for a season after all his wars.
+	narrator	And on a certain day there came into the court a messenger from Ryence, King of North Wales
+	narrator	bearing this message from his master:
+	king ryence	That King Ryence had discomfited eleven kings, and had compelled each one of them to cut off his beard; that he had trimmed a mantle
+	king ryence	with these beards
+	king ryence	and lacked but one more beard to finish it; and that he therefore now sent for King Arthur's beard
+	king ryence	which he required of him forthwith, or else he would enter his lands and burn and slay
+	king ryence	and never leave them till he had taken by force not his beard only, but his head also.
+	narrator	When King Arthur heard these words he flushed all scarlet, and rising in great anger said
+	king arthur	Well it is for thee that thou speakest another man's words with thy lips, and not thine own. Thou hast said thy message
+	king arthur	which is the most insolent and villainous that ever man heard sent to any king: now hear my reply. My beard is yet too young
+	king arthur	to trim that mantle of thy master's with; yet
+	king arthur	young although I be, I owe no homage either to him or any man--nor will ever owe. But
+	king arthur	young although I be, I will have thy master's homage upon both his knees before this year be past
+	king arthur	or else he shall lose his head, by the faith of my body, for this message is the shamefullest I ever heard speak of. I
+	king arthur	see well thy king hath never yet met with a worshipful man; but tell him that King Arthur will have his head or his worship
+	king arthur	right soon.
+	narrator	Then the messenger departed, and Arthur, looking round upon his knights, demanded of them if any there knew this King Ryence
+	sir noran	Yea, I know him well, and there be few better or stronger knights upon a field than he; and he is passing proud and haughty
+	sir noran	in his heart; wherefore I doubt not
+	sir noran	Lord, he will make war on thee with mighty power.
+	king arthur	Well, I shall be ready for him, and that shall he find.
+	narrator	While the king thus spoke, there came into the hall a damsel having on a mantle richly furred
+	narrator	which she let fall, and showed herself to be girded with a noble sword.
+	narrator	The king being surprised at this, said
+	king arthur	Damsel, wherefore art thou girt with that sword, for it beseemeth thee not?
+	the damsel	Sir, I will tell thee. This sword wherewith I am thus girt gives me great sorrow and encumbrance
+	the damsel	for I may not be delivered from it till I find a knight faithful and pure and true
+	the damsel	strong of body and of valiant deeds, without guile or treachery, who shall be able to draw it from its scabbard
+	the damsel	which no man else can do. And I have but just now come from the court of King Ryence
+	the damsel	for there they told me many great and good knights were to be ever found; but he and all his knights have tried to draw
+	the damsel	it forth in vain--for none of them can move it.
+	king arthur	This is a great marvel; I will myself try to draw forth this sword, not thinking in my heart that I am the best knight
+	king arthur	but rather to begin and give example that all may try after me.
+	narrator	Saying this, he took the sword and pulled at it with all his might, but could not shake or move it.
+	the damsel	Thou needest not strive so hard, Lord, for whoever may be able to pull it forth shall do so very easily.
+	king arthur	Thou sayest well, replied the king, remembering how he had himself drawn forth the sword from the stone before St. Paul's. Now try ye
+	king arthur	all my barons; but beware ye be not stained with shame, or any treachery, or guile.
+	narrator	And turning away his face from them, King Arthur mused full heavily on sins within his breast he knew of
+	narrator	and which his failure brought to mind right sadly.
+	narrator	Then all the barons present tried each after other, but could none of them succeed; whereat the damsel greatly wept
+	narrator	and said
+	the damsel	Alas, alas! I thought in this court to have found the best knight, without shame or treachery or treason.
+	narrator	Now by chance there was at that time a poor knight with King Arthur, who had been prisoner at his court for half a year
+	narrator	or more
+	narrator	charged with slaying unawares a knight who was a cousin of the king's.
+	narrator	He was named Balin le Savage, and had been by the good offices of the barons delivered from prison
+	narrator	for he was of good and valiant address and gentle blood.
+	narrator	He being secretly present at the court saw this advantage, and felt his heart rise high within him
+	narrator	and longed to try the sword as did the others; but being poor and poorly clad, he was ashamed to come forward in the press
+	narrator	of knights and nobles.
+	narrator	But in his heart he felt assured that he could do better--if Heaven willed--than any knight among them all.
+	narrator	So as the damsel left the king, he called to her and said
+	balin le savage	Damsel, I pray thee of thy courtesy, suffer me to try the sword as well as all these lords; for though I be but poorly
+	balin le savage	clad
+	balin le savage	I feel assurance in my heart.
+	the damsel	Sir, there is no need to put me to any more pain or labor; why shouldst thou succeed where so many worthy ones have failed?
+	balin le savage	Ah, fair lady, worthiness and brave deeds are not shown by fair raiment but manhood and truth lie hid within the heart. There be many
+	balin le savage	worshipful knights unknown to all the people.
+	the damsel	By my faith, thou sayest truth; try therefore, if thou wilt, what thou canst do.
+	narrator	So Balin took the sword by the girdle and hilt, and drew it lightly out, and looking on its workmanship and brightness
+	narrator	it pleased him greatly.
+	narrator	But the king and all the barons marveled at Sir Balin's fortune, and many knights were envious of him
+	narrator	for, "Truly," said the damsel, "this is a passing good knight, and the best man I have ever found
+	narrator	and the most worshipfully free from treason, treachery, or villainy, and many wonders shall he achieve.
+	the damsel	Now, gentle and courteous knight, give me the sword again.
+	balin le savage	Nay, said Sir Balin, save it be taken from me by force, I shall preserve this sword for evermore.
+	the damsel	Thou art not wise, replied the damsel, to keep it from me; for if thou wilt do so
+	the damsel	thou shall slay with it the best friend thou hast, and the sword shall be thine own destruction also.
+	balin le savage	I will take whatever adventure God may send, said Balin; but the sword will I keep, by the faith of my body.
+	the damsel	Thou will repent it shortly, said the damsel; I would take the sword for thy sake rather than for mine
+	the damsel	for I am passing grieved and heavy for thy sake, who wilt not believe the peril I foretell thee.
+	narrator	With that she departed, making great lamentation.
+	narrator	Then Balin sent for his horse and armor, and took his leave of King Arthur, who urged him to stay at his court.
+	king arthur	For I believe that thou art displeased that I showed thee unkindness; blame me not overmuch, for I was misinformed against thee
+	king arthur	and knew not truly what a knight of worship thou art. Abide in this court with my good knights
+	king arthur	and I will so advance thee that thou shalt be well pleased.
+	balin le savage	God thank thee, Lord, for no man can reward thy bounty and thy nobleness; but at this time I must needs depart
+	balin le savage	praying thee ever to hold me in thy favor.
+	king arthur	Truly, I am grieved for thy departure; but tarry not long, and thou shalt be right welcome to me and all my knights when thou
+	king arthur	returnest
+	king arthur	and I will repair my neglect and all that I have done amiss against thee.
+	balin le savage	God thank thee, Lord, again said Balin, and made ready to depart.
+	narrator	But meanwhile came into the court a lady upon horseback, full richly dressed, and saluted King Arthur
+	narrator	and asked him for the gift that he had promised her when she gave him his sword Excalibur
+	the lady of the lake	for I am the lady of the lake.
+	king arthur	Ask what thou wilt, and thou shalt have it, if I have power to give.
+	the lady of the lake	I ask, the head of that knight who hath just achieved the sword, or else the damsel's head who brought it
+	the lady of the lake	or else both; for the knight slew my brother, and the lady caused my father's death.
+	king arthur	Truly, I cannot grant thee this desire; it were against my nature and against my name; but ask whatever else thou wilt
+	king arthur	and I will do it.
+	the lady of the lake	I will demand no other thing.
+	narrator	And as she spake came Balin, on his way to leave the court, and saw her where she stood
+	narrator	and knew her straightway for his mother's murderess, whom he had sought in vain three years.
+	narrator	And when they told him that she had asked King Arthur for his head, he went up straight to her and said
+	balin le savage	May evil have thee! Thou desirest my head, therefore shalt thou lose thine
+	narrator	and with his sword he lightly smote her head off, in the presence of the king and all the court.
+	king arthur	Alas, for shame! Why hast thou done this, shaming both me and my court? I am beholden greatly to this lady
+	king arthur	and under my safe conduct came she here; thy deed is passing shameful; never shall I forgive thy villainy.
+	balin le savage	Lord, hear me; this lady was the falsest living, and by her witchcraft hath destroyed many, and caused my mother also to be burnt to
+	balin le savage	death by her false arts and treachery.
+	king arthur	What cause soever thou mightest have had, thou shouldst have forborne her in my presence. Deceive not thyself
+	king arthur	thou shalt repent this sin, for such a shame was never brought upon my court; depart now from my face with all the haste thou
+	king arthur	mayest.
+	narrator	Then Balin took up the head of the lady and carried it to his lodgings, and rode forth with his squire from out the town.
+	narrator	Then said he,
+	balin le savage	Now must we part; take ye this head and bear it to my friends in Northumberland, and tell them how I speed
+	balin le savage	and that our worst foe is dead; also tell them that I am free from prison, and of the adventure of my sword.
+	the squire	Alas! ye are greatly to blame to have so displeased King Arthur.
+	balin le savage	As for that, I go now to find King Ryence, and destroy him or lose my life; for should I take him prisoner
+	balin le savage	and lead him to the court, perchance King Arthur would forgive me, and become my good and gracious lord.
+	the squire	Where shall I meet thee again?
+	balin le savage	In King Arthur's court.

@@ -1,0 +1,470 @@
+```text
+TL;DR: The following is the complete extraction of all characters with speaking parts, organized first by their respective chapters (I through XV), followed by a consolidated, alphabetical full story roster.
+
+1. Characters with Speaking Parts by Chapter
+	1.1. Chapter I: Merlin Foretells the Birth of Arthur
+		1.1.1. A band of fighting lads
+		1.1.2. King Aurelius
+		1.1.3. King Uther Pendragon
+		1.1.4. King Vortigern
+		1.1.5. Merlin
+		1.1.6. Messenger to Vortigern
+	1.2. Chapter II: The Crowning of Arthur and the Sword Excalibur
+		1.2.1. Archbishop of Canterbury
+		1.2.2. King Arthur
+		1.2.3. King Carados
+		1.2.4. King Lot
+		1.2.5. King of the Hundred Knights
+		1.2.6. Sir Ector
+		1.2.7. Sir Key
+		1.2.8. The eleven kings
+		1.2.9. The Lady of the Lake
+		1.2.10. The people and barons
+	1.3. Chapter III: Arthur Drives the Saxons from his Realm
+		1.3.1. King Pellinore
+		1.3.2. Kings Ban and Bors
+		1.3.3. Sir Griflet
+		1.3.4. Squire of Nirles
+	1.4. Chapter IV: The King's Many and Great Adventures
+		1.4.1. Balin's squire
+		1.4.2. Countryman from Brittany
+		1.4.3. Damsel with the sword
+		1.4.4. Sir Balin le Savage
+		1.4.5. Sir Noran
+		1.4.6. Sorrowful widow by the giant's fire
+	1.5. Chapter V: Sir Balin Fights with his Brother, Sir Balan
+		1.5.1. Balin's host
+		1.5.2. Bystander offering a shield
+		1.5.3. Chief lady of the castle
+		1.5.4. Colombe, Lancear's lady
+		1.5.5. Hoary ancient man
+		1.5.6. King Pelles
+		1.5.7. King Ryence
+		1.5.8. Men of the castle
+		1.5.9. Neighbor at the feast
+		1.5.10. Sir Balan
+		1.5.11. Sir Garlon
+		1.5.12. Sir Herleus
+		1.5.13. Sir Lancear
+		1.5.14. The people of the destroyed countries
+	1.6. Chapter VI: The Marriage of Arthur and Guinevere
+		1.6.1. Aries the cowherd
+		1.6.2. Damsel asking for Abellius' head
+		1.6.3. Dwarf
+		1.6.4. Fair young damsel by the well
+		1.6.5. Four knights attacking Gawain
+		1.6.6. King Leodegrance
+		1.6.7. Knight fighting for his cousin
+		1.6.8. Lady of the tents
+		1.6.9. Lady with the white palfrey and hound
+		1.6.10. One of the four rescuing ladies
+		1.6.11. Poor man
+		1.6.12. Queen Guinevere
+		1.6.13. Sir Abellius
+		1.6.14. Sir Allardin of the Isles
+		1.6.15. Sir Athmore of the Marsh
+		1.6.16. Sir Gaheris
+		1.6.17. Sir Gawain
+		1.6.18. Sir Hantzlake of Wentland
+		1.6.19. Sir Tor
+		1.6.20. Sorlous and Brian of the Forest
+		1.6.21. Two knights riding in the dark
+	1.7. Chapter VII: The Adventure of Arthur and Sir Accolon of Gaul
+		1.7.1. Dwarf from Morgan le Fay
+		1.7.2. Groaning knights in the dungeon
+		1.7.3. King Urience
+		1.7.4. Morgan le Fay's damsel messenger
+		1.7.5. Sir Accolon of Gaul
+		1.7.6. Sir Damas
+		1.7.7. Squire of Damas
+	1.8. Chapter VIII: Arthur is Crowned Emperor at Rome
+		1.8.1. Emperor Lucius
+		1.8.2. Ganius
+		1.8.3. King Anguish of Scotland
+		1.8.4. One of the Roman ambassadors
+		1.8.5. Sir Bors
+		1.8.6. Sir Cador of Cornwall
+		1.8.7. Sir Prianius, the Tuscan Knight
+		1.8.8. Sir Whishard
+		1.8.9. Some of the younger knights
+	1.9. Chapter IX: Sir Gawain and the Maid with the Narrow Sleeves
+		1.9.1. Elder daughter of Thiebault
+		1.9.2. First, Second, Third, and Fourth damsels
+		1.9.3. Garin
+		1.9.4. Old nobleman in Tintagel
+		1.9.5. Squire of Teudaves
+		1.9.6. Squire who struck Gawain's horse
+		1.9.7. The ladies
+		1.9.8. The Maid with the Narrow Sleeves
+		1.9.9. Thiebault
+	1.10. Chapter X: The Adventures of Sir Lancelot
+		1.10.1. Bagdemagus' daughter
+		1.10.2. Damsel on a white palfrey
+		1.10.3. Ellawes the sorceress
+		1.10.4. Foul churl at the bridge
+		1.10.5. Four queens, including Morgan le Fay
+		1.10.6. King Bagdemagus
+		1.10.7. Lady of Sir Gilbert
+		1.10.8. Lady with the falcon
+		1.10.9. Pedivere's wife
+		1.10.10. People of the village
+		1.10.11. Sir Ector
+		1.10.12. Sir Ewaine
+		1.10.13. Sir Gaunter, Sir Gilmere, and Sir Reynold
+		1.10.14. Sir Lancelot
+		1.10.15. Sir Lionel
+		1.10.16. Sir Meliot de Logres
+		1.10.17. Sir Meliot's sister
+		1.10.18. Sir Pedivere
+		1.10.19. Sir Phelot
+		1.10.20. Sir Sagramour le Desirous
+		1.10.21. Sir Turquine
+		1.10.22. Sixty ladies and damsels
+		1.10.23. Thirty mighty knights
+		1.10.24. Three knights chasing Sir Key
+		1.10.25. Wounded knight
+	1.11. Chapter XI: The Adventures of Sir Beaumains or Sir Gareth
+		1.11.1. A fleeing man
+		1.11.2. Dame Lyones
+		1.11.3. Damsel Linet
+		1.11.4. Duchess de la Rowse
+		1.11.5. Duke de la Rowse
+		1.11.6. Dwarf of Beaumains
+		1.11.7. Page at the Brown Knight's castle
+		1.11.8. Poor man of the country
+		1.11.9. Porter of the castle
+		1.11.10. Queen of Orkney
+		1.11.11. Sir Beaumains, or Gareth
+		1.11.12. Sir Bendelaine
+		1.11.13. Sir Gringamors
+		1.11.14. Sir Ironside, the Knight of the Redlands
+		1.11.15. Sir Pereard, the Black Knight
+		1.11.16. Sir Perimones, the Red Knight
+		1.11.17. Sir Perseant
+		1.11.18. Sir Pertolope, the Green Knight
+		1.11.19. Squire in the banquet hall
+	1.12. Chapter XII: The Adventures of Sir Tristram
+		1.12.1. Governale
+		1.12.2. King Anguish
+		1.12.3. King Howell
+		1.12.4. King Mark
+		1.12.5. King Meliodas
+		1.12.6. King of a Hundred Knights
+		1.12.7. Knight and lady in prison
+		1.12.8. La Belle Isault
+		1.12.9. One of King Mark's knights
+		1.12.10. Queen Elizabeth
+		1.12.11. Queen of Ireland
+		1.12.12. Shepherd
+		1.12.13. Sir Andret
+		1.12.14. Sir Bleoberis de Ganis
+		1.12.15. Sir Brewnor
+		1.12.16. Sir Dinadan
+		1.12.17. Sir Dinaunt
+		1.12.18. Sir Dodinas le Savage
+		1.12.19. Sir Gaheris
+		1.12.20. Sir Kay Hedius
+		1.12.21. Sir Lamoracke of Gaul
+		1.12.22. Sir Marhaus
+		1.12.23. Sir Palomedes
+		1.12.24. Sir Pellinore
+		1.12.25. Sir Persides
+		1.12.26. Sir Tristram (Tramtrist)
+	1.13. Chapter XIII: The Knights Go to Seek the Grail
+		1.13.1. Ancient man in priest's vestments
+		1.13.2. Armed knight of the leper's castle
+		1.13.3. Bishop (Joseph of Arimathea)
+		1.13.4. Brethren at the blazing tomb
+		1.13.5. Company of threescore knights
+		1.13.6. Damsel knocking at door (Percival's sister)
+		1.13.7. Earl Hernox
+		1.13.8. Felon knight
+		1.13.9. Fiend of hell (from the tomb)
+		1.13.10. Good knight from the enemy
+		1.13.11. Hermit (who confesses Lancelot)
+		1.13.12. Hermit (who shields Bors)
+		1.13.13. Holy man riding on an ass
+		1.13.14. King Evelake
+		1.13.15. Lady of the castle
+		1.13.16. Lady of the castle (damsel's mistress)
+		1.13.17. Lady on a white palfrey (messenger from Nacien)
+		1.13.18. Lady on horseback (messenger of King Pelles)
+		1.13.19. Mighty voice from heaven
+		1.13.20. Monk at the monastery
+		1.13.21. Monk at the white monks' abbey
+		1.13.22. Multitude of people (in Maiden's Castle)
+		1.13.23. Nuns of the abbey
+		1.13.24. Old churl
+		1.13.25. Old cripple
+		1.13.26. Old man in priest's robes (on the ship)
+		1.13.27. Old man robed in white
+		1.13.28. Other knights at Carbonek
+		1.13.29. People of the Castle of Carbonek
+		1.13.30. Priest at Castle of Carteloise
+		1.13.31. Priest at the hermitage of the white hart
+		1.13.32. Recluse (aunt of Percival)
+		1.13.33. Seeming holy man (fiend)
+		1.13.34. Seven damsels at the river
+		1.13.35. Seven knights (brothers at Maiden's Castle)
+		1.13.36. Sick knight in the litter
+		1.13.37. Sir Colgrevance
+		1.13.38. Sir Galahad
+		1.13.39. Sir Percival
+		1.13.40. Sir Pridan le Noir
+		1.13.41. Sir Uwaine
+		1.13.42. Squire at Castle of Carteloise
+		1.13.43. Squire bringing news of tournament
+		1.13.44. Squire of the Maiden's Castle
+		1.13.45. Squire reporting the floating stone
+		1.13.46. Squire to King Bagdemagus
+		1.13.47. Twenty men-at-arms
+		1.13.48. Vision/Voice instructing Lancelot
+		1.13.49. Voice answering Galahad
+		1.13.50. Voice commanding healing
+		1.13.51. Voice from the grave
+		1.13.52. Voice in the city of Sarras
+		1.13.53. Voice instructing Galahad
+		1.13.54. Voice singing in the castle
+		1.13.55. Voice warning Lancelot at the ship
+		1.13.56. White Knight
+		1.13.57. Woman (fiend offering the horse)
+		1.13.58. Woman's voice (damsel)
+		1.13.59. Yeoman with the black steed
+	1.14. Chapter XIV: Sir Lancelot and the Fair Elaine
+		1.14.1. Child at the hermitage
+		1.14.2. Clerk (reading Elaine's letter)
+		1.14.3. Elaine (The Fair Maid of Astolat)
+		1.14.4. Sir Baldwin (the knight-hermit)
+		1.14.5. Sir Bernard of Astolat
+		1.14.6. Sir Lavaine
+		1.14.7. Sir Mador de la Port
+	1.15. Chapter XV: The War Between Arthur and Lancelot and the Passing of Arthur
+		1.15.1. Sir Agravaine and twelve other knights
+		1.15.2. Sir Bedivere
+		1.15.3. Sir Lucan
+		1.15.4. Three fair queens
+
+2. Full Story Roster (Consolidated)
+	2.1. A band of fighting lads
+	2.2. A fleeing man
+	2.3. Ancient man in priest's vestments
+	2.4. Archbishop of Canterbury
+	2.5. Aries the cowherd
+	2.6. Armed knight of the leper's castle
+	2.7. Bagdemagus' daughter
+	2.8. Balin's host
+	2.9. Balin's squire
+	2.10. Bishop (Joseph of Arimathea)
+	2.11. Brethren at the blazing tomb
+	2.12. Bystander offering a shield
+	2.13. Chief lady of the castle
+	2.14. Child at the hermitage
+	2.15. Clerk (reading Elaine's letter)
+	2.16. Colombe, Lancear's lady
+	2.17. Company of threescore knights
+	2.18. Countryman from Brittany
+	2.19. Dame Lyones
+	2.20. Damsel asking for Abellius' head
+	2.21. Damsel knocking at door (Percival's sister)
+	2.22. Damsel Linet
+	2.23. Damsel of Morgan le Fay
+	2.24. Damsel on a white palfrey
+	2.25. Damsel with the sword
+	2.26. Duchess de la Rowse
+	2.27. Duke de la Rowse
+	2.28. Dwarf
+	2.29. Dwarf from Morgan le Fay
+	2.30. Dwarf of Beaumains
+	2.31. Earl Hernox
+	2.32. Elaine (The Fair Maid of Astolat)
+	2.33. Elder daughter of Thiebault
+	2.34. Ellawes the sorceress
+	2.35. Emperor Lucius
+	2.36. Fair young damsel by the well
+	2.37. Felon knight
+	2.38. Fiend of hell (from the tomb)
+	2.39. First, Second, Third, and Fourth damsels
+	2.40. Foul churl at the bridge
+	2.41. Four knights attacking Gawain
+	2.42. Four queens (including Morgan le Fay)
+	2.43. Ganius
+	2.44. Garin
+	2.45. Good knight from the enemy
+	2.46. Governale
+	2.47. Groaning knights in the dungeon
+	2.48. Hermit (who confesses Lancelot)
+	2.49. Hermit (who shields Bors)
+	2.50. Hoary ancient man
+	2.51. Holy man riding on an ass
+	2.52. King Anguish (of Ireland/Scotland)
+	2.53. King Arthur
+	2.54. King Aurelius
+	2.55. King Bagdemagus
+	2.56. King Carados
+	2.57. King Evelake
+	2.58. King Howell
+	2.59. King Leodegrance
+	2.60. King Lot
+	2.61. King Mark
+	2.62. King Meliodas
+	2.63. King of a Hundred Knights
+	2.64. King Pelles
+	2.65. King Pellinore
+	2.66. King Ryence
+	2.67. King Urience
+	2.68. King Uther Pendragon
+	2.69. King Vortigern
+	2.70. Kings Ban and Bors
+	2.71. Knight and lady in prison
+	2.72. Knight fighting for his cousin
+	2.73. La Belle Isault
+	2.74. Lady of Sir Gilbert
+	2.75. Lady of the castle
+	2.76. Lady of the castle (damsel's mistress)
+	2.77. Lady of the tents
+	2.78. Lady on a white palfrey (messenger from Nacien)
+	2.79. Lady on horseback (messenger of King Pelles)
+	2.80. Lady with the falcon
+	2.81. Lady with the white palfrey and hound
+	2.82. Men of the castle
+	2.83. Merlin
+	2.84. Messenger to Vortigern
+	2.85. Mighty voice from heaven
+	2.86. Monk at the monastery
+	2.87. Monk at the white monks' abbey
+	2.88. Morgan le Fay's damsel messenger
+	2.89. Multitude of people
+	2.90. Neighbor at the feast
+	2.91. Nuns of the abbey
+	2.92. Old churl
+	2.93. Old cripple
+	2.94. Old man in priest's robes (on the ship)
+	2.95. Old man robed in white
+	2.96. Old nobleman in Tintagel
+	2.97. One of King Mark's knights
+	2.98. One of the four rescuing ladies
+	2.99. One of the Roman ambassadors
+	2.100. Other knights at Carbonek
+	2.101. Page at the Brown Knight's castle
+	2.102. Pedivere's wife
+	2.103. People and barons
+	2.104. People of the Castle of Carbonek
+	2.105. People of the destroyed countries
+	2.106. People of the village
+	2.107. Poor man
+	2.108. Poor man of the country
+	2.109. Porter of the castle
+	2.110. Priest at Castle of Carteloise
+	2.111. Priest at the hermitage of the white hart
+	2.112. Queen Elizabeth
+	2.113. Queen Guinevere
+	2.114. Queen of Ireland
+	2.115. Queen of Orkney
+	2.116. Recluse (aunt of Percival)
+	2.117. Seeming holy man (fiend)
+	2.118. Seven damsels at the river
+	2.119. Seven knights (brothers at Maiden's Castle)
+	2.120. Shepherd
+	2.121. Sick knight in the litter
+	2.122. Sir Abellius
+	2.123. Sir Accolon of Gaul
+	2.124. Sir Agravaine and twelve other knights
+	2.125. Sir Allardin of the Isles
+	2.126. Sir Andret
+	2.127. Sir Athmore of the Marsh
+	2.128. Sir Balan
+	2.129. Sir Baldwin (the knight-hermit)
+	2.130. Sir Balin le Savage
+	2.131. Sir Beaumains, or Gareth
+	2.132. Sir Bedivere
+	2.133. Sir Bendelaine
+	2.134. Sir Bernard of Astolat
+	2.135. Sir Bleoberis de Ganis
+	2.136. Sir Bors
+	2.137. Sir Brewnor
+	2.138. Sir Cador of Cornwall
+	2.139. Sir Colgrevance
+	2.140. Sir Damas
+	2.141. Sir Dinadan
+	2.142. Sir Dinaunt
+	2.143. Sir Dodinas le Savage
+	2.144. Sir Ector
+	2.145. Sir Ewaine
+	2.146. Sir Gaheris
+	2.147. Sir Galahad
+	2.148. Sir Garlon
+	2.149. Sir Gaunter, Sir Gilmere, and Sir Reynold
+	2.150. Sir Gawain
+	2.151. Sir Griflet
+	2.152. Sir Gringamors
+	2.153. Sir Hantzlake of Wentland
+	2.154. Sir Herleus
+	2.155. Sir Ironside, the Knight of the Redlands
+	2.156. Sir Kay Hedius
+	2.157. Sir Key
+	2.158. Sir Lamoracke of Gaul
+	2.159. Sir Lancear
+	2.160. Sir Lancelot
+	2.161. Sir Lavaine
+	2.162. Sir Lionel
+	2.163. Sir Lucan
+	2.164. Sir Mador de la Port
+	2.165. Sir Marhaus
+	2.166. Sir Meliot de Logres
+	2.167. Sir Noran
+	2.168. Sir Palomedes
+	2.169. Sir Pedivere
+	2.170. Sir Percival
+	2.171. Sir Pereard, the Black Knight
+	2.172. Sir Perimones, the Red Knight
+	2.173. Sir Perseant
+	2.174. Sir Persides
+	2.175. Sir Pertolope, the Green Knight
+	2.176. Sir Phelot
+	2.177. Sir Prianius, the Tuscan Knight
+	2.178. Sir Pridan le Noir
+	2.179. Sir Sagramour le Desirous
+	2.180. Sir Tor
+	2.181. Sir Tristram (Tramtrist)
+	2.182. Sir Turquine
+	2.183. Sir Uwaine
+	2.184. Sir Whishard
+	2.185. Sixty ladies and damsels
+	2.186. Some of the younger knights
+	2.187. Sorlous and Brian of the Forest
+	2.188. Sorrowful widow by the giant's fire
+	2.189. Squire at Castle of Carteloise
+	2.190. Squire bringing news of tournament
+	2.191. Squire in the banquet hall
+	2.192. Squire of Damas
+	2.193. Squire of Nirles
+	2.194. Squire of Teudaves
+	2.195. Squire of the Maiden's Castle
+	2.196. Squire reporting the floating stone
+	2.197. Squire to King Bagdemagus
+	2.198. Squire who struck Gawain's horse
+	2.199. The eleven kings
+	2.200. The ladies
+	2.201. The Lady of the Lake
+	2.202. The Maid with the Narrow Sleeves
+	2.203. Thiebault
+	2.204. Thirty mighty knights
+	2.205. Three fair queens
+	2.206. Three knights chasing Sir Key
+	2.207. Twenty men-at-arms
+	2.208. Two knights riding in the dark
+	2.209. Vision/Voice instructing Lancelot
+	2.210. Voice answering Galahad
+	2.211. Voice commanding healing
+	2.212. Voice from the grave
+	2.213. Voice in the city of Sarras
+	2.214. Voice instructing Galahad
+	2.215. Voice singing in the castle
+	2.216. Voice warning Lancelot at the ship
+	2.217. White Knight
+	2.218. Woman (fiend offering the horse)
+	2.219. Woman's voice (damsel)
+	2.220. Wounded knight
+	2.221. Yeoman with the black steed
+
+```

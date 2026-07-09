@@ -1,0 +1,148 @@
+	narrator	Adam	male	Story narrator
+	Antonio	Fenrir	*male	16. A local captain who provides information about bird-taming techniques. He recommends an old Indian woman to the author for taming a difficult parrot, and mentions that she feeds birds with her saliva. | 17. A negro hunter who helped the narrator with coaita hunting and later caught a tamandua
+	Berrio	Onyx	male	5. The Spanish governor of Trinidad who is captured by Raleigh. He provides information about Guiana but discourages Raleigh's exploration, likely due to self-interest in protecting Spanish territory. He converses willingly about his adventures. | 6. The governor of Trinidad who was taken prisoner by Raleigh but later released. He shared the belief in Eldorado's existence and sent Domingo de Vera to Spain to raise men. He was eventually murdered by a group of women who blamed him for their misfortunes.
+	governor of Tingo Maria	Liam	*male	12. The local governor who arranges for Indian guides to meet the travelers and accompanies them to the port
+	Herndon	George	male	11. Lieutenant in the United-States navy, commander of the expedition to explore the Amazon Valley | 12. Lieutenant Herndon, the leader of the expedition, a white male officer who leads the party through Peru and along the Amazon river | 13. Lieutenant Herndon, the leader of the expedition, described as an explorer who speaks enthusiastically about the Amazon Valley and its potential for trade and civilization
+	Lieut. Herndon	Puck	*male	14. Lead explorer of the Amazon expedition, described as having good judgment, temper, energy, and industry. Born in 1813, entered navy at age 15, served in Mexican war, and explored the Amazon under U.S. Government commission in 1851-2.
+	Mr. Bates	Echo	*male	17. A traveller who encountered various monkey species and kept some as pets
+	Mr. R.	Santa	*male	9. A man who claimed to be a French physician and offered to accompany Madame Godin on her journey. He convinced her brothers to let him join the expedition despite not having a place on the vessel. | 10. A Frenchman who betrayed Madame Godin and her companions by abandoning them without providing promised rescue, leaving them to perish in the wilderness. He was dishonest and cruel, taking items from Joachim's care and lying about their condition.
+	Orellana	Alex	male	1. The Spanish explorer who continued down the river after being left behind by Pizarro's expedition. He discovered Eldorado and became famous for his journey, though he was abandoned by his companions. | 2. Leader of the expedition, a Spanish explorer who commands his crew and makes decisions about continuing the journey down the Amazon River. He formally renounces Pizarro's commission and takes command through election by his men. | 3. Spanish explorer who led an expedition down the Amazon River, discovered Eldorado, and died during his return journey | 13. A historical figure who passed down the Napo river in the first adventure, mentioned as having traveled through the Amazon region
+	Raleigh	Michael	male	3. English explorer who wrote about Eldorado and undertook expeditions to find it | 5. Sir Walter Raleigh, the English explorer and admiral who leads the expedition up the Orinoco river. He is forty-eight years old at the time of this chapter, ambitious and determined to find gold and establish English presence in Guiana. He treats natives humanely but is skeptical of Spanish warnings about the dangers ahead. | 6. A Spanish adventurer who broke up the Spanish settlement in Trinidad, took Governor Berrio prisoner, and led an expedition to find Eldorado. He is described as having convinced Berrio of the existence of Eldorado and was successful in gaining support for his expedition. | 7. Sir Walter Raleigh, English explorer and courtier who led the second expedition to search for Eldorado. He was imprisoned for 13 years and later executed for treason. Known for his ambition, vanity, and desire to emulate Cortez and Pizarro. | 13. Sir Walter Raleigh, mentioned as a historical figure who recorded stories of cannibalism and whose writings are referenced by Herndon
+	Sir Humphrey Gilbert	Eric	male	4. Raleigh's half-brother; led unsuccessful colonial expedition to North America in 1576; explored American coast and claimed Newfoundland for England; died in a storm while returning from exploration | 14. Historical figure referenced as a counterpart to the fate of William Lewis Herndon, though his specific role in the story is not detailed beyond being mentioned as a comparison to Herndon's heroic death.
+	The author	Lewis	*male	16. A naturalist who writes about his observations of Amazonian wildlife. He describes various animals including ants, butterflies, spiders, bats, parrots, and electric eels in detail.
+	The Prisoner	Kumo	*male	2. A captured native who is questioned by Orellana about Eldorado and the Amazons, providing information that may be influenced by self-deception or miscommunication.
+	The trader on the river	Daniel	*male	17. A man who owned a tame coaita and used it to demonstrate intelligence
+	Thomson	Omega	*male	7. Poet who wrote about Raleigh's life and death in his work 'Summer', praising Raleigh as a hero and patriot.
+	Walter Raleigh	Fable	male	4. Born in 1552 in Devonshire, England; educated at Oxford; served in France and Netherlands; commanded troops in Ireland; became a favorite of Queen Elizabeth after rescuing her from muddy ground; led colonial expeditions to America; was imprisoned for an affair with a maid of honor but later released
+	Beata	Alloy	*female	6. A pious woman who accompanied her married daughter and husband on the expedition. She devoted herself to serving the sick and was among those who plotted against Governor Berrio.
+	Florinda	Heart	*female	17. A local woman who asked the narrator if he could eat tamandua meat
+	Madame Godin	Xiaoni	female	9. The wife of M. Godin, a French commissioner who accompanied her husband on his scientific mission to Peru. She lived apart from her husband for thirteen years while he was in Cayenne, and undertook a perilous journey down the Amazon to reunite with him. She is described as earnest in her desire to return home and determined to face great hardships. | 10. A French woman who endured extreme suffering and hardship during a journey through the Amazon wilderness, including starvation, exposure, and the death of her companions. She was rescued by two Indians and later found a missionary who helped her return to France with Mr. De Grandmaison. | 13. A woman who found kind friends in a missionary and governor at Omaguas, where she embarked on her way to the galiot at Loreto
+	Mameluco's daughters	Lily	*female	15. Mulatto-girls who are described as pretty-looking and send a basketful of oranges down to the canoe
+	Queen Elizabeth	Tebukuro	female	4. The English monarch during whose reign Raleigh rose to prominence; known for her favor toward Raleigh after he rescued her from mud and his skill in defending himself before the privy council
+	la condamine	Alex		
+	*Arriero	Michael	*male	11. Indian muleteer who carried the expedition's baggage
+	*Brazilian merchant	Alex	*male	12. A Brazilian traveling merchant who joins the Portuguese trader in trading along the Amazon
+	*Bregati	Psi	*male	13. A young and handsome Italian friar, described as being called St. John by Father Calvo
+	*Caliban	Echo	*male	5. A character from Shakespeare's play 'The Tempest' who is based on the Indian tribe described by Raleigh. He has a head that appears below his shoulders, eyes in his shoulders, and mouth on his breast. He is a native of the New World.
+	*Calvo	Lewis	*male	13. Father Calvo, a Franciscan friar described as meek and humble in personal concerns but full of zeal for his office, wearing a long serge gown and bearing a parrot
+	*Capt. Clarke	Santa	male	18. Captain in charge of the expedition's route down the Yellowstone River, leading a party of fifteen men with fifty horses. He divides his men into two groups and makes strategic decisions about routes and camping locations.
+	*Capt. Lewis	Alex	male	18. Commander of the expedition who works with Capt. Clarke and makes decisions about the journey, including allowing Colter to leave.
+	*Cardozo	Omega	*male	16. A local commander who supervises the turtle-egg collection on the royal sand-island of Shimuni. He is described as a senior official who makes arrangements for equal egg-harvesting opportunities and employs sentinels to protect the turtles during laying. | 17. A man who owned a poodle-dog named Carlito
+	*Carlito	Puck	*male	17. A poodle-dog owned by Cardozo
+	*Chaboneau	Kumo	male	18. A man who serves as a guide and interpreter for the expedition, particularly among the Shoshonees. He has a wife and child with him during the journey.
+	*Colter	Echo	male	18. A member of the expedition who requests to leave and join trappers, which is granted by Capt. Lewis.
+	*Correa	Liam	male	6. An officer in charge of the expedition sent by Berrio to discover Eldorado. He was experienced in Indian warfare and led a force of eight hundred men, but died from disease during the expedition.
+	*Domingo de Vera	Daniel	male	6. An officer sent by Berrio to Spain to raise men and resources for the expedition. He was described as a man of great ability but little scrupulous about truth, and successfully obtained funding for the expedition.
+	*Dyer	Santa	male	12. An English gentleman who owns the hacienda of Quicacan, a wealthy landowner in Peru
+	*Earl of Desmond	Onyx	*male	4. The Irish noble who raised a rebellion against English rule; Raleigh commanded troops against him in Ireland
+	*Enim	Puck	*male	3. Imaginary ruler of Eldorado, also known as Great Paytiti or Great Moxu
+	*Eperumei	George	*male	5. A powerful nation of people dwelling beyond the mountains who oppress other tribes. They wear large coats and crimson hats, live in multi-storied houses, and are enemies of the native tribes. They control gold resources.
+	*Francisco Orellana	Psi	male	1. A Spanish adventurer who was given command of a bark to explore downstream for provisions. He chose to continue exploring Eldorado instead of returning with supplies, leaving Pizarro's party behind.
+	*Gibbon	Fable	male	11. Passed-midshipman, member of Herndon's expedition party | 11. Young man riding ahead of the party, who narrowly avoided being struck by a bull
+	*Gonzalo Pizarro	Nicola	male	1. Brother of the conqueror of Peru, leader of an expedition to find Eldorado. He was captivated by tales of the golden country and led 350 Spaniards and 4,000 Indians on a dangerous journey through South America's wilderness.
+	*governor of Tarapoto	George	*male	12. The governor of the district of Tarapoto who wears no shoes and lives simply like other inhabitants
+	*Grados	Eric	*male	7. Spanish officer who successfully defended St. Thomas against the English and later led the women and children to safety across the river.
+	*Great Para	Santa	*male	3. Imaginary ruler of Eldorado, also known as Great Paytiti or Great Moxu
+	*Henry Walter Bates	Fenrir	male	15. An English gentleman who visited the Amazon region for scientific exploration between 1845 and 1859, studying natural productions and publishing his observations
+	*Idle soldiers	Liam	*male	15. Men dressed in shabby uniforms who carry their muskets carelessly over their arms
+	*Ijurra	Kumo	*male	12. Lieutenant Herndon's Peruvian companion who writes to the governor of Tingo Maria to arrange for Indian guides
+	*Inga	Fable	*male	3. Emperor of Manoa, the ruler of a city described in Martinez's account
+	*James	Omega	*male	7. King of England who succeeded Elizabeth and whose accession marked the fall of Raleigh's fortunes. He was weak and negotiated a Spanish match for his son.
+	*Joachim	Lewis	*male	10. A faithful black man who tried desperately to save Madame Godin and her companions, even after they had left the hut. He followed their trail to find them dead, retrieved Madame Godin's belongings, and delivered them to Mr. R., though he was sent away by Mr. R.
+	*Juri family owner	George	male	15. An erect, noble-looking old man who is tattooed and fishes with hook and line under the shade of a colossal tree
+	*Keymis	Fable	*male	7. Captain who led an expedition up the Orinoco river to find gold mines. He failed in his mission and was severely reproached by Raleigh, leading him to commit suicide.
+	*Lieut. Maury	Fable	*male	14. Brother-in-law of William Lewis Herndon, engaged with him at the National Observatory in Washington for three years.
+	*Lorente	Nicola	*male	13. A tall, grave, and cold-looking Catalan friar who is part of the missionary establishment at Sarayacu
+	*Lucar	Onyx	male	12. Colonel Lucar, a wealthy and influential Peruvian country gentleman who is described as the type of an old Virginia plantation owner
+	*M. Ardouin	Michael	*male	17. A scientist who showed a monkey portraits of different objects
+	*M. de St. Hilaire	Eric	*male	17. A scientist who relates observations about a species of monkey, possibly French
+	*M. Godin	Michael	male	9. A French commissioner who took his wife on a scientific mission to Peru. He was detained in Cayenne and unable to return with colleagues, eventually sending a friend Tristan up the Amazon to fetch his wife. He was ill during the journey and sent Tristan in his place.
+	*M. Grandmaison	Santa	male	9. Madame Godin's father who accompanied her on the journey. He had set out earlier to make arrangements for his daughter's trip and was traveling ahead of the main party.
+	*Maguin	Daniel	*male	13. A lay-brother who did the cooking at Sarayacu and was unwearied in his attentions to the expedition members
+	*Mameluco	Michael	*male	15. A member of the mixed white and Indian race, described as a cacao-grower who is loosely dressed, barefooted, and has a wife with children
+	*Mameluco's master	Puck	male	15. A man who is coolly clad in shirt and drawers, lying in a hammock smoking a long gaudily painted wooden pipe
+	*Mamelucos	Eric	*male	15. Half-breeds or offspring of European and Indian descent, described as a poorer class of cacao-growers who are loosely dressed and barefooted
+	*Manoa	Kumo	*male	4. A native of Guiana mentioned in Raleigh's writings as having knowledge about Eldorado; described as a natural inhabitant of the region | 5. A city or region in Guiana that the Eperumei control, described as a center of Spanish oppression. The native tribes wish to drive out the Spaniards and free themselves from Eperumei rule.
+	*Manoel	Psi	male	15. A semi-civilized Indian who is dull and taciturn, living with his wife and children in a house on an eminence | 17. A negro-slave who guided the narrator during a coaita-hunt
+	*Manoel's children	Nicola	*male	15. Children who live with their parents in a house on an eminence
+	*Maraua tribe inhabitants	Echo	*male	15. Indians who live in separate families or small hordes, with no common chief and little disposition to adopt civilized customs
+	*Maraua tribe men	Alex	male	15. Men who have great holes pierced in their ear-lobes with wooden plugs and drill holes in their lips
+	*Maraua tribe younger man	Lewis	male	15. A fine, strapping fellow nearly six feet high with a large aquiline nose who shows the use of lip-holes by fixing sticks in them
+	*Martinez	Omega	male	3. Spanish officer who was condemned to death for accidentally setting fire to ammunition, then escaped into the Amazon and was captured by Indians
+	*Mauricio	Eric	male	11. Indian servant, member of Herndon's expedition party
+	*Moxu	Michael	*male	3. Imaginary ruler of Eldorado, also known as Great Paytiti or Enim
+	*Mr. De Grandmaison	Nicola	*male	10. An elderly Frenchman who accompanied Madame Godin and Mr. Godin on their return journey to France.
+	*Mr. Godin	Psi	*male	10. Madame Godin's husband who was at Oyapoc when she arrived there. He went to meet her on board a vessel and later conveyed her back to France with Mr. De Grandmaison.
+	*Mr. Norris	Liam	*male	14. American consul in Para who hospitably received the travelers upon their arrival.
+	*Mura Indian children	Onyx	*male	15. Naked children of the Mura tribe who squat with their mothers in hovels
+	*Mura Indian men	Kumo	male	15. Young men of the tribe who lounge about doorways, described as stoutly-built but less well-proportioned than semi-civilized Indians
+	*Mura Indians	Santa	*male	15. A tribe of indigenous people living in miserable hovels with no cultivated trees, wearing coarse cloth petticoats and having black mud smeared on their skin
+	*Omagua	Nicola	*male	2. Chief of a populous province encountered by the Spanish expedition, whose people attack them with hostile demonstrations and use alligator-skin shields in battle.
+	*Ordaz	Fenrir	male	3. Spanish commander who led an expedition that failed, resulting in his death and the scattering of his men
+	*Othello	Nicola	male	5. A character from Shakespeare's plays who mentions cannibals and 'Anthropophagi' in his dialogue, reflecting the exotic tales from Raleigh's exploration.
+	*Palameque	Fenrir	*male	7. Spanish governor who commanded the defense of St. Thomas against the English attack during Raleigh's second expedition.
+	*Paytiti	Eric	*male	3. Imaginary ruler of Eldorado, also known as Great Moxu or Enim
+	*Pizarro	Psi	male	1. The expedition leader who continued the journey beyond his original limits after hearing accounts of Eldorado. He was in command when Orellana departed and later made the decision to return to Quito after being abandoned. | 2. A Spanish commander who originally commissioned Orellana to explore the Amazon River. He is left behind with his party at the junction of the Napo and Amazon rivers.
+	*Portuguese merchant	Echo	*male	12. A Portuguese traveling merchant who has four large boats and two or three canoes for trading along the Amazon
+	*Priests	Daniel	*male	15. Men dressed in shabby uniforms who are seen walking through the streets of Para
+	*Ribera	Liam	male	3. Spanish explorer who attempted to find Eldorado by ascending the La Plata River, led an expedition with eighty men
+	*Richards	Fenrir	male	11. Young master's mate, member of Herndon's expedition party
+	*Senior Cardozo	Fable	*male	16. A local official who works with the author on turtle-egg collection expeditions. He is described as a senior figure in the community who coordinates large-scale egg-harvesting activities involving hundreds of people.
+	*Sergt. Ordway	Onyx	male	18. Sergeant who leads nine men in six canoes to descend Jefferson's River while Capt. Clarke proceeds by land.
+	*Sergt. Prior	George	male	18. Sergeant who is directed to take the horses to the Mandans for safekeeping until the reunion of the expedition.
+	*Setebos	Alex	*male	5. An Indian deity mentioned by Caliban in Shakespeare's 'The Tempest', who is also referenced in Raleigh's narrative as an Indian tribe name.
+	*Shakspeare	Lewis	male	5. William Shakespeare, the English playwright who was writing plays during Raleigh's time. He drew inspiration from Raleigh's accounts of New World peoples, particularly the Caliban character.
+	*Superintendent	Puck	*male	11. Mine superintendent who received Herndon's letters and hospitably welcomed the travelers
+	*The alligator	Alex	*male	17. A large reptile that attacked a dog and was encountered by the narrator
+	*The anaconda	Echo	*male	17. A large water serpent that attacked poultry and was killed by the narrator's companions
+	*The caiarara	Daniel	*male	17. A monkey species known for its acrobatic abilities in the trees
+	*The cayman	Puck	*male	17. A large reptile that attacked a dog and was encountered by the narrator
+	*The Chief of the Indians	Daniel	*male	2. A native leader who is shot by one of the Spanish adventurers during a skirmish, causing his people to gather around him while the Spaniards escape.
+	*The coaita	Liam	*male	17. A large black monkey with a long tail and coarse hair
+	*The commander of the Portuguese galiot	Omega	*male	10. The leader of the Portuguese ship who showed kindness to Madame Godin during her final leg of travel.
+	*The faithful black man	Kumo	*male	9. A negro servant who accompanied Madame Godin on her journey. He was sent to Loreto to gather information about the Portuguese vessel and later went with Mr. R. to Andoas.
+	*The finches	Fenrir	*male	16. Small birds that were caught by a spider. They are described as being about the size of English siskins, with one male and one female identified.
+	*The Frenchman companion of Mr. R.	Alex	*male	9. A fellow Frenchman who accompanied Mr. R. on his mission to Andoas to arrange for a boat to rescue Madame Godin's party.
+	*The Governor of Omaguas	Liam	*male	10. A colonial official who helped Madame Godin by providing a boat and provisions for her journey to the Portuguese vessel.
+	*The Hapale pygmaeus	Eric	*male	17. A very small monkey species, seven inches long
+	*The Indian who recovered from sickness	Echo	*male	9. An Indian man who had just recovered from illness and was persuaded to join Madame Godin's party as a helmsman. He drowned when trying to retrieve Mr. R.'s hat from the water.
+	*The jaguar	Psi	*male	17. A large cat that the narrator only observed tracks of and heard about
+	*The M. ursulus	Fable	*male	17. A common monkey species mentioned in comparison to the Midas leoninus
+	*The Midas leoninus	Omega	*male	17. A small monkey species with a lion-like mane
+	*The Nyctipithecus	Kumo	*male	17. A nocturnal monkey that was tamed and kept in a box by Mr. Bates
+	*The owl-faced monkey	Santa	*male	17. A nocturnal monkey with owl-like features, kept as a pet by Mr. Bates
+	*The poodle-dog	Michael	*male	17. A dog owned by Cardozo, named Carlito
+	*The puma	Lewis	*male	17. A large cat-like animal that the narrator encountered while searching for insects
+	*The scarlet-faced monkey	Onyx	*male	17. A monkey with a vivid scarlet face, kept as a pet by Mr. Bates
+	*The sloth	George	*male	17. A slow-moving animal that was observed and shot by the narrator
+	*The Spanish missionary	Daniel	*male	10. A Christian priest who treated Madame Godin poorly, taking her gold chains from the Indians and giving them worthless cloth instead. He was dishonest and unchristian in his behavior.
+	*The tamandua	Nicola	*male	17. A large ant-eater that was hunted and eaten by the narrator
+	*The two brothers	Onyx	*male	9. Madame Godin's brothers who lived with her in Peru and accompanied her on the journey. They were persuaded by Mr. R. to allow him to join their expedition.
+	*The two Indians	George	*male	9. Two Indian men who helped Madame Godin construct a boat to travel down the Amazon. They later abandoned her party while they slept, leaving her and her companions stranded. | 10. Two indigenous men who rescued Madame Godin after her ordeal in the wilderness and carried her to Andoas.
+	*The Uakari	Fenrir	*male	17. A type of monkey with a red face, also known as scarlet-faced monkeys
+	*Trinculo	Psi	*male	5. A character from Shakespeare's 'The Tempest' who suggests taking Caliban to England as a curiosity, echoing Raleigh's suggestion about bringing natives back.
+	*Tristan	Puck	*male	9. A man sent by M. Godin to fetch his wife Madame Godin up the Amazon River. He was entrusted with letters and merchandise but failed to deliver them properly, instead giving the letter to a Spanish Jesuit and going off to sell his goods.
+	*William Lewis Herndon	Omega	*male	14. The same person as Lieut. Herndon, born in Fredericksburg, Va., on October 25, 1813. Entered navy at age 15, served in Mexican war, engaged with Lieut. Maury at National Observatory, explored Amazon River 1851-2, later commanded the steamship 'Central America' which sank in 1857.
+	*Chaboneau's wife	Xiaobei	female	18. The wife of Chaboneau, who serves as a guide and interpreter for the expedition among the Shoshonees. She bears with patience the fatigues of the long journey while caring for their infant child.
+	*Desdemona	Nicole	female	5. A character from Shakespeare's plays who is Othello's wife and receives his warnings about cannibals in the New World.
+	*Elizabeth	Xiaoxiao	female	7. Queen of England who favored Raleigh during her reign. She was the patron who supported his expeditions and later died while he was in favor.
+	*Godin	Jessica	*female	13. Madame Godin, a woman who found kind friends in a missionary and governor at Omaguas and embarked on a galiot at Loreto
+	*Indian women	Kore	female	15. Sad-looking women who carry their naked children astride on their hips in the streets of Para
+	*Mameluco's mistress	Bella	female	15. A matron-like woman who sits sewing with two mulatto-girls, wearing a tame parrot on her shoulder
+	*Manoel's wife	Sara	female	15. A woman who lives with her husband and children in a house on an eminence
+	*Mura Indian women	Dora	female	15. Women who cook meals over fires in low chambers, wearing petticoats stained with dye and having children
+	*Negresses	River	female	15. Women who carry red water-jars on their heads in the streets of Para
+	*The Amazons	Aoede	*female	2. A nation of women described by the Spanish as living in a matriarchal society, fighting fiercely and possessing gold and silver. They are said to be tall, white-skinned women with long hair plaited and bound around their heads.
+	*The bats	Beta	*female	16. Small mammals that feed on blood from sleeping humans. They are described as causing wounds and being attracted to light sources.
+	*The Delight	Xiaoyi	*female	4. A ship in Sir Humphrey Gilbert's expedition that was lost during a violent storm while exploring the American coast
+	*The electric eel	Isabella	*female	16. A large aquatic animal that creates electric shocks. These eels are described as serpent-like with heads bobbing above water, and they can shock people when touched.
+	*The fire-ant	Siwis	*female	16. A small, shining reddish-colored ant that is considered a scourge of the region. These ants attack humans and destroy clothing, requiring special precautions like copaiba-balsam to prevent climbing.
+	*The Golden Hind	Emma	*female	4. A ship in Sir Humphrey Gilbert's expedition that was left alone with 'The Squirrel' after the loss of other vessels; one of the ships that returned to England
+	*The Indian woman	Alice	*female	10. An indigenous woman who made Madame Godin a petticoat from cotton cloth, which became a cherished possession.
+	*The mygale spider	Nova	*female	16. A large, hairy spider that catches birds and is known for its aggressive behavior. The author describes one specimen nearly two inches in body length with seven-inch leg span.
+	*The old female coaita	Xiaobei	*female	17. A tame coaita that accompanied a trader on his voyages
+	*The old Indian woman	Sarah	*female	16. An experienced bird-tamer who successfully tames a difficult parrot that the author had failed to domesticate. She is described as skilled in bird-taming arts and feeds birds with her saliva.
+	*The parrot	Alpha	*female	16. A small green parrot with scarlet patches under the wings, called Maracana by natives. The bird is described as difficult to domesticate but eventually tamed by an old Indian woman.
+	*The saueba-ant	Nezumi	*female	16. A species of ant that builds large mounds and uses leaves to thatch their underground dwellings. The ants are described as working in large colonies with complex tunnel systems.
+	*The Squirrel	Sky	*female	4. A ship in Sir Humphrey Gilbert's expedition that was left alone with 'The Golden Hind' after the loss of other vessels; one of the ships that returned to England
+	*The turtle	Gongitsune	*female	16. A large reptile that lays eggs on sand-islands. The turtles are described as descending from interior pools to lay their eggs in large numbers, with females laying about 120 eggs each.

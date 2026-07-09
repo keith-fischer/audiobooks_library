@@ -1,0 +1,308 @@
+	narrator	Within a while thereafter was a jousting at the court, wherein Sir Lancelot won the prize.
+	narrator	And two of those he smote down were Sir Agravaine, the brother of Sir Gawain, and Sir Modred
+	narrator	his false brother--King Arthur's son by Belisent.
+	narrator	And because of his victory they hated Sir Lancelot, and sought how they might injure him.
+	narrator	So on a night, when King Arthur was hunting in the forest, and the queen sent for Sir Lancelot to her chamber
+	narrator	they two espied him; and thinking now to make a scandal and a quarrel between Lancelot and the king
+	narrator	they found twelve others, and said Sir Lancelot was ever now in the queen's chamber, and King Arthur was dishonored.
+	narrator	Then, all armed, they came suddenly round the queen's door, and cried,
+	narrator	"Traitor! now art thou taken."
+	sir lancelot	Madam, we be betrayed,
+	sir lancelot	yet shall my life cost these men dear.
+	narrator	Then did the queen weep sore, and dismally she cried,
+	narrator	"Alas! there is no armor here whereby ye might withstand so many; wherefore ye will be slain
+	narrator	and I be burnt for the dread crime they will charge on me."
+	narrator	But while she spake the shouting of the knights was heard without,
+	narrator	"Traitor, come forth, for now thou art snared!"
+	sir lancelot	Better were twenty deaths at once than this vile outcry,
+	sir lancelot	Then he kissed her and said,
+	sir lancelot	Most noble lady, I beseech ye, as I have ever been your own true knight, take courage; pray for my soul if I be now
+	sir lancelot	slain
+	sir lancelot	and trust my faithful friends, Sir Bors and Sir Lavaine, to save you from the fire.
+	narrator	But ever bitterly she wept and moaned, and cried,
+	narrator	"Would God that they would take and slay me, and that thou couldest escape."
+	sir lancelot	That shall never be,
+	narrator	And wrapping his mantle round his arm he unbarred the door a little space, so that but one could enter.
+	narrator	Then first rushed in Sir Chalaunce, a full strong knight, and lifted up his sword to smite Sir Lancelot; but lightly he avoided him
+	narrator	and struck Sir Chalaunce, with his hand, such a sore buffet on the head as felled him dead upon the floor.
+	narrator	Then Sir Lancelot pulled in his body and barred the door again, and dressed himself in his armor
+	narrator	and took his drawn sword in his hand.
+	narrator	But still the knights cried mightily without the door,
+	narrator	"Traitor, come forth!"
+	sir lancelot	Be silent and depart,
+	sir lancelot	for be ye sure ye will not take me, and to-morrow will I meet ye face to face before the king.
+	narrator	"Ye shall have no such grace," they cried; "but we will slay thee, or take thee as we list."
+	sir lancelot	Then save yourselves who may,
+	narrator	he thundered, and therewith suddenly unbarred the door and rushed forth at them.
+	narrator	And at the first blow he slew Sir Agravaine, and after him twelve other knights, with twelve more mighty buffets.
+	narrator	And none of all escaped him save Sir Modred, who, sorely wounded, flew away for life.
+	narrator	Then returned he to the queen, and said,
+	sir lancelot	Now, madam, will I depart, and if ye be in any danger I pray ye come to me.
+	narrator	"Surely will I stay here, for I am queen," she answered; "yet if to-morrow any harm come to me I trust to thee for rescue."
+	sir lancelot	Have ye no doubt of me,
+	sir lancelot	for ever while I live am I your own true knight.
+	narrator	Therewith he took his leave, and went and told Sir Bors and all his kindred of this adventure.
+	narrator	"We will be with thee in this quarrel," said they all; "and if the queen be sentenced to the fire
+	narrator	we certainly will save her."
+	narrator	Meanwhile Sir Modred, in great fear and pain, fled from the court, and rode until he found King Arthur
+	narrator	and told him all that had befallen.
+	narrator	But the king would scarce believe him till he came and saw the bodies of Sir Agravaine and all the other knights.
+	narrator	Then felt he in himself that all was true, and with his passing grief his heart nigh broke.
+	narrator	"Alas!" cried he, "now is the fellowship of the Round Table forever broken: yea, woe is me! I may not with my honor spare my
+	narrator	queen."
+	narrator	Anon it was ordained that Queen Guinevere should be burned to death, because she had dishonored King Arthur.
+	narrator	But when Sir Gawain heard thereof, he came before the king, and said,
+	sir gawain	My lord, I counsel thee be not too hasty in this matter, but stay the judgment of the queen a season
+	sir gawain	for it may well be that Sir Lancelot was in her chamber for no evil, seeing she is greatly beholden to him for so many
+	sir gawain	deeds done for her sake
+	sir gawain	and peradventure she had sent to him to thank him, and did it secretly that she might avoid slander.
+	king arthur	Alas! I may not help her; she is judged as any other woman.
+	narrator	Then he required Sir Gawain and his brethren, Sir Gaheris and Sir Gareth, to be ready to bear the queen to-morrow to the place of
+	narrator	execution.
+	sir gawain	Nay, noble lord," replied Sir Gawain, "that can I never do; for neither will my heart suffer me to see the queen die
+	sir gawain	nor shall men ever say I was of your counsel in this matter.
+	narrator	Then said his brother,
+	narrator	"Ye may command us to be there, but since it is against our will, we will be without arms
+	narrator	that we may do no battle against her."
+	narrator	So on the morrow was Queen Guinevere led forth to die by fire, and a mighty crowd was there
+	narrator	of knights and nobles, armed and unarmed.
+	narrator	And all the lords and ladies wept sore at that piteous sight.
+	narrator	Then was she shriven by a priest, and the men came nigh to bind her to the stake and light the fire.
+	narrator	At that Sir Lancelot's spies rode hastily and told him and his kindred, who lay hidden in a wood hard by; and suddenly
+	narrator	with twenty knights, he rushed into the midst of all the throng to rescue her.
+	narrator	But certain of King Arthur's knights rose up and fought with them, and there was a full great battle and confusion.
+	narrator	And Sir Lancelot drave fiercely here and there among the press, and smote on every side, and at every blow struck down a knight
+	narrator	so that many were slain by him and his fellows.
+	narrator	Then was the queen set free, and caught up on Sir Lancelot's saddle and fled away with him and all his company to the Castle
+	narrator	of La Joyous Garde.
+	narrator	Now so it chanced that, in the turmoil of the fighting, Sir Lancelot had unawares struck down and slain the two good knights Sir Gareth
+	narrator	and Sir Gaheris
+	narrator	knowing it not, for he fought wildly, and saw not that they were unarmed.
+	narrator	When King Arthur heard thereof, and of all that battle, and the rescue of the queen, he sorrowed heavily for those good knights
+	narrator	and was passing wroth with Lancelot and the queen.
+	narrator	But when Sir Gawain heard of his brethren's death he swooned for sorrow and wrath, for he wist that Sir Lancelot had killed them in
+	narrator	malice.
+	narrator	And as soon as he recovered he ran in to the king, and said,
+	sir gawain	Lord king and uncle, hear this oath which now I swear, that from this day I will not fail Sir Lancelot till one of us
+	sir gawain	hath slain the other. And now
+	sir gawain	unless ye haste to war with him, that we may be avenged, will I myself alone go after him.
+	narrator	Then the king, full of wrath and grief, agreed thereto, and sent letters throughout the realm to summon all his knights
+	narrator	and went with a vast army to besiege the Castle of La Joyous Garde.
+	narrator	And Sir Lancelot, with his knights, mightily defended it; but never would he suffer any to go forth and attack one of the king's army
+	narrator	for he was right loth to fight against him.
+	narrator	So when fifteen weeks were passed, and King Arthur's army wasted itself in vain against the castle
+	narrator	for it was passing strong, it chanced upon a day Sir Lancelot was looking from the walls and espied King Arthur and Sir Gawain close
+	narrator	beside.
+	king arthur	Come forth, Sir Lancelot, and let us two meet in the midst of the field.
+	sir lancelot	God forbid that I should encounter with thee, lord, for thou didst make me a knight.
+	sir gawain	Shame on thee, traitor and false knight, yet be ye well assured we will regain the queen and slay thee and thy company; yea
+	sir gawain	double shame on ye to slay my brother Gaheris unarmed, Sir Gareth also, who loved ye so well. For that treachery
+	sir gawain	be sure I am thine enemy till death.
+	sir lancelot	Alas! that I hear such tidings, for I knew not I had slain those noble knights, and right sorely now do I repent it with
+	sir lancelot	a heavy heart. Yet abate thy wrath
+	sir lancelot	Sir Gawain, for ye know full well I did it by mischance, for I loved them ever as my own brothers.
+	sir gawain	Thou liest, false recreant.
+	sir lancelot	I well see thou art now mine enemy, and that there can be no more peace with thee
+	sir lancelot	or with my lord the king, else would I gladly give back the queen.
+	narrator	Then the king would fain have listened to Sir Lancelot, for more than all his own wrong did he grieve at the sore waste and
+	narrator	damage of the realm
+	narrator	but Sir Gawain persuaded him against it, and ever cried out foully on Sir Lancelot.
+	narrator	When Sir Bors and the other knights of Lancelot's party heard the fierce words of Sir Gawain
+	narrator	they were passing wroth, and prayed to ride forth and be avenged on him, for they were weary of so long waiting to no good.
+	narrator	And in the end Sir Lancelot, with a heavy heart, consented.
+	narrator	So on the morrow the hosts on either side met in the field, and there was a great battle.
+	narrator	And Sir Gawain prayed his knights chiefly to set upon Sir Lancelot; but Sir Lancelot commanded his company to forbear King Arthur and Sir Gawain.
+	narrator	So the two armies jousted together right fiercely, and Sir Gawain proffered to encounter with Sir Lionel
+	narrator	and overthrew him.
+	narrator	But Sir Bors and Sir Blamor, and Sir Palomedes, who were on Sir Lancelot's side, did great feats of arms
+	narrator	and overthrew many of King Arthur's knights.
+	narrator	Then the king came forth against Sir Lancelot, but Sir Lancelot forbore him and would not strike again.
+	narrator	At that Sir Bors rode up against the king and smote him down.
+	narrator	But Sir Lancelot cried,
+	sir lancelot	Touch him not on pain of thy head,
+	narrator	and going to King Arthur he alighted and gave him his own horse, saying,
+	sir lancelot	My lord, I pray thee forbear this strife, for it can bring to neither of us any honor.
+	narrator	And when King Arthur looked on him the tears came to his eyes as he thought of his noble courtesy
+	narrator	and he said within himself,
+	narrator	Alas! that ever this war began.
+	narrator	But on the morrow Sir Gawain led forth the army again, and Sir Bors commanded on Sir Lancelot's side.
+	narrator	And they two struck together so fiercely that both fell to the ground sorely wounded; and all the day they fought till night fell
+	narrator	and many were slain on both sides, yet in the end neither gained the victory.
+	narrator	But by now the fame of this fierce war spread through all Christendom, and when the Pope heard thereof he sent a Bull
+	narrator	and charged King Arthur to make peace with Lancelot, and receive back Queen Guinevere; and for the offense imputed to her absolution should be given
+	narrator	by the Pope.
+	narrator	Thereto would King Arthur straightway have obeyed, but Sir Gawain ever urged him to refuse.
+	narrator	When Sir Lancelot heard thereof, he wrote thus to the king:
+	sir lancelot	It was never in my thought, lord, to withhold thy queen from thee; but since she was condemned for my sake to death
+	sir lancelot	I deemed it but a just and knightly part to rescue her therefrom; wherefore I recommend me to your grace
+	sir lancelot	and within eight days will I come to thee and bring the queen in safety.
+	narrator	Then, within eight days, as he had said, Sir Lancelot rode from out the castle with Queen Guinevere
+	narrator	and a hundred knights for company, each carrying an olive branch, in sign of peace.
+	narrator	And so they came to the court, and found King Arthur sitting on his throne, with Sir Gawain and many other knights around him.
+	narrator	And when Sir Lancelot entered with the queen, they both kneeled down before the king.
+	sir lancelot	My lord, I have brought hither my lady the queen again, as right requireth, and by commandment of the Pope and you. I pray ye
+	sir lancelot	take her to your heart again and forget the past. For myself I may ask nothing
+	sir lancelot	and for my sin I shall have sorrow and sore punishment; yet I would to heaven I might have your grace.
+	narrator	But ere the king could answer, for he was moved with pity at his words,
+	sir gawain	Let the king do as he will, but be sure, Sir Lancelot, thou and I shall never be accorded while we live
+	sir gawain	for thou has slain my brethren traitorously and unarmed.
+	sir lancelot	As heaven is my help, I did it ignorantly, for I loved them well, and while I live I shall bewail their death; but to
+	sir lancelot	make war with me were no avail
+	sir lancelot	for I must needs fight with thee if thou assailest, and peradventure I might kill thee also
+	sir lancelot	which I were right loath to do.
+	sir gawain	I will forgive thee never, and if the king accordeth with thee he shall lose my service.
+	narrator	Then the knights who stood near tried to reconcile Sir Gawain to Sir Lancelot, but he would not hear them.
+	sir lancelot	Since peace is vain, I will depart, lest I bring more evil on my fellowship.
+	narrator	And as he turned to go, the tears fell from him, and he said,
+	sir lancelot	Alas, most noble Christian realm, which I have loved above all others, now shall I see thee never more!
+	sir lancelot	Madam, now must I leave ye and this noble fellowship forever. And, I beseech ye, pray for me
+	sir lancelot	and if ye ever be defamed of any, let me hear thereof, and as I have been ever thy true knight in right and wrong
+	sir lancelot	so will I be again.
+	narrator	With that he kneeled and kissed King Arthur's hands, and departed on his way.
+	narrator	And there was none in all that court, save Sir Gawain alone, but wept to see him go.
+	narrator	So he returned with all his knights to the Castle of La Joyous Garde, and, for his sorrow's sake
+	narrator	he named it Dolorous Garde thenceforth.
+	narrator	Anon he left the realm, and went with many of his fellowship beyond the sea to France
+	narrator	and there divided all his lands among them equally, he sharing but as the rest.
+	narrator	And from that time forward peace had been between him and King Arthur, but for Sir Gawain
+	narrator	who left the king no rest, but constantly persuaded him that Lancelot was raising mighty hosts against him.
+	narrator	So in the end his malice overcame the king, who left the government in charge of Modred
+	narrator	and made him guardian of the queen, and went with a great army to invade Sir Lancelot's lands.
+	narrator	Yet Sir Lancelot would make no war upon the king, and sent a message to gain peace on any terms King Arthur chose.
+	narrator	But Sir Gawain met the herald ere he reached the king, and sent him back with taunting and bitter words.
+	narrator	Whereat Sir Lancelot sorrowfully called his knights together and fortified the Castle of Benwicke, and there was shortly besieged by the army of King Arthur.
+	narrator	And every day Sir Gawain rode up to the walls, and cried out foully on Sir Lancelot
+	narrator	till, upon a time, Sir Lancelot answered him that he would meet him in the field and put his boasting to the proof.
+	narrator	So it was agreed on both sides that there should none come nigh them or separate them till one had fallen or yielded; and they
+	narrator	two rode forth.
+	narrator	Then did they wheel their horses apart, and turning, came together as it had been thunder, so that both horses fell
+	narrator	and both their lances broke.
+	narrator	At that they drew their swords and set upon each other fiercely, with passing grievous strokes.
+	narrator	Now Sir Gawain had through magic a marvelous great gift.
+	narrator	For every day, from morning till noon, his strength waxed to the might of seven men, but after that waned to his natural force.
+	narrator	Therefore till noon he gave Sir Lancelot many mighty buffets, which scarcely he endured.
+	narrator	Yet greatly he forbore Sir Gawain, for he was aware of his enchantment, and smote him slightly till his own knights marveled.
+	narrator	But after noon Sir Gawain's strength sank fast, and then, with one full blow, Sir Lancelot laid him on the earth.
+	narrator	Then Sir Gawain cried out,
+	sir gawain	Turn not away, thou traitor knight, but slay me if thou wilt, or else I will arise and fight with thee again some other time.
+	sir lancelot	Sir knight, I never yet smote a fallen man.
+	narrator	At that they bore Sir Gawain sorely wounded to his tent, and King Arthur withdrew his men
+	narrator	for he was loth to shed the blood of so many knights of his own fellowship.
+	narrator	But now came tidings to King Arthur from across the sea, which caused him to return in haste.
+	narrator	For thus the news ran, that no sooner was Sir Modred set up in his regency, than he had forged false tidings from abroad that
+	narrator	the king had fallen in a battle with Sir Lancelot.
+	narrator	Whereat he had proclaimed himself the king, and had been crowned at Canterbury, where he had held a coronation feast for fifteen days.
+	narrator	Then he had gone to Winchester, where Queen Guinevere abode, and had commanded her to be his wife; whereto
+	narrator	for fear and sore perplexity, she had feigned consent, but, under pretext of preparing for the marriage
+	narrator	had fled in haste to London and taken shelter in the Tower, fortifying it and providing it with all manner of victuals
+	narrator	and defending it against Sir Modred, and answering to all his threats that she would rather slay herself than be his queen.
+	narrator	Thus was it written to King Arthur.
+	narrator	Then, in passing great wrath and haste, he came with all his army swiftly back from France and sailed to England.
+	narrator	But when Sir Modred heard thereof, he left the Tower and marched with all his host to meet the king at Dover.
+	narrator	Then fled Queen Guinevere to Amesbury to a nunnery, and there she clothed herself in sackcloth, and spent her time in praying for the king
+	narrator	and in good deeds and fasting.
+	narrator	And in that nunnery evermore she lived, sorely repenting and mourning for her sin, and for the ruin she had brought on all the realm.
+	narrator	And there anon she died.
+	narrator	And when Sir Lancelot heard thereof, he put his knightly armor off, and bade farewell to all his kin
+	narrator	and went a mighty pilgrimage for many years, and after lived a hermit till his death.
+	narrator	When Sir Modred came to Dover, he found King Arthur and his army but just landed; and there they fought a fierce and bloody battle
+	narrator	and many great and noble knights fell on both sides.
+	narrator	But the king's side had the victory, for he was beyond himself with might and passion, and all his knights so fiercely followed him
+	narrator	that, in spite of all their multitude, they drove Sir Modred's army back with fearful wounds and slaughter
+	narrator	and slept that night upon the battle-field.
+	narrator	But Sir Gawain was smitten by an arrow in the wound Sir Lancelot gave him, and wounded to the death.
+	narrator	Then was he borne to the king's tent, and King Arthur sorrowed over him as it had been his own son.
+	king arthur	Alas! in Sir Lancelot and in you I had my greatest earthly joy, and now is all gone from me.
+	narrator	And Sir Gawain answered, with a feeble voice,
+	sir gawain	My lord and king, I know well my death is come, and through my own wilfulness, for I am smitten in the wound Sir Lancelot
+	sir gawain	gave me. Alas! that I have been the cause of all this war
+	sir gawain	for but for me thou hadst been now at peace with Lancelot, and then had Modred never done this treason. I pray ye
+	sir gawain	therefore, my dear lord, be now agreed with Lancelot, and tell him, that although he gave me my death-wound
+	sir gawain	it was through my own seeking; wherefore I beseech him to come back to England, and here to visit my tomb
+	sir gawain	and pray for my soul.
+	narrator	When he had thus spoken, Sir Gawain gave up his ghost, and the king grievously mourned for him.
+	narrator	Then they told him that the enemy had camped on Barham Downs, whereat, with all his hosts
+	narrator	he straightway marched there, and fought again a bloody battle, and overthrew Sir Modred utterly.
+	narrator	Howbeit, he raised yet another army, and retreating ever from before the king, increased his numbers as he went
+	narrator	till at the farthest west in Lyonesse, he once more made a stand.
+	narrator	Now, on the night of Trinity Sunday, being the eve of the battle, King Arthur had a vision
+	narrator	and saw Sir Gawain in a dream, who warned him not to fight with Modred on the morrow
+	narrator	else he would be surely slain; and prayed him to delay till Lancelot and his knights should come to aid him.
+	narrator	So when King Arthur woke he told his lords and knights that vision, and all agreed to wait the coming of Sir Lancelot.
+	narrator	Then a herald was sent with a message of truce to Sir Modred, and a treaty was made that neither army should assail the other.
+	narrator	But when the treaty was agreed upon, and the heralds returned, King Arthur said to his knights
+	king arthur	Beware, lest Sir Modred deceive us, for I in no wise trust him, and if swords be drawn be ready to encounter!
+	narrator	And Sir Modred likewise gave an order, that if any man of the king's army drew his sword
+	narrator	they should begin to fight.
+	narrator	And as it chanced, a knight of the king's side was bitten by an adder in the foot
+	narrator	and hastily drew forth his sword to slay it.
+	narrator	That saw Sir Modred, and forthwith commanded all his army to assail the king's.
+	narrator	So both sides rushed to battle, and fought passing fiercely.
+	narrator	And when the king saw there was no hope to stay them, he did right mightily and nobly as a king should do
+	narrator	and ever, like a lion, raged in the thickest of the press, and slew on the right hand and on the left
+	narrator	till his horse went fetlock deep in blood.
+	narrator	So all day long they fought, and stinted not till many a noble knight was slain.
+	narrator	But the king was passing sorrowful to see his trusty knights lie dead on every side.
+	narrator	And at the last but two remained beside him, Sir Lucan, and his brother, Sir Bedivere, and both were sorely wounded.
+	king arthur	Now am I come to mine end; but, lo! that traitor Modred liveth yet, and I may not die till I have slain him. Now
+	king arthur	give me my spear, Sir Lucan.
+	sir lucan	Lord, let him be; for if ye pass through this unhappy day, ye shall be right well revenged upon him. My good lord
+	sir lucan	remember well your dream, and what the spirit of Sir Gawain did fore-warn ye.
+	king arthur	Betide me life, betide me death; now I see him yonder alone, he shall never escape my hands
+	king arthur	for at a better vantage shall I never have him.
+	sir bedivere	God speed you well.
+	narrator	Then King Arthur got his spear in both his hands, and ran towards Sir Modred, crying,
+	king arthur	Traitor, now is thy death-day come!
+	narrator	And when Sir Modred heard his words, and saw him come, he drew his sword and stood to meet him.
+	narrator	Then King Arthur smote Sir Modred through the body more than a fathom.
+	narrator	And when Sir Modred felt he had his death wound, he thrust himself with all his might up to the end of King Arthur's spear
+	narrator	and smote his father, Arthur, with his sword upon the head, so that it pierced both helm and brain-pan.
+	narrator	And therewith Sir Modred fell down stark dead to the earth, and King Arthur fell down also in a swoon
+	narrator	and swooned many times.
+	narrator	Then Sir Lucan and Sir Bedivere came and bare him away to a little chapel by the sea-shore.
+	narrator	And there Sir Lucan sank down with the bleeding of his own wounds, and fell dead.
+	narrator	And King Arthur lay long in a swoon, and when he came to himself, he found Sir Lucan lying dead beside him
+	narrator	and Sir Bedivere weeping over the body of his brother.
+	king arthur	Weeping will avail no longer, else would I grieve forevermore. Alas! now is the fellowship of the Round Table dissolved forever
+	king arthur	and all my realm I have so loved is wasted with war. But my time hieth fast
+	king arthur	wherefore take thou Excalibur, my good sword, and go therewith to yonder water-side and throw it in
+	king arthur	and bring me word what thing thou seest.
+	narrator	So Sir Bedivere departed; but as he went he looked upon the sword, the hilt whereof was all inlaid with precious stones exceeding rich.
+	narrator	And presently he said within himself,
+	narrator	If I now throw this sword into the water, what good should come of it?
+	narrator	So he hid the sword among the reeds, and came again to the king.
+	king arthur	What sawest thou?
+	sir bedivere	Lord, I saw nothing else but wind and waves.
+	king arthur	Thou hast untruly spoken; wherefore go lightly back and throw it in, and spare not.
+	narrator	Then Sir Bedivere returned again, and took the sword up in his hand; but when he looked on it
+	narrator	he thought it sin and shame to throw away a thing so noble.
+	narrator	Wherefore he hid it yet again, and went back to the king.
+	king arthur	What saw ye?
+	sir bedivere	Lord, I saw nothing but the water ebbing and flowing.
+	king arthur	Oh, traitor and untrue! Twice hast thou now betrayed me. Art thou called of men a noble knight
+	king arthur	and wouldest betray me for a jewelled sword? Now, therefore, go again for the last time, for thy tarrying hath put me in sore peril
+	king arthur	of my life
+	king arthur	and I fear my wound hath taken cold; and if thou do it not this time, by my faith I will arise and slay thee
+	king arthur	with my hands.
+	narrator	Then Sir Bedivere ran quickly and took up the sword, and went down to the water's edge
+	narrator	and bound the girdle round the hilt and threw it far into the water.
+	narrator	And lo! an arm and hand came forth above the water, and caught the sword, and brandished it three times
+	narrator	and vanished.
+	narrator	So Sir Bedivere came again to the king and told him what he had seen.
+	king arthur	Help me from hence; for I dread me I have tarried over long.
+	narrator	Then Sir Bedivere took the king up in his arms, and bore him to the water's edge.
+	narrator	And by the shore they saw a barge with three fair queens therein, all dressed in black
+	narrator	and when they saw King Arthur they wept and wailed.
+	king arthur	Now put me in the barge,
+	sir bedivere	and tenderly he did so.
+	narrator	Then the three queens received him, and he laid his head upon the lap of one of them
+	narrator	who cried,
+	queen guinevere	Alas! dear brother, why have ye tarried so long, for your wound hath taken cold?
+	narrator	With that the barge put from the land, and when Sir Bedivere saw it departing, he cried with a bitter cry
+	sir bedivere	Alas! my lord King Arthur, what shall become of me now ye have gone from me?
+	king arthur	Comfort ye,
+	king arthur	and be strong, for I may no more help ye. I go to the Vale of Avilion to heal me of my grievous wound
+	king arthur	and if ye see me no more, pray for my soul.
+	narrator	Then the three queens kneeled down around the king and sorely wept and wailed, and the barge went forth to sea
+	narrator	and departed slowly out of Sir Bedivere's sight.
+	narrator	THE END

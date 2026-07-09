@@ -1,0 +1,734 @@
+	narrator	XI
+	narrator	THE ADVENTURES OF SIR BEAUMAINS OR SIR GARETH
+	narrator	Again King Arthur held the Feast of Pentecost, with all the Table Round,
+	narrator	and after his custom sat in the banquet hall, before beginning meat,
+	narrator	waiting for some adventure.
+	narrator	Then came there to the king a squire and said,
+	squire	Lord, now may ye go to meat, for here a damsel cometh with some strange adventure.
+	narrator	So the king was glad, and sat down to meat.
+	narrator	Anon the damsel came in and saluted him, praying him for succor.
+	king arthur	What wilt thou?
+	damsel	Lord, answered she, my mistress is a lady of great renown, but is at this time besieged by a tyrant
+	damsel	who will not suffer her to go out of her castle; and because here in thy court the knights are called the noblest in the
+	damsel	world
+	damsel	I come to pray thee for thy succor.
+	king arthur	Where dwelleth your lady?
+	king arthur	What is her name, and who is he that hath besieged her?
+	damsel	For her name, replied the damsel, as yet I may not tell it; but she is a lady of worship and great lands. The tyrant
+	damsel	that besiegeth her and wasteth her lands is called the Red Knight of the Redlands.
+	king arthur	I know him not.
+	sir gawain	But I know him, lord, and he is one of the most perilous knights in all the world. Men say he hath the strength of
+	sir gawain	seven; and from him I myself once hardly escaped with life.
+	king arthur	Fair damsel, there be here many knights that would gladly do their uttermost to rescue your lady
+	king arthur	but unless ye tell me her name, and where she dwelleth, none of my knights shall go with you by my leave.
+	narrator	Now, there was a stripling at the court called Beaumains, who served in the king's kitchen, a fair youth and of great stature.
+	narrator	Twelve months before this time he had come to the king as he sat at meat, at Whitsuntide
+	narrator	and prayed three gifts of him.
+	narrator	And being asked what gifts, he answered, "As for the first gift I will ask it now
+	narrator	but the other two gifts I will ask on this day twelve months, wheresoever ye hold your high feast."
+	king arthur	What is thy first request?
+	beaumains	This, lord, that thou wilt give me meat and drink enough for twelve months from this time
+	beaumains	and then will I ask my other two gifts.
+	narrator	And the king seeing that he was a goodly youth, and deeming that he was come of honorable blood
+	narrator	had granted his desire, and given him into the charge of Sir Key, the steward.
+	narrator	But Sir Key scorned and mocked the youth, calling Beaumains, because his hands were large and fair
+	narrator	and putting him into the kitchen, where he had served for twelve months as a scullion, and
+	narrator	in spite of all his churlish treatment, had faithfully obeyed Sir Key.
+	narrator	But Sir Lancelot and Sir Gawain were angered when they saw Sir Key so churlish to a youth that had so worshipful a bearing
+	narrator	and ofttimes had they given him gold and clothing.
+	narrator	And now at this time came young Beaumains to the king, while the damsel was there, and said
+	beaumains	Lord, now I thank thee well and heartily that I have been twelve months kept in thy kitchen
+	beaumains	and have had full sustenance. Now will I ask my two remaining gifts.
+	king arthur	Ask,
+	king arthur	on my good faith.
+	beaumains	These, lord, shall be my two gifts--the one, that thou wilt grant me this adventure of the damsel
+	beaumains	for to me of right it belongeth; and the other, that thou wilt bid Sir Lancelot make me a knight
+	beaumains	for of him only will I have that honor; and I pray that he may ride after me and make me a knight when I
+	beaumains	require him.
+	king arthur	Be it as thou wilt,
+	narrator	replied the king.
+	narrator	But thereupon the damsel was full wroth, and said,
+	damsel	Shall I have a kitchen page for this adventure?
+	narrator	and so she took horse and departed.
+	narrator	Then came one to Beaumains, and told him that a dwarf with a horse and armor were waiting for him.
+	narrator	And all men marveled whence these things came.
+	narrator	But when he was on horseback and armed, scarce any one at the court was a goodlier man than he.
+	narrator	And coming into the hall, he took his leave of the king and Sir Gawain, and prayed Sir Lancelot to follow him.
+	narrator	So he rode after the damsel, and many of the court went out to see him, so richly arrayed and horsed; yet he had neither
+	narrator	shield nor spear.
+	narrator	Then Sir Key cried,
+	sir key	I also will ride after the kitchen boy, and see whether he will obey me now.
+	narrator	And taking his horse, he rode after him, and said,
+	sir key	Know ye not me, Beaumains?
+	beaumains	Yea,
+	beaumains	I know thee for an ungentle knight, therefore beware of me.
+	narrator	Then Sir Key put his spear in rest and ran at him, but Beaumains rushed upon him with his sword in his hand
+	narrator	and therewith, putting aside the spear, struck Sir Key so sorely in the side, that he fell down
+	narrator	as if dead.
+	narrator	Then he alighted, and took his shield and spear, and bade his dwarf ride upon Sir Key's horse.
+	narrator	By this time, Sir Lancelot had come up, and Beaumains offering to tilt with him, they both made ready.
+	narrator	And their horses came together so fiercely that both fell to the earth, full sorely bruised.
+	narrator	Then they arose, and Beaumains, putting up his shield before him, offered to fight Sir Lancelot, on foot.
+	narrator	So they rushed upon each other, striking, and thrusting, and parrying, for the space of an hour.
+	narrator	And Lancelot marveled at the strength of Beaumains, for he fought more like a giant than a man
+	narrator	and his fighting was passing fierce and terrible.
+	sir lancelot	Fight not so sorely, Beaumains; our quarrel is not such that we may not now cease.
+	beaumains	True, yet it doth me good to feel thy might, though I have not yet proved my uttermost.
+	sir lancelot	By my faith, I had as much as I could do to save myself from you unshamed
+	sir lancelot	therefore be in no doubt of any earthly knight.
+	beaumains	May I, then, stand as a proved knight?
+	sir lancelot	For that will I be thy warrant.
+	beaumains	Then, I pray thee, give me the order of knighthood.
+	sir lancelot	First, then, must thou tell me of thy name and kindred.
+	beaumains	If thou wilt tell them to no other, I will tell thee.
+	beaumains	My name is Gareth of Orkney, and I am own brother to Sir Gawain.
+	sir lancelot	Ah! at that am I full glad; for, truly, I deemed thee to be of gentle blood.
+	narrator	So then he knighted Beaumains, and, after that, they parted company, and Sir Lancelot, returning to the court
+	narrator	took up Sir Key on his shield.
+	narrator	And hardly did Sir Key escape with his life, from the wound Beaumains had given him; but all men blamed him for his ungentle treatment
+	narrator	of so brave a knight.
+	narrator	Then Sir Beaumains rode forward, and soon overtook the damsel; but she said to him, in scorn
+	damsel	Return again, base kitchen page! What art thou, but a washer-up of dishes!
+	beaumains	Damsel, say to me what thou wilt, I will not leave thee; for I have undertaken to King Arthur to relieve thy adventure
+	beaumains	and I will finish it to the end, or die.
+	damsel	Thou finish my adventure!
+	damsel	Anon, thou shalt meet one, whose face thou wilt not even dare to look at.
+	beaumains	I shall attempt it.
+	narrator	So, as they rode thus, into a wood, there met them a man, fleeing, as for his life.
+	beaumains	Whither fleest thou?
+	knight of the redlands	O lord! help me; for, in a valley hard by, there are six thieves, who have taken my lord
+	knight of the redlands	and bound him, and I fear will slay him.
+	beaumains	Bring me thither.
+	narrator	So they rode to the place, and Sir Beaumains rushed after the thieves, and smote one, at the first stroke
+	narrator	so that he died; and then, with two other blows, slew a second and third.
+	narrator	Then fled the other three, and Sir Beaumains rode after them, and overtook and slew them all.
+	narrator	Then he returned and unbound the knight.
+	knight of the redlands	And the knight thanked him, and prayed him to ride to his castle, where he would reward him.
+	beaumains	Sir, I will have no reward of thee, for but this day was I made knight by the most noble Sir Lancelot; and besides
+	beaumains	I must go with this damsel.
+	narrator	Then the knight begged the damsel to rest that night at his castle.
+	narrator	So they all rode thither, and ever the damsel scoffed at Sir Beaumains as a kitchen boy
+	narrator	and laughed at him before the knight their host, so that he set his meat before him at a lower table
+	narrator	as though he were not of their company.
+	narrator	And on the morrow, the damsel and Sir Beaumains took their leave of the knight, and thanking him departed.
+	narrator	Then they rode on their way till they came to a great forest, through which flowed a river
+	narrator	and there was but one passage over it, whereat stood two knights armed to hinder the way.
+	damsel	Wilt thou match those two knights, or return again?
+	beaumains	I would not return, though they were six.
+	narrator	Therewith he galloped into the water, and swam his horse into the middle of the stream.
+	narrator	And there, in the river, one of the knights met him, and they brake their spears together
+	narrator	and then drew their swords, and smote fiercely at each other.
+	narrator	And at the last, Sir Beaumains struck the other mightily upon the helm, so that he fell down stunned into the water
+	narrator	and was drowned.
+	narrator	Then Sir Beaumains spurred his horse on to the land, where instantly the other knight fell on him.
+	narrator	And they also brake their spears upon each other, and then drew their swords, and fought savagely and long together.
+	narrator	And after many blows, Sir Beaumains clove through the knight's skull down to the shoulders.
+	narrator	Then rode Sir Beaumains to the damsel, but ever she still scoffed at him, and said,
+	damsel	Alas! that a kitchen page should chance to slay two such brave knights! Thou deemest now that thou hast done a mighty deed
+	damsel	but it is not so; for the first knight's horse stumbled, and thus was he drowned--not by thy strength; and as for the second knight
+	damsel	thou wentest by chance behind him, and didst kill him shamefully.
+	beaumains	Damsel, say what ye list, I care not so I may win your lady; and wouldst thou give me but fair language
+	beaumains	all my care were past; for whatsoever knights I meet, I fear them not.
+	damsel	Thou shalt see knights that shall abate thy boast, base kitchen knave; yet say I this for thine advantage
+	damsel	for if thou followest me thou wilt be surely slain, since I see all thou doest is but by chance
+	damsel	and not by thy own prowess.
+	beaumains	Well, damsel, say what ye will, wherever ye go I will follow.
+	narrator	So they rode on until the eventide, and still the damsel evermore kept chiding Sir Beaumains.
+	narrator	Then came they to a black space of land, whereon was a black hawthorn tree, and on the tree there hung a black banner
+	narrator	and on the other side was a black shield and spear, and by them a great black horse
+	narrator	covered with silk; and hard by sat a knight armed in black armor, whose name was the Knight of the Blacklands.
+	narrator	When the damsel saw him, she cried out to Beaumains, "Flee down the valley, for thy horse is not saddled!"
+	beaumains	Wilt thou forever deem me coward?
+	narrator	With that came the Black Knight to the damsel, and said, "Fair damsel, hast thou brought this knight from Arthur's court to be thy champion?"
+	damsel	Not so, fair knight, he is but a kitchen knave.
+	knight of the blacklands	Then wherefore commeth he in such array? it is a shame that he should bear thee company.
+	damsel	I cannot be delivered from him, for in spite of me he rideth with me; and would to Heaven you would put him from me
+	damsel	or now slay him, for he hath slain two knights at the river passage yonder, and done many marvelous deeds through pure mischance.
+	knight of the blacklands	I marvel that any man of worship will fight with him.
+	damsel	They know him not, and think, because he rideth with me, that he is well born.
+	knight of the blacklands	Truly, he hath a goodly person, and is likely to be a strong man, but since he is no man of worship
+	knight of the blacklands	he shall leave his horse and armor with me, for it were a shame for me to do him more harm.
+	narrator	When Sir Beaumains heard him speak thus, he said, "Horse or armor gettest thou none of me
+	narrator	Sir knight, save thou winnest them with thy hands; therefore defend thyself, and let me see what thou canst do."
+	knight of the blacklands	How sayest thou? Now quit this lady also, for it beseemeth not a kitchen knave like thee to ride with such a lady.
+	beaumains	I am of higher lineage than thou, and will straightway prove it on thy body.
+	narrator	Then furiously they drove their horses at each other, and came together as it had been thunder.
+	narrator	But the Black Knight's spear brake short, and Sir Beaumains thrust him through the side, and his spear breaking at the head
+	narrator	left its point sticking fast in the Black Knight's body.
+	narrator	Yet did the Black Knight draw his sword, and smite at Sir Beaumains with many fierce and bitter blows; but after they had fought an
+	narrator	hour and more
+	narrator	he fell down from his horse in a swoon, and forthwith died.
+	narrator	Then Sir Beaumains lighted down and armed himself in the Black Knight's armor, and rode on after the damsel.
+	narrator	But notwithstanding all his valor, still she scoffed at him, and said, "Away! for thou savorest ever of the kitchen. Alas! that such a knave
+	narrator	should by mishap destroy so good a knight; yet once again I counsel thee to flee
+	narrator	for hard by is a knight who shall repay thee!"
+	beaumains	It may chance that I am beaten or slain, but I warn thee, fair damsel, that I will not flee away
+	beaumains	nor leave thy company, or my quest, for all that ye can say.
+	narrator	Anon, as they rode, they saw a knight come swiftly towards them, dressed all in green, who
+	narrator	calling to the damsel said, "Is that my brother, the Black Knight, that ye have brought with you?"
+	damsel	Nay, and alas! this kitchen knave hath slain thy brother through mischance.
+	knight of the greenlands	Alas! that such a noble knight as he was should be slain by a knave's hand. Traitor! cried he to Sir Beaumains
+	knight of the greenlands	thou shalt die for this! Sir Pereard was my brother, and a full noble knight.
+	beaumains	I defy thee, for I slew him knightly and not shamefully.
+	narrator	Then the Green Knight rode to a thorn whereon hung a green horn, and, when he blew three notes
+	narrator	there came three damsels forth, who quickly armed him, and brought him a great horse and a green shield and spear.
+	narrator	Then did they run at one another with their fullest might, and break their spears asunder; and
+	narrator	drawing their swords, they closed in fight, and sorely smote and wounded each other with many grievous blows.
+	narrator	At last, Sir Beaumains' horse jostled against the Green Knight's horse, and overthrew him.
+	narrator	Then both alighted, and, hurtling together like mad lions, fought a great while on foot.
+	narrator	But the damsel cheered the Green Knight, and said, "My lord, why wilt thou let a kitchen knave so long stand up against thee?"
+	narrator	Hearing these words, he was ashamed, and gave Sir Beaumains such a mighty stroke as clave his shield asunder.
+	narrator	When Sir Beaumains heard the damsel's words, and felt that blow, he waxed passing wroth, and gave the Green Knight such a buffet on the
+	narrator	helm that he fell on his knees
+	narrator	and with another blow Sir Beaumains threw him on the ground.
+	narrator	Then the Green Knight yielded, and prayed him to spare his life.
+	beaumains	All thy prayers are vain, unless this damsel who came with me pray for thee.
+	damsel	That will I never do, base kitchen knave.
+	beaumains	Then shall he die.
+	knight of the greenlands	Alas! fair lady, suffer me not to die for a word! O, Sir knight, cried he to Beaumains
+	knight of the greenlands	give me my life, and I will ever do thee homage; and thirty knights, who owe me service
+	knight of the greenlands	shall give allegiance to thee.
+	beaumains	All availeth not, unless the damsel ask me for thy life; and thereupon he made as though he would have slain him.
+	damsel	Slay him not; for if thou do thou shalt repent it.
+	beaumains	Damsel, at thy command, he shall obtain his life. Arise, Sir knight of the green armor, I release thee!
+	narrator	Then the Green Knight knelt at his feet, and did him homage with his words.
+	narrator	"Lodge with me this night," said he, "and to-morrow will I guide ye through the forest." So
+	narrator	taking their horses, they rode to his castle, which was hard by.
+	narrator	Yet still did the damsel rebuke and scoff at Sir Beaumains, and would not suffer him to sit at her table.
+	green knight	I marvel, that ye thus chide so noble a knight, for truly I know none to match him; and be sure
+	green knight	that whatsoever he appeareth now, he will prove, at the end, of noble blood and royal lineage.
+	narrator	But of all this would the damsel take no heed, and ceased not to mock at Sir Beaumains.
+	narrator	On the morrow, they arose and heard mass; and when they had broken their fast, took their horses and rode on their way
+	narrator	the Green Knight conveying them through the forest.
+	green knight	My lord, my thirty knights and I shall always be at thy command whensoever thou shalt send for us.
+	sir beaumains	It is well said; and when I call upon you, you shall yield yourself and all your knights unto King Arthur.
+	green knight	That will we gladly do,
+	narrator	and so departed.
+	narrator	And the damsel rode on before Sir Beaumains, and said to him,
+	damsel	Why dost thou follow me, thou kitchen boy? I counsel thee to throw aside thy spear and shield
+	damsel	and flee betimes, for wert thou as mighty as Sir Lancelot or Sir Tristram, thou shouldest not pass a valley near this place
+	damsel	called the Pass Perilous.
+	sir beaumains	Damsel, let him that feareth flee; as for me, it were indeed a shameful thing to turn after so long a journey.
+	narrator	As he spake, they came upon a tower as white as snow, with mighty battlements, and double moats round it
+	narrator	and over the tower-gate hung fifty shields of divers colors.
+	narrator	Before the tower walls, they saw a fair meadow, wherein were many knights and squires in pavilions
+	narrator	for on the morrow there was a tournament at that castle.
+	narrator	Then the lord of the castle, seeing a knight armed at all points, with a damsel and a page
+	narrator	riding towards the tower, came forth to meet them; and his horse and harness, with his shield and spear
+	narrator	were all of a red color.
+	narrator	When he came near Sir Beaumains, and saw his armor all of black, he thought him his own brother
+	narrator	the Black Knight, and so cried aloud,
+	red knight	Brother! what do ye here, within these borders?
+	damsel	Nay! it is not thy brother, but a kitchen knave of Arthur's court, who hath slain thy brother
+	damsel	and overcome thy other brother also, the Green Knight.
+	red knight	Now do I defy thee!
+	narrator	cried the Red Knight to Sir Beaumains, and put his spear in rest and spurred his horse.
+	narrator	Then both knights turned back a little space, and ran together with all their might, till their horses fell to the earth.
+	narrator	Then, with their swords, they fought fiercely for the space of three hours.
+	narrator	And at last, Sir Beaumains overcame his foe, and smote him to the ground.
+	red knight	Slay me not, noble knight, and I will yield to thee with sixty knights that do my bidding.
+	sir beaumains	All avails not, save this damsel pray me to release thee.
+	narrator	Then did he lift his sword to slay him; but the damsel cried aloud,
+	damsel	Slay him not, Beaumains, for he is a noble knight.
+	sir beaumains	Then Sir Beaumains bade him rise up and thank the damsel, which straightway he did, and afterwards invited them to his castle
+	sir beaumains	and made them goodly cheer.
+	narrator	But notwithstanding all Sir Beaumains' mighty deeds, the damsel ceased not to revile and chide him, at which the Red Knight marveled much; and caused
+	narrator	his sixty knights to watch Sir Beaumains
+	narrator	that no villainy might happen to him.
+	narrator	And on the morrow, they heard mass and broke their fast, and the Red Knight came before Sir Beaumains
+	narrator	with his sixty knights, and proffered him homage and fealty.
+	sir beaumains	I thank thee; and when I call upon thee thou shalt come before my lord King Arthur at his court, and yield yourselves to him.
+	red knight	That will we surely do,
+	narrator	So Sir Beaumains and the damsel departed.
+	narrator	And as she constantly reviled him and tormented him, he said to her,
+	sir beaumains	Damsel, ye are discourteous thus always to rebuke me, for I have done you service; and for all your threats of knights that shall destroy
+	sir beaumains	me
+	sir beaumains	all they who come lie in the dust before me. Now, therefore, I pray you rebuke me no more till you see me beaten or
+	sir beaumains	a recreant
+	sir beaumains	and then bid me go from you.
+	damsel	There shall soon meet thee a knight who shall repay thee all thy deeds, thou boaster, for
+	damsel	save King Arthur, he is the man of most worship in the world.
+	sir beaumains	It will be the greater honor to encounter him.
+	narrator	Soon after, they saw before them a city passing fair, and between them and the city was a meadow newly mown
+	narrator	wherein were many goodly tents.
+	damsel	Seest thou yonder blue pavilion? It is Sir Perseant's, the lord of that great city, whose custom is
+	damsel	in all fair weather, to lie in this meadow, and joust with his knights.
+	narrator	And as she spake, Sir Perseant, who had espied them coming, sent a messenger to meet Sir Beaumains
+	narrator	and to ask him if he came in war or peace.
+	sir beaumains	Say to thy lord, that I care not whether of the twain it be.
+	narrator	So when the messenger gave this reply, Sir Perseant came out to fight with Sir Beaumains.
+	narrator	And making ready, they rode their steeds against each other; and when their spears were shivered asunder
+	narrator	they fought with their swords.
+	narrator	And for more than two hours did they hack and hew at each other, till their shields and hauberks were all dented with many blows
+	narrator	and they themselves were sorely wounded.
+	narrator	And at the last, Sir Beaumains smote Sir Perseant on the helm, so that he fell groveling on the earth.
+	narrator	And when he unlaced his helm to slay him, the damsel prayed for his life.
+	sir beaumains	That will I grant gladly, for it were pity such a noble knight should die.
+	sir perseant	Gramercy! for now I certainly know that it was thou who slewest my brother, the Black Knight
+	sir perseant	Sir Pereard; and overcame my brothers, the Green Knight, Sir Pertolope, and the Red Knight, Sir Perimones; and since thou hast overcome me also
+	sir perseant	I will do thee homage and fealty, and place at thy command one hundred knights to do thy bidding.
+	narrator	But when the damsel saw Sir Perseant overthrown, she marveled greatly at the might of Sir Beaumains
+	narrator	and said,
+	damsel	What manner of man may ye be, for now am I sure that ye be come of noble blood? And truly
+	damsel	never did woman revile knight as I have done thee, and yet ye have ever courteously borne with me
+	damsel	which surely never had been were ye not of gentle blood and lineage.
+	sir beaumains	Lady, a knight is little worth who may not bear with a damsel; and so whatsoever ye said to me I took no heed
+	sir beaumains	save only that at times when your scorn angered me, it made me all the stronger against those with whom I fought
+	sir beaumains	and thus have ye furthered me in my battles. But whether I be born of gentle blood or no
+	sir beaumains	I have done you gentle service, and peradventure will do better still, ere I depart from you.
+	damsel	Alas! said she, weeping at his courtesy, forgive me, fair Sir Beaumains, all that I have missaid and misdone against you.
+	sir beaumains	With all my heart; and since you now speak fairly to me, I am passing glad of heart
+	sir beaumains	and methinks I have the strength to overcome whatever knights I shall henceforth encounter.
+	narrator	Then Sir Perseant prayed them to come to his pavilion, and set before them wines and spices
+	narrator	and made them great cheer.
+	narrator	So they rested that night; and on the morrow, the damsel and Sir Beaumains rose, and heard mass.
+	narrator	And when they had broken their fast, they took their leave of Sir Perseant.
+	sir perseant	Fair damsel, whither lead ye this knight?
+	damsel	Sir, to the Castle Dangerous, where my sister is besieged by the Knight of the Redlands.
+	sir perseant	I know him well, for the most perilous knight alive--a man without mercy, and with the strength of seven men. God save thee
+	sir perseant	Sir Beaumains, from him! and enable thee to overcome him, for the Lady Lyones, whom he besiegeth
+	sir perseant	is as fair a lady as there liveth in this world.
+	damsel	Thou sayest truth, sir; for I am her sister; and men call me Linet, or the Wild Maiden.
+	sir perseant	Now, I would have thee know, said Sir Perseant to Sir Beaumains, that the Knight of the Redlands hath kept that siege more than two
+	sir perseant	years
+	sir perseant	and prolongeth the time hoping that Sir Lancelot, or Sir Tristram, or Sir Lamoracke, may come and battle with him; for these three knights divide
+	sir perseant	between them all knighthood; and thou if thou mayest match the Knight of the Redlands
+	sir perseant	shalt well be called the fourth knight of the world.
+	sir beaumains	Sir, I would fain have that good fame; and truly, I am come of great and honorable lineage. And so that you and this fair
+	sir beaumains	damsel will conceal it
+	sir beaumains	I will tell ye my descent.
+	narrator	And when they swore to keep it secret, he told them,
+	sir beaumains	My name is Sir Gareth of Orkney, my father was King Lot, and my mother the Lady Belisent
+	sir beaumains	King Arthur's sister. Sir Gawain, Sir Agravain, and Sir Gaheris, are my brethren, and I am the youngest of them all. But
+	sir beaumains	as yet King Arthur and the court know me not, who I am.
+	narrator	When he had thus told them, they both wondered greatly.
+	narrator	And the damsel Linet sent the dwarf forward to her sister, to tell her of their coming.
+	narrator	Then did Dame Lyones inquire what manner of man the knight was who was coming to her rescue.
+	narrator	And the dwarf told her of all Sir Beaumains' deeds by the way: how he had overthrown Sir Key
+	narrator	and left him for dead; how he had battled with Sir Lancelot, and was knighted of him; how he had fought with
+	narrator	and slain, the thieves; how he had overcome the two knights who kept the river passage; how he had fought with
+	narrator	and slain, the Black Knight; and how he had overcome the Green Knight, the Red Knight, and last of all
+	narrator	the Blue Knight, Sir Perseant.
+	narrator	Then was Dame Lyones passing glad, and sent the dwarf back to Sir Beaumains with great gifts
+	narrator	thanking him for his courtesy, in taking such a labor on him for her sake, and praying him to be of good heart and courage.
+	narrator	And as the dwarf returned, he met the Knight of the Redlands, who asked him whence he came.
+	dwarf	I came here with the sister of my lady of the castle,
+	knight of the redlands	Then is her travail lost, replied the knight; for, though she had brought Sir Lancelot, Sir Tristram
+	knight of the redlands	Sir Lamoracke, or Sir Gawain, I count myself their equal, and who besides shall be so called?
+	narrator	Then the dwarf told the knight what deeds Sir Beaumains had done; but he answered,
+	knight of the redlands	I care not for him, whosoever he be, for I shall shortly overcome him, and give him shameful death
+	knight of the redlands	as to so many others I have done.
+	narrator	Then the damsel Linet and Sir Beaumains left Sir Perseant, and rode on through a forest to a large plain
+	narrator	where they saw many pavilions, and hard by, a castle passing fair.
+	narrator	But as they came near Sir Beaumains saw upon the branches of some trees which grew there
+	narrator	the dead bodies of forty knights hanging, with rich armor on them, their shields and swords about their necks
+	narrator	and golden spurs upon their heels.
+	sir beaumains	What meaneth this?
+	narrator	amazed.
+	damsel	Lose not thy courage, fair sir, at this shameful sight, for all these knights came hither to rescue my sister; and when the Knight of
+	damsel	the Redlands had overcome them
+	damsel	he put them to this piteous death, without mercy; and in such wise will he treat thee also unless thou bearest thee more valiantly than
+	damsel	they.
+	sir beaumains	Truly he useth shameful customs, and it is a marvel that he hath endured so long.
+	narrator	So they rode onward to the castle walls, and found them double-moated, and heard the sea waves dashing on one side the walls.
+	narrator	Then said the damsel,
+	damsel	See you that ivory horn hanging upon the sycamore-tree? The Knight of the Redlands hath hung it there
+	damsel	that any knight may blow thereon, and then will he himself come out and fight with him. But I pray thee sound it not till
+	damsel	high noontide
+	damsel	for now it is but daybreak, and till noon his strength increases to the might of seven men.
+	sir beaumains	Let that be as it may, fair damsel, for were he stronger knight than ever lived, I would not fail him. Either will I defeat
+	sir beaumains	him at his mightiest
+	sir beaumains	or die knightly in the field.
+	narrator	With that he spurred his horse unto the sycamore, and blew the ivory horn so eagerly, that all the castle rang its echoes.
+	narrator	Instantly, all the knights who were in the pavilions ran forth, and those within the castle looked out from the windows
+	narrator	or above the walls.
+	narrator	And the Knight of the Redlands, arming himself quickly in blood-red armor, with spear, and shield, and horse's trappings of like color
+	narrator	rode forth into a little valley by the castle walls, so that all in the castle, and at the siege
+	narrator	might see the battle.
+	damsel	Be of good cheer,
+	narrator	said the damsel Linet to Sir Beaumains, "for thy deadly enemy now cometh; and at yonder window is my lady and sister
+	narrator	Dame Lyones."
+	sir beaumains	In good sooth, she is the fairest lady I have ever seen, and I would wish no better quarrel than to fight for her.
+	narrator	With that, he looked up to the window, and saw the Lady Lyones, who waved her handkerchief to her sister and to him to cheer
+	narrator	them.
+	narrator	Then called the Knight of the Redlands to Sir Beaumains,
+	knight of the redlands	Leave now thy gazing, Sir knight, and turn to me, for I warn thee that lady is mine.
+	sir beaumains	She loveth none of thy fellowship, but know this, that I love her, and will rescue her from thee, or die.
+	knight of the redlands	Say ye so!
+	sir beaumains	Take ye no warning from those knights that hang on yonder trees?
+	sir beaumains	For shame that thou so boastest! Be sure that sight hath raised a hatred for thee that will not lightly be put out
+	sir beaumains	and given me not fear, but rage.
+	knight of the redlands	Sir knight, defend thyself, for we will talk no longer.
+	narrator	Then did they put their spears in rest, and came together at the fullest speed of their horses
+	narrator	and smote each other in the midst of their shields, so that their horses' harness sundered by the shock
+	narrator	and they fell to the ground.
+	narrator	And both lay there so long time, stunned, that many deemed their necks were broken.
+	narrator	And all men said the strange knight was a strong man, and a noble jouster, for none had ever yet so matched the Knight of
+	narrator	the Redlands.
+	narrator	Then, in a while, they rose, and putting up their shields before them, drew their swords, and fought with fury
+	narrator	running at each other like wild beasts--now striking such buffets that both reeled backwards, now hewing at each other till they shore the harness off
+	narrator	in pieces
+	narrator	and left their bodies naked and unarmed.
+	narrator	And thus they fought till noon was past, when, for a time, they rested to get breath
+	narrator	so sorely staggering and bleeding, that many who beheld them wept for pity.
+	narrator	Then they renewed the battle--sometimes rushing so furiously together, that both fell to the ground, and anon changing swords in their confusion.
+	narrator	Thus they endured, and lashed, and struggled, until eventide, and none who saw knew which was the likeliest to win; for though the Knight of
+	narrator	the Redlands was a wily and subtle warrior
+	narrator	his subtlety made Sir Beaumains wilier and wiser too.
+	narrator	So once again they rested for a little space, and took their helms off to find breath.
+	narrator	But when Sir Beaumains' helm was off, he looked up to Dame Lyones, where she leaned, gazing and weeping
+	narrator	from her window.
+	narrator	And when he saw the sweetness of her smiling, all his heart was light and joyful, and starting up
+	narrator	he bade the Knight of the Redlands make ready.
+	narrator	Then did they lace their helms and fight together yet afresh, as though they had never fought before.
+	narrator	And at the last, the Knight of the Redlands with a sudden stroke smote Sir Beaumains on the hand
+	narrator	so that his sword fell from it, and with a second stroke upon the helm he drove him to the earth.
+	narrator	Then cried aloud the damsel Linet,
+	damsel	Alas! Sir Beaumains, see how my sister weepeth to behold thee fallen!
+	narrator	And when Sir Beaumains heard her words, he sprang upon his feet with strength, and leaping to his sword
+	narrator	he caught it; and with many heavy blows pressed so sorely on the Knight of the Redlands
+	narrator	that in the end he smote his sword from out his hand, and, with a mighty blow upon the head
+	narrator	hurled him upon the ground.
+	narrator	Then Sir Beaumains unlaced his helm, and would have straightway slain him, but the Knight of the Redlands yielded
+	narrator	and prayed for mercy.
+	knight of the redlands	I may not spare thee, because of the shameful death which thou hast given to so many noble knights.
+	knight of the redlands	Yet hold thy hand, Sir knight, and hear the cause. I loved once a fair damsel, whose brother was slain
+	knight of the redlands	as she told me, by a knight of Arthur's court, either Sir Lancelot, or Sir Gawain; and she prayed me
+	knight of the redlands	as I truly loved her, and by the faith of my knighthood, to labor daily in deeds of arms
+	knight of the redlands	till I should meet with him; and to put all knights of the Round Table whom I should overcome to a villainous death. And this
+	knight of the redlands	I swore to her.
+	narrator	Then prayed the earls, and knights, and barons, who stood round Sir Beaumains, to spare the Red Knight's life.
+	sir beaumains	Truly, I am loth to slay him, notwithstanding he hath done such shameful deeds. And inasmuch as what he did was done to please his
+	sir beaumains	lady and to gain her love
+	sir beaumains	I blame him less, and for your sakes I will release him. But on this agreement only shall he hold his life--that straightway he depart
+	sir beaumains	into the castle
+	sir beaumains	and yield him to the lady there, and make her such amends as she shall ask, for all the trespass he hath done upon her
+	sir beaumains	lands; and afterwards
+	sir beaumains	that he shall go unto King Arthur's court, and ask the pardon of Sir Lancelot and Sir Gawain for all the evil he hath done
+	sir beaumains	against them.
+	knight of the redlands	All this, Sir knight, I swear to do,
+	narrator	and therewith he did him homage and fealty.
+	narrator	Then came the damsel Linet to Sir Beaumains and the Knight of the Redlands, and disarmed them
+	narrator	and staunched their wounds.
+	narrator	And when the Knight of the Redlands had made amends for all his trespasses, he departed for the court.
+	narrator	Then Sir Beaumains, being healed of his wounds, armed himself, and took his horse and spear and rode straight to the castle of Dame Lyones
+	narrator	for greatly he desired to see her.
+	narrator	But when he came to the gate they closed it fast, and pulled the drawbridge up.
+	narrator	And as he marveled thereat, he saw the Lady Lyones standing at a window, who said,
+	lady lyones	Go thy way as yet, Sir Beaumains, for thou shalt not wholly have my love until thou be among the worthiest knights of all the
+	lady lyones	world. Go
+	lady lyones	therefore, and labor yet in arms for twelve months more, and then return to me.
+	sir beaumains	Alas! fair lady, I have scarce deserved this of thee, for sure I am that I have bought thy love with all the best blood
+	sir beaumains	in my body.
+	lady lyones	Be not aggrieved, fair knight, for none of thy service is forgot or lost. Twelve months will soon be passed in noble deeds; and trust
+	lady lyones	that to my death I shall love thee and not another.
+	narrator	With that she turned and left the window.
+	narrator	So Sir Beaumains rode away from the castle very sorrowful at heart, and rode he knew not whither
+	narrator	and lay that night in a poor man's cottage.
+	narrator	On the morrow he went forward, and came at noon to a broad lake, and thereby he alighted
+	narrator	being very sad and weary, and rested his head upon his shield, and told his dwarf to keep watch while he slept.
+	narrator	Now, as soon as he had departed, the Lady Lyones repented, and greatly longed to see him back
+	narrator	and asked her sister many times of what lineage he was; but the damsel would not tell her
+	narrator	being bound by her oath to Sir Beaumains, and said his dwarf best knew.
+	narrator	So she called Sir Gringamors, her brother, who dwelt with her, and prayed him to ride after Sir Beaumains till he found him sleeping
+	narrator	and then to take his dwarf away and bring him back to her.
+	narrator	Anon Sir Gringamors departed, and rode till he came to Sir Beaumains, and found him as he lay sleeping by the water-side.
+	narrator	Then stepping stealthily behind the dwarf he caught him in his arms and rode off in haste.
+	narrator	And though the dwarf cried loudly to his lord for help, and woke Sir Beaumains, yet, though he rode full quickly after him
+	narrator	he could not overtake Sir Gringamors.
+	narrator	When Dame Lyones saw her brother come back, she was passing glad of heart, and forthwith asked the dwarf his master's lineage.
+	dwarf	He is a king's son, and his mother is King Arthur's sister. His name is Sir Gareth of Orkney
+	dwarf	and he is brother to the good knight, Sir Gawain. But I pray you suffer me to go back to my lord
+	dwarf	for truly he will never leave this country till he have me again.
+	narrator	But when the Lady Lyones knew her deliverer was come of such a kingly stock, she longed more than ever to see him again.
+	narrator	Now as Sir Beaumains rode in vain to rescue his dwarf, he came to a fair green road and met a poor man of the
+	narrator	country
+	narrator	and asked him had he seen a knight on a black horse, riding with a dwarf of a sad countenance behind him.
+	poor man	Yea, said the man, I met with such a knight an hour agone, and his name is Sir Gringamors. He liveth at a castle two
+	poor man	miles from hence; but he is a perilous knight
+	poor man	and I counsel ye not to follow him save ye bear him goodwill.
+	narrator	Then Sir Beaumains followed the path which the poor man showed him, and came to the castle.
+	narrator	And riding to the gate in great anger, he drew his sword, and cried aloud,
+	sir beaumains	Sir Gringamors, thou traitor! deliver me my dwarf again, or by my knighthood it shall be ill for thee!
+	narrator	Then Sir Gringamors looked out of a window and said,
+	sir gringamors	Sir Gareth of Orkney, leave thy boasting words, for thou wilt not get thy dwarf again.
+	narrator	But the Lady Lyones said to her brother,
+	lady lyones	Nay, brother, but I will that he have his dwarf, for he hath done much for me
+	lady lyones	and delivered me from the Knight of the Redlands, and well do I love him above all other knights.
+	narrator	So Sir Gringamors went down to Sir Gareth and cried him mercy, and prayed him to alight and take good cheer.
+	narrator	Then he alighted, and his dwarf ran to him.
+	narrator	And when he was in the hall came the Lady Lyones dressed royally like a princess.
+	narrator	And Sir Gareth was right glad of heart when he saw her.
+	lady lyones	Then she told him how she had made her brother take away his dwarf and bring him back to her.
+	lady lyones	And then she promised him her love, and faithfully to cleave to him and none other all the days of her life.
+	narrator	And so they plighted their troth to each other.
+	narrator	Then Sir Gringamors prayed him to sojourn at the castle, which willing he did.
+	sir gareth of orkney	For," said he, "I have promised to quit the court for twelve months, though sure I am that in the meanwhile I shall be sought
+	sir gareth of orkney	and found by my lord King Arthur and many others.
+	narrator	So he sojourned long at the castle.
+	narrator	Anon the knights, Sir Perseant, Sir Perimones, and Sir Pertolope, whom Sir Gareth had overthrown, went to King Arthur's court with all the knights who
+	narrator	did them service
+	narrator	and told the king they had been conquered by a knight of his named Beaumains.
+	narrator	And as they yet were talking, it was told the king there came another great lord with five hundred knights
+	narrator	who, entering in, did homage, and declared himself to be the Knight of the Redlands.
+	knight of the redlands	But my true name," said he, "is Ironside, and I am hither sent by one Sir Beaumains
+	knight of the redlands	who conquered me, and charged me to yield unto your grace.
+	king arthur	Thou art welcome," said King Arthur, "for thou hast been long a foe to me and mine
+	king arthur	and truly I am much beholden to the knight who sent thee. And now, Sir Ironside, if thou wilt amend thy life and hold of
+	king arthur	me
+	king arthur	I will entreat thee as a friend, and make thee Knight of the Round Table; but thou mayst no more be a murderer of noble
+	king arthur	knights.
+	knight of the redlands	Then the Knight of the Redlands knelt to the king, and told him of his promise to Sir Beaumains to use never more such shameful
+	knight of the redlands	customs; and how he had so done but at the prayer of a lady whom he loved.
+	knight of the redlands	Then knelt he to Sir Lancelot and Sir Gawain, and prayed their pardon for the hatred he had borne them.
+	narrator	But the king and all the court marveled greatly who Sir Beaumains was.
+	king arthur	For," said the king, "he is a full noble knight.
+	sir lancelot	Truly he is come of honorable blood, else had I not given him the order of knighthood; but he charged me that I should conceal
+	sir lancelot	his secret.
+	narrator	Now as they talked thus it was told King Arthur that his sister, the Queen of Orkney
+	narrator	was come to the court with a great retinue of knights and ladies.
+	narrator	Then was there great rejoicing, and the king rose and saluted his sister.
+	narrator	And her sons, Sir Gawain, Sir Agravain, and Sir Gaheris knelt before her and asked her blessing
+	narrator	for during fifteen years last past they had not seen her.
+	queen of orkney	Anon she said, "Where is my youngest son, Sir Gareth? for I know that he was here a twelve-month with you
+	queen of orkney	and that ye made a kitchen knave of him.
+	narrator	Then the king and all the knights knew that Sir Beaumains and Sir Gareth were the same.
+	king arthur	Truly," said the king, "I knew him not.
+	sir gawain	Nor I," said Sir Gawain and both his brothers.
+	king arthur	Then said the king, "God be thanked, fair sister, that he is proved as worshipful a knight as any now alive
+	king arthur	and by the grace of Heaven he shall be found forthwith if he be anywhere within these seven realms.
+	sir gawain	Lord, if ye will give us leave we will go seek him.
+	sir lancelot	It were better that the king should send a messenger to Dame Lyones and pray her to come hither with all speed
+	sir lancelot	and she will counsel where ye shall find him.
+	king arthur	It is well said," replied the king; and sent a messenger quickly unto Dame Lyones.
+	narrator	When she heard the message she promised she would come forthwith, and told Sir Gareth what the messenger had said
+	narrator	and asked him what to do.
+	sir gareth of orkney	I pray you," said he, "tell them not where I am, but when my lord King Arthur asketh for me
+	sir gareth of orkney	advise him thus--that he proclaim a tournament before this castle on Assumption Day, and that the knight who proveth best shall win yourself and all
+	sir gareth of orkney	your lands.
+	narrator	So the Lady Lyones departed and came to King Arthur's court, and there was right nobly welcomed.
+	narrator	And when they asked her where Sir Gareth was, she said she could not tell.
+	lady lyones	But, lord," said she, "with thy goodwill I will proclaim a tournament before my castle on the Feast of the Assumption
+	lady lyones	whereof the prize shall be myself and all my lands. Then if it be proclaimed that you
+	lady lyones	lord, and your knights will be there, I will find knights on my side to fight you and yours
+	lady lyones	and thus am I sure ye will hear tidings of Sir Gareth.
+	king arthur	Be it so done," replied the king.
+	narrator	So Sir Gareth sent messengers privily to Sir Perseant and Sir Ironside, and charged them to be ready on the day appointed
+	narrator	with their companies of knights to aid him and his party against the king.
+	narrator	And when they were arrived he said, "Now be ye well assured that we shall be matched with the best knights of the world
+	narrator	and therefore must we gather all the good knights we can find."
+	narrator	So proclamation was made throughout all England, Wales, Scotland, Ireland, and Cornwall, and in the out isles and other countries
+	narrator	that at the Feast of the Assumption of our Lady, next coming, all knights who came to joust at Castle Perilous should make choice whether
+	narrator	they would side with the king or with the castle.
+	narrator	Then came many good knights on the side of the castle.
+	narrator	Sir Epinogris, the son of the King of Northumberland, and Sir Palomedes the Saracen, and Sir Grummore Grummorsum
+	narrator	a good knight of Scotland, and Sir Brian des Iles, a noble knight, and Sir Carados of the Tower Dolorous
+	narrator	and Sir Tristram, who as yet was not a knight of the Round Table, and many others.
+	narrator	But none among them knew Sir Gareth, for he took no more upon him than any mean person.
+	narrator	And on King Arthur's side there came the King of Ireland and the King of Scotland, the noble prince Sir Galahaut
+	narrator	Sir Gawain and his brothers Sir Agravain and Sir Gaheris, Sir Ewaine, Sir Tor, Sir Perceval, and Sir Lamoracke
+	narrator	Sir Lancelot also and his kindred, Sir Lionel, Sir Ector, Sir Bors and Sir Bedivere, likewise Sir Key and the most part of the Table
+	narrator	Round.
+	narrator	The two queens also, Queen Guinevere and the Queen of Orkney, Sir Gareth's mother, came with the king.
+	narrator	So there was a great array both within and without the castle, with all manner of feasting and minstrelsy.
+	narrator	Now before the tournament began, Sir Gareth privily prayed Dame Lyones, Sir Gringamors, Sir Ironside, and Sir Perseant
+	narrator	that they would in nowise disclose his name, nor make more of him than of any common knight.
+	dame lyones	Dear lord, I pray thee take this ring, which hath the power to change the wearer's clothing into any color he may will
+	dame lyones	and guardeth him from any loss of blood. But give it me again, I pray thee, when the tournament is done
+	dame lyones	for it greatly increaseth my beauty whensoever I wear it.
+	sir gareth of orkney	Gramercy, mine own lady, I wished for nothing better, for now I may be certainly disguised as long as I will.
+	narrator	Then Sir Gringamors gave Sir Gareth a bay courser that was a passing good horse, with sure armor
+	narrator	and a noble sword, won by his father from a heathen tyrant.
+	narrator	And then every knight made him ready for the tournament.
+	narrator	So on the day of the Assumption, when mass and matins were said, the heralds blew their trumpets and sounded for the tourney.
+	narrator	Anon came out the knights of the castle and the knights of King Arthur, and matched themselves together.
+	narrator	Then Sir Epinogris, son of the King of Northumberland, a knight of the castle, encountered Sir Ewaine
+	narrator	and both broke off their spears short to their hands.
+	narrator	Then came Sir Palomedes from the castle, and met Sir Gawain, and they so hardly smote each other
+	narrator	that both knights and horses fell to the earth.
+	narrator	Then Sir Tristram, from the castle, encountered with Sir Bedivere, and smote him to the earth, horse and man.
+	narrator	Then the Knight of the Redlands and Sir Gareth met with Sir Bors and Sir Bleoberis; and the Knight of the Redlands and Sir Bors
+	narrator	smote together so hard that their spears burst
+	narrator	and their horses fell groveling to the ground.
+	narrator	And Sir Bleoberis brake his spear upon Sir Gareth, but himself was hurled upon the ground.
+	narrator	When Sir Galihodin saw that, he bade Sir Gareth keep him, but Sir Gareth lightly smote him to the earth.
+	narrator	Then Sir Galihud got a spear to avenge his brother, but was served in like manner.
+	narrator	And Sir Dinadam, and his brother La-cote-male-taile, and Sir Sagramour le Desirous, and Dodinas le Savage, he bore down all with one spear.
+	narrator	When King Anguish of Ireland saw this, he marveled what that knight could be who seemed at one time green and at another blue; for
+	narrator	so at every course he changed his color that none might know him.
+	narrator	Then he ran towards him and encountered him, and Sir Gareth smote the king from his horse
+	narrator	saddle and all.
+	narrator	And in like manner he served the King of Scotland, and King Urience of Gore, and King Bagdemagus.
+	narrator	Then Sir Galahaut, the noble prince, cried out, "Knight of the many colors! thou hast jousted well; now make thee ready to joust with me."
+	narrator	When Sir Gareth heard him
+	narrator	he took a great spear and met him swiftly.
+	narrator	And the prince's spear broke off, but Sir Gareth smote him on the left side of the helm
+	narrator	so that he reeled here and there, and had fallen down had not his men recovered him.
+	king arthur	By my faith, that knight of the many colors is a good knight. I pray thee, Sir Lancelot du Lake, encounter with him.
+	sir lancelot	Lord, by thy leave I will forbear. I find it in my heart to spare him at this time
+	sir lancelot	for he hath done enough work for one day; and when a good knight doth so well it is no knightly part to hinder him
+	sir lancelot	from this honor. And peradventure his quarrel is here to-day
+	sir lancelot	and he may be the best beloved of the Lady Lyones of all that be here; for I see well he paineth and forceth himself
+	sir lancelot	to do great deeds. Therefore
+	sir lancelot	as for me, this day he shall have the honor; for though I were able to put him from it
+	sir lancelot	I would not.
+	king arthur	You speak well and truly,
+	narrator	said the king.
+	narrator	Then after the tilting, they drew swords, and there began a great tournament, and there Sir Lancelot did marvelous deeds of arms
+	narrator	for first he fought with both Sir Tristram and Sir Carados, albeit they were the most perilous in all the world.
+	narrator	Then came Sir Gareth and put them asunder, but would not smite a stroke against Sir Lancelot
+	narrator	for by him he had been knighted.
+	narrator	Anon Sir Gareth's helm had need of mending, and he rode aside to see to it and to drink water
+	narrator	for he was sore athirst with all his mighty feats of strength.
+	narrator	And while he drank, his dwarf said to him, "Give me your ring, lest ye lose it while ye drink." So Sir Gareth took it
+	narrator	off.
+	narrator	And when he had finished drinking, he rode back eagerly to the field, and in his haste forgot to take the ring again.
+	narrator	Then all the people saw that he wore yellow armor.
+	narrator	And King Arthur told a herald, "Ride and espy the cognizance of that brave knight, for I have asked many who he is
+	narrator	and none can tell me."
+	narrator	Then the herald rode near, and saw written round about his helmet in letters of gold, "Sir Gareth of Orkney." And instantly the herald cried
+	narrator	his name aloud
+	narrator	and all men pressed to see him.
+	narrator	But when he saw he was discovered, he pushed with haste through all the crowd, and cried to his dwarf
+	narrator	"Boy, thou hast beguiled me foully in keeping my ring; give it me again, that I may be hidden." And as soon as he had
+	narrator	put it on
+	narrator	his armor changed again, and no man knew where he had gone.
+	narrator	Then he passed forth from the field; but Sir Gawain, his brother, rode after him.
+	narrator	And when Sir Gareth had ridden far into the forest, he took off his ring, and sent it back by the dwarf to the Lady
+	narrator	Lyones
+	narrator	praying her to be true and faithful to him while he was away.
+	narrator	Then rode Sir Gareth long through the forest, till night fell, and coming to a castle he went up to the gate
+	narrator	and prayed the porter to let him in.
+	porter	that he should not lodge there.
+	sir gareth of orkney	Tell thy lord and lady that I am a knight of King Arthur's court, and for his sake I pray their shelter.
+	narrator	With that the porter went to the duchess who owned the castle.
+	duchess	Let him in straightway; for the king's sake he shall not be harborless!
+	narrator	and went down to receive him.
+	sir gareth of orkney	Fair lady, I pray you give me shelter for this night, and if there be here any champion or giant with whom I must needs
+	sir gareth of orkney	fight
+	sir gareth of orkney	spare me till to-morrow, when I and my horse shall have rested, for we are full weary.
+	duchess	Sir knight, thou speakest boldly; for the lord of this castle is a foe to King Arthur and his court
+	duchess	and if thou wilt rest here to-night thou must agree, that wheresoever thou mayest meet my lord
+	duchess	thou must yield to him as a prisoner.
+	sir gareth of orkney	What is thy lord's name, lady?
+	duchess	The Duke de la Rowse.
+	sir gareth of orkney	I will promise thee, to yield to him, if he promise to do me no harm; but if he refuse
+	sir gareth of orkney	I will release myself with my sword and spear.
+	duchess	It is well,
+	narrator	said the duchess; and commanded the drawbridge to be let down.
+	narrator	So he rode into the hall and alighted.
+	narrator	And when he had taken off his armor, the duchess and her ladies made him passing good cheer.
+	narrator	And after supper his bed was made in the hall, and there he rested that night.
+	narrator	On the morrow he rose and heard mass, and having broken his fast, took his leave and departed.
+	narrator	And as he rode past a certain mountain there met him a knight named Sir Bendelaine, and cried unto him
+	narrator	"Thou shalt not pass unless thou joust with me or be my prisoner!"
+	sir bendelaine	Thou shalt not pass unless thou joust with me or be my prisoner!
+	sir gareth of orkney	Then will we joust.
+	narrator	So they let their horses run at full speed, and Sir Gareth smote Sir Bendelaine through his body so sorely that he scarcely reached his
+	narrator	castle ere he fell dead.
+	narrator	And as Sir Gareth presently came by the castle, Sir Bendelaine's knights and servants rode out to revenge their lord.
+	narrator	And twenty of them fell on him at once, although his spear was broken.
+	narrator	But drawing his sword he put his shield before him.
+	narrator	And though they brake their spears upon him, one and all, and sorely pressed on him, yet ever he defended himself like a noble knight.
+	narrator	Anon, finding they could not overcome him, they agreed to slay his horse; and having killed it with their spears
+	narrator	they set upon Sir Gareth as he fought on foot.
+	narrator	But every one he struck he slew, and drave at them with fearful blows, till he had slain them all but four
+	narrator	who fled.
+	narrator	Then taking the horse of one of those that lay there dead, he rode upon his way.
+	narrator	Anon he came to another castle and heard from within a sound as of many women moaning and weeping.
+	narrator	Then said he to a page who stood without, "What noise is this I hear?"
+	sir gareth of orkney	What noise is this I hear?
+	page	Sir knight, there be within thirty ladies, the widows of thirty knights who have been slain by the lord of this castle.
+	page	He is called the Brown Knight without pity, and is the most perilous knight living, wherefore I warn thee to flee.
+	sir gareth of orkney	That will I never do, for I fear him not.
+	narrator	Then the page saw the Brown Knight coming and said to Gareth, "Lo! my lord is near."
+	narrator	So both knights made them ready and galloped their horses towards each other, and the Brown Knight brake his spear upon Sir Gareth's shield;
+	narrator	but Sir Gareth smote him through the body so that he fell dead.
+	narrator	At that he rode into the castle and told the ladies he had slain their foe.
+	narrator	Then were they right glad of heart and made him all the cheer they could, and thanked him out of measure.
+	narrator	But on the morrow as he went to mass he found the ladies weeping in the chapel upon divers tombs that were there.
+	narrator	And he knew that in those tombs their husbands lay.
+	sir gareth of orkney	Then he bade them be comforted, and with noble and high words he desired and prayed them all to be at Arthur's court on the
+	sir gareth of orkney	next Feast of Pentecost.
+	narrator	So he departed and rode past a mountain where was a goodly knight waiting, who said to him
+	knight of the redlands	Abide, Sir knight, and joust with me!
+	sir gareth of orkney	How are ye named?
+	knight of the redlands	I am the Duke de la Rowse.
+	sir gareth of orkney	In good sooth, not long ago I lodged within your castle, and there promised I would yield to you whenever we might meet.
+	duke de la rowse	Art thou that proud knight, who was ready to fight with me? Guard thyself therefore and make ready.
+	narrator	So they ran together, and Sir Gareth smote the duke from his horse.
+	narrator	Then they alighted and drew their swords, and fought full sorely for the space of an hour; and at the last Sir Gareth smote the
+	narrator	duke to the earth and would have slain him
+	narrator	but he yielded.
+	sir gareth of orkney	Then must ye go, to my lord King Arthur at the next Feast of Pentecost and say that I, Sir Gareth, sent ye.
+	duke de la rowse	As ye will be it,
+	narrator	and gave him up his shield for pledge.
+	narrator	And as Sir Gareth rode alone he saw an armed knight coming towards him.
+	narrator	And putting the duke's shield before him he rode fast to tilt with him;
+	narrator	and so they ran together as it had been thunder, and brake their spears
+	narrator	upon each other.
+	narrator	Then fought they fiercely with their swords, and lashed
+	narrator	together with such mighty strokes that blood ran to the ground on every
+	narrator	side.
+	narrator	And after they had fought together for two hours and more, it
+	narrator	chanced the damsel Linet passed that way; and when she saw them, she
+	linet	Sir Gawain and Sir Gareth, leave your fighting, for ye are brethren!
+	narrator	At that they threw away their shields and swords, and took each other in
+	narrator	their arms, and wept a great while ere they could speak.
+	narrator	And each gave to the other the honor of the battle, and there was many a
+	narrator	kind word between them.
+	narrator	Then said Sir Gawain, "O my brother, for your
+	sir gawain	sake have I had great sorrow and labor! But truly I would honor you
+	sir gawain	though ye were not my brother, for ye have done great worship to King
+	sir gawain	Arthur and his court, and sent more knights to him than any of the Table
+	sir gawain	Round, except Sir Lancelot.
+	narrator	Then the damsel Linet staunched their wounds, and their horses being
+	narrator	weary she rode her palfrey to King Arthur and told him of this strange
+	narrator	adventure.
+	narrator	When she had told her tidings, the king himself mounted his
+	narrator	horse and bade all come with him to meet them.
+	narrator	So a great company of
+	narrator	lords and ladies went forth to meet the brothers.
+	narrator	And when King Arthur
+	narrator	saw them he would have spoken hearty words, but for gladness he could
+	narrator	not.
+	narrator	And both Sir Gawain and Sir Gareth fell down at their uncle's knees
+	narrator	and did him homage, and there was passing great joy and gladness among
+	narrator	them all.
+	narrator	Then said the king to the damsel Linet, "Why cometh not the Lady Lyones
+	narrator	to visit her knight, Sir Gareth, who hath had such travail for her
+	narrator	love?"
+	narrator	"She knoweth not, my lord, that he is here," replied the damsel,
+	narrator	"for truly she desireth greatly to see him." "Go ye and bring her
+	narrator	hither," said the king. So the damsel rode to tell her sister where Sir
+	narrator	Gareth was, and when she heard it she rejoiced full heartily and came
+	narrator	with all the speed she could.
+	narrator	And when Sir Gareth saw her, there was
+	narrator	great joy and comfort between them.
+	narrator	Then the king asked Sir Gareth whether he would have that lady for his
+	narrator	wife?
+	narrator	"My lord," replied Sir Gareth, "know well that I love her above
+	sir gareth of orkney	all ladies living." "Now, fair lady," said King Arthur, "what say ye?
+	narrator	"Most noble king," she answered, "my lord, Sir Gareth, is my first love
+	narrator	and shall be my last, and if I may not have him for my husband I will
+	narrator	have none."
+	narrator	Then said the king to them, "Be well assured that for my
+	narrator	crown I would not be the cause of parting your two hearts."
+	narrator	Then was high preparation made for the marriage, for the king desired it
+	narrator	should be at the Michaelmas next following, at Kinkenadon-by-the-Sea.
+	narrator	So Sir Gareth sent out messages to all the knights whom he had overcome
+	narrator	in battle that they should be there upon his marriage-day.
+	narrator	Therefore, at the next Michaelmas, came a goodly company to
+	narrator	Kinkenadon-by-the-Sea.
+	narrator	And there did the Archbishop of Canterbury marry
+	narrator	Sir Gareth and the Lady Lyones with all solemnity.
+	narrator	And all the knights
+	narrator	whom Sir Gareth had overcome were at the feast; and every manner of
+	narrator	revels and games was held with music and minstrelsy.
+	narrator	And there was a
+	narrator	great jousting for three days.
+	narrator	But because of his bride the king would
+	narrator	not suffer Sir Gareth to joust.
+	narrator	Then did King Arthur give great lands
+	narrator	and fair, with store of gold, to Sir Gareth and his wife, that so they
+	narrator	might live royally together to their lives' end.

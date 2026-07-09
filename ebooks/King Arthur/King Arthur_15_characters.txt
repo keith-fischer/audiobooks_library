@@ -1,0 +1,16 @@
+Sir Lancelot	male	The central knight of the Round Table, renowned for his prowess in battle and his affair with Queen Guinevere. He is portrayed as a noble but flawed hero who becomes embroiled in a war with King Arthur due to his relationship with the queen.
+King Arthur	male	The rightful king of Britain, leader of the Round Table knights. He is torn between his love for Lancelot and his duty to uphold honor, ultimately leading to a devastating civil war.
+Queen Guinevere	female	The queen of Britain and wife of King Arthur. She is the catalyst for much of the conflict, accused of dishonoring her husband and ultimately rescued by Lancelot.
+Sir Gawain	male	King Arthur's nephew and a knight of the Round Table. He becomes Lancelot's sworn enemy after believing Lancelot killed his brothers Sir Gareth and Sir Gaheris in battle.
+*Sir Agravaine	male	A knight of the Round Table and brother of Sir Gawain. He is killed by Lancelot during a confrontation in the queen's chamber.
+*Sir Modred	male	King Arthur's son by Belisent, and the illegitimate brother of Sir Gawain. He becomes a traitor who usurps the throne from Arthur.
+*Sir Bors	male	A knight of the Round Table and Lancelot's close friend. He supports Lancelot in his battles against Arthur's forces.
+*Sir Lavaine	*male	A knight of the Round Table and Lancelot's friend. He is mentioned as one of the faithful friends who will protect Queen Guinevere.
+*Sir Chalaunce	*male	A knight who attacks Lancelot in the queen's chamber and is killed by him during the confrontation.
+*Sir Gareth	male	A knight of the Round Table and brother of Sir Gawain. He is accidentally killed by Lancelot during a rescue attempt.
+*Sir Gaheris	male	A knight of the Round Table and brother of Sir Gawain. He is accidentally killed by Lancelot during a rescue attempt.
+*Sir Lionel	*male	A knight of the Round Table who is overthrown by Sir Gawain in battle.
+*Sir Blamor	*male	A knight of the Round Table who fights alongside Lancelot against King Arthur's forces.
+*Sir Palomedes	*male	A knight of the Round Table who fights alongside Lancelot against King Arthur's forces.
+Sir Lucan	*male	A knight of the Round Table who remains loyal to King Arthur until his death in battle.
+Sir Bedivere	*male	A knight of the Round Table who serves as Arthur's loyal companion and helper in his final moments.

@@ -1,0 +1,46 @@
+King Arthur	male	The king of Camelot, holding the Feast of Pentecost and ruling the Table Round. He grants knights' requests and is a central figure in the court's affairs.
+Beaumains	*male	A kitchen servant who becomes Sir Gareth of Orkney, a noble knight. He is strong and brave, having overcome many knights including Sir Key, Sir Lancelot, the Black Knight, Green Knight, Red Knight, and others.
+Sir Gawain	male	A knight of the Round Table and brother to Sir Gareth. He recognizes Beaumains as his younger brother Gareth.
+Sir Lancelot	male	A knight of the Round Table who knights Beaumains and is a key figure in Arthur's court.
+Sir Key	male	A knight who mistreats Beaumains in the kitchen but is later defeated by him.
+Damsel	*female	A young woman who seeks help for her lady, the Lady Lyones. She is initially skeptical of Beaumains but later shows respect.
+Lady Lyones	*female	The lady besieged by the Red Knight, who is later rescued by Sir Gareth. She falls in love with him and becomes his wife.
+Knight of the Redlands	*male	The tyrant who besieges Lady Lyones. He is later revealed to be Sir Ironside, a knight seeking revenge for his lady's brother.
+Sir Gareth of Orkney	*male	The true identity of Beaumains, revealed to be the youngest brother of Sir Gawain and son of King Lot.
+Sir Perseant	*male	A knight who is defeated by Sir Gareth and later becomes his ally.
+*Sir Pertolope	*male	The Green Knight who is defeated by Sir Gareth.
+*Sir Perimones	*male	The Red Knight who is defeated by Sir Gareth.
+Sir Gringamors	*male	The brother of Lady Lyones who initially tries to prevent Sir Gareth from seeing her but later becomes his ally.
+*Sir Brian des Iles	*male	A noble knight who joins the tournament against King Arthur.
+*Sir Tristram	*male	A knight who joins the tournament against King Arthur.
+*Sir Palomedes	*male	A Saracen knight who joins the tournament against King Arthur.
+*Sir Grummore Grummorsum	*male	A knight from Scotland who joins the tournament against King Arthur.
+*Sir Carados	*male	A knight who joins the tournament against King Arthur.
+*Sir Ewaine	*male	A knight of the Round Table who participates in the tournament.
+*Sir Tor	*male	A knight of the Round Table who participates in the tournament.
+*Sir Perceval	*male	A knight of the Round Table who participates in the tournament.
+*Sir Lamoracke	*male	A knight of the Round Table who participates in the tournament.
+*Sir Lionel	*male	A knight of the Round Table who participates in the tournament.
+*Sir Ector	*male	A knight of the Round Table who participates in the tournament.
+*Sir Bors	*male	A knight of the Round Table who participates in the tournament.
+*Sir Bedivere	*male	A knight of the Round Table who participates in the tournament.
+*Sir Epinogris	*male	A knight from Northumberland who joins the tournament against King Arthur.
+*Sir Bleoberis	*male	A knight who joins the tournament against King Arthur.
+*Sir Galahaut	*male	A noble prince who joins the tournament against King Arthur.
+*Sir Agravain	*male	A brother of Sir Gawain and a knight of the Round Table.
+*Sir Gaheris	*male	A brother of Sir Gawain and a knight of the Round Table.
+*Queen Guinevere	*female	The queen of Camelot and wife to King Arthur.
+Queen of Orkney	*female	The mother of Sir Gareth and sister to King Arthur.
+Sir Bendelaine	*male	A knight who challenges Sir Gareth to a joust.
+*The Brown Knight	*male	A perilous knight who slays thirty knights and is defeated by Sir Gareth.
+Duke de la Rowse	*male	A knight who is defeated by Sir Gareth and later becomes his prisoner.
+Linet	*female	The damsel who initially mocks Sir Gareth but later becomes his ally and sister to Lady Lyones.
+*Sir Galihodin	*male	A knight who joins the tournament against King Arthur.
+*Sir Dinadam	*male	A knight who joins the tournament against King Arthur.
+*La-cote-male-taile	*male	A knight who joins the tournament against King Arthur.
+*Sir Sagramour le Desirous	*male	A knight who joins the tournament against King Arthur.
+*Dodinas le Savage	*male	A knight who joins the tournament against King Arthur.
+*King Anguish of Ireland	*male	A king who joins the tournament against King Arthur.
+*King of Scotland	*male	A king who joins the tournament against King Arthur.
+*King Urience of Gore	*male	A king who joins the tournament against King Arthur.
+*King Bagdemagus	*male	A king who joins the tournament against King Arthur.

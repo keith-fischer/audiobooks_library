@@ -1,4 +1,0 @@
-Jonathan Harker	male	A solicitor's clerk who has just passed his examination and is traveling to Transylvania to explain the purchase of a London estate to Count Dracula. He is observant, thoughtful, and increasingly uneasy about his situation at the castle.
-Count Dracula	male	A nobleman from Transylvania who owns the castle where Jonathan Harker is staying. He is described as having a strong, aquiline face with sharp features and pale skin. He speaks English well but wants to improve his pronunciation, and he appears to be a master of the castle with many secrets.
-Peter Hawkins	male	A friend of Count Dracula who is in Exeter and has sent Jonathan Harker to arrange the purchase of a London estate for Dracula. He is described as being in Exeter and working with Jonathan Harker on legal matters.
-The Driver	*male	A strong man who drives Jonathan Harker to the castle. He is described as having prodigious strength and a cold, icy hand that seems like ice.

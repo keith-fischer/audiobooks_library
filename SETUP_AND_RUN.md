@@ -153,6 +153,7 @@ python main.py [story] [--model NAME] [--narrator NAME]
 | `--map` | like `--no-audio`, then print the `voice_mapper` command + deep link | `python main.py "Dracula.txt" --map` |
 | `--check` | audit existing scripts vs chapter text (offline; CI-friendly exit code) | `python main.py "Dracula.txt" --check` |
 | `--validate` | print the project validation report only (offline) | `python main.py "Dracula.txt" --validate` |
+| `--reconcile` | reconcile the character mapping ↔ scripts: per-character line counts + unmapped/silent/mis-starred issues + PASS/FAIL (offline) | `python main.py "Dracula.txt" --reconcile` |
 | `--force` | reprocess everything, ignore cached chapter/script/MP3 files | `python main.py "Dracula.txt" --force` |
 | `--no-vb-restart` | don't auto-restart Voicebox on a connection failure | `python main.py "Dracula.txt" --audio-only --no-vb-restart` |
 | `--no-log` | don't tee output to `stories/<base>/run_<datetime>.log` | `python main.py "Dracula.txt" --no-log` |
@@ -340,7 +341,7 @@ LM Studio / Voicebox addresses are constants in `llm_client.py` (`base_url`) and
 | `aborted: LLM server unavailable` | LM Studio not serving on 1234 — start its server; check `curl :1234/v1/models`. |
 | `Voicebox API not reachable` | Voicebox app/backend down — launch it; `curl :17493/health`. The run also tries an auto-restart unless `--no-vb-restart`. |
 | Chapters end with `(no mp3) … incomplete` | some lines failed to render — re-run `--audio-only`; per-line retries + repair sweeps fill gaps. Persisting? check Voicebox health. The post-run **ISSUES TO FIX** report lists the exact missing lines. |
-| Voicebox fails on a long speech | every script line is auto-capped at 25 words (comma-after-16, then hard-25) and the script file is rewritten before audio; if you'd already rendered long-line MP3s, re-run with `--force` to pick up the split. |
+| Voicebox fails on a long speech | script lines are auto-flowed before audio — a line breaks on natural punctuation once past 16 words (optimum ~25) and is force-broken at 50 words — and the script file is rewritten in place; the reflow changes lines and re-triggers rendering, so just re-run (or `--force`). |
 | Audio run skips everything | old chapter MP3s exist — add `--force` to re-render. |
 | `book stitch: skipped — N chapter MP3(s) missing` | not all chapters rendered yet; finish them, then the book stitches automatically. |
 | `ffmpeg not found` | install ffmpeg (`brew install ffmpeg`); without it MP3s can't be written. |

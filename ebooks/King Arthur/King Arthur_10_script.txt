@@ -1,0 +1,556 @@
+	narrator	Then, at the following Pentecost, was held a feast of the Round Table at Caerleon, with high splendor; and all the knights thereof resorted to
+	narrator	the court
+	narrator	and held many games and jousts.
+	narrator	And therein Sir Lancelot increased in fame and worship above all men, for he overthrew all comers
+	narrator	and never was unhorsed or worsted, save by treason and enchantment.
+	narrator	When Queen Guinevere had seen his wondrous feats, she held him in great favor, and smiled more on him than on any other knight.
+	narrator	And ever since he first had gone to bring her to King Arthur, had Lancelot thought on her as fairest of all ladies
+	narrator	and done his best to win her grace.
+	narrator	So the queen often sent for him, and bade him tell of his birth and strange adventures: how he was only son of great King
+	narrator	Ban of Brittany
+	narrator	and how, one night, his father, with his mother Helen and himself, fled from his burning castle; how his father
+	narrator	groaning deeply, fell to the ground and died of grief and wounds, and how his mother, running to her husband
+	narrator	left himself alone; how, as he thus lay wailing, came the lady of the lake, and took him in her arms and went with him
+	narrator	into the midst of the waters
+	narrator	where, with his cousins Lionel and Bors, he had been cherished all his childhood until he came to King Arthur's court; and how this was
+	narrator	the reason why men called him Lancelot du Lake.
+	narrator	Anon it was ordained by King Arthur, that in every year at Pentecost there should be held a festival of all the knights of the
+	narrator	Round Table at Caerleon
+	narrator	or such other place as he should choose.
+	narrator	And at those festivals should be told publicly the most famous adventures of any knight during the past year.
+	narrator	So, when Sir Lancelot saw Queen Guinevere rejoiced to hear his wanderings and adventures, he resolved to set forth yet again
+	narrator	and win more worship still, that he might more increase her favor.
+	narrator	Then he bade his cousin Sir Lionel make ready, "for," said he, "we two will seek adventure." So they mounted their horses--armed at all points--and
+	narrator	rode into a vast forest; and when they had passed through it
+	narrator	they came to a great plain, and the weather being very hot about noontide, Sir Lancelot greatly longed to sleep.
+	narrator	Then Sir Lionel espied a great apple-tree standing by a hedge, and said, "Brother, yonder is a fair shadow where we may rest ourselves and
+	narrator	horses."
+	sir lancelot	I am full glad of it,
+	narrator	said Sir Lancelot, "for all these seven years I have not been so sleepy."
+	narrator	So they alighted there, and tied their horses up to sundry trees; and Sir Lionel waked and watched while Sir Lancelot fell asleep
+	narrator	and slept passing fast.
+	narrator	In the meanwhile came three knights, riding as fast flying as ever they could ride, and after them followed a single knight; but when Sir
+	narrator	Lionel looked at him
+	narrator	he thought he had never seen so great and strong a man, or so well furnished and appareled.
+	narrator	Anon he saw him overtake the last of those who fled, and smite him to the ground; then came he to the second
+	narrator	and smote him such a stroke that horse and man went to the earth; then rode he to the third
+	narrator	likewise, and struck him off his horse more than a spear's length.
+	narrator	With that he lighted from his horse, and bound all three knights fast with the reins of their own bridles.
+	narrator	When Sir Lionel saw this he thought the time was come to prove himself against him, so quietly and cautiously
+	narrator	lest he should wake Sir Lancelot, he took his horse and mounted and rode after him.
+	narrator	Presently overtaking him, he cried aloud to him to turn, which instantly he did, and smote Sir Lionel so hard that horse and man went
+	narrator	down forthwith.
+	narrator	Then took he up Sir Lionel, and threw him bound over his own horse's back; and so he served the three other knights
+	narrator	and rode them away to his own castle.
+	narrator	There they were disarmed, stripped naked, and beaten with thorns, and afterwards thrust into a deep prison
+	narrator	where many more knights, also, made great moans and lamentations, saying, "Alas, alas! there is no man can help us but Sir Lancelot
+	narrator	for no other knight can match this tyrant Turquine, our conqueror."
+	narrator	But all this while, Sir Lancelot lay sleeping soundly under the apple-tree.
+	narrator	And, as it chanced, there passed that way four queens, of high estate, riding upon four white mules
+	narrator	under four canopies of green silk borne on spears, to keep them from the sun.
+	narrator	As they rode thus, they heard a great horse grimly neigh, and, turning them about, soon saw a sleeping knight that lay all armed under
+	narrator	an apple-tree; and when they saw his face
+	narrator	they knew it was Sir Lancelot of the Lake.
+	narrator	Then they began to strive which of them should have the care of him.
+	narrator	But Queen Morgan le Fay, King Arthur's half sister, the great sorceress, was one of them, and said
+	narrator	"We need not strive for him, I have enchanted him, so that for six hours more he shall not wake. Let us take him to
+	narrator	my castle
+	narrator	and, when he wakes, himself shall choose which one of us he would rather serve." So Sir Lancelot was laid upon his shield and borne
+	narrator	on horseback between two knights
+	narrator	to the castle, and there laid in a cold chamber, till the spell should pass.
+	narrator	Anon, they sent him a fair damsel, bearing his supper, who asked him, "What cheer?"
+	sir lancelot	I cannot tell, fair damsel,
+	narrator	said he, "for I know not how I came into this castle, if it were not by enchantment."
+	narrator	"Sir," said she, "be of good heart, and to-morrow at dawn of day, ye shall know more."
+	narrator	And so she left him alone, and there he lay all night.
+	narrator	In the morning early came the four queens to him, passing richly dressed; and said,
+	queen morgan le fay	Sir knight, thou must understand that thou art our prisoner, and that we know thee well for King Ban's son, Sir Lancelot du Lake.
+	queen morgan le fay	And though we know full well there is one lady only in this world may have thy love
+	queen morgan le fay	and she Queen Guinevere--King Arthur's wife--yet now are we resolved to have thee to serve one of us; choose
+	queen morgan le fay	therefore, of us four which thou wilt serve.
+	queen morgan le fay	I am Queen Morgan le Fay, Queen of the land of Gore, and here also is the Queen of Northgales
+	queen morgan le fay	and the Queen of Eastland, and the Queen of the Out Isles.
+	queen morgan le fay	Choose, then, at once, for else shalt thou abide here, in this prison, till thy death.
+	sir lancelot	It is a hard case,
+	sir lancelot	that either I must die, or choose one of you for my mistress!
+	sir lancelot	Yet had I rather die in this prison than serve any living creature against my will.
+	sir lancelot	So take this for my answer.
+	sir lancelot	I will serve none of ye, for ye be false enchantresses.
+	sir lancelot	And as for my lady, Queen Guinevere, whom lightly ye have spoken of, were I at liberty I would prove it upon you or upon
+	sir lancelot	yours she is the truest lady living to her lord the king.
+	queen morgan le fay	Well,
+	queen morgan le fay	is this your answer, that ye refuse us all?
+	sir lancelot	Yea, on my life,
+	sir lancelot	refused ye be of me.
+	narrator	So they departed from him in great wrath, and left him sorrowfully grieving in his dungeon.
+	narrator	At noon the damsel came to him and brought his dinner, and asked him as before,
+	narrator	What cheer?
+	sir lancelot	Truly, fair damsel,
+	sir lancelot	in all my life never so ill.
+	narrator	Sir,
+	damsel	I grieve to see ye so, but if ye do as I advise, I can help ye out of this distress
+	damsel	and will do so if you promise me a boon.
+	sir lancelot	Fair damsel,
+	sir lancelot	right willingly will I grant it thee, for sorely do I dread these four witch-queens, who have destroyed and slain many a good knight with
+	sir lancelot	their enchantments.
+	damsel	Sir, wilt thou promise me to help my father on next Tuesday, for he hath a tournament with the King of Northgales
+	damsel	and last Tuesday lost the field through three knights of King Arthur's court, who came against him.
+	damsel	And if next Tuesday thou wilt aid him, to-morrow, before daylight, by God's grace, I will deliver thee.
+	sir lancelot	Fair maiden,
+	sir lancelot	tell me thy father's name and I will answer thee.
+	damsel	My father is King Bagdemagus,
+	sir lancelot	I know him well,
+	sir lancelot	for a noble king and a good knight; and by the faith of my body I will do him all the service I am able
+	sir lancelot	on that day.
+	damsel	Gramercy to thee, Sir knight,
+	damsel	To-morrow, when thou art delivered from this place, ride ten miles hence unto an abbey of white monks
+	damsel	and there abide until I bring my father to thee.
+	sir lancelot	So be it,
+	sir lancelot	as I am a true knight.
+	narrator	So she departed, and on the morrow, early, came again, and let him out of twelve gates
+	narrator	differently locked, and brought him to his armor; and when he was all armed, she brought him his horse also
+	narrator	and lightly he saddled him, and took a great spear in his hand, and mounted and rode forth
+	narrator	saying, as he went,
+	sir lancelot	Fair damsel, I shall not fail thee, by the grace of God.
+	narrator	And all that day he rode in a great forest, and could find no highway, and spent the night in the wood; but the next
+	narrator	morning found his road
+	narrator	and came to the abbey of white monks.
+	narrator	And there he saw King Bagdemagus and his daughter waiting for him.
+	narrator	So when they were together in a chamber, Sir Lancelot told the king how he had been betrayed by an enchantment
+	narrator	and how his brother Lionel was gone he knew not where, and how the damsel had delivered him from the castle of Queen Morgan le
+	narrator	Fay.
+	sir lancelot	Wherefore while I live,
+	sir lancelot	I shall do service to herself and all her kindred.
+	king bagdemagus	Then am I sure of thy aid,
+	king bagdemagus	on Tuesday now next coming?
+	sir lancelot	Yea, sir,
+	sir lancelot	I shall not fail thee,
+	sir lancelot	but what knights were they who last week defeated thee, and took part with the King of Northgales?
+	king bagdemagus	Sir Mador de la Port, Sir Modred, and Sir Gahalatine,
+	sir lancelot	Sir,
+	sir lancelot	as I understand, the tournament shall take place but three miles from this abbey; send then to me here
+	sir lancelot	three knights of thine, the best thou hast, and let them all have plain white shields, such as I also will; then will we four
+	sir lancelot	come suddenly into the midst between both parties
+	sir lancelot	and fall upon thy enemies, and grieve them all we can, and none will know us who we are.
+	narrator	So, on the Tuesday, Sir Lancelot and the three knights lodged themselves in a small grove hard by the lists.
+	narrator	Then came into the field the King of Northgales, with one hundred and sixty helms, and the three knights of King Arthur's court
+	narrator	who stood apart by themselves.
+	narrator	And when King Bagdemagus had arrived, with eighty helms, both companies set all their spears in rest and came together with a mighty clash
+	narrator	wherein were slain twelve knights of King Bagdemagus, and six of the King of Northgales; and the party of King Bagdemagus was driven back.
+	narrator	With that, came Sir Lancelot, and thrust into the thickest of the press, and smote down with one spear five knights
+	narrator	and brake the backs of four, and cast down the King of Northgales, and brake his thigh by the fall.
+	narrator	When the three knights of Arthur's court saw this, they rode at Sir Lancelot, and each after other attacked him; but he overthrew them all
+	narrator	and smote them nigh to death.
+	narrator	Then, taking a new spear, he bore down to the ground sixteen more knights, and hurt them all so sorely
+	narrator	that they could carry arms no more that day.
+	narrator	And when his spear at length was broken, he took yet another, and smote down twelve knights more
+	narrator	the most of whom he wounded mortally, till in the end the party of the King of Northgales would joust no more
+	narrator	and the victory was cried to King Bagdemagus.
+	narrator	Then Sir Lancelot rode forth with King Bagdemagus to his castle, and there he feasted with great cheer and welcome
+	narrator	and received many royal gifts.
+	narrator	And on the morrow he took leave and went to find his brother Lionel.
+	narrator	Anon, by chance, he came to the same forest where the four queens had found him sleeping
+	narrator	and there he met a damsel riding on a white palfrey.
+	narrator	When they had saluted each other, Sir Lancelot said,
+	sir lancelot	Fair damsel, knowest thou where any adventures may be had in this country?
+	narrator	"Sir knight," said she,
+	damsel	There are adventures great enough close by if thou darest prove them.
+	sir lancelot	Why should I not, since for that cause I came here?
+	narrator	"Sir," said the damsel, "hard by this place there dwelleth a knight that cannot be defeated by any man
+	narrator	so great and perilously strong he is. His name is Sir Turquine, and in the prisons of his castle lie three score knights and four
+	narrator	mostly from King Arthur's court, whom he hath taken with his own hands. But promise me, ere thou undertakest their deliverance
+	narrator	to go and help me afterwards, and free me and many other ladies that are distressed by a false knight."
+	sir lancelot	Bring me but to this felon Turquine, quoth Sir Lancelot, "and I will afterwards fulfill all your wishes.
+	narrator	So the damsel went before, and brought him to a ford, and a tree whereon a great brass basin hung; and Sir Lancelot beat with
+	narrator	his spear-end upon the basin
+	narrator	long and hard, until he beat the bottom of it out, but he saw nothing.
+	narrator	Then he rode to and fro before the castle gates for wellnigh half an hour, and anon saw a great knight riding from the distance
+	narrator	driving a horse before him, across which hung an armed man bound.
+	narrator	And when they came near, Sir Lancelot knew the prisoner for a knight of the Round Table.
+	narrator	By that time, the great knight who drove the prisoner saw Sir Lancelot, and each of them began to settle his spear
+	narrator	and to make ready.
+	sir lancelot	Fair sir, put off that wounded knight, I pray thee, from his horse, and let him rest while thou and I shall prove our strength
+	sir lancelot	upon each other; for
+	sir lancelot	as I am told, thou doest, and hast done, great shame and injury to knights of the Round Table. Wherefore
+	sir lancelot	I warn thee now, defend thyself.
+	sir turquine	If thou mayest be of the Round Table, I defy thee, and all thy fellows.
+	sir lancelot	That is saying overmuch.
+	narrator	Then, setting their lances in rest, they spurred their horses towards each other, as fast as they could go
+	narrator	and smote so fearfully upon each other's shields, that both their horses' backs brake under them.
+	narrator	As soon as they could clear their saddles, they took their shields before them, and drew their swords
+	narrator	and came together eagerly, and fought with great and grievous strokes; and soon they both had many grim and fearful wounds
+	narrator	and bled in streams.
+	narrator	Thus they fought two hours and more, thrusting and smiting at each other, wherever they could hit.
+	narrator	Anon, they both were breathless, and stood leaning on their swords.
+	sir turquine	Now, comrade, let us wait awhile, and answer me what I shall ask thee.
+	sir lancelot	Say on.
+	sir turquine	Thou art, said Turquine, "the best man I ever met, and seemest like one that I hate above all other knights that live; but if
+	sir turquine	thou be not he
+	sir turquine	I will make peace with thee, and for sake of thy great valor, will deliver all the three score prisoners and four who lie within
+	sir turquine	my dungeons
+	sir turquine	and thou and I will be companions evermore. Tell me, then, thy name.
+	sir lancelot	Thou sayest well, replied Sir Lancelot; "but who is he thou hatest so above all others?
+	sir turquine	His name, said Turquine, "is Sir Lancelot of the Lake; and he slew my brother Sir Carados
+	sir turquine	at the dolorous tower; wherefore, if ever I shall meet with him, one of us two shall slay the other; and thereto I have sworn
+	sir turquine	by a great oath. And to discover and destroy him I have slain a hundred knights
+	sir turquine	and crippled utterly as many more, and many have died in my prisons; and now, as I have told thee
+	sir turquine	I have many more therein, who all shall be delivered, if thou tell me thy name, and it be not Sir Lancelot.
+	sir lancelot	Well, said Lancelot, "I am that knight, son of King Ban of Benwick, and Knight of the Round Table; so now I defy thee to
+	sir lancelot	do thy best!
+	sir turquine	Aha! said Turquine, with a shout, "is it then so at last! Thou art more welcome to my sword than ever knight or lady was
+	sir turquine	to feast
+	sir turquine	for never shall we part till one of us be dead.
+	narrator	Then did they hurtle together like two wild bulls, slashing and lashing with their shields and swords
+	narrator	and sometimes falling both on to the ground.
+	narrator	For two more hours they fought so, and at the last Sir Turquine grew very faint, and gave a little back
+	narrator	and bare his shield full low for weariness.
+	narrator	When Sir Lancelot saw him thus, he leaped upon him fiercely as a lion, and took him by the crest of his helmet
+	narrator	and dragged him to his knees; and then he tore his helmet off and smote his neck asunder.
+	narrator	Then he arose, and went to the damsel who had brought him to Sir Turquine, and said
+	sir lancelot	I am ready, fair lady, to go with thee upon thy service, but I have no horse.
+	damsel	Fair sir, take ye this horse of the wounded knight whom Turquine but just now was carrying to his prisons
+	damsel	and send that knight on to deliver all the prisoners.
+	narrator	So Sir Lancelot went to the knight and prayed him for the loan of his horse.
+	knight	Fair lord, said he, "ye are right welcome, for to-day ye have saved both me and my horse; and I see that ye are the
+	knight	best knight in all the world
+	knight	for in my sight have ye slain the mightiest man and the best knight, except thyself, I ever saw.
+	sir lancelot	I thank thee well; and now go into yonder castle, where thou shalt find many noble knights of the Round Table
+	sir lancelot	for I have seen their shields hung on the trees around. On yonder tree alone there are Sir Key's
+	sir lancelot	Sir Brandel's, Sir Marhaus', Sir Galind's, and Sir Aliduke's, and many more; and also my two kinsmen's shields
+	sir lancelot	Sir Ector de Maris' and Sir Lionel's. And I pray you greet them all from me, Sir Lancelot of the Lake
+	sir lancelot	and tell them that I bid them help themselves to any treasures they can find within the castle; and that I pray my brethren
+	sir lancelot	Lionel and Ector, to go to King Arthur's court and stay there till I come. And by the high feast at Pentecost I must be
+	sir lancelot	there; but now I must ride forth with this damsel to fulfill my promise.
+	narrator	So, as they went, the damsel told him,
+	damsel	Sir, we are now near the place where the foul knight haunteth, who robbeth and distresseth all ladies and gentlewomen traveling past this way
+	damsel	against whom I have sought thy aid.
+	narrator	Then they arranged that she should ride on foremost, and Sir Lancelot should follow under cover of the trees by the roadside
+	narrator	and if he saw her come to any mishap, he should ride forth and deal with him that troubled her.
+	narrator	And as the damsel rode on at a soft ambling pace, a knight and page burst forth from the roadside and forced the damsel from
+	narrator	her horse
+	narrator	till she cried out for help.
+	narrator	Then came Sir Lancelot rushing through the wood as fast as he might fly, and all the branches of the trees crackled and waved around
+	narrator	him.
+	sir lancelot	O thou false knight and traitor to all knighthood! who taught thee to distress fair ladies thus?
+	narrator	The foul knight answered nothing, but drew out his sword and rode at Sir Lancelot, who threw his spear away and drew his own sword
+	narrator	likewise
+	narrator	and struck him such a mighty blow as clave his head down to the throat.
+	sir lancelot	Now hast thou the wages thou long hast earned!
+	narrator	and so departed from the damsel.
+	narrator	Then for two days he rode in a great forest, and had but scanty food and lodging
+	narrator	and on the third day he rode over a long bridge, when suddenly there started up a passing foul churl
+	narrator	and smote his horse across the nose, so that he started and turned back, rearing with pain.
+	churl	Why ridest thou over here without my leave?
+	sir lancelot	Why should I not? there is no other way to ride.
+	churl	Thou shalt not pass by here,
+	narrator	cried out the churl, and dashed at him with a great club full of iron spikes, till Sir Lancelot was fain to draw his sword
+	narrator	and smite him dead upon the earth.
+	narrator	At the end of the bridge was a fair village, and all the people came and cried
+	people	Ah, sir! a worse deed for thyself thou never didst, for thou hast slain the chief porter of the castle yonder!
+	narrator	But he let them talk as they pleased, and rode straight forward to the castle.
+	narrator	There he alighted, and tied his horse to a ring in the wall; and going in, he saw a wide green court
+	narrator	and thought it seemed a noble place to fight in.
+	narrator	And as he looked about, he saw many people watching him from doors and windows, making signs of warning
+	narrator	and saying,
+	people	Fair knight, thou art unhappy.
+	narrator	In the next moment came upon him two great giants, well armed save their heads, and with two horrible clubs in their hands.
+	narrator	Then he put his shield before him, and with it warded off one giant's stroke, and clove the other with his sword from the head
+	narrator	downward to the chest.
+	narrator	When the first giant saw that, he ran away mad with fear; but Sir Lancelot ran after him
+	narrator	and smote him through the shoulder, and shore him down his back, so that he fell dead.
+	narrator	Then he walked onward to the castle hall, and saw a band of sixty ladies and young damsels coming forth
+	narrator	who knelt to him, and thanked him for their freedom.
+	ladies	For, sir, the most of us have been prisoners here these seven years; and have been kept at all manner of work to earn our
+	ladies	meat
+	ladies	though we be all great gentlewomen born. Blessed be the time that thou wast born, for never did a knight a deed of greater worship
+	ladies	than thou hast this day
+	ladies	and thereto will we all bear witness in all times and places! Tell us, therefore, noble knight
+	ladies	thy name and court, that we may tell them to our friends!
+	narrator	And when they heard it, they all cried aloud,
+	ladies	Well may it be so, for we knew that no knight save thou shouldst ever overcome those giants; and many a long day have we
+	ladies	sighed for thee; for the giants feared no other name among all knights but thine.
+	narrator	Then he told them to take the treasures of the castle as a reward for their grievances; and to return to their homes
+	narrator	and so rode away into many strange and wild countries.
+	narrator	And at last, after many days, by chance he came, near the night time, to a fair mansion
+	narrator	wherein he found an old gentlewoman, who gave him and his horse good cheer.
+	narrator	And when bed time was come, his host brought him to a chamber over a gate, and there he unarmed
+	narrator	and went to bed and fell asleep.
+	narrator	But soon thereafter came one riding in great haste, and knocking vehemently at the gate below, which when Sir Lancelot heard
+	narrator	he rose and looked out of the window, and, by the moonlight, saw three knights come riding fiercely after one man
+	narrator	and lashing on him all at once with their swords, while the one knight nobly fought them all.
+	narrator	Then Sir Lancelot quickly armed himself, and getting through the window, let himself down by a sheet into the midst of them
+	narrator	crying out,
+	sir lancelot	Turn ye on me, ye cowards, and leave fighting with that knight!
+	narrator	Then they all left Sir Key, for the first knight was he, and began to fall upon Sir Lancelot furiously.
+	narrator	And when Sir Key would have come forward to assist him, Sir Lancelot refused, and cried,
+	sir lancelot	Leave me alone to deal with them.
+	narrator	And presently, with six great strokes, he felled them all.
+	narrator	Then they cried out,
+	knights	Sir knight, we yield us unto thee, as to a man of might!
+	sir lancelot	I will not take your yielding! yield ye to Sir Key, the seneschal, or I will have your lives.
+	narrator	Fair knight,
+	narrator	said they, "excuse us in that thing, for we have chased
+	narrator	Sir Key thus far, and should have overcome him but for thee."
+	sir lancelot	Well,
+	narrator	said Sir Lancelot, "do as ye will, for ye may live or die; but,
+	narrator	if ye live, ye shall be holden to Sir Key."
+	narrator	Then they yielded to him; and Sir Lancelot commanded them to go unto
+	narrator	King Arthur's court at the next Pentecost, and say, Sir Key had sent
+	narrator	them prisoners to Queen Guinevere.
+	narrator	And this they sware to do upon their
+	narrator	swords.
+	narrator	Then Sir Lancelot knocked at the gate with his sword-hilt till his
+	narrator	hostess came and let him in again, and Sir Key also.
+	narrator	And when the light
+	narrator	came, Sir Key knew Sir Lancelot, and knelt and thanked him for his
+	narrator	courtesy, and gentleness, and kindness.
+	narrator	"Sir," said he, "I have done no
+	narrator	more than what I ought to do, and ye are welcome; therefore let us now
+	narrator	take rest."
+	narrator	So when Sir Key had supped, they went to sleep, and Sir Lancelot and he
+	narrator	slept in the same bed.
+	narrator	On the morrow, Sir Lancelot rose early, and took
+	narrator	Sir Key's shield and armor and set forth.
+	narrator	When Sir Key arose, he found
+	narrator	Sir Lancelot's armor by his bedside, and his own arms gone.
+	narrator	"Now, by my
+	narrator	faith," thought he, "I know that he will grieve some knights of our
+	narrator	king's court; for those who meet him will be bold to joust with him,
+	narrator	mistaking him for me, while I, dressed in his shield and armor, shall
+	narrator	surely ride in peace."
+	narrator	Then Sir Lancelot, dressed in Sir Key's apparel, rode long in a great
+	narrator	forest, and came at last to a low country, full of rivers and fair
+	narrator	meadows, and saw a bridge before him, whereon were three silk tents of
+	narrator	divers colors, and to each tent was hung a white shield, and by each
+	narrator	shield stood a knight.
+	narrator	So Sir Lancelot went by without speaking a word.
+	narrator	And when he had passed, the three knights said it was the proud Sir Key,
+	narrator	"who thinketh no knight equal to himself, although the contrary is full
+	narrator	often proved upon him."
+	narrator	"By my faith!" said one of them, named Gaunter, "I will ride after and
+	narrator	attack him for all his pride, and ye shall watch my speed."
+	narrator	Then, taking shield and spear, he mounted and rode after Sir Lancelot,
+	narrator	and cried, "Abide, proud knight, and turn, for thou shalt not pass
+	narrator	free!"
+	narrator	So Sir Lancelot turned, and each one put his spear in rest and came with
+	narrator	all his might against the other.
+	narrator	And Sir Gaunter's spear brake short,
+	narrator	but Sir Lancelot smote him down, both horse and man.
+	narrator	When the other knights saw this, they said, "Yonder is not Sir Key, but
+	narrator	a bigger man."
+	narrator	"I dare wager my head," said Sir Gilmere, "yonder knight hath slain Sir
+	narrator	Key, and taken his horse and harness."
+	narrator	"Be it so, or not," said Sir Reynold, the third brother; "let us now go
+	narrator	to our brother Gaunter's rescue; we shall have enough to do to match
+	narrator	that knight, for, by his stature, I believe it is Sir Lancelot or Sir
+	narrator	Tristram."
+	narrator	Anon, they took their horses and galloped after Sir Lancelot; and Sir
+	narrator	Gilmere first assailed him, but was smitten down forthwith, and lay
+	narrator	stunned on the earth.
+	narrator	Then said Sir Reynold, "Sir knight, thou art a
+	narrator	strong man, and, I believe, hast slain my two brothers, wherefore my
+	narrator	heart is sore against thee; yet, if I might with honor, I would avoid
+	narrator	thee.
+	narrator	Nevertheless, that cannot be, so keep thyself."
+	narrator	And so they
+	narrator	hurtled together with all their might, and each man shivered his spear
+	narrator	to pieces; and then they drew their swords and lashed out eagerly.
+	narrator	And as they fought, Sir Gaunter and Sir Gilmere presently arose and
+	narrator	mounted once again, and came down at full tilt upon Sir Lancelot.
+	narrator	But,
+	narrator	when he saw them coming, he put forth all his strength, and struck Sir
+	narrator	Reynold off his horse.
+	narrator	Then, with two other strokes, he served the
+	narrator	others likewise.
+	narrator	Anon, Sir Reynold crept along the ground, with his head all bloody,
+	narrator	and came towards Sir Lancelot.
+	narrator	"It is enough," said Lancelot, "I was not far
+	narrator	from thee when thou wast made a knight, Sir Reynold, and know thee for a
+	narrator	good and valiant man, and was full loth to slay thee."
+	narrator	"Gramercy for thy gentleness!" said Sir Reynold.
+	narrator	"I and my brethren will
+	narrator	straightway yield to thee when we know thy name, for well we know that
+	narrator	thou art not Sir Key."
+	narrator	"As for that," said Sir Lancelot, "be it as it may, but ye shall yield
+	narrator	to Queen Guinevere at the next Feast of Pentecost as prisoners, and say
+	narrator	that Sir Key sent ye."
+	narrator	Then they swore to him it should be done as he commanded.
+	narrator	And so Sir
+	narrator	Lancelot passed on, and the three brethren helped each other's wounds as
+	narrator	best they might.
+	narrator	Then rode Sir Lancelot forward into a deep forest, and came upon four
+	narrator	knights of King Arthur's court, under an oak tree--Sir Sagramour, Sir
+	narrator	Ector, Sir Gawain, and Sir Ewaine.
+	narrator	And when they spied him, they thought
+	narrator	he was Sir Key.
+	narrator	"Now by my faith," said Sir Sagramour, "I will prove Sir
+	narrator	Key's might!" and taking his spear he rode towards Sir Lancelot.
+	narrator	But Sir Lancelot was aware of him, and, setting his spear in rest,
+	narrator	smote him so sorely, that horse and man fell to the earth.
+	narrator	"Lo!" cried Sir Ector, "I see by the buffet that knight hath given our
+	narrator	fellow he is stronger than Sir Key.
+	narrator	Now will I try what I can do against
+	narrator	him!"
+	narrator	So Sir Ector took his spear, and galloped at Sir Lancelot; and Sir
+	narrator	Lancelot met him as he came, and smote him through shield and shoulder,
+	narrator	so that he fell, but his own spear was not broken.
+	narrator	"By my faith," cried Sir Ewaine, "yonder is a strong knight, and must
+	narrator	have slain Sir Key, and taken his armor!
+	narrator	By his strength, I see it will
+	narrator	be hard to match him."
+	narrator	So saying he rode towards Sir Lancelot, who met
+	narrator	him halfway and struck him so fiercely, that at one blow he overthrew
+	narrator	him also.
+	narrator	"Now," said Sir Gawain, "will I encounter him." So he took a good spear
+	narrator	in his hand, and guarded himself with his shield.
+	narrator	And he and Sir
+	narrator	Lancelot rode against each other, with their horses at full speed, and
+	narrator	furiously smote each other on the middle of their shields; but Sir
+	narrator	Gawain's spear broke short asunder, and Sir Lancelot charged so mightily
+	narrator	upon him, that his horse and he both fell, and rolled upon the ground.
+	sir lancelot	Ah, heaven give joy to him who made this spear, for never held I better in my hand.
+	narrator	But the four knights said to each other, "Truly one spear hath felled us all."
+	sir gawain	I dare lay my life, it is Sir Lancelot. I know him by his riding.
+	narrator	So they all departed for the court.
+	narrator	And as Sir Lancelot rode still in the forest, he saw a black bloodhound, running with its head towards the ground
+	narrator	as if it tracked a deer.
+	narrator	And following after it, he came to a great pool of blood.
+	narrator	But the hound, ever and anon looking behind, ran through a great marsh, and over a bridge
+	narrator	towards an old manor house.
+	narrator	So Sir Lancelot followed, and went into the hall, and saw a dead knight lying there, whose wounds the hound licked.
+	narrator	And a lady stood behind him, weeping and wringing her hands, who cried, "O knight! too great is the sorrow which thou hast brought me!"
+	sir lancelot	Why say ye so? for I never harmed this knight, and am full sorely grieved to see thy sorrow.
+	narrator	"Nay, sir," said the lady, "I see it is not thou hast slain my husband, for he that truly did that deed is deeply wounded
+	narrator	and shall never more recover."
+	sir lancelot	What is thy husband's name?
+	narrator	"His name," she answered, "was Sir Gilbert--one of the best knights in all the world; but I know not his name who hath slain him."
+	sir lancelot	God send thee comfort,
+	narrator	and departed again into the forest.
+	narrator	And as he rode, he met with a damsel who knew him, who cried out, "Well found
+	narrator	my lord! I pray ye of your knighthood help my brother, who is sore wounded and ceases not to bleed
+	narrator	for he fought this day with Sir Gilbert, and slew him, but was himself well nigh slain. And there is a sorceress
+	narrator	who dwelleth in a castle hard by, and she this day hath told me that my brother's wound shall never be made whole until I
+	narrator	find a knight to go into the Chapel Perilous
+	narrator	and bring from thence a sword and the bloody cloth in which the wounded knight was wrapped."
+	sir lancelot	This is a marvelous thing! but what is your brother's name?
+	narrator	"His name, sir," she replied, "is Sir Meliot de Logres."
+	sir lancelot	He is a Fellow of the Round Table, and truly will I do my best to help him.
+	narrator	"Then, sir," said she, "follow this way, and it will bring ye to the Chapel Perilous. I will abide here till God send ye hither
+	narrator	again; for if ye speed not
+	narrator	there is no living knight who may achieve that adventure."
+	narrator	So Sir Lancelot departed, and when he came to the Chapel Perilous he alighted, and tied his horse to the gate.
+	narrator	And as soon as he was within the churchyard, he saw on the front of the chapel many shields of knights whom he had known
+	narrator	turned upside down.
+	narrator	Then saw he in the pathway thirty mighty knights, taller than any men whom he had ever seen
+	narrator	all armed in black armor, with their swords drawn; and they gnashed their teeth upon him as he came.
+	narrator	But he put his shield before him, and took his sword in hand, ready to do battle with them.
+	narrator	And when he would have cut his way through them, they scattered on every side and let him pass.
+	narrator	Then he went into the chapel, and saw therein no light but of a dim lamp burning.
+	narrator	Then he was aware of a corpse in the midst of the chapel, covered with a silken cloth
+	narrator	and so stooped down and cut off a piece of the cloth, whereat the earth beneath him trembled.
+	narrator	Then saw he a sword lying by the dead knight, and taking it in his hand, he hied him from the chapel.
+	narrator	As soon as he was in the churchyard again, all the thirty knights cried out to him with fierce voices
+	narrator	"Sir Lancelot! lay that sword from thee, or thou diest!"
+	sir lancelot	Whether I live or die, ye shall fight for it ere ye take it from me.
+	narrator	With that they let him pass.
+	narrator	And further on, beyond the chapel, he met a fair damsel, who said, "Sir Lancelot, leave that sword behind thee
+	narrator	or thou diest."
+	sir lancelot	I will not leave it, for any asking.
+	narrator	"Then, gentle knight," said the damsel, "I pray thee kiss me once."
+	sir lancelot	Nay, that God forbid!
+	narrator	"Alas!" cried she, "I have lost all my labor! but hadst thou kissed me, thy life's days had been all done!"
+	sir lancelot	Heaven save me from thy subtle crafts!
+	narrator	and therewith took his horse and galloped forth.
+	narrator	And when he was departed, the damsel sorrowed greatly, and died in fifteen days.
+	narrator	Her name was Ellawes, the sorceress.
+	narrator	Then came Sir Lancelot to Sir Meliot's sister, who, when she saw him, clapped her hands and wept for joy
+	narrator	and took him to the castle hard by, where Sir Meliot was.
+	narrator	And when Sir Lancelot saw Sir Meliot, he knew him, though he was pale as ashes for loss of blood.
+	narrator	And Sir Meliot, when he saw Sir Lancelot, kneeled to him and cried aloud, "O lord, Sir Lancelot! help me!"
+	narrator	And thereupon, Sir Lancelot went to him and touched his wounds with the sword, and wiped them with the piece of bloody cloth.
+	narrator	And immediately he was as whole as though he had been never wounded.
+	narrator	Then was there great joy between him and Sir Meliot; and his sister made Sir Lancelot good cheer.
+	narrator	So on the morrow, he took his leave, that he might go to King Arthur's court, "for," said he
+	narrator	"it draweth nigh the Feast of Pentecost, and there, by God's grace, shall ye then find me."
+	narrator	And riding through many strange countries, over marshes and valleys, he came at length before a castle.
+	narrator	As he passed by he heard two little bells ringing, and looking up, he saw a falcon flying overhead
+	narrator	with bells tied to her feet, and long strings dangling from them.
+	narrator	And as the falcon flew past an elm-tree, the strings caught in the boughs, so that she could fly no further.
+	narrator	In the meanwhile, came a lady from the castle, and cried, "Oh, Sir Lancelot! as thou art the flower of all knights in the world
+	narrator	help me to get my hawk, for she hath slipped away from me, and if she be lost
+	narrator	my lord my husband is so hasty, he will surely slay me!"
+	sir lancelot	What is thy lord's name?
+	narrator	His name,
+	lady of the lake	is Sir Phelot, a knight of the King of Northgales.
+	sir lancelot	Fair lady, since you know my name, and require me, on my knighthood, to help you, I will do what I can to get your
+	sir lancelot	hawk.
+	narrator	And thereupon alighting, he tied his horse to the same tree, and prayed the lady to unarm him.
+	narrator	So when he was unarmed, he climbed up and reached the falcon, and threw it to the lady.
+	narrator	Then suddenly came down, out of the wood, her husband, Sir Phelot, all armed, with a drawn sword in his hand
+	narrator	and said,
+	sir phelot	Oh, Sir Lancelot! now have I found thee as I would have thee!
+	narrator	and stood at the trunk of the tree to slay him.
+	sir lancelot	Ah, lady! why have ye betrayed me?
+	sir phelot	She hath done as I commanded her, and thine hour is come that thou must die.
+	sir lancelot	It were shame, for an armed to slay an unarmed man.
+	sir phelot	Thou hast no other favor from me.
+	sir lancelot	Alas! that ever any knight should die weaponless!
+	narrator	And looking overhead, he saw a great bough without leaves, and wrenched it off the tree, and suddenly leaped down.
+	narrator	Then Sir Phelot struck at him eagerly, thinking to have slain him, but Sir Lancelot put aside the stroke with the bough
+	narrator	and therewith smote him on the side of the head, till he fell swooning to the ground.
+	narrator	And tearing his sword from out his hands, he shore his neck through from the body.
+	narrator	Then did the lady shriek dismally, and swooned as though she would die.
+	narrator	But Sir Lancelot put on his armor, and with haste took his horse and departed thence, thanking God he had escaped that peril.
+	narrator	And as he rode through a valley, among many wild ways, he saw a knight, with a drawn sword
+	narrator	chasing a lady to slay her.
+	narrator	And seeing Sir Lancelot, she cried and prayed to him to come and rescue her.
+	sir lancelot	Fie on thee, knight! why wilt thou slay this lady? Thou doest shame to thyself and all knights.
+	narrator	What hast thou to do between me and my wife?
+	sir lancelot	Thou shalt not harm her,
+	narrator	said Lancelot, "till we have first fought together."
+	sir lancelot	Sir, thou doest ill, for this lady hath betrayed me.
+	narrator	He speaketh falsely,
+	lady of the lake	for he is jealous of me without cause, as I shall answer before Heaven; but as thou art named the most worshipful knight in the
+	lady of the lake	world
+	lady of the lake	I pray thee of thy true knighthood to save me, for he is without mercy.
+	sir lancelot	Be of good cheer, said Sir Lancelot; "it shall not lie within his power to harm thee.
+	sir lancelot	Sir, I will be ruled as ye will have me.
+	narrator	So Sir Lancelot rode between the knight and the lady.
+	narrator	And when they had ridden awhile, the knight cried out suddenly to Sir Lancelot to turn and see what men they were who came riding
+	narrator	after them; and while Sir Lancelot
+	narrator	thinking not of treason, turned to look, the knight, with one great stroke, smote off the lady's head.
+	sir lancelot	Thou traitor! Thou hast shamed me forever!
+	narrator	and, alighting from his horse, he drew his sword to have slain him instantly; but the knight fell on the ground and clasped Sir Lancelot's
+	narrator	knees
+	narrator	and cried out for mercy.
+	sir lancelot	Thou shameful knight, answered Lancelot, "thou mayest have no mercy, for thou showedst none, therefore arise and fight with me.
+	sir lancelot	Nay, said the knight, "I will not rise till thou dost grant me mercy.
+	sir lancelot	Now will I deal fairly by thee, said Sir Lancelot; "I will unarm me to my shirt
+	sir lancelot	and have my sword only in my hand, and if thou canst slay me thou shalt be quit forever.
+	sir lancelot	That will I never do, said the knight.
+	sir lancelot	Then, answered Sir Lancelot, "take this lady and the head, and bear it with thee, and swear to me upon thy sword never to rest
+	sir lancelot	until thou comest to Queen Guinevere.
+	sir lancelot	That will I do, said he.
+	sir lancelot	Now, said Sir Lancelot, "tell me thy name.
+	sir pedivere	It is Pedivere, answered the knight.
+	sir lancelot	In a shameful hour wert thou born, said Sir Lancelot.
+	narrator	So Sir Pedivere departed, bearing with him the dead lady and her head.
+	narrator	And when he came to Winchester, where the Queen was with King Arthur, he told them all the truth; and afterwards did great and heavy
+	narrator	penance many years
+	narrator	and became an holy hermit.
+	narrator	So, two days before the Feast of Pentecost, Sir Lancelot returned to the court, and King Arthur was full glad of his coming.
+	narrator	And when Sir Gawain, Sir Ewaine, Sir Sagramour, and Sir Ector, saw him in Sir Key's armor
+	narrator	they knew well it was he who had smitten them all down with one spear.
+	narrator	Anon, came all the knights Sir Turquine had taken prisoners, and gave worship and honor to Sir Lancelot.
+	narrator	Then Sir Key told the King how Sir Lancelot had rescued him when he was in near danger of his death; "and," said Sir Key
+	narrator	"he made the knights yield, not to himself, but me. And by Heaven! because Sir Lancelot took my armor and left me his
+	narrator	I rode in peace, and no man would have aught to do with me." Then came the knights who fought with Sir Lancelot at the
+	narrator	long bridge and yielded themselves also to Sir Key
+	narrator	but he said nay, he had not fought with them.
+	narrator	"It is Sir Lancelot," said he, "that overcame ye." Next came Sir Meliot de Logres, and told King Arthur how Sir Lancelot had saved him
+	narrator	from death.
+	narrator	And so all Sir Lancelot's deeds and great adventures were made known; how the four sorceress-queens had him in prison; how he was delivered by
+	narrator	the daughter of King Bagdemagus
+	narrator	and what deeds of arms he did at the tournament between the King of North Wales and King Bagdemagus.
+	narrator	And so, at that festival, Sir Lancelot had the greatest name of any knight in all the world
+	narrator	and by high and low was he the most honored of all men.

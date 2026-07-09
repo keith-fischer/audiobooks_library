@@ -1,8 +1,0 @@
-Dr. Seward	male	A physician who is deeply involved in Lucy's case. He is methodical, observant, and takes his duties seriously. He works alongside Van Helsing to treat Lucy's mysterious illness.
-Van Helsing	male	A renowned specialist who arrives to help with Lucy's case. He is secretive, knowledgeable, and seems to have a deep understanding of the situation. He performs blood transfusions and uses garlic as a protective measure.
-Lucy Westenra	female	A young woman who is gravely ill and undergoing mysterious changes. She is described as pale, weak, and in need of blood transfusions. She has a fiancé named Arthur Holmwood.
-Mrs. Westenra	female	Lucy's mother, who is concerned about her daughter's health. She shows some emotional distance from the illness and does not fully grasp its severity.
-Arthur Holmwood	male	Lucy's fiancé who is deeply devoted to her. He volunteers to give blood for Lucy and shows great courage in the face of danger.
-The Maid	*female	A housemaid who wants to help care for Lucy. She shows concern and devotion to the patient.
-The Other Maid	*female	Another housemaid who also wants to help care for Lucy. She shows concern and devotion to the patient.
-Dr. Van Helsing	male	A renowned specialist who arrives to help with Lucy's case. He is secretive, knowledgeable, and seems to have a deep understanding of the situation. He performs blood transfusions and uses garlic as a protective measure.

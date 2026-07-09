@@ -1,0 +1,24 @@
+	narrator	Adam	male	Story narrator
+	Appothecary	Puck	*male	1.1. A poor man who sells poison to Romeo, despite the law forbidding such sales. He is desperate and willing to break the law for money.
+	Benvolio	Eric	male	1.1. A gentle and peace-loving member of the Montague family, known for his kind nature and efforts to prevent conflicts. He is a close friend of Romeo.
+	Capulet	Liam	*male	1.1. The patriarch of the Capulet family, a wealthy and proud man who is deeply concerned about his daughter's future. He initially wants Juliet to marry Paris.
+	Friar Lawrence	Santa	*male	1.1. A wise and compassionate friar who performs the secret marriage between Romeo and Juliet. He hopes to end the feud between their families through this union.
+	Mercutio	Omega	male	1.1. Romeo's close friend, known for his wit and humor. He is quick-tempered and enjoys teasing others, often getting into conflicts due to his fiery personality.
+	Montague	Onyx	*male	1.1. The patriarch of the Montague family, who is deeply affected by his son's actions and the ongoing feud with the Capulets.
+	Page	Michael	*male	1.1. A minor character who serves Paris and is present during the events at the Capulet's tomb.
+	Paris	Fable	*male	1.1. A nobleman who is chosen by the Capulet family to marry Juliet. He is respectful and well-mannered, but lacks genuine affection for Juliet.
+	Peter	Daniel	*male	1.1. A servant of the Capulet household who is often portrayed as foolish and bumbling. He serves as a comic relief character.
+	Prince Escalus	Alex	*male	1.1. The ruler of Verona who enforces the law and punishes those who disturb the peace. He is firm but fair in his judgments.
+	Romeo	Echo	male	1.1. A young Montague who is deeply in love with Juliet. He is passionate, impulsive, and willing to risk everything for love.
+	Sampson	George	male	1.1. A servant of the House of Capulet, known for his aggressive attitude and willingness to fight. He is quick-tempered and enjoys provoking conflict with the Montague servants.
+	Servant	Lewis	*male	1.1. A minor character who is tasked with finding guests for the Capulet's feast.
+	Tybalt	Kumo	male	1.1. A hot-tempered member of the Capulet family who is quick to anger and eager to fight. He strongly opposes the Montagues and seeks revenge for their presence at his family's feast.
+	Watch	Fenrir	*male	1.1. A minor character who is part of the law enforcement in Verona and helps investigate the murders.
+	Juliet	Dora	female	1.1. A young woman of the Capulet family who is deeply in love with Romeo. She is intelligent, passionate, and willing to defy her family for love.
+	Lady Capulet	Xiaoni	*female	1.1. The matriarch of the Capulet family, who is devoted to her husband and daughter. She supports her husband's wishes for Juliet to marry Paris.
+	Lady Montague	Siwis	*female	1.1. The matriarch of the Montague family, who is concerned about her son's well-being and the ongoing feud with the Capulets.
+	Nurse	Sarah	*female	1.1. Juliet's nurse, who has raised her since childhood. She is loyal to Juliet and helps facilitate the secret marriage between Juliet and Romeo.
+	*Citizens	Nicola	*male	1.1. A group of citizens who participate in the street brawl and are involved in maintaining order.
+	*Count	Psi	*male	1.1. A nobleman who is part of the Capulet family and serves as a minor character in the play.
+	*Frier John	Psi	*male	1.1. A friar who is supposed to deliver a letter from Friar Lawrence to Romeo in Mantua but fails due to being trapped by the plague.
+	*Gregory	Nicola	male	1.1. A servant of the House of Capulet who is loyal to Sampson and shares his aggressive nature. He enjoys teasing and provoking others, particularly the Montague servants.

@@ -1,7 +1,0 @@
-Jonathan Harker	male	Mina's husband, a solicitor who has been deeply affected by his experiences with the vampire Count Dracula. He is devoted to Mina and serves as a key member of the group pursuing Dracula.
-Mina Harker	female	Jonathan's wife, a strong and devoted woman who has been bitten by Count Dracula. She is intelligent, compassionate, and plays a crucial role in the group's efforts against the vampire.
-Van Helsing	male	A Dutch doctor and expert on the supernatural who leads the group in their pursuit of Count Dracula. He is wise, determined, and possesses a commanding presence.
-Lord Godalming	male	A wealthy British aristocrat who joins the group in their pursuit of Dracula. He is brave and committed to protecting Mina.
-Dr. Seward	male	A physician and friend of the group who has been involved in treating Mina's condition. He is methodical, observant, and dedicated to the cause.
-Quincey Morris	male	A wealthy American who joins the group in their quest. He is brave, resourceful, and willing to take direct action against Dracula.
-Count Dracula	*male	The main antagonist, a vampire who has been terrorizing London and is now fleeing back to his castle in Transylvania. He is cunning, powerful, and dangerous.

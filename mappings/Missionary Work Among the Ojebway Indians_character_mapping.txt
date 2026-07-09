@@ -1,0 +1,309 @@
+	narrator	Adam	male	Story narrator
+	Ahbettuhwahnuhgund	Fable	male	4. The Chief of Kettle Point, described as a fine, broad-shouldered, intelligent-looking man who was still a pagan despite having baptized several of his children. | 5. An Indian who met the missionaries at Forest with his sleigh to transport them to Kettle Point | 10. Indian Chief at Kettle Point, initially reluctant to be baptized but later converted to Christianity. He was a nominal pagan who had been influenced by Christian teachings and eventually received the name Isaac.
+	Antoine Rodd	Omega	*male	3. A Church Indian who owns the lot of land where the mission buildings are eventually constructed. The missionary obtains permission to use one acre of his land. | 6. A local farmer who donated one acre of his farm for the mission. Known as 'Shesheet' to the Indians. | 7. A man whose son is noted for being particularly vicious when drunk, leading to violent confrontations.
+	Archie	Fenrir	male	16. The Wilsons' young son who is called Tecumseh after the famous chief who fought under Sir Isaac Brock in 1812. He travels to England with the party. | 19. A young boy who visits the sick Indian child and is welcomed by him | 22. The eldest boy, four years old, who was found sitting calmly under a fence while the house burned and was carried to safety by his father.
+	Bishop	Liam	male	25. The Bishop who was away during the foundation stone ceremony and whose absence meant the narrator bore the responsibility for the occasion. | 26. A religious leader who consented to the narrator's plan to build a school-church at Batcheewauning and appoint a catechist. | 30. The Bishop of Quebec who presided over a meeting in the National School Hall and examined the boys. | 31. A religious leader who accompanies the narrator on a missionary tour up Lake Superior. He prays with the narrator and delivers an earnest address to the Indians. | 32. A religious figure who accompanies the narrator on their journey. He has a tent pitched at Neepigon and cooks for himself using tin pots. | 33. A religious leader who accompanies the group on their journey, participates in prayers and services with the Indians, and delivers a sermon to the gathered Native people. | 34. Missionary leader who led the expedition to visit the Indian band. He spoke about God's providence and offered educational opportunities for their children. | 35. A religious leader who joins the mission party and shows interest in the native children | 38. The Bishop of the diocese who died suddenly in Toronto on December 7th. He was deeply involved with the welfare of Indian children and had his remains buried in the Indian cemetery alongside Mrs. Fauquier. | 41. The religious leader who visited Garden River, received a new name 'Tabahsega' (spreading or radiant light) and addressed the gathered Indians about the Gospel
+	Bishop Hellmuth	Eric	male	14. The Bishop of Toronto who is elected by the black-coats in council and has authority over missions. He is described as a great black-coat chief. | 28. The Bishop of Huron who spoke at the opening ceremony, expressing pleasure at being present and emphasizing that training young Indians was the true way to do permanent good.
+	Bishop of Algoma	Lewis	male	28. The Bishop of Algoma who conducted the Special Service at the opening ceremony and gave remarks about the institution's purpose. He called upon the Bishop of Huron to formally open the building.
+	Bishop of Quebec	Liam	*male	30. A religious leader who welcomed the narrator and his boys in Quebec. He presided over a meeting and examined the boys.
+	Blackstone	Echo	male	31. A prominent Indian chief who initially opposes the narrator's attempts to preach Christianity. He wears traditional attire including a white shirt covered in beadwork, long braided hair, feathers, and carries a bayonet. He later participates in council meetings.
+	Buhkwujjenene	Puck	male	9. Chief of Garden River Indians, brother of Augustin Shingwauk, 8-10 years younger than Augustin | 16. Chief of his band who collects maple sap and makes sugar in the bush. He is described as tall, handsome with a frank but thoughtful face, about thirty years old. He is a Christian who converted forty years ago and is willing to travel to England to help raise funds for building a teaching wigwam. He has a strong connection with nature and dreams, particularly about loons. | 18. A Native American chief who converted to Christianity after hearing a missionary's preaching. He was deeply affected by his son's conversion and eventually became a Christian himself, leading to the establishment of the Garden River Mission. | 21. An Indian Chief who attended the opening ceremony of the Shingwauk Industrial Home | 22. An Indian who spoke feelingly after the church service and was present during the fire emergency.
+	Captain Wilson	Alex	*male	25. An old Highlander who accompanied the party and made a comment about the guns. Likely a military officer or local figure.
+	Cheyadah	Daniel	male	34. Eldest brother and current chief of the band, who inherited leadership from his father Muhnedooshans. He carries the treaty paper showing boundaries of their land.
+	Chief	Psi	male	5. The pagan Chief at Kettle Point who gave the missionaries their Ojebway names and presided over the feast | 15. An unnamed Native American chief whose aunt is described as an old white-haired woman
+	Chief Buhkwujjenene	Lewis	male	13. A chief who warmly greeted the narrator and his wife upon their arrival at Garden River | 17. An Indian chief from Garden River who traveled to England to plead for more missionaries and education for his people. He is described as being at ease speaking in public, wearing traditional Indian dress including a feathered hat and moccasins. He is portrayed as a Christian convert who wants his people to adopt civilized trades and education. | 19. A chief who speaks eloquently at a council in the schoolhouse about their journey to England and the proposed Institution | 20. Father of the bridegroom, spoke on behalf of his family regarding the wedding | 20. Chief who agreed to send two of his daughters to the Institution | 41. An Indian chief who had been blind for four years, owned an Indian Testament and taught himself to read his own tongue
+	Chief Little Pine	Michael	male	14. An Ojibwe chief (Augustin Shingwauk) who undertakes a journey to Toronto to plead for more Christian teachers and educational support for his people on the Great Ojebway Lake. He is described as an old man of seventy winters, deeply religious and determined to help his people. | 15. A Native American chief who accompanied the narrator on a tour and is mentioned as having arranged for the removal of headquarters to Garden River | 19. A chief who speaks about the value of land and urges Indians to send their children to school; also becomes ill during the winter | 20. Another chief who made a speech at the wedding | 20. Chief who addressed the people about sending children to the Institution
+	Chief Winchaub	Kumo	male	34. Indian chief who delivered a message about his people's interest in education and Christianity. He expressed willingness to send his child to school but noted others were reluctant due to distance.
+	Col. Cumberland	Fable	male	25. Provincial A.D.C. who was accompanying the Earl of Dufferin and conveyed his lordship's commands regarding the foundation stone ceremony.
+	Cryer	Eric	*male	22. A servant who attempted to fight the fire by throwing water on it and was sent to fetch more water from the river during the fire. | 23. A man who accompanied the narrator in carrying Laurie's coffin to the steamer | 24. The farm-man who accompanied the narrator and his wife while they were scouting for land to build the new Institution. He assisted in preparing the site by turning up sod and chopping out a clearing.
+	Dr. King	Onyx	*male	23. American doctor who visited the Wilson family after the fire, showed kindness and provided medical care for Mrs. Wilson and their sick child
+	E. Murton	Omega	male	40. A builder who writes a letter about Jackson's progress as an apprentice
+	Earl of Dufferin	George	male	25. Governor-General of Canada, who laid the foundation stone of the new Shingwauk Home. Delivered an address emphasizing sympathy for Indian fellow-subjects and the importance of education and civilization.
+	Esquimau	Psi	*male	31. An Indian boy who serves as one of the narrator's companions during the missionary work. He speaks with authority about Christianity and joins in prayer with the narrator. | 33. A canoe paddler who carries the canoe on his shoulders during portages, and also serves as an interpreter when speaking with Native chiefs. He is described as a key figure in the group's interactions with Indigenous people. | 34. Individual who encountered Mesten and informed the missionaries of his arrival. He was part of the group waiting for a missionary. | 35. A guide who helps with canoe portages and cooking duties
+	F. D. FAUQUIER	Daniel	*male	23. The Bishop who sent a letter of sympathy and support to the Wilson family after their disaster
+	Frederick	Eric	*male	36. The baptized name given to Ningwinnena by Bishop Fauquier. A gentle, intelligent Indian boy who was taken in by the narrator and educated at the Shingwauk Home. He died of illness at age fourteen. | 38. An Indian boy from Neepigon who was baptized along with Benjamin Beaconsfield. He had soft eyes and gentle disposition, and was quick to learn.
+	Frost	Psi	*male	18. A young man from Rev. D. B. Hankins' congregation at Ware who was hired as a school teacher for the proposed Industrial School at Garden River. | 22. A servant who worked with Cryer to fight the fire by throwing water on it and was sent to fetch more water from the river during the fire. | 23. A man who was in the room when the fire started and whose coat was saved by Jimmy Greenbird; remained behind to take charge of the Mission temporarily | 24. The Catechist who occupied the temporary frame cottage built on the site of the burnt Shingwauk Industrial Home at Garden River.
+	Garehees	Fenrir	*male	5. An Indian who traveled with the missionaries from Sarnia and was notably unbothered by the cold weather
+	George Angisteh	Daniel	male	20. Man who declared Eliza dead upon seeing her
+	Governor-General	Puck	*male	30. The representative of the British Crown in Canada who received the narrator and his boys kindly at Rideau Hall.
+	H. P. Pim	Onyx	male	40. A tinsmith who writes a letter praising Pedahjewun's honesty and skill
+	Harry Nahwaquageezhik	Santa	male	40. An old pupil at Shingwauk Home working as a boot maker in the boot shop and instructing younger boys
+	Indian	Echo	*male	37. Man who brought five little girls from a hundred miles away to the Wawanosh Home, offering to help with fish in the fall
+	Jacob	Echo	male	26. An Indian boy who accompanied Mr. Frost and the narrator on their trip to Batcheewauning. Left in charge of their belongings while they went looking for a campsite.
+	James	Michael	*male	11. A Garden River Indian who served as an attendant to the narrator during his missionary tour. He acted as a translator and companion, helping the narrator communicate with other Indians.
+	Joseph Wawanosh	Fable	*male	3. Son of Chief Wawanosh who speaks on behalf of his father during the church raising celebration, expressing gratitude for the missionary's arrival. | 6. The Chief's eldest son, churchwarden who had a weakness for making large fires in the church. Known for his quiet grave appearance but with a merry twinkle in his eye.
+	Leviere	Omega	*male	3. The narrator and missionary who has arrived in Sarnia to establish a mission among the Indians. He invests in a horse and buggy and hires Wagimah as interpreter.
+	Makuhda-uhsin	Lewis	*male	11. An Indian Chief from Rainy Lake, also known as Black Stone. He was described as a fine, upright, muscular man with sharp features and fierce eyes, wearing traditional regalia including a mink-skin turban and otter skin appendage.
+	Mesten	Daniel	male	34. Indian man who traveled forty miles to meet the missionaries, representing a band of people who had been waiting thirty years for an English missionary. He was prepared to accept Christianity.
+	Misquaubuhnooke	Puck	*male	19. An Indian speaker at the council who criticizes Indians for not exerting themselves more and attending church
+	Mr. Frost	Nicola	male	19. A teacher who begins teaching school on Sugar Island three times a week | 21. An adult present at the opening ceremony of the Shingwauk Industrial Home | 26. A companion of the narrator who accompanied him on the trip to Batcheewauning. Helped with camp preparations and teaching children.
+	Mr. Jacobs	Puck	male	10. Missionary who was now settled in charge of the Kettle Point Mission. He met the narrator upon arrival at the new church. | 12. A pastor who settled in at the Mission-house as Pastor of the Sarnia Indians after the narrator's departure | 15. The Rev. John Jacobs, a native pastor who was given charge of the church on the Reserve and had two children with his wife | 21. An adult accompanying children from the Sarnia Mission to the Shingwauk Industrial Home
+	Mr. Wilson	Santa	male	14. A missionary who accompanies Chief Little Pine on his journey to Toronto and beyond. He collects money for the chief's cause, helps with communication, and writes down the chief's story to be published as a book. | 25. The narrator and local leader who received the Governor-General's address, gave thanks on behalf of the institution, and was responsible for the occasion in the Bishop's absence. | 41. The Bishop's teacher who helped him learn the Indian language
+	Mr. Wotton	Lewis	male	40. The master at Shingwauk Home who is instructing a class by the blackboard in the school-room
+	Mungedenah	Nicola	*male	11. An Indian Chief who visited the narrator's tent at Thunder Bay. He was described as not being bigoted in his religion and expressed interest in Christianity, particularly wanting an Ojebway Testament.
+	Nin-gwin-ne-na	Michael	*male	35. Younger son of Oshkahpuhkeda, a quiet and gentle 13-14 year old boy who joins the mission party
+	Old Chief Little Pine	Alex	*male	23. An Indian chief who spoke at the council, expressing understanding of loss and sharing his own grief over losing a son
+	Old Indian	Alex	*male	3. A half-breed Indian (partly French) who speaks with the missionary about building a church. He suggests building a frame church instead of a log one.
+	Old man from Muncey Town	George	*male	4. The husband of the old woman from Muncey Town who took over smoking her pipe after she had finished.
+	Oshkahpuhkeda	Nicola	male	34. Father who expressed deep desire for his son to be educated and baptized as a Christian. He also offered to give all his children to the missionaries if he died. | 35. Father of two boys who brings his younger son Ningwinnena to join the mission party
+	Oshkahpukeda	Fenrir	*male	36. The father of Ningwinnena/Frederick, a pagan Indian who gave his son to be educated. He was deeply grieved by his son's death and expressed sorrow over the loss of his child. | 42. Missionary companion of Rev. R. Renison, traveling with him to visit pagan Indians. Likely a Native American or Indigenous person working in the mission.
+	Prince of Wales	Liam	*male	17. The future King Edward VII who met with Chief Buhkwujjenene at the Bethnal Green Museum opening. He was cordial and remembered the chief from his previous visit to Canada.
+	Puhgukahbun	Psi	*male	5. A missionary who received the Ojebway name 'Clear Day-light' from the Chief at Kettle Point, indicating he is now considered one with the tribe
+	Rev. Henry Venn	Fable	*male	1. The Hon. Secretary of the Church Missionary Society who arranged for the narrator to go out as a missionary to Canada. | 17. The venerable Secretary of the Church Missionary Society who received the chief and his companions kindly. He expressed hope that the Committee would continue support for the mission at Garden River.
+	Rev. R. Renison	Santa	*male	36. The Reverend who was appointed by the Bishop to take charge of the mission at Lake Neepigon in 1881, moving there with his family. | 42. Missionary working among the Neepigon Indians. He is described as devoted to his work, traveling long distances through difficult terrain and teaching the Gospel.
+	S. Reid	Kumo	*male	40. A printer in charge of the Shingwauk Printing Office who has been for eighteen months and finds Indian boys apt, obedient, steady and clever
+	Sawyer	Echo	*male	2. Chief of the New Credit Reserve Indians, described as tall and having a sensible-looking face
+	Shabahgeezhik	Michael	*male	19. An Indian speaker at the council who criticizes Indians for not exerting themselves more and attending church; also hosts an evening communicants' meeting | 29. A male pilot who guides the boat through treacherous waters, knowledgeable about local geography and navigation
+	Shesheet	George	*male	6. The old Chief's wife, also known as 'Shesheet' (Antoine Rodd). A large portly man who was often comical in his remarks. | 7. An older Indian who provides information about the poor widow and her family, and is noted for helping them with food or firewood. | 8. Old Indian man who conferred the name Tecumseh on the narrator's baby
+	the bishop	Alex	*male	A religious leader who consented to the narrator's plan to build a school-church at Batcheewauning and appoint a catechist. | A religious figure who accompanies the narrator on their journey. He has a tent pitched at Neepigon and cooks for himself using tin pots. | A religious leader who accompanies the group on their journey, participates in prayers and services with the Indians, and delivers a sermon to the gathered Native people. | A religious leader who joins the mission party and shows interest in the native children
+	The Garden River Indian	Santa	*male	29. A male Indian who provides crucial information about the location of the runaway boys and their boat theft
+	The Half-Breed Man	Fenrir	*male	29. A male half-breed who lives in a shanty below Mr. Marks' house and is found with the runaway boys
+	The Jesuit priest	Onyx	*male	13. A German-born priest who offered to give the narrator and his wife a chicken and milk for their feast | 22. A hospitable man who provided shelter for the evacuees during the fire and was present at the church service.
+	The man with the lantern	George	*male	26. A local inhabitant who guided the narrator and Mr. Frost to a shanty for shelter during their first night at Batcheewauning.
+	The officious man	Nicola	*male	31. A male Indian who interrupts the narrator's religious discussion and argues that Indians should not accept Christianity.
+	The owner of the saw mill	Omega	*male	26. A local resident who directed the narrator and Mr. Frost to a suitable camping spot near the saw mill.
+	The Sexton	Kumo	*male	22. An Indian who came to ask whether he should ring the church bell for service during the fire emergency.
+	W. Vaughan	Eric	male	40. A tailor who writes a letter about Aubee's progress as an apprentice
+	Wagimah	Alex	*male	2. Young Indian interpreter, nickname for Andrew Jacobs | 3. Interpreter hired by the missionary Leviere to help with conversations and preaching among the Indians. Also accompanies him on field visits. | 4. An interpreter who accompanied the narrator on their journey to Kettle Point and led the way through the bush during their return trip. | 5. An interpreter who translated the missionary's speech to the Indians at the feast | 7. An interpreter or guide who asks questions of the sick woman and helps facilitate communication between the narrator and indigenous community members. | 8. Indian interpreter who translated the Bishop's address | 10. Indian man who was present when the narrator visited a sick old man and his son. He interpreted dreams for others.
+	Waubesee	Onyx	*male	2. Member of the Church of England and leader of a family at Sauble Reserve
+	William Sahgucheway	Kumo	male	38. The captain of the school, nineteen years old and preparing for the ministry. He died suddenly from inflammation after being ill for a day or two. | 39. An Indian boy born in 1862 on Walpole Island, orphaned at a young age and raised by relatives. He was bright, intelligent, cheerful, and self-denying, becoming a beloved figure at the Shingwauk Home where he was known as 'Wahsashkung' (shining light). He dedicated his life to Christ in 1877, became a spiritual leader among other boys, and was deeply respected by teachers and peers. He died in 1880 from illness likely caused by hard labor preparing a road for the burial of Bishop Fauquier and his wife.
+	Willie	Liam	male	7. A young boy, about five years old, living with his family in a poor wigwam; he is described as bright-eyed and uncombed. | 12. Shegaugooqua's five-year-old son with rough black uncombed hair and bright intelligent eyes, taken in hand by the narrator to be trained as a Christian and useful person
+	Eliza	Aoede	female	20. Woman who died suddenly, leaving three orphan children | 40. An Indian servant working at the sewing-machine making garments for the boys at Shingwauk Home
+	English lady	Nezumi	female	37. Visitor to the Wawanosh Home in 1880 who wrote a letter describing the institution and its surroundings
+	Jane	River	female	1. An old faithful servant who accompanied the narrator and his wife on their journey to Canada as part of their missionary expedition. | 6. The missionary's wife who received a cat from Widow Kwakegwah. Also had Indian visitors come to see her room. | 7. A companion of the narrator who accompanies him on visits to indigenous families, bringing supplies and participating in medical care. | 15. A faithful nurse who accompanied the family to Garden River
+	Little Nancy	Xiaoni	female	23. An eleven-year-old Indian girl who complained of brain pain and appeared ill after the fire
+	Miss Cunningham	Bella	female	40. The lady Superintendent of the Wawanosh Home who meets visitors at the door and conducts them through the building
+	Mrs. Ahbettuhwahnuhgund	Lily	*female	4. The wife of the Chief Ahbettuhwahnuhgund, who hosted the narrator and interpreter in her home during their stay at Kettle Point.
+	Mrs. Chief	Jessica	*female	6. The wife of the old Chief, referred to as 'Mrs. Chief' by the missionaries. Gave a sweet-grass basket as a Christmas gift to Mrs. Wilson.
+	Mrs. Wilson	Heart	female	5. The wife of the missionary who received the Ojebway name 'Lady of the Sky' and was present at the feast | 6. The missionary's wife who received gifts from the Indians, including a sweet-grass basket and a cat. Also interacted with various Indian characters. | 7. A woman who joins the narrator on a visit to a sick indigenous woman, bringing food items like blanc-mange or jelly. | 16. The wife of the narrator who travels to England with Chief Buhkwujjenene and Archie as part of the mission party. | 22. The wife of the narrator, a woman who helped organize the evacuation of children during the fire and was present throughout the disaster. She is described as being ill at one point and wearing a dressing-gown and slippers during the escape. | 23. The wife of the narrator, severely affected by the fire with injuries and illness, who was carried on a mattress to the steamer
+	Old woman from Muncey Town	Sky	*female	4. A visitor staying at Kettle Point who was described as a dirty old couple with her husband, and she was seen smoking a pipe.
+	The Half-Breed Woman	Sarah	*female	29. A female half-breed who lives near the shore and initially appears at her door when approached by the rescuers, showing fear
+	Widow Kwakegwah	Siwis	female	3. An elderly Indian woman whose house the missionary visits during one of his field expeditions. She is described as having a pleasant, honest-looking face. | 6. An Indian woman who brought a black and white cat as a present for the missionary's wife.
+	farmer	Aiden		
+	old sailor	Alex		
+	*Adam	Nicola	male	10. Sponsor for the children being baptized at Kettle Point. He was present during the baptismal service. | 27. The same Adam Kujoshk who was mentioned at the beginning of the chapter.
+	*Adam Kujoshk	Onyx	male	27. First pupil to arrive at the Shingwauk Home, from Walpole Island. Turned sixteen and was among the eldest children at the home.
+	*Adam Sahpah	Liam	*male	4. A resident of Kettle Point who hosted the narrator and interpreter for the night during their journey.
+	*Aleck	Liam	*male	13. A boy who accompanied the narrator and his wife during their stay at Garden River, described as cheery, ready, and helpful
+	*Aleck Bird	Fenrir	*male	12. An Indian boy taken by the narrator and his wife as cook and general servant during their northern trip
+	*Andrew Jacobs	Eric	male	2. Young Indian interpreter with the narrator, also known by his Indian name Wagimah-wishkung
+	*Angus	Kumo	*male	2. Indian Catechist who conducted Church of England services at Cape Croker
+	*Archdeacon Fauquier	Fenrir	male	21. The first Missionary Bishop elected for the newly established Diocese of Algoma, Parry Sound and Muskoka
+	*Archdeacon McMurray	Fenrir	*male	30. A religious leader who warmly received the narrator and his boys in Niagara. He was also a missionary at Sault Ste. Marie.
+	*Archibald Edward	Alex	male	8. The narrator's child, christened by the Bishop during Divine service
+	*Arthur	Kumo	*male	16. The narrator's brother who is misunderstood by Buhkwujjenene who calls him Neegig instead of Arthur. He becomes friends with the chief over their shared love of tobacco.
+	*Atoosa	Fable	male	20. Father of the bride, opposed to the wedding in their church
+	*Aubee	Echo	*male	40. A boy apprenticed to a tailor who has all necessary qualifications to make a good tailor
+	*Augustin Shingwauk	Omega	male	8. Old Indian chief met by the narrator during visit to Garden River | 9. Chief of Garden River Indians, about 60 years old, intelligent-looking man with four-generation ancestry tracing back to Shingwaukoons | 21. Also known as Little Pine, an Indian Chief who attended the opening ceremony of the Shingwauk Industrial Home
+	*Beaconsfield	Santa	*male	38. Originally named Chegauns (little man close by), a wild pagan boy who was baptized and renamed Benjamin Beaconsfield. He had a tender conscience, told the narrator when he sinned, and was expected to have grace in his heart.
+	*Ben	Alex	male	30. A young boy from the Indian Institution who accompanied the narrator on his Canadian tour to promote the Home for Indian girls. He was one of two boys taken along on this journey.
+	*Benjamin	Echo	*male	20. Eliza's eldest child, six years old, orphan after her death | 21. Eliza Pine's little orphan boy who belonged to Garden River and was admitted to the Shingwauk Industrial Home | 27. One of the children sitting in school, mentioned among the eighteen pupils. Later known as 'the Little Warrior'. | 39. An Indian boy who was present with William at his death, along with Wigwaus and Davidans.
+	*Benjamin Shingwauk	Omega	*male	27. Known as 'the Little Warrior', continued studying and hoped to pass a public examination for teaching certification.
+	*Bishop Fauquier	Psi	*male	24. The Bishop who took up residence at Sault Ste. Marie in the first week of June, shortly after the narrator's arrival and the start of construction on the new Shingwauk Home. | 36. The bishop who baptized the three boys including Frederick and became his godfather. He showed great affection for Frederick and wrote a letter to him, expressing hope that he would go to heaven. | 39. A bishop whose body was expected to arrive for interment in the Shingwauk cemetery, and who William helped prepare a road to receive.
+	*Bishop of Huron	George	male	28. The Bishop of Huron who formally opened the Shingwauk Home on August 2, 1875. He spoke about the importance of training young Indians and mentioned having native missionaries and teachers in his diocese.
+	*Bishop Strachan	Santa	*male	14. The Bishop of Toronto who meets with Chief Little Pine and agrees to support the chief's request for more teachers. He is described as having authority over missions.
+	*Bishop Wilson	Echo	*male	17. A bishop whose memorial hall hosted the chief's first meeting in England. He is mentioned as having occupied the chair at the meeting where Chief Buhkwujjenene spoke.
+	*Bubkwujjenene	Lewis	*male	19. A chief who hosts the narrator in his house to discuss matters about the ox
+	*Buckwheat	Nicola	*male	6. An Indian from Walpole Island who attended the church opening and presented a donation of nine dollars for the church and mission house.
+	*Charlie	Fable	male	30. A young boy from the Indian Institution who accompanied the narrator on his Canadian tour to promote the Home for Indian girls. He was one of two boys taken along on this journey.
+	*Charlie Penahsewa	Lewis	*male	38. A young Indian boy who died in January after only a few months at the Home. He was buried with torches carried by the boys.
+	*Chase	Alex	*male	2. Native minister at Muncy Town who had previously visited the Sarnia Indians and was present at the council
+	*Colonel Wolseley	Echo	male	11. The military commander of the Red River expedition, referred to as General Wolseley at that time. He led a large detachment of troops on the journey.
+	*Cornelius	Psi	*male	10. Young boy baptized at Kettle Point, son of Ahbettuhwahnuhgund. His name was given by the missionaries.
+	*David	Fable	*male	27. One of the children sitting in school, mentioned among the eighteen pupils. Later married Sophia Esquimau.
+	*David Sahpah	Fenrir	male	4. A resident of Kettle Point who hosted the narrator and interpreter during their visit. He had a large family and was one of the more advanced farmers in the community. | 10. Sponsor for the children being baptized at Kettle Point. He was present during the baptismal service.
+	*David Winchaub (Bowstring)	Alex	*male	33. A Native chief who is described as the most intelligent Indian they had met on their travels. He shows interest in Christianity and listens attentively to the narrator's stories about Little Pine's conversion.
+	*Davidans	Fable	*male	39. An Indian boy who was present with William at his death, along with Wigwaus and Benjamin.
+	*Dr. Cronyn	Nicola	*male	1. The late Bishop of Huron who lived in London, Ontario at the time of the narrator's arrival in Canada.
+	*Dr. Lett	Lewis	*male	23. A local doctor who showed great kindness to the Wilson family, caring for Mrs. Wilson and accompanying them to the cemetery
+	*Dr. Tait	Psi	*male	1. The Bishop of London who ordained the narrator as deacon at the Chapel Royal. Later became Archbishop of Canterbury.
+	*Edward Algoma	Liam	*male	41. The Bishop's second name before receiving his new Indian name 'Tabahsega'
+	*Edward Sullivan	Fenrir	*male	41. The Bishop's original name before receiving his new Indian name 'Tabahsega'
+	*Elijah	Daniel	male	39. William's younger brother who died in 1880, described as a pupil at the Shingwauk Home. William felt his death deeply and often spoke of him, referring to him as being with Jesus and the angels.
+	*Father	Onyx	*male	16. The narrator's father who meets the party at Euston Square upon their arrival in England. He is described as a venerable English Black-coat.
+	*Gardener	Michael	*male	37. Man who worked with his wife to maintain the grounds and gardens of the Wawanosh Home
+	*George Pine	Alex	male	20. Eliza's husband, away beaver-hunting when she died
+	*Husband	Michael	*male	9. Young woman's husband, present in church gallery
+	*Isaac	Lewis	male	5. A little boy who received a sugar-dog as a gift at the feast and was observed eating it | 10. Name given to Ahbettuhwahnuhgund after his baptism. He was the Indian Chief who eventually converted to Christianity.
+	*Jackson	George	*male	40. A boy under the carpenter and builder who has learnt the trade fast, is fond of it, steady and obliging
+	*Jacob Gray	Echo	*male	3. An infant baptized by the missionary on his first Sunday among the Indians. Later became a pupil at Shingwauk Home.
+	*Jimmy	Puck	*male	21. A child whose travelling expenses were paid by his band and who was supported by kind friends in England | 33. A canoe paddler who carries the tent, blankets, axe, and gun during portages.
+	*Jimmy Greenbird	George	male	21. A boy from Walpole Island who arrived at the Shingwauk Industrial Home | 23. An Indian child who saved a coat for Frost during the fire and was found wrapped in a counterpane
+	*John Esquimau	Alex	male	40. A student at Shingwauk Home reading theology and studying Latin and Greek with a view to entering the ministry
+	*John Jacobs	Santa	male	5. A young native studying for the ministry at Huron College who interpreted the Chief's oration for the missionaries | 8. Young native student who became ordained and took charge of Kettle Point Mission
+	*John Rodd	Omega	male	21. A boy from the Sarnia Mission who arrived at the Shingwauk Industrial Home | 27. Wood-cutter who was employed at the home and later died there in 1877.
+	*Joseph	Onyx	*male	33. A canoe paddler and portage bearer who carries a 70 lb. bag of flour on his forehead using an Indian-style portage strap during the long portages. | 34. Missionary companion who joined the Bishop and others in visiting the Indian camp. He participated in discussions about Christianity with the Indians.
+	*Joseph Esquimau	Puck	*male	36. A pupil of the Shingwauk Home who was placed in charge of the mission at Lake Neepigon after Frederick's death.
+	*Joseph Sahgejewh	Echo	male	27. Child who continued working at the sash and door factory after the first winter.
+	*Joshua Greenbird	George	*male	12. A catechist from Walpole Island who was expected to arrive in Sarnia, bringing his family and baggage
+	*Kahgaug	Eric	*male	39. An Indian boy who was one of the two boys assigned to watch over William at night during his final illness, along with Willis.
+	*Kebuk	Psi	*male	42. Pagan Indian whom the missionary had previously tried to convert. He eventually accepted Christianity, was baptized with his family, and agreed to join the mission.
+	*Kesheg	Psi	*male	15. Mr. Jacobs' nickname, used by the narrator when speaking to him
+	*Kezha-Musnedoo	Santa	*male	9. Good Spirit, mentioned by the drowning woman in her account of survival
+	*Kwakejewun	Daniel	*male	7. An Indian whose daughter died and was buried in the funeral described at the end of the chapter.
+	*Lieutenant Governor	Puck	*male	30. The representative of the Crown in New Brunswick who invited the narrator and his boys to stay at Government House.
+	*Little fat boy	Michael	*male	4. A baby about ten months old who was crying and being comforted by the antiquated old woman.
+	*Little Pine	Eric	male	16. Buhkwujjenene's brother who has already done work by addressing meetings in Canada to support the fundraising efforts for building a teaching wigwam.
+	*Madwayosh	Fable	*male	2. Chief of the Saugeen Reserve Indians
+	*Man	Lewis	*male	9. One of two men saved from drowning, husband of the missing young woman
+	*McLellan	Fenrir	*male	35. A local resident who provides milk and butter to the mission party
+	*Menesenoons	Alex	*male	27. Child with a long Indian name, referred to as the little warrior.
+	*Mishael Obeseekun	Lewis	*male	42. Indian family head who welcomed the missionaries at their wigwam. His wife helped mend the missionary's moccasin and his children were glad to see him.
+	*Mr. Chance	George	male	9. Postmaster and leader of the Garden River Mission, 60 years old, intelligent Chief with French and Indian ancestry, father of Buhkwujjenene | 11. A local resident and businessman who hosted the narrator at Garden River. He had intended to accompany the narrator on his expedition but was prevented by circumstances. | 12. The former pastor of the Garden River Mission who had laboured there faithfully for 18 years and was called away to another sphere | 13. Mrs. Chance's husband who had been away for more than a week when the narrator and his wife arrived | 14. A missionary who meets Chief Little Pine at the river of the Mohawks. He is described as a black-coat who has a waggon and family, including wife and children. | 26. A missionary who had previously baptized some of the Batcheewauning Indians.
+	*Mr. Church	Daniel	male	15. A sawmill owner on Sugar Island who helped transport the narrator's belongings across the river
+	*Mr. Dawson	Liam	male	28. Our Parliamentary Representative at Ottawa who gave a short address at the opening ceremony.
+	*Mr. Dowling	George	*male	30. A Reverend man in St. John who hosted the narrator and his boys temporarily during their visit.
+	*Mr. Hamilton	Echo	*male	30. A person in Quebec who hosted the narrator and his boys for dinner.
+	*Mr. Marks	Eric	*male	29. A principal settler on the island who provides information about the location of the runaway boys and offers hospitality to the rescuers
+	*Mr. McLellan	Eric	*male	32. A person who owns a storehouse where items are packed away for the journey.
+	*Mr. Simpson	Fenrir	male	28. Former Member for the district who gave a short address at the opening ceremony.
+	*Mr. Wright	Michael	male	31. The Indian superintendent who is mentioned as visiting the 'Height of Land' to pay annuity money to the wild Indian tribes.
+	*Muhnedooshans	Echo	male	34. Deceased father of the chief who received a treaty from the Great White Chief (Sir John Robinson) thirty years ago, which included promises about an English missionary.
+	*Muqua	Liam	*male	36. The son of Oshkahpukeda who was with his father at Red Rock waiting for Frederick's return.
+	*Nanaboozhoo	Omega	*male	17. A figure from Indian mythology who tells the story of the flood. He is described as having a son and being involved in creating a new world after the great flood.
+	*Neegig	Fable	*male	16. The narrator's brother Arthur, who is misunderstood by Buhkwujjenene as 'Neegig' (otter). He becomes a close friend of the chief and shares his love for tobacco.
+	*Ningwinnena	George	*male	35. The younger son of Oshkahpuhkeda, a gentle 13-14 year old boy who becomes the adopted son of the narrator | 36. A young Indian boy from Lake Neepigon who was adopted by the narrator and baptized as Frederick. He was intelligent, gentle, and trustful, showing great aptitude for learning English and Christian teachings. He died of consumption at age fourteen. | 39. A pagan boy encountered by William in 1878 on Lake Neepigon whom William befriended, taught to pray, and helped in his spiritual development before Ningwinnena's death.
+	*Obeseekun	Santa	*male	42. The same person as Mishael Obeseekun, the Indian family head who was able to repeat ten biblical texts accurately.
+	*Old grey haired man	Alex	*male	11. An elderly lighthouse keeper who lived alone on an island during the winter. He was excited to see the first boat of the season and saluted the ship with a gun.
+	*old Shingwauk	Michael	*male	41. An elderly Indian man who performed the smoking of the pipe of peace ceremony
+	*Pashegonabe	Alex	*male	16. The narrator's father, who is given this name by Buhkwujjenene meaning 'great eagle'.
+	*Pedahjewun	Omega	*male	40. A boy described as being better deserving of praise than any other in the Home, who will make a first-class tinsmith
+	*Penny	Nicola	*male	19. A person to whom Chief Little Pine owes money
+	*Peter Gray	George	*male	3. A man who lives with his wife and family of eight children in a small log hut without glass windows. The missionary visits him during his field work.
+	*Peter Jones	Psi	*male	19. An Indian who hosts a meeting where plans for Mr. Frost's school on Sugar Island are discussed
+	*Peterans	Psi	*male	38. A little boy called Peter, a grandchild of widow Quakegwah from Sarnia. He was sent to Wawanosh for better care but died there on February 8th.
+	*Philemon Atoosa	Onyx	male	20. Father of the bride, married to William Buhkwujjenene's daughter
+	*Premier	Liam	*male	30. The political leader of the province with whom the narrator met to discuss his work among Indians.
+	*Prince Arthur's Landing	Daniel	*male	32. A Canadian town on the north shore of Lake Superior, mentioned as the starting point of their journey.
+	*Quasind	Fable	*male	8. Old Indian man, great-grandfather about 90 years old, candidate for confirmation
+	*Rev. D. B. Hankins	Liam	male	18. A reverend from Ware who had a congregation that provided a school teacher for the Garden River Mission.
+	*Rev. Geo. Hill	Omega	*male	30. The rector of St. Paul's in Halifax who was informed of the narrator's visit and received him warmly.
+	*Rev. J. Halcombe	Fenrir	male	18. A reverend who was part of the English Committee formed to support the Garden River Mission.
+	*River Prince	Nicola	*male	15. One of two children born to Mr. Jacobs and his wife, named by the Indians
+	*Rowe	Nicola	*male	24. The Rev. P. T. Rowe who was appointed by the Bishop missionary to Garden River after the fire, though he did not actually take up residence there.
+	*Secretary of the Church Missionary Society	Psi	*male	5. The official who authorized the placement of a catechist in charge of the Kettle Point Mission
+	*Shaukeens	Puck	male	4. A large family living at Kettle Point who were all pagans and had advanced more in farming operations than the Sarnia Indians. | 5. A pagan Indian who stood with the Chief during the naming ceremony and was present at the feast | 10. Indian man at Kettle Point who had a wife and family. His wife was baptized, and he later brought his entire family for baptism.
+	*Shingahbawuhsin	Liam	*male	9. Father of Ogemahqua, Chief who was son of Tuhgwahna
+	*Shingwauk	Santa	*male	24. The founder of the Industrial Home at Garden River, whose institution was destroyed by fire and later re-built. He is mentioned as the subject of an announcement in the Church Herald.
+	*Shingwaukoons	Fenrir	*male	9. Father of Augustin and Buhkwujjenene, Chief with partly French and pure Indian mother
+	*Shunk	Michael	*male	22. An Indian who had occupied an empty log house where some children were sent for safety during the fire.
+	*Simon Altman	Nicola	*male	38. A boy from Walpole Island who died during the winter, making him the fifth boy to die that season. He was buried in the cemetery.
+	*Sir John Robinson	Omega	male	34. Great White Chief who made a treaty with the Indians thirty years ago, promising them an English missionary and annuity payments.
+	*Stephen	Daniel	*male	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. His name was given by the missionaries.
+	*Sutton	Eric	*male	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. His name was given by the missionaries.
+	*Tabahsega	Puck	*male	41. The new Indian name given to the Bishop, meaning 'spreading or radiant light'
+	*Tabegwun	Onyx	*male	2. Chief of the Cape Croker Indians
+	*Talfourd	Kumo	*male	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. His name was given by the missionaries.
+	*The baker-boys	Lewis	*male	28. Male children who made and baked bread in the brick oven.
+	*The boy who took them back	Kumo	male	26. An Indian guide who helped the narrator and Mr. Frost return to Sault Ste. Marie in a boat.
+	*The boys who ran away	Nicola	*male	28. Three specific male children who escaped after ten days and were later captured, mentioned as being part of the story in the next chapter.
+	*The carpenter	Puck	*male	18. A tradesman who joined the group on their voyage to Sault Ste. Marie and helped them in various ways before falling ill and dying. | 26. A worker hired by the narrator to begin construction of the school building at Batcheewauning. | 39. A man who had recently lost his wife and spoke with William during his final illness, expressing sorrow at how much William had changed.
+	*The child	Michael	*male	18. A young boy who was present during the Chief's conversion story and was pointed out by the Chief to illustrate his early life.
+	*The children	Psi	*male	28. A group of Indian children aged 6-17 years who attended the home, with equal numbers of boys and girls. They were poorly clad when they first arrived but were given baths, new clothes, and regular routines.
+	*The Doctor	Echo	*male	8. Old Indian who sang traditional songs and caused merriment | 22. A medical professional sent for during the fire emergency to treat the ill children, particularly Laurie.
+	*The fish-boys	Puck	*male	28. Male children who went out each morning with nets to catch fish for the home's food supply.
+	*The good people	Michael	*male	13. Local Indians who brought potatoes for the narrator and his wife's breakfast
+	*The Indian boy who came with us	Daniel	male	26. An unnamed Indian boy who accompanied the narrator and Mr. Frost on their trip to Batcheewauning, similar to Jacob.
+	*The Indian boys	Puck	*male	13. Two young men who rowed the narrator and his wife in their boat to Echo River for a camping expedition
+	*The Indian Who Lost His Boat	Kumo	*male	29. A male Indian who owns a boat that was stolen by the runaway boys, then pursued them in his canoe and eventually left them on an island
+	*The Indians	Lewis	*male	13. A group of Native Americans who attended church services and were pleased to have the narrator and his wife stay with them | 31. Various unnamed Indian people who gather to observe the narrator's missionary activities, including those participating in war dances and council meetings.
+	*The man who took them back	Eric	male	26. An Indian guide who helped the narrator and Mr. Frost return to Sault Ste. Marie in a boat.
+	*The old man	Lewis	*male	31. An elderly Indian living alone in a wigwam who initially listens to the narrator's religious discussion but later changes his mind. | 35. A baptized native who listens attentively to Bible reading
+	*The other man	Psi	*male	31. A male Indian who approaches the narrator after the officious man and also discourages religious discussion.
+	*The poor sick boy	Eric	*male	19. A thirteen-year-old Indian boy who suffers a cord-wood accident and receives medical attention from the narrator
+	*The priest	Daniel	*male	19. A Roman Catholic priest who visits the sick Indian boy and discusses religious matters with the narrator
+	*The Propeller Captain	Onyx	*male	29. A male captain of a steamboat who provides assistance by towing the rescue vessel through rough waters
+	*The sailor-boys	Santa	*male	28. Male children in blue serge suits who had charge of 'The Missionary' and did water-based commissions.
+	*The Schoolmaster	Daniel	*male	29. An adult male figure who accompanies boys on a mission to find the runaway boys, likely a teacher or educator at the institution
+	*The seven Indian boys	Kumo	*male	32. A group of young men who travel with the narrator and Bishop. They are described as merry, rowing the boat, making camp fires, and participating in religious activities.
+	*The two men	Santa	*male	31. Two adult male Indians who are the children of the old man and come to listen when he speaks about religion.
+	*The water-boys	Michael	*male	28. Male children who worked with a grey pony named 'Muhnedooshish' (Little Evil Spirit) to carry water.
+	*Thomas Winter	Omega	*male	3. A child of four or five baptized by the missionary on his first Sunday among the Indians. Later became a pupil at Shingwauk Home.
+	*Tommy	Liam	*male	21. A child whose travelling expenses were paid by his band and who was supported by kind friends in England
+	*Tommy Winter	Omega	male	12. A grandchild of the murdered man, taken in hand by the narrator along with Willie to be trained as a Christian and useful person | 21. A boy from Kettle Point who arrived at the Shingwauk Industrial Home
+	*Tootoomenaun	Fable	*male	11. A Chief from Michipicotun who lived in a simple wigwam and was receptive to Christian teachings. He hosted the narrator for evening Scripture readings and prayer sessions.
+	*Tuhgwahna	Puck	*male	9. Chief and father of Shingahbawuhsin, resident of Sault Ste. Marie district
+	*Uhbesekun	Nicola	*male	32. A guide hired for the journey who helps navigate the canoe through rapids and portages. | 33. A canoe paddler and portage bearer, positioned in the bows of the canoe. He is described as one of the main laborers carrying the heavy canoe during portages. | 34. Guide who was one of the band's members and helped facilitate communication with the missionaries. He had been waiting for a missionary to come. | 35. A native who joins the Christian prayers with the camp, initially leaving but staying to pray
+	*Ven. Archdeacon Hunter	George	male	18. A late Ven. Archdeacon from Bayswater who was among the members of the English Committee organized to support the Garden River Mission.
+	*Wawanosh	Daniel	male	2. Venerable old chief of the Ojebway tribe at Sarnia, already a member of the Church of England | 3. An old Chief who supports the missionary's work. His son Joseph speaks on his behalf during the church raising celebration.
+	*Wesley	Onyx	*male	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. His name was given by the missionaries.
+	*Wigwaus	Onyx	*male	39. An Indian boy who was present with William at his death, along with Benjamin and Davidans.
+	*William	Fable	male	33. A canoe paddler who remains behind with the narrator to make a sketch during portages, and later shares a tent with him. He also carries the narrator's camp bed, blankets, mat, coats, and other gear. | 34. Missionary companion who accompanied the Bishop and others on their journey to visit the Indian band. He was present during the interview with Mesten and later participated in discussions.
+	*William Buhkwujjenene	Kumo	male	20. The Chief's only son, bridegroom in the wedding ceremony
+	*William Henry	Onyx	male	8. Young Indian student and future catechist, taught by the narrator
+	*William Shabahgeezhik	Santa	*male	19. An Indian who hosts an evening communicants' meeting
+	*Willis	Kumo	*male	39. An Indian boy who was one of the two boys assigned to watch over William at night during his final illness, along with Kahgaug.
+	*Wilson Jacobs	Kumo	male	8. Young Indian student and future catechist, taught by the narrator
+	*Winter	Eric	*male	7. A man who was killed by his own son while both were intoxicated, representing a tragic consequence of alcohol abuse.
+	*Alice	Xiaobei	female	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. Her name was given by the missionaries. | 12. A dear little girl of Mr. Chance who died after a short illness and was buried in the Indian Cemetery
+	*Alice Wawanosh	Nova	female	27. Turned sixteen and among the eldest children at the home. Grand-daughter of the old Chief at Sarnia. Girl monitor for the week and later married Adam Kujoshk.
+	*Antiquated old woman	Nicole	*female	4. An elderly woman sitting in a corner of the house trying to comfort a crying baby.
+	*Betsey Corning	Lily	female	21. A child from the Sarnia Mission who arrived at the Shingwauk Industrial Home
+	*Betsy	Tebukuro	*female	27. One of the children sitting in school, mentioned among the eighteen pupils.
+	*Chief Little Pine's wife	Beta	female	14. The wife of Chief Little Pine who is informed of his plan to journey to Toronto. She supports her husband's mission.
+	*Dolly	Xiaoxiao	*female	30. The narrator's spirited little mare used to draw a buggy during the journey. Named and described as a horse.
+	*Eliza Bird	Siwis	female	21. A child from the Sarnia Mission who arrived at the Shingwauk Industrial Home
+	*Eliza Jane	Gongitsune	*female	27. One of the children sitting in school, mentioned among the eighteen pupils.
+	*Eliza Pine	Xiaobei	female	21. A woman whose orphaned son Benjamin was admitted to the Shingwauk Industrial Home
+	*Emma	Beta	*female	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. Her name was given by the missionaries.
+	*Esther	Alpha	*female	10. Child baptized at Kettle Point, one of seven children in Shaukeens' family. Her name was given by the missionaries. | 20. Eliza's child, one of two little children present when she died
+	*Hole in the Sky	Sara	*female	27. Child with a long Indian name, referred to as 'Hole in the Sky', who helped with meal preparation and later worked in service.
+	*Isabel	Xiaoyi	female	16. Buhkwujjenene's wife who works with him at the sugar camp. She is part of his large family of daughters and helps in the maple-sugar making process. | 20. Bridesmaid at the wedding, one of four attendants
+	*Kabaoosa	Nezumi	female	21. A child from the Sarnia Mission who arrived at the Shingwauk Industrial Home
+	*Lady Dufferin	Alloy	female	25. Wife of the Earl of Dufferin, Governor-General of Canada. Accompanied her husband to lay the foundation stone and was present at the ceremony.
+	*Lady Superintendent	Lily	*female	37. Woman engaged to manage the Wawanosh Home, who agreed to remain for another year at reduced salary
+	*Lady Tilley	Xiaoni	*female	30. The wife of the Lieutenant Governor of New Brunswick who hosted a bazaar for the narrator's cause. She invited young girls to make articles for sale and presented him with $300.
+	*Laurie	Beta	female	22. The youngest child, described as very ill with inflammation of the lungs and carried by his mother during the evacuation. | 23. The Wilsons' young daughter who died from the fire, described as a little girl whose body was committed to the ground
+	*Liquette	Tebukuro	female	16. Buhkwujjenene's daughter who works at the sugar camp with her mother and other family members.
+	*Mabel Laurie	Alpha	female	22. A young child who was ill with coughs and had inflammation of the lungs, one of the children evacuated during the fire.
+	*Mary Jane	Sky	female	21. A child from the Sarnia Mission who arrived at the Shingwauk Industrial Home | 27. Cook girl and one of the children who helped with meal preparation, later married David Nahwegahbosh.
+	*Mary-Ann Jacobs	Sarah	female	21. A child from the Sarnia Mission who arrived at the Shingwauk Industrial Home
+	*Mary-Jane	Emma	*female	27. The same Mary Jane who was mentioned as a cook girl and later died in Sarnia.
+	*Misquahbenooqua	Xiaobei	female	41. The new Indian name given to Mrs. Sullivan, meaning 'rosy dawn'
+	*Miss ----	River	female	37. English woman who wrote to inquire about funding for the Wawanosh Home and sent a cheque of L350
+	*Mother	Dora	*female	16. Buhkwujjenene's elderly mother who is described as very stout and comfortable-looking. She works at the sugar camp with her family.
+	*Mrs. Bridge	Siwis	female	37. Laundress who occupied a cottage on the other side of the road from the Wawanosh Home
+	*Mrs. Buxton	Jessica	female	21. A woman who donated a large Union Jack flag for the opening of the Shingwauk Industrial Home
+	*Mrs. Chance	Gongitsune	female	9. Post-mistress and wife of Mr. Chance, co-owner of the Garden River Mission with her husband | 11. Mr. Chance's wife, who hosted the narrator at their home in Garden River and was part of the welcoming community there. | 12. The wife of Mr. Chance, who served as schoolmistress and doctor for the Garden River Indians | 13. A woman who taught the narrator how to bake bread and was staying at the Mission-house with her children while her husband Mr. Chance was away
+	*Mrs. Cronyn	Tebukuro	female	8. Bishop's wife, accompanied the Bishop on his visit to Sarnia
+	*Mrs. Cryer	Sara	female	19. A woman who helps prepare tea and food for the Indian workers during their morning breakfast
+	*Mrs. Fauquier	Sarah	female	37. Bishop's wife who joined with others to manage the Wawanosh Home and was involved in decision-making about reopening the institution | 38. A kind friend and constant invalid who promoted the interests and welfare of the Girls' Home. She devised their blue serge uniform trimmed with scarlet, chose furniture for the Home, and was deeply involved in the girls' lives. Died in New York on November 4th, 1881. | 39. The wife of Bishop Fauquier, whose body was expected to arrive for interment in the Shingwauk cemetery, and who William helped prepare a road to receive.
+	*Mrs. Lett	Alice	female	23. Dr. Lett's wife who showed great care for Mrs. Wilson, giving up her own bedroom to accommodate her
+	*Mrs. Peter	Aoede	*female	30. A woman in St. John whose house the narrator visited during the fire, where they found her family preparing to flee.
+	*Mrs. Shunk	Heart	female	21. The matron of the Shingwauk Industrial Home who helped with preparations for the opening
+	*Mrs. Sullivan	Heart	female	41. The Bishop's wife who was given the name 'Misquahbenooqua' (rosy dawn) by the Indians during the pow-wow ceremony
+	*Mrs. Walker	Emma	female	3. Owner of the boarding-house in Sarnia where the narrator stays. Lives in a white-painted frame house on the town's main street.
+	*Mrs. Williams	Bella	*female	30. A woman who showed interest in the narrator's work. She dined with the group at Quebec and was mentioned as having taken interest in the project.
+	*Nahwegeezhegooqua	Dora	*female	5. The wife of the missionary who received the Ojebway name 'Lady of the Sky' from the Chief, indicating she is now considered one with the tribe
+	*Nancy	Xiaoxiao	*female	20. Bridesmaid at the wedding, one of four attendants
+	*Nancy Naudee	River	female	21. A child from Walpole Island who arrived at the Shingwauk Industrial Home
+	*Ogemahqua	Nova	*female	9. Mother of Shingwaukoons, pure Indian and daughter of Chief Shingahbawuhsin
+	*Old Woman	Alloy	*female	9. Mother of the young woman, widow wearing black shawl
+	*Puhgoonagezhigooqua	Dora	*female	27. Child with a long Indian name meaning 'hole in the sky'.
+	*River Princess	Isabella	*female	15. One of two children born to Mr. Jacobs and his wife, named by the Indians
+	*Sarah	Aoede	*female	20. Woman present in the house when Eliza died, caring for her baby
+	*Shegaugooqua	Xiaobei	female	12. A poor, decrepit bed-ridden woman found in a pitiable condition in an old wigwam in the Bush
+	*Sophia Esquimau	Nicole	*female	27. Another pupil who married David Nahwegahbosh.
+	*Sophy	Bella	*female	20. Bridesmaid at the wedding, one of four attendants
+	*Susette	Nova	female	16. Buhkwujjenene's daughter who works at the sugar camp with her mother and other family members.
+	*Tabitha	Isabella	*female	10. Wife of Shaukeens who was baptized. Her name was given by the missionaries.
+	*The Chief's wife	Alpha	*female	13. A woman who was sitting in an airy wigwam when the narrator and his wife visited the Indian camp
+	*The Housekeeper	Isabella	female	22. A kind-hearted French woman who cared for Mrs. Wilson when she became ill at the priest's house during the fire.
+	*The matron	Kore	*female	28. A woman responsible for managing the children and overseeing daily operations, described as having great patience with many young assistants who could barely speak English. | 37. Woman who worked with the lady superintendent to manage the home and care for the girls
+	*The Missionary	Alice	*female	15. A boat used for transportation between Sault Ste. Marie and Garden River
+	*the narrator's mother	Xiaoxiao	female	1. A missionary in heart who hoped her son would become a missionary to distant lands. She was supportive of his calling and influenced his early interest in missions.
+	*the narrator's wife	Kore	female	1. A woman from a refined background in Gloucestershire who accompanied her husband to Canada as his missionary partner. She was unfamiliar with Canada and had never been outside England before. | 13. A woman who accompanied the narrator to Garden River and helped with daily tasks like cooking
+	*The old man's wife	Nezumi	*female	35. A pagan native who is the wife of the baptized man
+	*The old white-haired woman	Alloy	*female	15. An aunt of the chief who came to visit the narrator's nursery with a thick stick
+	*The poor boy's mother	Kore	female	19. A Roman Catholic woman who comes to seek help for her injured son
+	*The squaw	Sky	*female	31. A female Indian who is the child of the old man and also comes to listen when he speaks about religion.
+	*The two squaws	Xiaoyi	female	26. Two Indian women who helped the narrator and Mr. Frost return to Sault Ste. Marie in a boat.
+	*The widow	Emma	*female	18. A woman who became the laundress for the mission after her husband died, and remained with them.
+	*Therese	Gongitsune	female	16. Buhkwujjenene's daughter who works at the sugar camp with her mother and other family members.
+	*Therese Weesaw	Xiaoni	*female	20. Bridesmaid at the wedding, one of four attendants
+	*Wabausenooqua	Nicole	*female	16. One of the narrator's sisters who is given this name by Buhkwujjenene, meaning 'little spot cleared by the wind'.
+	*Walker	Sara	*female	2. Woman who ran a boarding house in London where the narrator stayed
+	*Wesqua	Alpha	*female	42. Old woman who traveled with the missionaries from a distance of 40 miles through harsh conditions. She was very frail and in poor health, wearing minimal clothing during the journey.
+	*Winnie	Jessica	*female	39. A little girl who visited William during his final illness and was visibly upset by his condition, asking if she liked to see him like that.
+	*Woman	Alice	*female	9. One of two women saved from drowning, wife of the man who was saved
+	*Young Woman	Xiaoyi	*female	9. Newly-married woman wearing scarlet shawl and flowered hat, about 20 years old

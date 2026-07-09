@@ -1,0 +1,13 @@
+	narrator	Adam	male	Story narrator
+	Mayor	Alex	*male	1. A public figure who opens a new mirrored monument in town. He is dressed formally with gold medallions and chains, representing authority and tradition.
+	The Doctor	Lewis	*male	1. A mysterious time traveler from the planet Gallifrey who is investigating Nitrinite activity. He has a blue coat and uses a sonic screwdriver as his primary tool. He is knowledgeable about the Nitrinites, their abilities, and how to combat them.
+	VAN CHEF	Fable	*male	1. A middle-aged man working at a burger van who serves food to Lara and Jessica. He is portrayed as friendly but somewhat disheveled.
+	Helen	Sarah	*female	1. The receptionist at St. Luke's University who is consumed by a Nitrinite reflection, becoming part of the hive mind.
+	Jessica King	Alice	female	1. Lara's girlfriend who is revealed to be a Nitrinite in disguise. She manipulates Lara and ultimately transforms into the reflection of her true self, showing a twisted personality that craves control. She is aggressive and manipulative, seeking to replace Lara completely.
+	Lara Sladen	Aoede	female	1. A woman working at Maroni Mirrors store who becomes a target of Nitrinites. She is initially portrayed as tired and emotionally distant, but shows resilience when facing supernatural threats. Her identity is later revealed to be a reflection of another person, with her true self being replaced by the Nitrinite. She has a relationship with Jessica King and is ultimately saved from complete transformation.
+	Receptionist	Sara	*female	1. A woman working at St. Luke's University who becomes a Nitrinite reflection after being exposed to the mother crystal. She is initially portrayed as friendly and helpful, but later shows her true nature through her reflection.
+	Teenage Girl	River	female	1. A young woman applying makeup who is confronted by her twisted reflection, showing the early signs of Nitrinite influence.
+	creatures through speaker	Xiaobei		
+	doctor who	Lewis		
+	doctor who: altered reflections	Lewis		
+	*Baby	Heart	*female	1. A young child who appears in a domestic scene with her mother, showing the normalcy that Nitrinites seek to replace.

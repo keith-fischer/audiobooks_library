@@ -1,0 +1,273 @@
+	narrator	Adam	male	Story narrator
+	Abellius	Alex	*male	6. A knight who is defeated by Sir Tor and killed after refusing to give up the hound.
+	Allardin of the Isles	Eric	*male	6. A knight who fights Sir Gawain in a joust and is killed by him.
+	Aries	Eric	*male	6. A cowherd who asks King Arthur to knight his son Tor. He is a poor man with thirteen other sons.
+	Arthur	Omega	*male	1. Infant son of Uther and Igerna who is secretly raised by Sir Ector, destined to become king | 2. The rightful king of England, son of Uther and fostered by Sir Ector. Tall, strong, gentle, and accomplished in knightly exercises. Became king after pulling the sword from the stone.
+	Aurelius	Kumo	male	1. Son of Constantine who defeats Vortigern and becomes king, later slain by poison
+	Balin le Savage	Kumo	male	4. A poor knight who was imprisoned for killing a cousin of the king. He draws Excalibur from its scabbard, proving himself worthy and strong. He kills the lady of the lake who is revealed to be his mother's murderer, leading to conflict with King Arthur.
+	Beaumains	Echo	*male	11. A kitchen servant who becomes Sir Gareth of Orkney, a noble knight. He is strong and brave, having overcome many knights in battle.
+	Brice	Omega	*male	2. The Archbishop of Canterbury who organized the gathering to determine Arthur's kingship through divine sign.
+	Brown Knight	Daniel	*male	11. A perilous knight who slays thirty knights and is defeated by Sir Gareth.
+	Dwarf	Liam	*male	7. A magical creature who delivers Excalibur to Sir Accolon. He serves as a messenger for Morgan le Fay and provides the sword that leads to Arthur's near-death battle.
+	Ector	George	*male	1. Knight who cares for the infant Arthur, receiving him from Merlin | 2. Arthur's foster father, a knight who raised Arthur as his own son. He discovered Arthur's true parentage and recognized him as king.
+	Gaheris	Puck	male	3. Belisent's son, one of four sons who accompany her to Caerleon. | 6. Sir Gawain's brother, who serves as his squire in the adventure of the white hart.
+	Gareth	Nicola	male	3. Belisent's son, one of four sons who accompany her to Caerleon. | 11. The true identity of Beaumains, Sir Gareth of Orkney. He is the youngest brother of Sir Gawain, Sir Agravain, and Sir Gaheris.
+	Garin	Echo	*male	9. A nobleman who hosts Sir Gawain at his house. He is the father of Herman and stands up to Thiebault when accused of harboring a supposed merchant.
+	Griflet	Eric	*male	2. A knight who fought alongside Arthur in the battle against the eleven kings. | 3. A young squire who is knighted by Arthur to avenge his master's death. He is wounded in battle with the mysterious knight.
+	Hantzlake of Wentland	Lewis	*male	6. A knight who fights King Pellinore for a lady and is killed by him.
+	Joseph of Arimathea	Omega	*male	13. A biblical figure who is revealed to be the father of Sir Galahad and appears as a bishop.
+	Key	Michael	*male	2. Arthur's foster-brother, recently knighted. He found the sword from the stone and claimed it was his right to be king.
+	King Anguish of Ireland	Echo	male	12. The king of Ireland who challenged Cornwall for tribute, leading to the duel with Sir Marhaus and later Tristram.
+	King Anguish of Scotland	Daniel	male	8. Scottish king who swore to avenge Rome's past oppression and promised twenty thousand men-at-arms to Arthur.
+	King Arthur	Alex	male	3. The main protagonist, king of Britain who drives the Saxons from his realm. He is a noble warrior who fights battles, makes important decisions for his kingdom, and has a complex relationship with Merlin. He is described as having great prowess in battle and is known for his chivalry. | 4. The rightful king of Britain, a valiant conqueror who has subdued Ireland, Iceland, Norway, Dacia, and Gaul. He is determined to avenge his cousin's abduction by a giant and defeat the Roman tribune Flollo. He draws Excalibur from a stone, is known for his courage and honor, but also has a hot temper. He shows mercy to Balin after learning the truth about his imprisonment. | 5. The king of Britain who is the central figure in Arthurian legend. He rewards Sir Balin for his service and sends him on quests, but is also the target of vengeance by King Ryence. | 6. The king of Britain, who desires to marry Guinevere and establishes the Round Table. He is noble and bounteous in nature. | 7. The sovereign king of Britain, known for his chivalry and honor. He is the central figure in this adventure, fighting a battle that turns out to be against his own knight Sir Accolon. He is portrayed as noble, steadfast in his promises, and ultimately victorious through divine intervention. | 8. Emperor of Rome, descended from Belinus and Brennius, son of Helen, claimed sovereignty over the Roman Empire by right of ancestry. He defeated Emperor Lucius in battle and was crowned emperor at Rome. | 10. King of England and leader of the Round Table. He organizes the annual Pentecost festivals where knights' adventures are celebrated and awards honor to the most accomplished knights. | 11. The king of Camelot, holding the Feast of Pentecost and ruling the Table Round. He grants knights' requests and is a central figure in the court's affairs. | 12. The king of England who presided over the Maiden's Castle tournament and was impressed by Sir Tristram's deeds. | 13. The king of Camelot who presides over the Round Table. He receives news about Sir Lancelot's departure and learns of Merlin's imprisonment. | 14. The king of Camelot, husband to Queen Guinevere. He is a righteous ruler who seeks justice and fairness in his court, often mediating conflicts between knights. | 15. The rightful king of England, who becomes embroiled in a war with Sir Lancelot over Queen Guinevere's honor. He is portrayed as a grieving and conflicted ruler who struggles between his love for Lancelot and his duty to uphold justice. He ultimately leads armies against Lancelot but is deeply affected by the destruction of his fellowship.
+	King Bagdemagus	Daniel	male	10. Noble king who is defeated in a tournament by the King of Northgales. He seeks Sir Lancelot's help to defeat his enemies. | 13. A king who attempts to bear the shield of the monastery but is wounded by a White Knight.
+	King Ban	Psi	male	3. One of Arthur's companions who joins him in battle against Ryence. He is a king who later departs to deal with King Claudas. | 10. Father of Sir Lancelot, King of Brittany. He and his family fled their burning castle with young Lancelot, where he was taken by the Lady of the Lake.
+	King Evelake	Echo	*male	13. A king converted to Christianity by Joseph of Arimathea who is healed by Sir Galahad.
+	King Howell of Brittany	Alex	male	12. The king who gave his daughter Isoude to Sir Tristram in marriage.
+	King Leodegrance	Alex	male	3. King of Camelgard who is attacked by Ryence and rescued by Arthur. He is the father of Guinevere. | 6. The father of Guinevere, who agrees to let her marry Arthur and sends the Round Table with hundred knights.
+	King Lot	Onyx	male	3. Belisent's husband and King Arthur's enemy. He is described as being more than ever hostile to Arthur after Belisent's visit.
+	King Mark of Cornwall	Echo	male	12. The uncle of Sir Tristram and king of Cornwall. He knighted Tristram after learning his royal bloodline, but later grew jealous and plotted against him.
+	King Meliodas	Fenrir	male	12. The king of Lyonesse and father of Sir Tristram. He was captured by enchantment but later freed by Merlin, and deeply mourned his wife Elizabeth's death.
+	King Pelles	Fenrir	male	5. The king who hosts the feast at Listeniss where Sir Balin kills Garlon. He is the brother of King Ryence and becomes enraged when Balin slays his brother. | 13. The wounded king who is healed by Sir Galahad. He sends a damsel to call Sir Lancelot for the quest.
+	King Pellinore	Kumo	male	3. A knight who pursues the questing beast and later battles King Arthur at the fountain. He is revealed to be a great knight who will serve Arthur well. | 6. The father of Tor, who is recognized by Arthur and knighted. He is a great and valiant knight.
+	King Ryence	Eric	male	4. The King of North Wales who sends a message to King Arthur demanding his beard as tribute. He has defeated eleven kings and is described as proud and haughty, with a mantle made from their beards. | 5. A king who is captured and brought before King Arthur by Sir Balin and his brother. He is later released after pleading for mercy.
+	King Urience	Lewis	male	7. Arthur's brother and fellow king, who is mentioned as being with Arthur during the initial hunting expedition. He appears to be a noble figure in the court, though his role is limited to this chapter.
+	Knight	Santa	*male	7. A knight who appears to be a servant of Sir Outzlake, helping Accolon after he awakens in the enchanted castle. He is part of Morgan le Fay's plan to bring Accolon into contact with Outzlake.
+	Lucius Tiberius	Onyx	male	3. Emperor of Rome who sends ambassadors demanding tribute from Arthur. | 8. Emperor of Rome who demanded tribute and homage from King Arthur, leading to war. He was defeated and killed by Arthur in battle at the vale of Soissons.
+	Merlin	Puck	male	1. Young boy with no mortal father who foretells the birth of Arthur, reveals the dragon prophecy, and helps build Stonehenge | 2. The wizard who arranged Arthur's upbringing and guided him to kingship. He orchestrated the sword-in-stone test and later helped Arthur in battle. | 3. A mysterious figure who appears as both a child and an old man. He prophesies Arthur's death, reveals his true identity to him, and helps guide the events of the story. | 5. The wizard who appears throughout the story, giving prophecies and warnings to Sir Balin. He is a powerful figure who knows the consequences of Balin's actions and guides him. | 6. The wise wizard who advises King Arthur and prophesies the consequences of his marriage to Guinevere. He is knowledgeable about future events. | 13. A powerful magician who fell into a dotage of love for a damsel of the lady of the lake. He was eventually trapped in an oak tree by the damsel who had learned his spells from him.
+	Nacien the hermit	Santa	*male	13. A hermit who sends a message to the knights about the Sangreal.
+	Prianius	Omega	*male	8. Tuscan knight who fought Sir Gawain, was wounded and converted to Christianity after being healed by a miraculous balm.
+	Red Knight	Omega	*male	5. A knight dressed in red who fights Sir Balin on an island. He is revealed to be Sir Balan, his brother.
+	Sir Accolon of Gaul	Eric	male	7. A knight from Gaul who is initially mistaken for an enemy by King Arthur. He is revealed to be a loyal knight of Arthur's court who was tricked into fighting against his own king by Morgan le Fay. He is brave and honorable but ultimately dies from his wounds.
+	Sir Andret	Fenrir	male	12. A knight who plotted against Sir Tristram and was killed by him in a duel.
+	Sir Balan	Kumo	male	5. Sir Balin's brother who joins him in his quest to help King Arthur. He is also a valiant knight and becomes involved in the final deadly duel with his brother Sir Balin.
+	Sir Baldwin	Santa	male	14. A knight-hermit who tends to Sir Lancelot after his wounds. He recognizes Sir Lancelot and helps him recover.
+	Sir Balin	Daniel	male	5. A knight of Arthur's court, known as 'the knight of the two swords' after his adventure with the lady of the lake. He is a valiant warrior who fights in defense of King Arthur and his kingdom, but becomes cursed after accidentally striking the 'Dolorous Stroke' that destroys three kingdoms and causes great suffering. He is deeply remorseful for his actions.
+	Sir Bedivere	Psi	male	8. Knight of the Round Table who fought alongside Sir Gawain and Sir Bors against Roman forces. | 11. A knight of the Round Table who fights in the tournament. | 15. A knight of the Round Table who serves as King Arthur's companion during his final battle and death. He is tasked with throwing Excalibur into the water but initially refuses to do so.
+	Sir Bendelaine	Puck	*male	11. A knight who challenges Sir Gareth to a joust and is defeated.
+	Sir Bernard of Astolat	Fable	male	14. An old baron who hosts Sir Lancelot during the jousting tournament. He is the father of Elaine and allows his daughter to give Sir Lancelot her token.
+	Sir Bleoberis de Ganis	Nicola	male	12. A knight of the Round Table and cousin to Sir Lancelot. He kidnapped Lady Segwarides, prompting Tristram's quest for her return.
+	Sir Bors	Liam	male	8. Knight of the Round Table who accompanied Sir Gawain on missions to Emperor Lucius and fought in battles against Romans. | 11. A knight of the Round Table who fights in the tournament. | 12. A knight who initially refused to fight Sir Tristram but later acknowledged his prowess. | 13. A knight of the Round Table who sets out on the quest for the Sangreal. He is Sir Lionel's brother and later becomes king of Sarras. | 14. A knight of the Round Table and close companion to Sir Lancelot. He is loyal to his friend and serves as a champion for Queen Guinevere when she faces accusations. He is deeply affected by Sir Lancelot's wounds and seeks him out. | 15. A knight of the Round Table and Lancelot's close friend who supports him in his conflicts with Arthur. He is portrayed as loyal and brave, fighting alongside Lancelot in battles.
+	Sir Bors's Brother	George	*male	13. A knight who is bound and beaten by two knights but later revealed to be Sir Lionel.
+	Sir Brewnor	Michael	male	12. The lord of Castle Pluere who challenged Sir Tristram to a duel, and was defeated by him in combat.
+	Sir Cador of Cornwall	Liam	male	8. Knight of the Round Table who advocated for war against Rome and promised twenty thousand men-at-arms to King Arthur.
+	Sir Colgrevance	Nicola	*male	13. A knight of the Round Table who intervenes to stop Sir Lionel from killing his brother Sir Bors.
+	Sir Damas	Liam	male	7. A treacherous knight who is the antagonist of this chapter. He is the brother of Sir Outzlake and has a grudge over inheritance. He captures knights to force them into battle against his brother, and is ultimately defeated by Arthur.
+	Sir Dinadan	Lewis	male	12. A knight who accompanied Sir Tristram on his adventures and often refused to fight, but was eventually forced into battle.
+	Sir Dinaunt	Michael	male	12. A knight of Cornwall who encountered Sir Tristram in the forest and was saved by him from a giant.
+	Sir Dodinas le Savage	Fable	male	12. A knight of King Arthur's court who challenged Sir Tristram in the forest, and was defeated by him.
+	Sir Duke de la Rowse	Daniel	*male	11. A knight who is defeated by Sir Gareth and becomes his prisoner.
+	Sir Ector	Santa	male	10. Knight of the Round Table and brother to Sir Lionel. He is captured by Sir Lancelot's enemies but later freed. | 11. A knight of the Round Table who fights in the tournament. | 12. A knight who challenged Sir Tristram in Wales and was defeated by him.
+	Sir Galahad	Lewis	*male	13. A young knight who is revealed to be the son of Sir Lancelot. He achieves the highest honor by sitting in the Siege Perilous and obtaining the Holy Grail.
+	Sir Gareth	Onyx	male	15. A knight of the Round Table and brother to Sir Gawain who is accidentally killed by Lancelot during a battle. He was unarmed and fighting alongside his brother.
+	Sir Gawain	Fenrir	male	6. King Arthur's nephew, who is knighted and later becomes known as the knight of ladies' quarrels due to his lack of mercy. | 8. Knight of the Round Table, nephew of King Arthur, who fought with Emperor Lucius and later defeated a Tuscan knight named Prianius. | 9. A knight of King Arthur's court, known for his honor and chivalry. He is encountered riding through the country and later participates in a tournament, demonstrating great skill with lance and sword. He is accused of treason but refuses to fight until he can clear his name. | 10. Knight of the Round Table who fights Sir Lancelot in the forest, believing him to be Sir Key. | 11. A knight of the Round Table and brother to Sir Gareth, Sir Agravain, and Sir Gaheris. He is known for his prowess in battle. | 12. A knight of King Arthur's court who helped Sir Tristram against Queen Morgan le Fay's schemes. | 13. A knight of the Round Table who discovers Merlin's imprisonment and announces it to King Arthur. He vows to seek the Sangreal. | 14. A knight of the Round Table and brother to other knights. He is involved in a plot against Queen Guinevere, poisoned apples at a banquet, and later seeks out Sir Lancelot to discover his identity. | 15. King Arthur's nephew and a knight of the Round Table who becomes Lancelot's sworn enemy after Lancelot kills his brothers Sir Gareth and Sir Gaheris in battle. He is portrayed as vengeful, uncompromising, and driven by honor, ultimately dying from wounds inflicted by Lancelot.
+	Sir Gringamors	Nicola	*male	11. The brother of Lady Lyones who captures Sir Gareth's dwarf and brings him back to her.
+	Sir Herleus	Kumo	male	5. A knight who is slain by the invisible knight Garlon. He gives his horse and quest to Sir Balin before dying, asking him to avenge his death.
+	Sir Kay Hedius	Psi	male	12. The son of King Howell who went to war against an earl and was wounded, prompting Sir Tristram's assistance.
+	Sir Key	George	male	4. A knight in King Arthur's court who accompanies the king on his quest to defeat the giant. He is sent by Arthur to retrieve items from the mountain after the battle. | 10. Knight of the Round Table who is mistaken for Sir Lancelot by other knights. He helps Sir Lancelot in his adventures. | 11. A knight who mistreats Beaumains in the kitchen. He is later defeated by Beaumains and nearly killed. | 12. A knight who challenged Sir Tristram in the forest and was defeated by him. | 13. The seneschal of King Arthur's court who reminds the king about ancient customs.
+	Sir King	Michael	*male	5. The host at the rich man's house who tells Sir Balin about Garlon and his son's wound. He is seeking revenge against the invisible knight.
+	Sir Lamoracke of Gaul	George	male	12. A knight who challenged Sir Tristram in the forest and was defeated by him.
+	Sir Lancear	Fable	male	5. A knight of King Arthur's court who becomes envious of Sir Balin. He pursues Balin to avenge what he considers an insult to the court, but is killed in combat. He is the lover of Lady Colombe and dies alongside her after she kills herself with his sword.
+	Sir Lancelot	Michael	male	6. A young knight recently arrived at Arthur's court, known for his strength, grace, and hardihood. He wins praise from all and catches Guinevere's attention. | 8. Knight of the Round Table who promised a great host to King Arthur. | 10. Knight of the Round Table, son of King Ban of Brittany, known as Lancelot du Lake. Extremely skilled in combat, renowned for his prowess and chivalry. He is deeply devoted to Queen Guinevere and seeks her favor through his adventures. | 11. A knight of the Round Table, known for his strength and chivalry. He knights Beaumains after their fight. | 13. A knight of the Round Table who is called by a mysterious lady to join the quest for the Sangreal. He is also the father of Sir Galahad. | 14. The noblest knight in the world, known for his prowess in battle and chivalry. He is deeply loved by Queen Guinevere but maintains a distant relationship with her due to his loyalty to the queen. He is wounded in a tournament and later tends to Elaine, showing compassion despite his inability to marry her. | 15. The central hero of the story, a knight of the Round Table who wins a jousting tournament and becomes embroiled in a war with King Arthur over his relationship with Queen Guinevere. He is portrayed as noble, courageous, and deeply loyal to the queen, but also prone to rash actions that lead to tragic consequences. He fights fiercely in battle and ultimately leaves the realm, becoming a hermit.
+	Sir Lancelot of the Lake	Puck	male	12. A knight of King Arthur's court who was present at the Maiden's Castle tournament and later found Sir Tristram in the forest.
+	Sir Lancelot's Son	Kumo	*male	13. A knight who is revealed to be Sir Galahad, the son of Sir Lancelot.
+	Sir Lavaine	Puck	male	14. Son of Sir Bernard, who rides with Sir Lancelot to the tournament. He is loyal and helpful to his master, even helping him after he is wounded. | 15. A knight of the Round Table and Lancelot's friend who helps protect Queen Guinevere. He is mentioned as one of the faithful friends who will save the queen from the fire.
+	Sir Lionel	Fable	male	8. Knight of the Round Table who fought alongside Sir Gawain and Sir Bors against Roman forces. | 10. Cousin of Sir Lancelot and fellow knight. He accompanies Lancelot on adventures, including the quest to find him after he was enchanted by Queen Morgan le Fay. | 11. A knight of the Round Table who fights in the tournament. | 13. A knight of the Round Table who is Sir Bors's brother. He becomes possessed by a demon and fights his own brother. | 15. A knight of the Round Table who is overthrown by Sir Gawain in battle during the conflict between Arthur and Lancelot.
+	Sir Lucan	Eric	male	15. A knight of the Round Table who remains loyal to King Arthur during his final battle with Modred. He dies from wounds sustained in the fight.
+	Sir Mador de la Port	Lewis	male	10. Knight of King Arthur's court who defeated King Bagdemagus in the tournament. | 14. A knight of the Round Table who challenges Queen Guinevere after his cousin's death. He is defeated by a mysterious knight and later reconciled with the queen.
+	Sir Noran	George	male	4. A knight in King Arthur's court who knows King Ryence of North Wales. He warns Arthur that Ryence is proud and haughty, and will likely wage war against him.
+	Sir Percival	Onyx	*male	13. A knight of the Round Table who sets out on the quest for the Sangreal. He is Sir Galahad's cousin and later becomes king of Sarras.
+	Sir Perseant	Liam	*male	11. A knight who is defeated by Sir Gareth and becomes his vassal. He is the lord of a great city.
+	Sir Persides	Santa	male	12. The son of Sir Pellonnes who welcomed Sir Tristram and Sir Gawain at the Maiden's Castle.
+	Sir Phelot	Nicola	male	10. Knight of the King of Northgales who tries to kill Sir Lancelot after he helps his wife.
+	Sir Pridan le Noir	Onyx	*male	13. A knight who takes lands from the lady of the tower and is defeated by Sir Bors in a tournament.
+	Sir Sagramour le Desirous	Onyx	male	12. A knight of King Arthur's court who challenged Sir Tristram in the forest, and was defeated by him.
+	Sir Tor	Psi	*male	11. A knight of the Round Table who fights in the tournament.
+	Sir Tristram	Fable	male	11. A knight who fights in the tournament and is not yet a member of the Round Table. | 12. A noble knight of Lyonesse, son of King Meliodas and Queen Elizabeth. Known for his strength, courage, and skill in battle. He fought Sir Marhaus of Ireland, overcame Sir Palomedes at a tournament, and was renowned for his deeds in Ireland and Cornwall. He was knighted by King Mark of Cornwall after proving his royal lineage.
+	Sir Turquine	Psi	male	10. Powerful and cruel knight who imprisons knights of the Round Table. He is obsessed with killing Sir Lancelot, whom he believes to be his brother's killer.
+	Squire	Nicola	*male	9. A squire who approaches Gawain in the meadow, challenging him to fight. He is described as tall and strong with a steel cap.
+	Thiebault of Tintagel	Psi	male	9. The lord of the castle who has organized a tournament against Meliance of Lis. He is an aged nobleman whose word is not disputed, and he becomes involved in the conflict over Gawain's presence.
+	Tor	Omega	*male	6. The son of Aries, who is knighted by King Arthur. He is described as noble in face and figure with strength.
+	Uther	Alex	male	1. King of Britain who becomes father of Arthur, dies from poisoning by Saxons | 2. Arthur's father, the former king of England who died before Arthur knew his true parentage. His death led to a succession crisis.
+	Vortigern	Fenrir	male	1. Usurper king of Britain who builds a castle for refuge from his enemies, ultimately burned alive in his tower by Aurelius Ambrosius
+	White Knight	George	*male	13. A mysterious knight who appears to Sir Bagdemagus and warns him about the shield.
+	damsel	Emma	*female	A young woman who seeks help from King Arthur to rescue her lady. She is initially scornful of Beaumains. | A damsel who appears to be a servant of Morgan le Fay, though she lies about her identity. She is part of the deception that traps Arthur and his companions in the enchanted barge.
+	Damsel of the Lake	Dora	*female	13. A mysterious damsel who was the lover of Merlin. She learned his magical crafts and ultimately trapped him in an oak tree using a charm he had taught her.
+	Duchess	Nova	*female	11. The owner of a castle who allows Sir Gareth to stay and is kind to him.
+	Elaine	Alloy	*female	14. The Fair Maid of Astolat, daughter of Sir Bernard. She falls in love with Sir Lancelot at first sight and gives him her token to wear during the tournament. She becomes heartbroken when she learns he is wounded and dies of grief.
+	Elder daughter of Thiebault	Xiaoyi	*female	9. The older sister of the Maid with the Narrow Sleeves. She is jealous and angry, having slapped her younger sister for claiming to see a better knight than Meliance of Lis.
+	La Belle Isault	Gongitsune	*female	12. The daughter of King Anguish of Ireland and later wife of King Mark of Cornwall. She was healed by Sir Tristram in Ireland, fell in love with him, and became his beloved despite never marrying.
+	Lady	Jessica	*female	7. A noblewoman who accompanies the knight in helping Accolon after his awakening. She is part of Morgan le Fay's scheme to bring Accolon into contact with Outzlake.
+	Lady Lyones	Xiaoni	*female	11. The lady besieged by the Red Knight, who is later rescued by Sir Gareth. She falls in love with him.
+	Lady of the Castle	Alice	*female	5. The lady who owns a castle where damsels must give blood to cure her sick daughter. She is the keeper of holy relics including the Sangreal and Joseph of Arimathea's bed.
+	Lady of the Lake	Heart	*female	2. A mysterious woman who possessed Excalibur and gave it to Arthur in exchange for a promise. | 4. A mysterious woman who appears at the court and demands Balin's head or the damsel's head. She is revealed to be the one who murdered Balin's mother and killed his brother, making her a dangerous enemy. | 10. Mysterious figure who rescued young Lancelot after his parents' death and raised him with his cousins Lionel and Bors in the lake.
+	Linet	Siwis	*female	11. The damsel who brings Sir Gareth to rescue Lady Lyones. She is the sister of Lady Lyones.
+	Maid with the Narrow Sleeves	Tebukuro	*female	9. The younger daughter of Thiebault, known for her tight sleeves. She is involved in a quarrel with her elder sister over the best knight in the tournament and later asks Gawain to participate on her behalf.
+	Queen Elizabeth	Sara	*female	12. The wife of King Meliodas and mother of Sir Tristram. She died in childbirth, giving birth to Tristram in the forest and naming him after his sorrowful arrival.
+	Queen Guinevere	Sarah	female	8. Queen of Britain who received King Arthur upon his return from Rome. | 10. Queen of England and wife of King Arthur. She holds Sir Lancelot in great favor and admiration, having seen his feats at the Round Table feast. She is the object of Lancelot's devotion and love. | 11. The queen of Camelot and wife to King Arthur. | 13. The queen of King Arthur who is deeply affected by the departure of the knights on their quest. | 14. The queen of Camelot, married to King Arthur. She is deeply in love with Sir Lancelot but becomes jealous of his attentions to other ladies. She accuses him falsely and banishes him, later seeking his help in a trial by combat. | 15. The queen of England, whose relationship with Sir Lancelot causes the central conflict. She is portrayed as a noblewoman who is dishonored by false accusations but ultimately rescued by Lancelot. She later becomes a nun and dies in repentance for her actions.
+	Queen of Northgales	River	female	10. One of the four sorceress queens who capture Sir Lancelot and try to make him serve them.
+	Queen of Orkney	Nicole	*female	11. The mother of Sir Gareth and sister to King Arthur.
+	Sir Percival's Sister	Bella	*female	13. A noblewoman who is the sister of Sir Percival and later becomes a knight.
+	The Damsel	Xiaoxiao	*female	4. A mysterious young woman who brings the sword that only Balin can draw. She warns him of danger if he keeps the sword, but is ultimately killed by Balin after he discovers she is his mother's murderer. | 7. A damsel who appears to be a servant of Morgan le Fay, though she lies about her identity. She is part of the deception that traps Arthur and his companions in the enchanted barge. | 11. A young woman who seeks help from King Arthur to rescue her lady. She is initially scornful of Beaumains.
+	the lady of the lake	Beta	*female	A mysterious woman who appears at the court and demands Balin's head or the damsel's head. She is revealed to be the one who murdered Balin's mother and killed his brother, making her a dangerous enemy.
+	Vivien	Aoede	*female	7. The lady of the lake who loves King Arthur and intervenes to save him from death. She is a powerful enchantress who uses her magic for good, helping Arthur by revealing Morgan le Fay's treachery and providing him with the true sword Excalibur.
+	ancient man	Alex		
+	churl	Alex		
+	dame lyones	Ono Anna		
+	damsel linet	Isabella		
+	damsels	Alloy		
+	emperor	Alex		
+	fair elaine	Emma		
+	ganius	Alex		
+	governale	Aiden		
+	green knight	Alex		
+	holy man	Alex		
+	king carados	Alex		
+	king of a hundred knights	Alex		
+	king of the hundred knights	Ryan		
+	knight of the blacklands	Alex		
+	knight of the redlands	Alex		
+	knights	Alex		
+	ladies	Alpha		
+	lords and knights	Alex		
+	man	Alex		
+	men-at-arms	Alex		
+	messenger	Aiden		
+	monk	Alex		
+	nobleman	Alex		
+	old churl	Alex		
+	old cripple	Alex		
+	old man	Alex		
+	page	Sky		
+	people	Alex		
+	pious woman	Aiden		
+	poor man	Alex		
+	porter	Alex		
+	priest	Echo		
+	queen	Beta		
+	she	Dora		
+	shepherd	Alex		
+	sick knight	Alex		
+	sir beaumains	Alex		
+	sir galahaut	Alex		
+	sir garlon	Alex		
+	sir lancelot du lake	Alex		
+	speaker	Alex		
+	squires	Alex		
+	the lady	Beta		
+	voice	Dylan		
+	woman	Lily		
+	yeoman	Alex		
+	*Agravaine	Alex	male	3. Belisent's son, one of four sons who accompany her to Caerleon.
+	*Ambrosius	Lewis	male	1. Son of Constantine who leads rebellion against Vortigern, rightful king of Britain
+	*Anguisant	George	*male	2. One of the six kings who opposed Arthur's rule.
+	*Athmore of the Marsh	Nicola	*male	6. A knight who is defeated by Sir Gawain and sent to King Arthur's court.
+	*Badewaine	Puck	*male	2. A knight who became Constable of Britain under Arthur's rule.
+	*Baldulph	Nicola	male	3. Colgrin's brother who comes to raise the siege of York. He disguises himself as a jester and enters Arthur's camp.
+	*Ban	Kumo	*male	2. King of Benwick who came to help Arthur against his enemies.
+	*Blaise	Santa	*male	2. A holy hermit who was Merlin's master and recorded the battles of King Arthur.
+	*Bors	Omega	*male	2. King of Gaul who came to help Arthur against his enemies.
+	*Brastias	Fenrir	*male	2. A knight who fought alongside Arthur in the battle against the eleven kings.
+	*Brian	Psi	*male	6. Sorlous's brother, who fights with him over a white hart and later brings the story to King Arthur's court.
+	*Cador	Kumo	male	3. Duke of Cornwall who pursues and slaughters the fleeing Saxons after they offer to surrender.
+	*Cambinet	Echo	*male	2. A duke who fought against Arthur and was defeated.
+	*Carados	Nicola	*male	2. One of the six kings who opposed Arthur's rule and was defeated in battle.
+	*Cheldric	Onyx	male	3. A Saxon leader who lands with six hundred ships on the eastern coast. He is later pursued and slain by Cador.
+	*Clarience	Liam	*male	2. A king who fought against Arthur and was defeated.
+	*Colgrin	Psi	male	3. A Saxon king who leads an army against Arthur. He is defeated and besieged in York.
+	*Cradlemont	Lewis	*male	2. A king who was defeated by Arthur in battle.
+	*Eosa	Echo	*male	1. Saxon leader who is slain in battle against Uther
+	*Eustace	Daniel	*male	2. A duke who fought against Arthur and was defeated.
+	*Flollo	Echo	male	4. The Roman tribune of Gaul who challenges King Arthur to single combat. He is a mighty warrior but ultimately defeated and killed by Arthur in their duel.
+	*Garlon	Fenrir	*male	5. An invisible knight who kills Sir Herleus and Sir Perin de Mountbelgard through treachery. He is revealed to be a magical being who rides invisibly and seeks revenge.
+	*Gillomanius	Santa	*male	1. King of Ireland who resists the British attempt to take the Giants' Dance stones
+	*Gorlois	Liam	male	1. Duke of Cornwall who is slain in battle, leading to his wife Igerna becoming Uther's bride
+	*Gowain	Michael	male	3. Belisent's son, one of four sons who accompany her to Caerleon.
+	*Herman	Psi	*male	9. The son of Garin, who accompanies his father to speak with Thiebault about Gawain.
+	*Hoel	George	male	3. King of the Armorican Britons who comes to help Arthur against the Saxons.
+	*King Bors	Fable	male	3. One of Arthur's companions who joins him in battle against Ryence. He is a king who later departs to deal with King Claudas.
+	*King Carados of Scotland	Puck	male	12. The king who challenged the King of North Wales in a tournament, and sought Sir Lancelot to fight for him.
+	*King Claudas	Fenrir	male	3. A king who causes mischief and is a threat to Arthur's realm. He is mentioned as being in conflict with Ban and Bors.
+	*King Estouranse	Alex	*male	13. A heathen tyrant who imprisons Sir Galahad and his companions but later becomes a Christian.
+	*King Mark	Michael	male	5. The king of Cornwall who witnesses the deaths of Sir Lancear and his lady, and vows to build a tomb for them.
+	*King of Ireland	Omega	*male	3. An enemy who comes to relieve the besieged Scots and Picts but is defeated by Arthur.
+	*King of Little Britain	Kumo	male	8. Ruler who promised thirty thousand men-at-arms to King Arthur.
+	*King of North Wales	Fable	*male	12. The king who challenged King Carados in a tournament, and sought Sir Tristram to fight for him.
+	*Lamoracke	Liam	male	3. One of King Pellinore's two sons who will be valiant men and have no equal in prowess.
+	*Lorraine le Savage	Onyx	*male	6. A felon knight who betrays King Pellinore's daughter by killing her intended husband.
+	*Lot	Michael	*male	2. One of the six kings who opposed Arthur's rule and led an army against him.
+	*Lucas	Eric	*male	2. The butler who fought alongside Arthur in the battle against the eleven kings.
+	*Meliance of Lis	Michael	male	9. A brave and hardy knight who has challenged Thiebault of Tintagel to a tournament. He is considered the best knight in the tourney by his fair friend, though others claim to see a better one.
+	*Nanters	Alex	*male	2. One of the six kings who opposed Arthur's rule and was defeated in battle.
+	*Nirles	Eric	male	3. A knight who is killed by the mysterious knight at the fountain, prompting a squire to seek vengeance.
+	*Octa	Daniel	*male	1. Saxon leader who is slain in battle against Uther
+	*Percival	Lewis	male	3. One of King Pellinore's two sons who will be valiant men and have no equal in prowess.
+	*Riculf	Daniel	male	4. The King of Norway who fights against King Arthur's forces. He is defeated and slain in battle along with many of his men, leading to Norway being subjugated under Arthur's rule.
+	*Ryence	Puck	male	3. King of North Wales who makes war upon King Leodegrance, causing Arthur to intervene. He is portrayed as an enemy of Arthur and Leodegrance.
+	*Sir Agravain	George	*male	11. A knight of the Round Table and brother to Sir Gareth, Sir Gawain, and Sir Gaheris.
+	*Sir Agravaine	Nicola	male	15. A knight of the Round Table and brother to Sir Gawain. He is involved in plotting against Lancelot by falsely accusing him of having an affair with the queen. He is killed in battle by Lancelot.
+	*Sir Badewine	Eric	male	8. Knight who was left in charge of the realm while King Arthur crossed to meet Lucius.
+	*Sir Bedwin	Puck	male	4. A knight in King Arthur's court who accompanies the king on his quest to defeat the giant. He is sent by Arthur to retrieve items from the mountain after the battle.
+	*Sir Blamor	George	male	15. A knight of the Round Table who fights alongside Lancelot against King Arthur's army.
+	*Sir Brewse-without-pity	Daniel	male	12. A knight who was chasing a lady with intent to slay her, and was confronted by Sir Tristram.
+	*Sir Brian des Iles	Alex	*male	11. A noble knight who fights in the tournament.
+	*Sir Carados	Psi	*male	11. A knight who fights in the tournament.
+	*Sir Chalaunce	Onyx	male	15. A knight who attacks Lancelot in the queen's chamber and is killed by Lancelot during their confrontation.
+	*Sir Claremond	Santa	male	8. Captain of Cardiff who accompanied Sir Gawain on a mission to gather food and cattle from enemy forests.
+	*Sir Clegis	Echo	male	8. Knight who accompanied Sir Gawain on a mission to gather food and cattle from enemy forests.
+	*Sir Constantine	Lewis	male	8. Knight who was left in charge of the realm while King Arthur crossed to meet Lucius.
+	*Sir Driant	Liam	male	12. A knight who challenged Sir Tristram in Wales and was defeated by him.
+	*Sir Epinogris	Fable	*male	11. A knight from the castle who fights in the tournament.
+	*Sir Ethelwold	Fable	male	8. Earl who led a force against Sir Gawain and his companions in battle.
+	*Sir Ewaine	Omega	male	8. Knight who promised thirty thousand men-at-arms to King Arthur. | 10. Knight of the Round Table who fights Sir Lancelot in the forest, believing him to be Sir Key. | 11. A knight of the Round Table who fights in the tournament.
+	*Sir Florence	Daniel	male	8. Knight who was sent by King Arthur to gather food and cattle from enemy forests.
+	*Sir Gahalatine	Onyx	male	10. Knight of King Arthur's court who defeated King Bagdemagus in the tournament.
+	*Sir Gaheris	Kumo	male	11. A knight of the Round Table and brother to Sir Gareth, Sir Gawain, and Sir Agravain. | 12. A knight of King Arthur's court who challenged Sir Tristram in the Maiden's Castle tourney and was defeated. | 15. A knight of the Round Table and brother to Sir Gawain who is accidentally killed by Lancelot during a battle. He was unarmed and fighting alongside his brother.
+	*Sir Gaunter	Omega	male	10. Brother of Sir Gilmere and Sir Reynold who fight Sir Lancelot in the forest.
+	*Sir Gilbert	Lewis	male	10. Knight who was killed by Sir Meliot de Logres. His widow seeks help from Sir Lancelot to find a cure for her brother.
+	*Sir Gilmere	Kumo	male	10. Brother of Sir Gaunter and Sir Reynold who fight Sir Lancelot in the forest.
+	*Sir Grummore Grummorsum	Michael	*male	11. A knight from Scotland who fights in the tournament.
+	*Sir Hoel	Santa	male	4. The husband of the Duchess of Brittany, who is killed by the giant. He is Arthur's cousin and relative.
+	*Sir Idrus	Liam	male	8. Knight who joined Sir Gawain in a fierce assault against Romans after his companions were captured.
+	*Sir Ironside	Puck	*male	11. The Red Knight who is defeated by Sir Gareth and becomes his vassal. He is later known as the Knight of the Redlands.
+	*Sir Lamoracke	Onyx	*male	11. A knight of the Round Table who fights in the tournament.
+	*Sir Lionel's Brother	Michael	*male	13. A knight who is bound and beaten by two knights but later revealed to be Sir Lionel.
+	*Sir Marhaus	Omega	male	12. A knight of the Round Table and brother-in-law to King Mark. He challenged Sir Tristram to a duel over the Irish tribute, and was defeated by Tristram in single combat.
+	*Sir Meliot de Logres	Liam	male	10. Knight of the Round Table who was wounded by Sir Gilbert and needs a cure from the Chapel Perilous.
+	*Sir Modred	Nicola	male	10. Knight of King Arthur's court who defeated King Bagdemagus in the tournament. | 15. King Arthur's son by Belisent, portrayed as a traitor who seizes power and declares himself king. He is ultimately defeated by Arthur in battle, but his actions lead to the downfall of the Round Table and cause King Arthur's death.
+	*Sir Outzlake	George	male	7. The noble brother of Sir Damas, who is wounded and disabled. He is the rightful heir to their father's estate but has been denied his inheritance by Damas. He is a good and beloved knight who seeks to fight for justice.
+	*Sir Palomedes	Fenrir	male	11. A Saracen knight who fights in the tournament. | 12. A knight in Ireland who loved La Belle Isault and was defeated by Sir Tristram at a tournament. He later challenged Tristram in the Maiden's Castle tourney. | 15. A knight of the Round Table who fights alongside Lancelot against King Arthur's army.
+	*Sir Pedivere	Daniel	male	10. Knight who kills his own wife and then tries to kill Sir Lancelot, but is defeated by him.
+	*Sir Pellinore	Santa	male	12. A knight who sought to find Sir Tristram's identity after meeting Sir Dinadan.
+	*Sir Pellonnes	Echo	male	12. An old knight who gave lodging to Sir Tristram and Sir Gawain at the Maiden's Castle.
+	*Sir Perceval	Nicola	*male	11. A knight of the Round Table who fights in the tournament.
+	*Sir Perimones	Echo	*male	11. A knight who is defeated by Sir Gareth and becomes his vassal. He is the Red Knight.
+	*Sir Perin de Mountbelgard	Fable	male	5. A knight who joins Sir Balin's company and is killed by the invisible knight Garlon, just as Sir Herleus was.
+	*Sir Pertolope	Santa	*male	11. A knight who is defeated by Sir Gareth and becomes his vassal. He is the Green Knight.
+	*Sir Reynold	Eric	male	10. Brother of Sir Gilmere and Sir Gaunter who fight Sir Lancelot in the forest.
+	*Sir Sagramour	George	male	10. Knight of the Round Table who fights Sir Lancelot in the forest, believing him to be Sir Key.
+	*Sir Segwarides	Eric	male	12. The husband of Lady Segwarides, who was kidnapped by Sir Bleoberis. He pursued the kidnapper and was wounded in the process.
+	*Sir Tauleas	Lewis	*male	12. A giant who lived in the forest and was killed by Sir Tristram.
+	*Sir Torre	Psi	*male	14. Son of Sir Bernard, who gives his shield to Sir Lancelot for the tournament. He is unable to ride due to a previous injury.
+	*Sir Uwaine	Fenrir	*male	13. A knight of the Round Table who meets Sir Galahad at an abbey.
+	*Sir Whishard	Puck	male	8. Knight who was present when Sir Gawain returned wounded from battle with Prianius.
+	*Sorlous	Alex	*male	6. A knight who fights with his brother Brian over a white hart, and later brings the story to King Arthur's court.
+	*Teudaves	Alex	male	9. A knight who is the master of the squire that speaks to Gawain. He is described as worthy and brave.
+	*The Duke of Duchmen	Fenrir	male	8. Duke who led a force against Sir Gawain and his companions in battle.
+	*Ulfius	Fable	*male	2. A knight who served Arthur and fought in the battle against the eleven kings.
+	*Urien	Psi	*male	2. One of the six kings who opposed Arthur's rule.
+	*Yder	Onyx	*male	2. One of the six kings who opposed Arthur's rule.
+	*Belisent	Emma	female	3. King Arthur's half-sister, wife to King Lot. She comes to Caerleon as a messenger but is actually spying on Arthur's power. | 6. The mother of Sir Gawain, who is the half-sister to King Arthur.
+	*Dame Bragwaine	Alpha	*female	12. La Belle Isault's gentlewoman who accompanied her on the journey to Cornwall.
+	*Duchess of Brittany	Sky	female	4. The wife of Sir Hoel who is kidnapped by the giant. She is described as the fairest lady in the world and is killed by the giant after being taken to his cave.
+	*Guinevere	Nezumi	female	3. Daughter of Leodegrance and Arthur's future wife. She is first seen at the festival in Camelgard. | 6. The daughter of King Leodegrance, whom Arthur loves and marries. She is described as the gentlest and fairest lady living.
+	*Helen	Beta	*female	10. Mother of Sir Lancelot, wife of King Ban. She fled with her husband and son from their burning castle but was separated when her husband died.
+	*Igerna	Lily	female	1. Most beautiful woman in Britain, wife of Gorlois who becomes Uther's bride
+	*Isoude	Beta	*female	12. The daughter of King Howell of Brittany who married Sir Tristram and cured his wounds.
+	*Lady Colombe	Kore	female	5. The lady-love of Sir Lancear who kills herself with his sword after he is slain by Balin. She is described as a fair lady who was driven to suicide out of grief and sorrow.
+	*Lady of the Tower	Isabella	*female	13. A noblewoman who is forced to fight for her lands and is later helped by Sir Bors.
+	*Morgan le Fay	Isabella	*female	7. The great enchantress and half-sister of King Arthur. She is the mastermind behind the deception that leads to Arthur's battle with Accolon, using magic and trickery to try to kill her brother. She is portrayed as cunning and treacherous.
+	*Queen Morgan le Fay	Alpha	female	10. King Arthur's half-sister and a powerful sorceress. She captures Sir Lancelot in an enchanted castle, trying to force him to serve her. | 12. The queen who plotted against Sir Tristram and Sir Lancelot, sending thirty damsels to lure them into her castle.
+	*Queen of Eastland	Xiaobei	female	10. One of the four sorceress queens who capture Sir Lancelot and try to make him serve them.
+	*Queen of the Out Isles	Xiaobei	female	10. One of the four sorceress queens who capture Sir Lancelot and try to make him serve them.
+	*Sir Bors's Sister	Kore	*female	13. A noblewoman who is the sister of Sir Bors and later becomes a knight.

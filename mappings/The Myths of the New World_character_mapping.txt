@@ -1,0 +1,361 @@
+	narrator	Adam	male	Story narrator
+	A well-known writer	Nicola	*male	2. Writer who placed Manibozho in antagonism to a great serpent, spirit of evil
+	Acosta	Omega	*male	6. Spanish historian who wrote about Peruvian mythology and the worship of Viracocha as the chief deity. | 9. Spanish historian who wrote about indigenous beliefs in the New World
+	Adair	Fenrir	*male	1. A writer who gave a derivation of the Cherokee name from 'cheera', fire. | 10. An author who stated that the Choctaws permitted the office of high priest to remain in one family
+	Algonkins	Echo	*male	1. A group of tribes surrounding the Iroquois, described as more genial than the Iroquois with milder manners and vivid fancy. | 4. A Native American tribe mentioned in the text, associated with bird and serpent symbolism
+	Balboa	Fenrir	*male	10. A traveler who mentioned that temple services in Peru were conducted in a language not understood by the masses
+	Bartram	George	*male	10. A naturalist who described the junior priests of the Creeks as wearing white robes and carrying owl skins
+	Bishop Egede	Omega	*male	10. A bishop who wrote about the Eskimo belief that a priest must be drowned and eaten by sea monsters to achieve highest order
+	Carriere	Alex	*male	1. A writer who said that natural religions are not fables but truths. | 2. Author who stated that man conceives God as self-conscious unity when thinking clearly or feeling deeply
+	Cogolludo	Michael	*male	4. A historian who wrote about Yucatan mythology, associated with serpent symbolism | 9. Spanish historian who wrote about Maya beliefs, including the devil called Xibilha
+	Coreal	Liam	*male	4. A traveler who documented Brazilian beliefs, associated with bird symbolism | 9. French explorer who documented indigenous beliefs in the Caribbean | 10. A traveler who mentioned that temple services in Peru were conducted in a language not understood by the masses
+	Cusic	Onyx	*male	2. Tuscarora chief who related the Iroquois legend of Enigorio and Enigohahetgea, meaning Good Mind and Bad Mind | 4. An author who documented Six Nations history, associated with serpent symbolism | 8. A source cited for the account of the Six Nations' belief about their origin near a mountain near the falls of the Oswego River.
+	Esau Hajo	Michael	*male	9. Great medal chief and speaker for the Creek nation who expressed the tribal belief about future state rewards and punishments
+	Father Brebeuf	Psi	male	2. Missionary to the Hurons in 1636 who recorded an Iroquois legend without moral dualism | 9. Jesuit missionary who documented Huron beliefs about souls after death
+	Garcilasso de la Vega	Lewis	*male	1. A writer whose Royal Commentaries preserved fifteen words of the secret language of the Incas. | 6. Inca historian who observed the transfer of Viracocha's story to Manco Capac in later traditions. | 9. Peruvian historian who wrote about Inca religion and the deity Çupay | 10. A historian who wrote about the Peruvian high priest system and their service rotation
+	Herbert Spencer	Santa	*male	10. A philosopher who wrote about the progress from ignorance to enlightenment
+	Huayna Capac	Echo	*male	6. The dying Inca who prophesied that white men would come from the sun and subject nations to their rule. | 9. Inca who was the high priest of Çupay
+	Immanuel Kant	George	male	2. Philosopher who showed that reason seeks principles connecting experiences and that conscience points to an infinite personality and absolute standard of right
+	Jacob Grimm	Psi	male	2. Scholar who observed that the idea of the Devil is foreign to all primitive religions
+	La Hontan	Santa	*male	1. A writer who exclaimed that the savages had the happiest memories in the world. | 9. French explorer who documented Algonkin beliefs about souls
+	Longfellow	Daniel	*male	9. American poet who wrote about the spirit's journey
+	Montaigne	Puck	*male	1. A writer who said 'Ce que je mets sur papier, je remets de ma mémoire.'
+	Montezuma	Puck	*male	6. The last ruler of the Aztec empire who was later venerated as a legendary figure. He is described as a noble prince of the golden age who was believed to return and lead his people to victory. | 6. The Aztec ruler who believed Spanish conquistadors were fulfilling ancient prophecies about returning white rulers from the east.
+	Nezahuatl	Nicola	*male	2. Lord of Tezcuco who prayed to gods for a son and then erected a temple dedicated 'to the Unknown God, the Cause of Causes'
+	Oviedo	Fable	*male	9. Spanish historian who wrote about the province of Guataro and indigenous customs
+	Rev. Mr. Pond	Eric	*male	10. A missionary who recorded the Dakota theory about necromants being winged seeds that visit homes of divinities
+	Schiller	Kumo	*male	4. A German poet who wrote about serpents, associated with serpent symbolism
+	The writer	Fable	*male	2. Author of Quiche myths who described rulers of upper and nether world struggling against One Death and Seven Deaths
+	Tiri	Liam	*male	8. A god from Yurucares mythology who released the first humans by cleaving an enormous hole in two, allowing them to emerge from it.
+	Torquemada	Lewis	*male	4. A historian who documented Aztec mythology, associated with serpent symbolism | 9. Spanish historian who wrote about Aztec beliefs and practices
+	Yupanqui	Kumo	*male	2. Inca who spoke at a religious council about the Sun not being the universal creator and proposed the existence of a more powerful lord
+	Xochiquetzal	Sarah	*female	5. Aztec goddess of love, sexual pleasure and childbirth
+	coacooche	Alex		
+	dogs	Alex		
+	dogs and hens	Alex		
+	dr. müller	Dylan		
+	fish	Aiden		
+	mill-stones	Alex		
+	*Acagchemem	Eric	*male	4. A Native American tribe mentioned in the text, associated with eagle symbolism
+	*Adam Hodgson	Psi	*male	9. Writer who documented Choctaw tradition about world destruction and resurrection
+	*Ahriman	Lewis	*male	4. An evil deity in Persian mythology who battles Ormuzd, associated with serpent symbolism
+	*Akanzas	Kumo	*male	4. A Native American tribe mentioned in the text, associated with eagle symbolism
+	*Alexander Henry	Santa	*male	4. A traveler who documented rattlesnake beliefs, associated with serpent symbolism
+	*Alexander von Humboldt	Nicola	*male	10. A scientist who mentioned the Botuto or Holy Trumpet society among Indians of the Orinoko
+	*Alger	Puck	*male	9. Writer who studied the doctrine of a future life
+	*Algonkin	Echo	*male	8. A group of tribes whose mythology describes the origin of man and includes the name 'inini' meaning life.
+	*An intelligent observer	Daniel	*male	2. Observer who noted that Cherokees knew nothing of the Evil One except what they learned from white men
+	*Angont	Santa	*male	5. Large lake monster in Huron mythology, source of sickness
+	*Antietam	Omega	*male	4. A creek in Maryland with a name meaning snake, associated with serpent symbolism
+	*Apocatequil	Kumo	*male	5. Peruvian god of thunder, lightning and storms
+	*Apostle	Eric	*male	1. Refers to Saint Paul, who taught about the unity of human species and natural religions.
+	*Araucanians	George	*male	1. A group of people known for their love of freedom and delight in war, contrasting with northern neighbors. | 4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Ass	Alex	*male	4. A foolish ass from German folk tales, used as an example of animal characters with consistent traits across different cultures
+	*Ataguju	Psi	*male	5. Peruvian creator god, ruler of heaven and earth
+	*Atatarho	Fable	*male	4. A mythical king of the Iroquois, associated with serpent symbolism
+	*Athapascas	Kumo	*male	1. A linguistic stock of people who rove across the continent from Hudson's Bay to the Pacific, described as savage and lacking in sedentary life. | 4. A Native American tribe mentioned in the text, associated with bird symbolism | 8. A group of tribes whose myths describe man as a product of primal creative powers like the Spirit or Water.
+	*Athenians	Daniel	*male	1. The people of Athens who initially mocked Paul's teachings about the unity of human species and natural religions.
+	*Atnai	Psi	*male	8. A group of tribes who claim descent from a raven according to Athapascan mythology.
+	*Auna	Fenrir	*male	3. North wind in Eskimo mythology
+	*Aymara	Kumo	*male	8. An ancient people whose allegory of morning light flinging beams like snow-white foam relates to the cave myth.
+	*Aztecs	Puck	*male	1. A great family of people who founded the empire of Anahuac and raised architectural monuments rivaling ancient world structures. | 4. A Native American tribe mentioned in the text, associated with bird and serpent symbolism | 8. A group of tribes whose mythology describes the origin of their nation from Chicomoztoc, the Seven Caverns.
+	*Bacab	Santa	*male	3. Four gods in Yucatecan mythology who support the firmament and represent cardinal directions
+	*Beowulf	Daniel	*male	4. A hero from Germanic mythology who battles a serpent, associated with serpent symbolism
+	*Beverly	Nicola	*male	4. A historian who documented Virginia history, associated with bird symbolism | 10. A historian who wrote about the universal language of Indians being that of Occaniches
+	*Black Hawk	Santa	*male	1. A great man of the Algonkin family who led the clans for the last pitched battle in the Mississippi valley. | 10. A Sac chief who relates his great grandfather's prophetic vision of meeting a white man who would become his father, leading to alliance with France
+	*Blackfeet	Michael	*male	1. A famous band of the Algonkin group who still hunted over the valley of the Saskatchewan.
+	*Bochica	Nicola	*male	6. The culture hero of the Muyscas, also known as Nemqueteba. He is described as a white figure who taught the people agriculture, clothing, and government before disappearing.
+	*Brasseur	Michael	*male	1. An Abbé who attempted to explain American mythology after the example of Euhemerus but was condemned for introducing theories that rendered them obscure. | 9. French scholar who made claims about Xibalba's historical significance
+	*Bruyas	Omega	*male	9. Scholar who studied Iroquois vocabulary and language
+	*Buschmann	Omega	*male	1. An earnest student who demonstrated that nine-tenths of the area of America were occupied by tribes using dialects traceable to ten or a dozen primitive stems. | 4. A scholar who documented Native American languages, associated with serpent symbolism | 9. German scholar who studied indigenous languages and beliefs
+	*Cabrera	Daniel	*male	1. A scholar who used the manuscripts of Ximenes.
+	*Caliban	Eric	*male	8. A savage and brutish native of the island in Shakespeare's The Tempest, identified with the word Carib.
+	*Camaxtli	George	*male	5. God of Teo-Chichimecs, identical with Mixcoatl
+	*Captain John Smith	Lewis	male	2. Explorer who found that Powhatans of Virginia employed the word 'oki' meaning above in the same sense
+	*Captain Jonathan Carver	Eric	*male	10. A cool-headed English trader whose travel book is an unquestioned authority, who recorded a prophecy about canoe arrival timing
+	*Caribs	Michael	*male	1. A fierce group of people known for their cannibalistic practices and warlike nature, who inhabited the Antilles and parts of South America. | 4. A Native American tribe mentioned in the text, associated with bird symbolism | 8. A group of tribes whose mythology describes the creation of offspring by sowing soil with stones or fruit.
+	*Catherwood	George	*male	1. A traveller who made familiar to the world the ruined cities of Yucatan.
+	*Catlin	Kumo	*male	4. An author who documented Native American traditions, associated with bird symbolism
+	*Cauac	Psi	*male	3. One of the four Bacab gods representing south in Maya mythology
+	*Chac	Onyx	*male	3. Chief minister of the highest power in Maya mythology, god of rain
+	*Chantico	Alex	*male	5. God in Aztec mythology, possibly associated with coyote
+	*Charlevoix	Omega	*male	9. French missionary and writer who documented American indigenous beliefs, particularly about the immortality of the soul | 10. A writer who relates a singular instance of prophetic power similar to Carver's account
+	*Charnay	Alex	*male	4. A photographer who documented Palenque, associated with bird and serpent symbolism
+	*Chepewyans	Kumo	*male	8. A group of tribes who claim descent from a dog according to Athapascan mythology.
+	*Cherokees	Lewis	*male	1. A group of people whose homes were in the secluded vales of East Tennessee and who had a limited number of words in common with the Iroquois. | 4. A Native American tribe mentioned in the text, associated with eagle symbolism | 4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Chicasaws	Onyx	*male	8. A group of tribes who, according to tradition, were in remote times banded into one common confederacy under the headship of Natchez.
+	*Chicomoztoc	Santa	*male	8. The Seven Caverns, a mythical place from Aztec legend where their nation originated. The name refers to seven caverns or boats.
+	*Chikasaws	Liam	*male	1. A group of people who were part of the Apalachian Indians and whose language bore analogy to that of the Mayas.
+	*Chipeways	Alex	*male	1. A group of people who lived around Lake Superior and had a college composed of ten wise and venerable members. | 4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Choctaws	Omega	*male	1. A group of people who were part of the Apalachian Indians and whose language bore analogy to that of the Mayas. | 8. A group of tribes who, according to tradition, were in remote times banded into one common confederacy under the headship of Natchez.
+	*Cohuaxolotl Chantico	Eric	*male	5. Snake-servant of Chantico in Aztec mythology
+	*Columbus	Daniel	*male	1. A historical figure who first touched the island of Cuba and was regaled with stories of one-eyed monsters. | 4. A Spanish explorer who encountered Native American bird symbolism, associated with bird symbolism
+	*Contici	Puck	*male	5. Peruvian thunder god, associated with thunder vase
+	*Copway	Alex	*male	1. A writer who mentioned the traditional history of the Ojibway Nation.
+	*Cortes	Puck	*male	6. Spanish conquistador who encountered Montezuma and was recognized by the Aztecs as possibly fulfilling prophecies about returning white rulers from the east.
+	*Count of Zinzendorf	Puck	*male	4. A pious founder of the Moravian brotherhood who was saved by a rattlesnake, associated with serpent symbolism
+	*Coyoteras	Fable	*male	8. A group of tribes who claim autochthony, meaning they originated from the land.
+	*Creek	Kumo	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Creeks	Echo	*male	1. A group of people who were part of the Apalachian Indians and whose language bore analogy to that of the Mayas. | 4. A Native American tribe mentioned in the text, associated with eagle symbolism | 4. A Native American tribe mentioned in the text, associated with serpent symbolism | 8. A group of tribes who, according to tradition, were in remote times banded into one common confederacy under the headship of Natchez.
+	*Cuzco	Nicola	*male	8. The capital city of the Inca Empire, mentioned in connection with the sacred cave Pacari Tampu.
+	*D'Orbigny	Kumo	*male	9. French explorer who documented beliefs of the Yurucares | 10. A writer who documented Native American practices including the Puelches guarding tombs
+	*Dakotas	Fenrir	*male	1. An erratic folk described as averse to agriculture but daring hunters and bold warriors, tall and strong of body. | 4. A Native American tribe mentioned in the text, associated with eagle and serpent symbolism
+	*De Quen	Michael	*male	10. A Catholic father who wrote about the madness of Native Americans
+	*De Smet	Echo	*male	4. A missionary who documented Dakota beliefs, associated with serpent symbolism
+	*De Soto	Eric	*male	1. A historical figure whose expedition severed the bonds of the Natchez confederation.
+	*De Waldeck	George	*male	4. A traveler who studied the Palenque cross, associated with bird and serpent symbolism
+	*Desjardins	Eric	*male	1. A writer who wrote about the Peruvian pre-conquest history.
+	*Dogribs	Nicola	*male	8. A group of tribes who claim descent from a dog according to Athapascan mythology.
+	*Dr. Hammond	Fenrir	*male	4. A physician who theorized about rattlesnake immunity, associated with serpent symbolism
+	*Dr. Jarvis	Fable	*male	2. Scholar who explained that Hobbamock meant 'the _oke_ or tutelary deity which each Indian worships'
+	*Dr. Mac Gowan	Fenrir	*male	10. An author who wrote about the Cherokee belief in seventh son prophets
+	*Dr. Richardson	Nicola	*male	1. A scholar who described the Athapascas as being at the bottom of the scale of humanity in North America.
+	*Dr. Schwarz	Fable	*male	4. A German scholar who studied the symbolism of serpents, associated with serpent symbolism
+	*Du Pratz	Liam	*male	4. A French explorer who documented Native American beliefs, associated with eagle symbolism
+	*Duponceau	Puck	*male	1. An earnest student who demonstrated that nine-tenths of the area of America were occupied by tribes using dialects traceable to ten or a dozen primitive stems.
+	*Egede	Psi	*male	4. A missionary who documented Greenlandic beliefs, associated with bird symbolism | 9. Danish missionary who wrote about Greenland Eskimo beliefs
+	*Elskataway	Psi	*male	10. A Shawnee prophet and brother of Tecumseh who was not a member of the totem that confined priesthood
+	*Eric	Kumo	*male	1. A historical figure who was mentioned in the Eric Rothens Saga.
+	*Eric Rothens	Kumo	*male	1. A writer who described the Skralingar as numerous and short of stature.
+	*Eskimos	Nicola	*male	1. A race of people living in the Arctic regions, described as amphibious fishermen who are more allied to Old World races physically but related to New World languages. | 8. A group of tribes whose myths describe man as a product of primal creative powers like the Spirit or Water, and also claim descent from dogs.
+	*Father Bruyas	Omega	male	2. Missionary who used the term 'devil' and 'spirit' with the same Iroquois word _otkon_
+	*Father Buteux	Echo	*male	4. A missionary among the Algonkins who recorded their beliefs about lightning, associated with serpent symbolism
+	*Father Geronimo Boscana	Omega	*male	4. A missionary who described Aztec eagle worship, associated with bird symbolism
+	*Father Le Jeune	Santa	male	2. Missionary in 1634 who recorded a different version of the deluge legend than later versions | 10. A Jesuit priest who described a mental epidemic among Huron villagers in 1639
+	*Father Rogel	Liam	male	2. Missionary who told tribes near Savannah River that the deity they adored was a demon who loved evil things
+	*Four Winds	Kumo	*male	3. Mythical deities representing the four cardinal directions and winds, considered ancestors of humanity in various American religions
+	*Gallatin	Echo	*male	1. An earnest student who demonstrated that nine-tenths of the area of America were occupied by tribes using dialects traceable to ten or a dozen primitive stems. | 4. A scholar who documented Native American vocabularies, associated with serpent symbolism
+	*Garcia	Fable	*male	9. Spanish writer who documented indigenous beliefs in Mexico
+	*Garcilasso	Onyx	*male	9. Peruvian historian who wrote about Inca religion
+	*Gomara	Daniel	*male	1. A writer who mentioned tribes on the Atlantic shore keeping flocks of deer and making cheese from their milk.
+	*Grimm	Santa	*male	1. A scholar who wrote about the history of German language.
+	*Guamansuri	Nicola	*male	5. First mortal in Peruvian mythology, descended to earth
+	*Gucumatz	Fenrir	*male	4. A deity in Central American mythology, associated with bird and serpent symbolism
+	*Gumilla	Nicola	*male	9. Spanish explorer who documented beliefs of the Orinoco region
+	*Haeser	Santa	*male	10. A writer who wrote about the history of medicine
+	*Haitians	George	*male	8. A group of tribes who claim autochthony, meaning they originated from the land.
+	*Haokah	Fenrir	*male	5. Dakota thunder god with paradoxical nature
+	*Hare Indians	Lewis	*male	8. A group of tribes who claim descent from a dog according to Athapascan mythology.
+	*Hawkins	Eric	*male	1. A colonel who wrote a sketch of the Creek Country about 1800. | 4. A writer who documented Creek mythology, associated with serpent symbolism | 9. Writer who documented Creek beliefs about future state rewards and punishments | 10. An author who wrote about the sacred plants used by Creeks
+	*Heart of Heaven	Puck	*male	3. Divine entity in Quiché mythology who created the first men
+	*Heckewelder	Daniel	*male	4. An ethnographer who documented Native American beliefs, associated with animal symbolism
+	*Hennepin	Lewis	*male	4. A missionary who documented Algonkin beliefs, associated with serpent symbolism
+	*Heno	Omega	*male	5. Iroquois thunder god, patron of husbandry
+	*Henry Timberlake	Puck	*male	4. A traveler who documented Cherokee mythology, associated with serpent symbolism
+	*Hirpini	Daniel	*male	8. An ancient Sabine tribe known for their wolf-like customs, dressing in wolf-skins and performing rites related to wolves.
+	*Hodgson	Fenrir	*male	9. Writer who documented Choctaw traditions about the world's destruction
+	*Holguin	Santa	*male	9. Scholar who documented Quiché language and beliefs
+	*Huascar	Echo	*male	6. The Inca ruler who received Hernando de Soto and was said to have heard prophecies about white men from the east who would subject nations.
+	*Huitzilapochtli	George	*male	4. A war god of the Nahuas, associated with serpent symbolism
+	*Humboldt	Kumo	*male	1. A naturalist who said that man, regarded as an animal, belongs to one of the singing species.
+	*Hunahpu	Fenrir	*male	9. Quiché hero god who succumbed to the rulers of Xibalba
+	*Hunt	George	*male	9. Writer who documented indigenous beliefs in North America
+	*Hurakan	Lewis	*male	3. The Air in Motion, divine spirit and creator figure in Aztec mythology who is associated with the four winds | 4. A hurricane or thunder-storm god mentioned in the text, associated with serpent symbolism | 5. Quiché thunder god with three attributes
+	*Hurons	Psi	*male	1. A group of people who were part of the Five Nations and occupied much of the soil from St. Lawrence to Roanoke. | 4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Illatici	Echo	*male	5. Peruvian thunder god, associated with thunder vase
+	*Incas	Puck	*male	4. A Native American empire mentioned in the text, associated with serpent symbolism
+	*Inti	Daniel	*male	5. Sun god of Incas, ruler of heaven
+	*Ioskeha	Eric	*male	6. The culture hero of the Iroquois, twin brother to Tawiscara. He is described as a white figure who established his lodge in the east and was father of mankind, destroyer of giants, and teacher of fire-making.
+	*Iroquois	Lewis	*male	1. A race of warriors described as courageous, cruel, unimaginative but politically sagacious, more like ancient Romans than Indians. | 4. A Native American tribe mentioned in the text, associated with bird and serpent symbolism | 8. A group of tribes whose mythology describes the origin of man and includes the name 'onwi' meaning life.
+	*Ix	Daniel	*male	3. One of the four Bacab gods representing west in Maya mythology
+	*J. M. Stanley	George	*male	10. An author who wrote about Native American burial practices
+	*Jarvis	Fenrir	*male	1. A doctor who undertook a philosophical survey of American religions but was led astray by the notion of primitive civilization.
+	*Johannes Lederer	Liam	*male	10. A German traveller who visited the Akenatzi people in 1670
+	*John Mason Brown	Daniel	*male	10. An author who described an instance where a medicine man accurately predicted the appearance of three whites with specific details
+	*John Tanner	Onyx	*male	4. A captive who wrote about rattlesnake beliefs, associated with serpent symbolism | 10. An author who wrote about Native American practices
+	*Jonathan Carver	Alex	*male	10. A cool-headed English trader who recorded an instance where a chief priest accurately predicted the arrival of relief for the Killistenoes
+	*Jones	Santa	*male	4. An author who documented Native American legends, associated with serpent symbolism
+	*Joutel	Echo	*male	2. Person who reported that natives of Texas told him the unseen spirit does not concern himself about things below
+	*Jupiter	George	*male	8. A deity associated with the earth myth where man is said to have originated from mountains fecundated by Mithras or Jupiter.
+	*Kan	Alex	*male	3. One of the four Bacab gods representing east in Maya mythology
+	*Kane	Lewis	*male	10. An explorer who studied the Dakota dialect used by sorcerers
+	*Kauna	George	*male	3. South wind in Eskimo mythology
+	*Kenai	Eric	*male	8. A group of tribes who claim descent from a raven according to Athapascan mythology.
+	*Kennebec	Liam	*male	4. A stream in Maine with a name meaning snake, associated with serpent symbolism
+	*King Philip	Alex	*male	1. A leader of the Algonkin family who fought against Puritan fathers.
+	*King Solomon	Michael	*male	4. A biblical king who spoke about the way of a serpent upon a rock, associated with serpent symbolism
+	*Kolushes	Daniel	*male	8. A group of tribes who claim descent from a raven according to Athapascan mythology.
+	*Kukulkan	Santa	*male	4. A deity in Central American mythology, associated with bird and serpent symbolism
+	*Lafitau	Michael	*male	9. French missionary who documented indigenous beliefs in Paraguay
+	*Landa	Alex	*male	1. A writer whose Relacion de las Cosas de Yucatan contained an explanation of the Mayan phonetic system.
+	*Lawson	Psi	*male	1. A writer who saw many people with blonde hair, blue eyes, and a fair skin. | 10. An English surveyor who found the Akenatzi people in 1700
+	*Lederer	Nicola	*male	1. A writer who mentioned the tribe now extinct who occupied that locality and their very light complexions. | 10. A German traveller who visited the Akenatzi people in 1670
+	*Lenni Lenape	George	*male	1. A group of people who were part of the Algonkin family and little foreboded the hand of iron that grasped their own so softly under the elm tree. | 8. A group of tribes who pretend that wolves released mankind from the dark bowels of the earth.
+	*Lucretius	Fable	*male	4. A Roman poet who wrote about lightning, mentioned in the text
+	*Major Long	Daniel	*male	9. Military officer who recorded beliefs of the Minnetarees and Mannicicas tribes
+	*Man	Michael	*male	8. The central figure in the chapter, representing humanity's origin and development. Described as earth-born, a son of both soil and gods, with the quintessence of dust but also divine lineage.
+	*Manco Capac	Psi	*male	6. The first historical Inca who was identified with Viracocha in later traditions. He is described as a real character who flourished around the eleventh century and was considered the founder of the Inca dynasty.
+	*Mandans	Nicola	*male	4. A Native American tribe mentioned in the text, associated with dove symbolism | 8. A group of tribes who believed in an underworld with a cave that served as the womb of the earth.
+	*Manibozho	Alex	*male	6. Alternative name for Michabo, the Great Hare who is the supreme deity of Algonkin mythology. He is described as a creator figure, inventor of picture writing, and ruler of winds who created the world from sand.
+	*Martius	Fable	*male	10. A writer who wrote about the rights of Ureinwohner in Brazil
+	*Master of Breath	Fenrir	*male	8. A divine figure in Natchez mythology who created the first men from clay and raised a wall to dry the waters.
+	*Maues	Echo	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Max Mueller	Fenrir	*male	1. A scholar who asserted that the process of agglutination in Turanian languages is the same as polysynthesis in America.
+	*Maya	Omega	*male	8. A group of tribes whose mythology describes the origin of man and includes the name 'inic' meaning to grow.
+	*Mayas	Echo	*male	1. An ancient race of mild manners and considerable polish who possessed the peninsula of Yucatan. | 4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Meigs	Liam	*male	1. A scholar who wrote about cranial forms of the American aborigines.
+	*Meyen	Puck	*male	1. A scholar who analyzed the secret language of the Incas. | 9. Traveler who wrote about indigenous burial practices
+	*Michabo	Omega	*male	4. A hero-god in Algonkin mythology who battles a serpent, associated with serpent symbolism | 5. Creator of the earth in Algonkin mythology | 6. The Great Hare, supreme deity of the Algonkins, creator of the world and sun, associated with light and dawn. Known as the Great White One, he is portrayed as a powerful figure who created the earth from sand and ruled over winds and natural forces.
+	*Mictla	Omega	*male	3. Aztec god of death, ruler of the underworld located in the north
+	*Mictlan	Fable	*male	9. Mexican underworld ruled by Mictlanteuctli, Lord of Mictlan
+	*Mictlanteuctli	Onyx	*male	9. Mexican Pluto who dwelt in the subterranean regions and ruled Mictlan
+	*Minnetarees	Alex	*male	8. A group of tribes who believed in an underworld with a cave that served as the womb of the earth.
+	*Mithras	Fable	*male	8. A deity associated with the earth myth where man is said to have originated from mountains fecundated by Mithras or Jupiter.
+	*Mixcoatl	Liam	*male	5. Aztec god of clouds and storms, also called Cloud Serpent
+	*Molina	Puck	*male	2. Historian who wrote about the Araucanians' greatest god being called 'The Soul of the Sky' | 9. Writer who documented Chilean beliefs about the soul's journey
+	*Monquis	Psi	*male	4. A Native American tribe mentioned in the text, associated with owl symbolism
+	*Morgan	Eric	*male	4. A writer who documented Iroquois mythology, associated with serpent symbolism
+	*Morse	Nicola	*male	1. A writer who reported that an Indian sang two hundred songs on various subjects. | 9. Writer who documented indigenous beliefs about the afterlife
+	*Morton	Michael	*male	1. A scholar whose Crania Americana advocated views rejected by later authorities.
+	*Moxos	Lewis	*male	8. A group of tribes whose myths describe man as descended from lakes and rivers on whose banks their villages were situated.
+	*Mr. Anderson	Echo	*male	10. An author who wrote about the Berserker fury of Scandinavians and Bacchic rage of Greece in relation to Indian frenzy
+	*Mr. Brown	Omega	*male	10. An author who described an instance where a medicine man accurately predicted the appearance of three whites with specific details
+	*Mr. Schoolcraft	Fenrir	*male	2. Ethnologist who recorded later versions of Algonkin legends about Manibozho and the serpent
+	*Muluc	Eric	*male	3. One of the four Bacab gods representing north in Maya mythology
+	*Muyscas	Omega	*male	1. A tribe whose empire was in the neighborhood of Bogota, described as a foreign tribe to South American civilization.
+	*Müller	Santa	*male	1. A German professor who wrote a voluminous work on American Primitive Religions but was led astray by imaginary antitheses. | 4. A scholar who documented American religions, associated with serpent symbolism | 9. German scholar who wrote about American religions and indigenous beliefs
+	*Nahuas	Onyx	*male	1. A band of the Aztec race who claimed to have come from the northwest coast and settled in and near the valley of Mexico.
+	*Nanahuatl	Onyx	*male	5. Leprous victim sacrificed to the sun in Aztec myth
+	*Natchez	Puck	*male	1. A small tribe whose home was in the Big Black country and who were at the head of a loose confederation. | 4. A Native American tribe mentioned in the text, associated with eagle symbolism | 8. A group of tribes who, according to tradition, were in remote times banded into one common confederacy under their own headship.
+	*Navajos	Lewis	*male	4. A Native American tribe mentioned in the text, associated with bird symbolism | 8. A group of tribes who claim autochthony, meaning they originated from the land.
+	*Netela	Nicola	*male	4. A Native American tribe mentioned in the text, associated with eagle symbolism
+	*Nezahualcoyotl	Omega	*male	6. A former prince of Tezcuco who foretold the arrival of white and bearded men from the east who would destroy existing empires.
+	*Noldeke	Fable	*male	4. A scholar who studied linguistic connections, associated with serpent symbolism
+	*Nottoways	Kumo	*male	1. A group of people who were part of the Five Nations and occupied much of the soil from St. Lawrence to Roanoke.
+	*One Death	Alex	*male	9. Ruler of Xibalba, one of the grim lords who governed the Mayan underworld
+	*Oneida	Psi	*male	8. A people of the Stone, a reference to their belief about their origin from stone.
+	*Onniont	Echo	*male	4. A monster serpent mentioned in Huron mythology, associated with serpent symbolism
+	*Ormuzd	Omega	*male	3. Supreme deity in Zoroastrian mythology | 4. A deity in Persian mythology who battles Ahriman, associated with serpent symbolism
+	*Otomi	Liam	*male	8. A group of tribes whose mythology describes the origin of man and includes the name 'n-aniehe' meaning to grow.
+	*Pacari tampu	Lewis	*male	3. Cave from which Inca brothers emerged in mythology | 8. The Lodgings of the Dawn, a sacred cave in Peru where mythical civilizers emerged and during flood escaped the waters.
+	*Pachacutec	Fenrir	*male	5. Inca ruler who carried wars into Huanca province
+	*Pan-paxil-pa-cayala	Fable	*male	3. Excellent land in Quiché mythology where the four sacred animals brought corn
+	*Paul	Onyx	*male	1. A philosopher who explained his views on divine things to the philosophers of Athens, asserting that 'God has made of one blood all nations of the earth.'
+	*Paul Egede	Puck	*male	10. A missionary who documented words and expressions in the dialect of sorcerers
+	*Pauna	Michael	*male	3. East wind in Eskimo mythology
+	*Pennock	Echo	*male	9. Writer who documented Norse religion and beliefs
+	*Perseus	Kumo	*male	4. A Greek hero who battles a serpent, associated with serpent symbolism
+	*Peruvians	Daniel	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism | 8. A group of tribes whose mythology describes the origin of man from Mama Allpa, Mother Earth.
+	*Peter Martyr	Onyx	*male	1. A writer who described the Aztec manuscripts.
+	*Philosophers	Psi	*male	1. The group of thinkers who requested Paul to explain his views on divine things.
+	*Piguerao	Lewis	*male	5. Peruvian twin brother of Apocatequil
+	*Pluto	Alex	*male	4. A lord of the dead mentioned in Aztec mythology, associated with owl symbolism
+	*Pontiac	Onyx	*male	1. A leader of the Algonkin family who doomed to death every white trespasser on their soil.
+	*Powhatans	Daniel	*male	4. A Native American tribe mentioned in the text, associated with bird symbolism
+	*Prescott	Onyx	*male	2. Historian who described the Çupay of Peruvians as 'the shadowy embodiment of evil' | 4. A historian who wrote about Aztec mythology, associated with serpent symbolism
+	*Professor Agassiz	George	*male	4. A scientist who studied serpent symbolism among Brazilian Indians, associated with serpent symbolism
+	*Professor Mueller	George	*male	2. Scholar who classified deities as good or bad spirits in his work on American religions
+	*Quetzalcoatl	Echo	*male	3. God of winds and rain in Aztec mythology, associated with the cross symbol | 4. A mythical civilizer of the Aztecs, associated with bird and serpent symbolism | 5. Aztec god associated with flint stones and wind | 6. The supreme god of the Toltecs, known as the Bird-Serpent who was born in Tula and became associated with light and wind. He is described as a white figure who taught arts, agriculture, and was the inventor of the calendar.
+	*Quiateot	Onyx	*male	5. God of rains among Nicaraguans
+	*Quiches	Eric	*male	1. A tribe of Guatemala whose legends were written down by Father Francisco Ximenes and preserved in the Sacred National Book.
+	*Quichuas	Liam	*male	1. A related division of the Peruvians who extended their language and race along the highlands of the Cordilleras.
+	*Quichés	Eric	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Ramsey	Lewis	*male	1. A writer who mentioned the spelling of Tsalakie and its relation to Tellico.
+	*Rev. G. H. Pond	Psi	male	2. Missionary who lived among Dakotas for eighteen years and found no evidence they divided gods into good and evil classes
+	*Reynard the Fox	Santa	*male	4. A cunning fox from German folk tales, used as an example of animal characters with consistent traits across different cultures
+	*Riggs	Kumo	*male	10. A linguist who studied the Dakota dialect used by sorcerers
+	*Roger Williams	Nicola	male	2. Early writer who mentioned the term Kittanitowit, meaning great manito
+	*Root-Diggers	Puck	*male	8. A group of tribes whose mythology describes the coyote as bringing their ancestors into the world.
+	*Ruis	Liam	*male	9. Spanish missionary who documented Paraguayan indigenous beliefs
+	*Sahagun	Liam	*male	6. Spanish historian who documented Aztec legends and mythology, including the story of Quetzalcoatl. | 9. Spanish historian who documented Aztec beliefs about Tlalocan | 10. A chronicler who wrote about the Aztec practice of mixing colors and tracing designs in religious education
+	*Saint Paul	Alex	*male	1. An apostle who taught that all nations originated from one blood and that natural religions are unaided attempts of man to find out God.
+	*Sauna	Fable	*male	3. West wind in Eskimo mythology
+	*Schoolcraft	Fable	*male	1. An American ethnologist who published a work on the subject but was considered deficient in education and narrow in prejudices. | 4. An ethnographer who documented Native American mythology, associated with bird and serpent symbolism | 10. An author who wrote about Indian tribes and their priesthood systems
+	*Seminoles	Santa	*male	8. A group of tribes who, according to tradition, were in remote times banded into one common confederacy under the headship of Natchez.
+	*Setebos	Alex	*male	8. The supreme divinity of the Patagonians, mentioned in connection with Caliban from Shakespeare's The Tempest.
+	*Seven Deaths	Eric	*male	9. Ruler of Xibalba, one of the grim lords who governed the Mayan underworld
+	*Shawnee	Fable	*male	1. A restless group of people who were part of the Algonkin family and known as the gypsy of the wilderness.
+	*Shawnees	Puck	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Sherzer	Psi	*male	1. A scholar who discovered the manuscripts of Ximenes in the library of the University of San Carlos.
+	*Sieur de Tonty	Omega	*male	4. A French explorer who documented Native American beliefs, associated with eagle symbolism
+	*Sillam Innua	Liam	*male	3. Owner of the Winds, highest existence in Eskimo mythology
+	*Six Nations	Lewis	*male	4. A Native American confederacy mentioned in the text, associated with serpent symbolism
+	*Spix	Lewis	*male	9. German naturalist who documented indigenous beliefs in Brazil
+	*Squier	George	*male	1. An American ethnologist who published a work on the subject but was shallow in his approach to mythology.
+	*St. George	Psi	*male	4. A Christian saint who battles a dragon, associated with serpent symbolism
+	*Stephens	Fable	*male	1. A traveller who made familiar to the world the ruined cities of Yucatan. | 4. A traveler who documented Palenque, associated with bird and serpent symbolism
+	*Susquehannocks	Nicola	*male	1. A group of people who were part of the Five Nations and occupied much of the soil from St. Lawrence to Roanoke.
+	*Swedenborg	Onyx	*male	10. A person who described a conflagration at Stockholm while being at Gottenberg
+	*Tahkalis	Michael	*male	8. A group of tribes who claim autochthony, meaning they originated from the land.
+	*Tamoi	Kumo	*male	6. The patron deity of the Caribs, described as a white man who came from the east to instruct them in agriculture and arts before disappearing.
+	*Taras	Fable	*male	5. Supreme god of Tarascos, identical with Mixcoatl
+	*Tawiscara	Daniel	*male	6. The dark twin brother of Ioskeha in Iroquois mythology. He is described as the weaker warrior who was defeated and whose blood turned to flint stones.
+	*Tecolotl	Eric	*male	4. A night owl in Aztec mythology, associated with owl symbolism
+	*Tecumseh	Fenrir	*male	1. A great man of the Algonkin family who led the clans for the last pitched battle in the Mississippi valley. | 10. A Shawnee leader and brother of Elskataway, who was a significant figure in Native American history
+	*Ternaux-Compans	Fenrir	*male	4. A scholar who documented Peruvian beliefs, associated with serpent symbolism
+	*The Jesuit missionaries	Alex	*male	2. Missionaries who rarely distinguished between good and evil deities when speaking of northern tribes' religion
+	*The Moravian Brethren	Eric	*male	2. Religious group who recorded that Algonkins and Iroquois had no idea of a devil or prince of darkness until later times through Europeans
+	*Thor	Nicola	*male	4. A Norse god who battles serpents, associated with serpent symbolism
+	*Tlaloc	Puck	*male	3. God of rain and showers in Aztec religion, associated with the four cardinal points | 4. A Toltec thunder god mentioned in the text, associated with serpent symbolism | 5. Aztec god of rains and waters, ruler of summer
+	*Tlapallan	Michael	*male	3. Land of colors in Aztec mythology, associated with Tlaloc
+	*Tohil	Michael	*male	5. Quiché god who gave fire by shaking sandals
+	*Toltecs	Santa	*male	1. A band of the Aztec race who claimed to have come from the mountain ranges of Guatemala as their ancient seat.
+	*Tonacatepec	Kumo	*male	3. Mountain of subsistence in Aztec mythology, birthplace of the race
+	*Toukaways	Echo	*male	8. A wild people in Texas who celebrate their origin through an annual dance involving burial and resurrection of a naked person.
+	*Tulan	Liam	*male	3. Cradle of the Aztec race, land of paradise in Aztec mythology
+	*Tupa	Santa	*male	5. Brazilian thunder god who taught agriculture
+	*Tupac Amaru	Lewis	*male	6. A mestizo who claimed to be the reincarnation of the last Inca and led an uprising against Spanish rule. He was described as a true child of the sun who inspired thousands to join his cause.
+	*Tupis	Fable	*male	1. A peaceful and inoffensive group of people who inhabited the vast region between the Amazon and the Pampas. | 4. A Native American tribe mentioned in the text, associated with bird symbolism
+	*Tuscarora	Psi	*male	4. A Native American tribe mentioned in the text, associated with serpent symbolism
+	*Tuscaroras	Daniel	*male	1. A group of people who were among the Five Nations and placed their arrival on the Virginian coast about 1300.
+	*Tutul Xiu	Nicola	*male	3. Four parents or leaders in Maya mythology
+	*Unktahe	Liam	*male	4. A deity mentioned in Dakotan mythology, associated with serpent symbolism | 5. Spirit of water among Dakotas, master of dreams and witchcraft
+	*Vater	Lewis	*male	1. An earnest student who demonstrated that nine-tenths of the area of America were occupied by tribes using dialects traceable to ten or a dozen primitive stems.
+	*Venegas	Onyx	*male	4. An author who documented California mythology, associated with owl symbolism
+	*Viracocha	George	*male	5. Mythical civilizer of Peru, said to have risen from Lake Titicaca | 6. The supreme deity of the Peruvians, creator god who rose from Lake Titicaca and created the world. He is associated with light and white color, known as 'the foam of the sea' and called the teacher of all things. | 8. The mythical civilizer of Peru who emerged from the sacred cavern and is said to have created the first men from clay. He also dwelt in the cave of Pacari Tampu and is associated with the flood myth.
+	*Von Baer	Psi	*male	1. A scholar who gave the Eskimos the sobriquet 'the Phoenicians of the north.'
+	*von Martius	Echo	*male	1. A scholar who wrote an admirable work on ethnography and linguistics of America.
+	*Waitz	Liam	*male	1. A German professor who wrote a comprehensive work on the indigenes of America but was defective in his views on their religions. | 9. German anthropologist who documented various indigenous beliefs
+	*Wauhkeon	Michael	*male	4. A god of waters mentioned in Dakotan mythology, associated with serpent symbolism
+	*Whipple	Michael	*male	4. An ethnographer who documented Zuñi beliefs, associated with eagle symbolism | 10. An author who wrote about Native American tribes
+	*William Bartram	Alex	*male	4. A naturalist who documented Native American beliefs about owls, associated with owl symbolism
+	*Wilson	Omega	*male	1. A scholar who wrote about the American cranial type.
+	*Wind of Nine Caverns	Fenrir	*male	3. Brother in Mixtec mythology who dwelt in the enchanted garden
+	*Wind of Nine Serpents	George	*male	3. Brother in Mixtec mythology who dwelt in the enchanted garden
+	*Winslow	Michael	*male	2. Author who wrote about Indians worshipping a good power called Kiehtan and another named Hobbamock or Hobbamoqui
+	*Witchitas	Fenrir	*male	8. A group of tribes who have a tradition that their progenitors issued from the rocks about their homes.
+	*Wolf	Onyx	*male	4. A ravenous wolf from German folk tales, used as an example of animal characters with consistent traits across different cultures
+	*Xblanque	Santa	*male	9. Quiché hero god who succumbed to the rulers of Xibalba
+	*Xelhua	Onyx	*male	8. A hero god from Aztec mythology who escaped the flood by ascending a mountain and later built the pyramid of Cholula.
+	*Xenophon	Liam	*male	4. An ancient Greek historian who mentioned doves in Persia, associated with dove symbolism
+	*Xibalba	Michael	*male	9. Mayan underworld ruled by the grim lords One Death and Seven Deaths, also known as Xibalba
+	*Ximenes	Onyx	*male	1. A missionary who wrote down the legends of the Quiches and transcribed them in 1725. | 9. Scholar who documented Quiché vocabulary and beliefs
+	*Xolotl	George	*male	9. Aztec god who descended to Mictlan to bring a bone of the perished race
+	*Yolcuat	Onyx	*male	4. A name for the rattlesnake, associated with bird and serpent symbolism
+	*Yurucares	Puck	*male	8. A group of tribes whose mythology describes the first humans as pegged in an enormous hole until released by a god.
+	*Zampu	Echo	*male	3. Tree of life in Tibetan mythology, from which four streams flow
+	*Æsculapius	Michael	*male	4. A Greek god associated with serpents, mentioned in the text
+	*Çupay	Liam	*male	9. Peruvian deity who ruled the land of shades in the center of the earth, also known as Supay
+	*Arduisur	Xiaoyi	*female	3. Virgin daughter of Ormuzd in Iranian mythology, source of four nourishing rivers
+	*Ataensic	Bella	*female	5. Goddess of water among Iroquois, also associated with moon
+	*Atl	Siwis	*female	5. Aztec water goddess, often confused with moon
+	*Beautiful Water	Xiaoni	*female	3. One of the four mothers of humanity in Quiché mythology
+	*Centeotl	Beta	*female	5. Aztec goddess of Maize, associated with moon's evil aspects
+	*Chalchihuitlycue	Emma	*female	5. Goddess of Water, mother of mankind according to Mexican mythology
+	*Chia	Xiaobei	*female	5. Moon goddess among Muyscas, associated with flooding the earth
+	*Cihuacoatl	Alloy	*female	4. A serpent woman in Nahuas mythology, associated with serpent symbolism
+	*Citatli	Kore	*female	5. Aztec moon goddess, often confused with water
+	*Coatlicue	Aoede	*female	4. A mother goddess of the Nahuas, associated with serpent symbolism
+	*Dobayba	Sara	*female	5. Personification of water among natives of Darien
+	*Falling Water	Alice	*female	3. One of the four mothers of humanity in Quiché mythology
+	*Guatavita	Siwis	*female	5. Goddess associated with Lake Guatavita, source of pilgrimage
+	*Isis	Kore	*female	5. Egyptian goddess associated with moisture and moon
+	*Itzcuinan	Xiaobei	*female	5. Alternative name for Xochiquetzal, meaning 'bitch-mother'
+	*Little Red Riding Hood	River	*female	4. A young girl from German folk tales, who encounters a wolf and serves as an example of animal characters with consistent traits across different cultures
+	*Mama Allpa	Bella	*female	8. Mother Earth, called 'Mama Allpa' by the Peruvians. A feminine representation of the earth goddess who nourishes all beings and is associated with the concept of humanity's origin from the soil.
+	*Mama Cocha	Xiaoxiao	*female	5. Mother of mankind, personification of water among Peruvians
+	*Mama Quilla	Isabella	*female	5. Moon goddess among Peruvians, associated with child birth
+	*Metzli	Beta	*female	5. Moon goddess in Aztec mythology, associated with leprosy sacrifice
+	*Meztli	Alpha	*female	5. Moon goddess among Aztecs, associated with child birth
+	*Mrs. Eastman	Heart	*female	4. An author who documented Sioux legends, associated with bird and serpent symbolism
+	*Owl	Lily	*female	4. A wise owl from German folk tales, used as an example of animal characters with consistent traits across different cultures
+	*Pallas Athene	Nicole	*female	4. A Greek goddess associated with owls, mentioned in the text
+	*Pocahontas	Nova	*female	1. An Indian girl who in legend averted from the head of the white man the blow which rebounded and swept away her father and all his tribe.
+	*Sillam Aipane	Jessica	*female	3. House of the Winds, abode of the dead in Eskimo mythology
+	*Taru	Sky	*female	5. Personification of water among Botocudos
+	*Teczistecatl	Isabella	*female	5. Aztec goddess of generation
+	*Tlalocan	Gongitsune	*female	3. Terrestrial paradise in Aztec mythology, associated with the god Tlaloc
+	*Tonantzin	Tebukuro	*female	4. A mother goddess of the Nahuas, associated with serpent symbolism
+	*Water of Birds	Nezumi	*female	3. One of the four mothers of humanity in Quiché mythology
+	*Water of Serpents	Dora	*female	3. One of the four mothers of humanity in Quiché mythology
+	*Yohualticitl	Alpha	*female	5. Aztec goddess of night, guardian of babes

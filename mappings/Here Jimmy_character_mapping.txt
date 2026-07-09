@@ -1,0 +1,9 @@
+	narrator	Adam	male	Story narrator
+	Lon Safko	Michael	*male	1. Narrator of the story, a young man from Westchester County who met Sal at his diner and became close friends. Became involved in Family business through his friendship with Tony, though he ultimately chose to keep the secret.
+	Sal	Echo	*male	1. Owner-operator of Sal's Cafe' in Ossining, New York. Former member of the Italian Mafia who served as a frontman for the Family business. Father of Sal Jr., who died in Vietnam War. Retired from organized crime and opened a diner to cope with his son's death.
+	Tony	Daniel	*male	1. Young Italian-American man who frequented the Jersey City Cinema and became a close friend of the narrator. Worked for the New York Family as a mid-level soldier, involved in criminal activities including the murder of Jimmy Hoffa.
+	*Bill Bufalino	Alex	*male	1. Family member who was present during the murder of Jimmy Hoffa. Part of the group that killed Hoffa and disposed of his body.
+	*Frank Sheeran	Puck	male	1. Member of the New York Family who participated in the murder of Jimmy Hoffa. Was involved in the planning and execution of Hoffa's assassination.
+	*Jimmy Hoffa	Fenrir	male	1. American labor union leader and president of the International Brotherhood of Teamsters from 1957 until 1971. Disappeared on July 30, 1975, at age 62 and was declared dead in 1982. Central figure in the story's conspiracy theory about his murder.
+	*Sal Jr.	Onyx	male	1. Sal's only son who died in the Vietnam War. His death caused Sal to lose interest in his family business and become suicidal.
+	*Barbara Drysand	Xiaoyi	*female	1. Singer who became famous after being discovered by a Family member. Was given opportunities to perform in major venues and later made pornographic films for the Family.

@@ -1,0 +1,26 @@
+Arthur	*male	The rightful king of England, son of Uther and Arthur's father. A young man of fifteen years who is fair, tall, comely, strong, gentle in manner, and accomplished in knightly exercises. He draws the sword from the stone, proving his right to rule.
+*Uther	*male	Arthur's father, the former king of England who died before Arthur knew his true parentage. He was a powerful ruler whose death led to the succession crisis.
+Merlin	*male	A powerful wizard who guides Arthur's rise to power, arranging for Arthur to be raised by Sir Ector and ensuring his true parentage remains hidden until the sword test.
+Ector	*male	Arthur's foster father, a knight who raised Arthur as his own son. He discovers Arthur's true parentage and becomes loyal to him after the sword test.
+*Key	*male	Arthur's foster-brother, recently knighted. He finds Arthur at the sword stone and claims it as his own before revealing that Arthur pulled it for him.
+Brice	*male	The Archbishop of Canterbury who convenes the lords and barons to determine Arthur's succession through the sword test.
+*Badewaine	*male	A knight who becomes Arthur's Constable after the coronation.
+*Ulfius	*male	A knight who serves Arthur and leads a charge against the enemy at the Battle of Bedgraine.
+*Brastias	*male	A knight who fights alongside Arthur in the Battle of Bedgraine and helps save Sir Ulfius from danger.
+*Lot	*male	One of the six kings who oppose Arthur, leading a rebellion against his rule. He is eventually defeated in battle.
+*Nanters	*male	One of the six kings who oppose Arthur, defeated in battle by Sir Key.
+*Urien	*male	One of the six kings who oppose Arthur, part of the alliance against him.
+*Carados	*male	One of the six kings who oppose Arthur, defeated in battle by King Bors.
+*Yder	*male	One of the six kings who oppose Arthur, part of the alliance against him.
+*Anguisant	*male	One of the six kings who oppose Arthur, part of the alliance against him.
+*Ban	*male	King of Benwick who comes to help Arthur against his enemies, bringing 300 knights.
+*Bors	*male	King of Gaul who comes to help Arthur against his enemies, bringing 300 knights.
+*Griflet	*male	A knight who is unhorsed in battle but later helps Sir Key.
+*Lucas	*male	The butler who is unhorsed in battle by Sir Key.
+*Cradlemont	*male	A king who is slain by Arthur in the Battle of Bedgraine.
+*Clarience	*male	A king who is defeated by Sir Brastias in battle.
+*Eustace	*male	A duke who is defeated by Sir Ulfius in battle.
+*Blaise	*male	A holy hermit who is Merlin's master and records the battles of King Arthur.
+*Claudas	*male	A king who is an enemy of Ban and Bors, with whom Arthur makes a treaty.
+*Duke of Cambinet	*male	A noble who joins King Lot in his strategy during the Battle of Bedgraine.
+King of the Hundred Knights	*male	A powerful king who joins Lot in his strategy during the Battle of Bedgraine.

@@ -1,0 +1,13 @@
+Sir Lancelot	male	The noblest knight in the world, known for his prowess in battle and quests. He is deeply loved by Queen Guinevere but maintains a complex relationship with her due to his chivalric duties and honor. He is wounded during the tournament at Camelot, leading to a period of recovery in the hermitage.
+Queen Guinevere	female	The queen of Camelot, married to King Arthur. She is deeply in love with Sir Lancelot but becomes angry and jealous when she believes he is neglecting her. She accuses him of disloyalty, leading to his departure from court.
+Sir Bors	male	A noble knight of the Round Table and close companion to Sir Lancelot. He serves as a mediator between Arthur and Guinevere, and later becomes the queen's champion in her trial by combat. He is deeply loyal to Lancelot and feels responsible for the injury he caused.
+Sir Gawain	male	A knight of the Round Table and brother to other notable knights. He is involved in a plot against Queen Guinevere, which leads to the death of Sir Patrice. He later seeks out Sir Lancelot and discovers his true identity.
+Sir Mador de la Port	male	A knight of the Round Table who challenges Queen Guinevere after his cousin's death. He is defeated by Sir Lancelot in combat and later reconciled with the queen.
+King Arthur	male	The king of Camelot and leader of the Round Table. He is deeply concerned about his queen's honor and seeks justice for her. He shows great respect for Sir Lancelot, even when he is angry with him.
+*Sir Pinell le Savage	male	A knight who poisons apples intended for Sir Gawain, leading to the death of Sir Patrice. He is revealed as the true culprit in a later revelation.
+*Sir Patrice	male	A knight who dies from poisoned apples. He is the cousin of Sir Mador de la Port and becomes a central figure in the trial by combat.
+Sir Bernard of Astolat	male	An old baron who hosts Sir Lancelot during the tournament. He is the father of Elaine and later becomes a key figure in her death.
+Elaine	*female	The beautiful daughter of Sir Bernard, known as the Fair Maid of Astolat. She falls deeply in love with Sir Lancelot and gives him her red sleeve to wear at the tournament. She dies of grief after his departure.
+Sir Lavaine	*male	The youngest son of Sir Bernard, who rides with Sir Lancelot to the tournament. He becomes a devoted follower and helps tend to Sir Lancelot after his wounds.
+*Sir Torre	*male	The eldest son of Sir Bernard, who is injured and unable to ride. His shield is lent to Sir Lancelot for the tournament.
+Sir Baldwin	*male	A knight-hermit who tends to Sir Lancelot after his wounds. He recognizes Sir Lancelot despite his disguise and provides medical care.

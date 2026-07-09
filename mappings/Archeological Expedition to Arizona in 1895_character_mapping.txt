@@ -1,0 +1,130 @@
+	narrator	Adam	male	Story narrator
+	Author of the chapter	Liam	*male	4. The narrator who planned and conducted archaeological field work in Arizona
+	Hopi Indians	Fable	*male	5. Indigenous people who claim ancestral connection to the Verde valley ruins and recognize kinship with Patki people
+	Jesse Walter Fewkes	Echo	male	1. Author of the archaeological expedition report, conducting research in Arizona in 1895
+	Whipple	Michael	*male	4. One of the authors who described Leroux's discoveries of Verde valley ruins in 1855
+	Patki people	Nicole	*female	5. Hopi clan who migrated from the Colorado Chiquito region to Tusayan and Zuñi, with descendants still recognizing ancient kinship
+	tokonaka	Nicola		
+	*Alosaka	Fenrir	*male	2. A shrine or religious figure, likely male
+	*Antoine Leroux	Santa	*male	4. A celebrated guide and trapper who discovered the ruins of Verde valley in 1854
+	*Apache Mohave	Echo	*male	5. Nomadic people who occupied caves and used pictographs in the region, often leaving traces of their presence in ruins
+	*Awatobi	Eric	*male	2. A ruin or settlement, likely named after a male figure | 5. Ruins where similar pottery and architectural features were found
+	*Bear	Psi	*male	5. Hopi clan who inhabited Tusayan before the arrival of southern colonists
+	*Beaver creek	Nicola	*male	2. A geographical location, likely named after a male figure | 5. River tributary in Verde valley where ruins were found
+	*Beaver Head	Daniel	*male	5. Location in Verde valley where archaeological work was conducted
+	*Camp Verde	Fable	*male	5. Location in Verde valley where archaeological work was conducted
+	*Canyon de Tségi	Lewis	*male	5. Location in northern New Mexico where similar cliff houses were found
+	*Carlo Traverso	Omega	male	1. Participant in the archaeological expedition to Arizona in 1895, listed as one of the producers of the work
+	*Casa Montezuma	Lewis	*male	5. Cliff house in Beaver creek with architectural features similar to Honanki
+	*Castañeda	Alex	*male	5. Historian who documented the Coronado expedition and described kiva forms in eastern pueblos during the 16th century
+	*Cavate	Alex	*male	2. A people or group of indigenous inhabitants, likely male based on cultural context
+	*Chelly	George	*male	5. Location in northern New Mexico where similar cliff houses were found
+	*Cliff Palace	George	*male	5. Architectural monument in Mesa Verde with similar features to Honanki
+	*Cliff ranch	Psi	*male	2. A geographical location, likely named after a male figure
+	*Cliff's ranch	Michael	*male	5. Ranch in Verde valley where pictographs were found
+	*Collector	Fenrir	*male	8. A person who collected specimens for the United States National Museum catalog
+	*Colorado Chiquito	Kumo	*male	5. River system where similar pottery and architectural features were found
+	*Cosmos Mindeleff	Puck	*male	4. Ethnologist of the Bureau of American Ethnology who examined Homolobi ruins in 1893 | 5. Archeologist who provided excellent descriptions of cavate dwellings in the Verde valley region and contributed to the classification of ruins types
+	*Court-house butte	Omega	*male	5. Geographic landmark in Verde valley with pictographs and ruins
+	*Cushing	Kumo	*male	5. Scholar who provided evidence that some ancestors of the Zuñi population came from the south and southwest
+	*Dr Hoffman	George	*male	5. Scholar who provided a brief description of Montezuma Well in 1877 and correctly identified its geological formation
+	*Dr Mearns	Lewis	*male	5. Scholar who wrote about ancient dwellings in Verde valley but did not mention Montezuma Well
+	*Erwin Baer	Onyx	male	3. Photographer from Prescott, Arizona who accompanied the expedition and documented their work
+	*Everett Howell	Liam	*male	4. Amateur explorer from Flagstaff who reported finding cliff towns and a tunnel excavation in 1896
+	*Ewbank	Fenrir	*male	4. One of the authors who described Leroux's discoveries of Verde valley ruins in 1855
+	*F. D. Bickford	Alex	*male	4. Leader of a portion of Colonel James Stevenson's expedition in 1884 who examined cliff houses in Walnut canyon
+	*F. W. Hodge	Michael	male	3. Scientific collaborator who joined the expedition at Sikyatki and remained until its end, assisting with excavations and helping collect beautiful pottery specimens
+	*Flagstaff	Nicola	*male	4. Arizona town where George Campbell and Everett Howell made their discoveries | 5. Location in Verde valley where archaeological work was conducted
+	*G. Brown Goode	George	male	3. Late doctor who suggested the expedition to Fekes and urged him to undertake it
+	*G. P. Winship	Psi	male	3. Librarian of the John Carter Brown Library at Providence who visited the camp and provided important aid to the expedition
+	*George Campbell	Echo	*male	4. Amateur explorer from Flagstaff who reported finding cliff towns and a tunnel excavation in 1896
+	*Gila	Fenrir	*male	5. River system where similar pottery and architectural features were found
+	*Hance's ranch	Psi	*male	5. Ranch in Verde valley where pictographs were found
+	*Hano	Daniel	*male	5. Pueblo on Tusayan mesa with ruins that may have had similar population to cliff houses
+	*Honanki	Santa	*male	2. A ruin or settlement, likely named after a male figure
+	*Horn	Michael	*male	5. Hopi clan who inhabited Tusayan before the arrival of southern colonists
+	*J. W. Powell	Omega	*male	4. Major who joined Colonel Stevenson in 1886 to find scattered ruins north of San Francisco mountains
+	*Jacob's Well	Nicola	*male	5. Geological formation in Verde valley similar to Montezuma Well
+	*James S. Judd	Nicola	male	3. Volunteer assistant who aided in managing the camp and provided assistance during the Sikyatki expedition
+	*James Stevenson	Fable	*male	4. Colonel who led an expedition in 1884 and later in 1886 to explore ruins near San Francisco mountains
+	*Jesse Walter Fekes	Liam	male	3. The author and leader of the archaeological expedition to Arizona in 1895, responsible for collecting artifacts and writing about the findings
+	*Kanelba trail	George	*male	2. A geographical location, likely named after a male figure
+	*Kwataka	Eric	*male	2. A mythological or religious figure, likely male
+	*Küküchomo	Puck	*male	2. A ruin or structure, likely named after a male figure or leader
+	*L. Sitgreaves	Kumo	*male	4. Captain who explored Zuñi and Little Colorado rivers in 1852 and reported on ruins near the cascades
+	*Little Colorado	Daniel	*male	4. River where ruins were found by Sitgreaves and later explorers | 5. River system where similar pottery and architectural features were found
+	*Lloyd	Fenrir	*male	5. Individual who lived in the Red-rock country over a winter, dug a well, and erected a corral
+	*Lloyd canyon	Echo	*male	5. Canyon in Red-rock country where archaeological work was conducted
+	*Man-eagle	Kumo	*male	2. A mythological figure combining human and eagle traits, male
+	*Mancos canyon	Onyx	*male	5. Location in southern Colorado where similar cliff houses were found
+	*Mearns	Onyx	*male	4. Scholar whose classifications of ruins were incomplete regarding Red-rock country cliff houses
+	*Mogollones	Onyx	*male	5. Geographic region in Verde valley where archaeological work was conducted
+	*Montezuma	Kumo	*male	2. A person or deity associated with ruins and dwellings, likely male
+	*Montezuma Well	Onyx	*male	2. A geographical location, likely named after a male figure | 4. Natural feature in Beaver creek, an affluent of Rio Verde, where archaeological exploration was limited | 5. Geological formation in Verde valley with unique crater-like characteristics and ancient ruins
+	*Mountain lion	Omega	*male	2. An animal, likely male based on common naming conventions
+	*Mountain sheep	Alex	*male	2. An animal, likely male based on common naming conventions
+	*Mr Cosmos Mindeleff	Eric	*male	5. Archeologist who provided excellent descriptions of cavate dwellings in the Verde valley region and contributed to the classification of ruins types
+	*Mr Schürmann	Santa	*male	5. Rancher who provided hospitality and information about the Red-rock country ruins, including directing attention to Honanki
+	*Navaho Springs	Psi	*male	4. Location where the magnificent Pueblo Grande or Kintiel ruins are situated | 5. Location in Verde valley with similar geological features to Montezuma Well
+	*Nordenskiöld	Puck	*male	5. Scholar who wrote about cliff dwellings in southern Colorado and described kiva features, including the theory of circular kivas being survivals from nomadic dwellings
+	*Oak creek	Daniel	*male	2. A geographical location, likely named after a male figure | 5. River tributary in Verde valley where cliff houses and ruins were found
+	*Palatki	George	*male	2. A ruin or settlement, likely named after a male figure
+	*Palülükoñ	Nicola	*male	5. Mythic Plumed Serpent figure in Hopi folklore associated with Montezuma Well
+	*Patki	Santa	*male	5. Hopi clan who migrated from the Colorado Chiquito region to Tusayan and Zuñi, with descendants still recognizing ancient kinship
+	*Plumed serpent	Fable	*male	2. A mythological figure, likely male
+	*Red-rock country	Alex	*male	5. Geographic region in Verde valley with distinctive cliff houses and geological features
+	*Red-rocks	Daniel	*male	2. A geographical location, likely named after a male figure
+	*Rio Grande	Puck	*male	5. River system where cliff houses are absent according to the text
+	*Rio Verde	Onyx	*male	2. A geographical location, likely named after a male figure | 4. River that traverses the fertile valley and connects Gila pueblos with Tusayan ruins | 5. River in Verde valley where ruins and archaeological sites were located
+	*S. Goddard	Daniel	male	3. Resident of Prescott, Arizona who served as cook and driver for the expedition party
+	*S. P. Langley	Lewis	male	3. Secretary of the Smithsonian Institution who provided opportunity for the archaeological study of Tusayan ruins
+	*Salado	Eric	*male	5. River system where similar pottery and architectural features were found
+	*San Bernardino de Awatobi	Santa	*male	2. A ruin or settlement, likely named after a male figure
+	*San Juan	Santa	*male	5. River system in northern New Mexico where similar cliff houses were found
+	*Schürmann's ranch	Liam	*male	5. Ranch in Verde valley where archaeological work was conducted
+	*Sikyatki	Fenrir	*male	2. A ruin or settlement, likely named after a male figure | 5. Ruins where similar pottery and architectural features were found
+	*Snake	Liam	*male	5. Hopi clan who inhabited Tusayan before the arrival of southern colonists
+	*Temple canyon	Nicola	*male	2. A geographical location, likely named after a male figure | 5. Canyon in Red-rock country where archaeological work was conducted
+	*Transcriber	Eric	*male	10. A person responsible for editing and correcting text, ensuring consistency in spelling and punctuation while preserving original content.
+	*Turner	Eric	*male	4. One of the authors who described Leroux's discoveries of Verde valley ruins in 1855
+	*Tusayan	Lewis	*male	2. A people or group of indigenous inhabitants, likely male | 5. Region where Tusayan Indians inhabit and whose ancestors may have migrated from the Verde valley ruins
+	*Tusayan Indians	Fable	*male	5. Indigenous people who inhabit Tusayan region and whose ancestors may have migrated from the Verde valley ruins
+	*Unknown reptile	Echo	*male	2. An animal, likely male based on common naming conventions
+	*Verde valley	Lewis	*male	2. A geographical location, likely named after a male figure
+	*Walpi	Michael	*male	4. Hopi village whose traditionists claim ancestors came from Palatkwabi | 5. Hopi pueblo where old priests shared knowledge of legendary places like Montezuma Well
+	*War god	Puck	*male	2. A deity associated with warfare, male
+	*Wood's ranch	Psi	*male	2. A geographical location, likely named after a male figure | 5. Ranch in Verde valley where pictographs were found
+	*Zuñi Indians	Omega	*male	5. Indigenous people who may have received ancestral immigrants from the southern cliff dwellers and share cultural similarities with Hopi
+	*Apache	Dora	*female	4. Nomadic people who drove Hopi ancestors out of their ancestral lands
+	*Archaeological researchers	River	*female	4. People who study ancient ruins and cultures
+	*Casa Grande	Alpha	*female	4. Ruins that are ascribed to Hopi people according to the text
+	*Cibolan	Xiaobei	*female	4. Archaeological cultural group whose ruins are found in the region between Gila and Salt rivers
+	*Cibolan series	Kore	*female	4. Archaeological cultural group whose ruins are found near Saint Johns, Arizona
+	*Cliff villagers	Alpha	*female	4. Ancient people who lived in cliff dwellings and caves
+	*Diane Monico	Xiaoxiao	female	1. Participant in the archaeological expedition to Arizona in 1895, listed as one of the producers of the work
+	*Gila river	Jessica	*female	4. River whose delta region contains ruins that are connected to Tusayan people
+	*Havasupai Indians	Aoede	*female	4. Indigenous people of Cataract canyon who are regarded as descendants of former inhabitants of cliff houses
+	*Holbrook	Gongitsune	*female	4. Arizona town south of Walpi where ruins were found with black-and-white pottery
+	*Hopi	Xiaobei	*female	4. Indigenous people who inhabit Tusayan and claim to be descendants of ancient cliff house dwellers | 5. Indigenous people who claim ancestral connection to the Verde valley ruins and recognize kinship with Patki people
+	*Hopi clans	Jessica	*female	4. Groups of people who claim ancestral connection to southern ruins and are connected to modern Hopi
+	*Kinnazinde	Heart	*female	4. Ruins located near Kintiel in Arizona
+	*Mogollon mountains	Tebukuro	*female	4. Mountain range in southern Arizona where ruins were found that may be connected with early Hopi migrations
+	*Moki or Hopi Indians	Alloy	*female	4. Agricultural people who inhabit Tusayan and claim to be descendants of ancient cliff house dwellers
+	*Moquinos	Beta	*female	4. People whose great pueblos were compared to those discovered by Leroux
+	*Mrs Hodge	Bella	*female	3. Wife of F. W. Hodge who created faithful colored drawings of the pottery specimens uncovered from Tusayan sands
+	*Oak creek canyon	Nova	*female	4. Canyon where a cliff house of several hundred rooms was discovered
+	*Old Camp Verde	Xiaoyi	*female	4. Location in Verde valley where great ruins were found
+	*Patki or Water-house phratry	Sara	*female	4. Hopi social group whose traditionists claim ancestors came from Palatkwabi
+	*Prescott	Emma	*female	4. Location where Hopi delegates asked to be removed to Tonto Basin in the 1860s-70s
+	*Pueblo Indians	Beta	*female	4. Modern indigenous people who are descendants of ancient cliff house dwellers
+	*Saint Johns	Lily	*female	4. Arizona town where ruins of considerable size are located
+	*Salt river	Isabella	*female	4. River that flows through Arizona and connects with Rio Verde
+	*San Francisco mountains	River	*female	4. Mountain range where ruins were found by Sitgreaves, Bickford, Powell and Stevenson
+	*Spanish narrators	Xiaoyi	*female	4. Historical writers who documented early Spanish accounts of Tusayan
+	*Squaw mountain	Sky	*female	4. Mountain near which cavate dwellings were found in Verde valley
+	*Tonto Basin	Xiaoni	*female	4. Geographic region where Hopi clans may have originated, mentioned in historical context
+	*Totonteac	Siwis	*female	4. Historical province mentioned in Spanish narratives, possibly the same as Tusayan
+	*Tusayan clans	Isabella	*female	4. Groups of people who inhabited Tusayan region and are connected to modern Hopi
+	*Tusayan people	Sarah	*female	4. Ancient inhabitants of Tusayan region whose descendants are the modern Hopi and other Pueblo peoples
+	*Winslow	Nezumi	*female	4. Arizona town near which Homolobi ruins are located
+	*Zuñi	Alice	*female	4. People whose ruins were explored by Captain Sitgreaves in 1852 | 5. Indigenous people who may have received ancestral immigrants from the southern cliff dwellers and share cultural similarities with Hopi

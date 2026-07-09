@@ -1,7 +1,0 @@
-Dr. Seward	male	A physician and diary keeper who is the primary narrator of the chapter. He runs a psychiatric asylum and is deeply involved in treating patients like Mr. Renfield. He is methodical, observant, and committed to his medical duties.
-Mrs. Harker	female	The wife of Jonathan Harker, a strong and compassionate woman who is deeply involved in the investigation. She has been keeping detailed records of events and shows great courage despite her fear.
-Mr. Renfield	*male	A patient in Dr. Seward's asylum who is described as having a 'pronounced' mental condition, but also displays moments of apparent sanity and philosophical insight. He has a complex relationship with life and death, particularly regarding consuming living things.
-Lord Godalming	male	A wealthy and nobleman who is involved in the investigation of the vampire threat. He has a strong sense of duty and honor, particularly for Lucy's sake.
-Mr. Morris	male	A friend of the group who is practical and direct in his approach. He has a history with bats, which he fears greatly due to recent events.
-Professor Van Helsing	*male	An elderly, wise, and knowledgeable expert on the supernatural who is leading the investigation against Dracula. He has extensive knowledge of vampire lore and traditions.
-Jonathan Harker	male	Mrs. Harker's husband who has recently returned from his journey to Transylvania and is deeply involved in the investigation. He is described as brave, self-reliant, and resolute.

@@ -1,0 +1,294 @@
+	narrator	Adam	male	Story narrator
+	Antonio	Echo	*male	22. A Mexican worker who accompanied Henry Shane on a logging trip. He was wounded and killed by Indians during their encounter.
+	Benjamin Logan	Kumo	male	4. Intrepid fighter of the Kentucky frontier | 8. A young pioneer who refuses his inheritance and moves west, becomes a military leader in the Kentucky frontier conflicts, known for his bravery and heroism in defending Fort Logan and leading expeditions against Native American tribes
+	Big Foot Wallace	Psi	male	4. Noted ranger on the Texan frontier
+	Bill Bent	Eric	male	4. Hero of the old Santa Fé trail | 14. A legendary plains hero known as 'The Red Panther', famous for his courage and skill in battle against Comanches, Kiowas, and other Native American tribes. He was a skilled scout who often escaped death by a narrow margin and later became a military escort leader.
+	Bill Gordon	Liam	*male	15. A trapper who accompanied Thomas Eddie on various expeditions and was wounded during an Arapaho encounter, later helping to rescue Eddie from the Indians. | 17. A fellow trapper who was with Old Bill Williams on a scout expedition when they became separated. He is mentioned as being in the company of Old Bill before the latter's encounter with Blackfeet warriors.
+	Bill Hamilton	Alex	male	4. Famous trapper, trader, and Indian fighter | 20. Famous trapper, trader, and Indian fighter who became a seasoned plainsman. Known for his courage, skill with firearms, and ability to communicate with Native American tribes through sign language. Started as a young man in St. Louis and became a legendary figure on the western frontier.
+	Bill Williams	Omega	*male	20. Leader of the trapper party who served as a mentor to young Bill Hamilton. Experienced scout with fifteen years of plains experience among Indians, known for fearless courage and daring exploits.
+	Bill Wilson	Psi	*male	18. A Texan prisoner who noticed the trickery in the bean-drawing lottery and warned Captain Cameron to 'dip deep'.
+	Blackfoot warriors	Onyx	*male	17. Ten Blackfoot warriors who encountered Old Bill Williams in a cleared space while he was tracking the grizzly bear. They were described as war-like and hostile toward whites, with one being a chieftain wearing a war bonnet.
+	Bob	Onyx	*male	19. Friendly Delaware Indian who met the Comanche chief after the battle at Pyramid Lake and commented on his defeat by Jack Hays.
+	Bright Horn	Echo	*male	8. A Native American companion of Logan who participates in an escape attempt from British sympathizers
+	Captain Cameron	Onyx	*male	18. A Texan captain who led the prison escape attempt from Hacienda Salado and was ultimately captured during the siege of Mier.
+	Captain Fisher	Daniel	*male	18. A captain who led the Texan forces during the siege of Mier and was in command when Wallace surrendered.
+	Captain Helm	Daniel	*male	9. A lieutenant under Clarke who was given command of the fort at Vincennes after it surrendered to American forces.
+	Captain Jack Hays	Nicola	male	4. Famous Texan ranger and commander of valiant border fighters | 18. A noted Texas Ranger captain who commissioned Wallace to raise a company of Rangers and led the frontier defense against Indians and horse-thieves.
+	Captain Johnny	Kumo	*male	8. A Native American companion of Logan who helps in the escape attempt and later brings back the scalp of Chief Winnemac
+	Captain Morris	Puck	male	13. A Revolutionary officer who had killed many English soldiers. He attempted to shoot the bear during the hunt at the 'Blooming Rose' settlement.
+	Charles Bent	Michael	male	14. Bill Bent's brother, also a prominent figure in frontier activities. He was chosen Captain of the trading expedition to Santa Fé and rode a large black horse with long dark hair.
+	Charles H. L. Johnston	Omega	male	1. The author of the book 'Famous Frontiersmen and Heroes of the Border.' He is also mentioned as the author of other works in the series including 'Famous Cavalry Leaders' and 'Famous Indian Chiefs.' | 2. Author of the book, writing a preface to his collection of stories about frontier scouts and trappers
+	Colonel St. Clair	Nicola	male	5. A military officer who commanded an army during the French and Indian War. He was known for his rashness and has been accused of indiscretion by enemies. He initially doubted Daniel Morgan's ability to hold a dangerous sentinel post but later commissioned him as Lieutenant.
+	Colonel William Crawford	Eric	male	10. A brave officer of the Revolutionary War who led an expedition against Native American settlements in 1782. He recruited John Slover as a scout and guide for the expedition, though Slover initially hesitated due to his Native American upbringing.
+	Comanche chief	Daniel	*male	19. Leader of Comanche warriors who fought against Jack Hays and his Rangers at various battles including Bandera Pass, the Pedernales River battle, and Pyramid Lake.
+	Crooks	Kumo	*male	7. An adventurous borderer who was Robert McLellan's partner in trading. He later joined the expedition to Astoria led by John Jacob Astor, but parted ways with McLellan due to conflicts over Indian relations and Spanish traders.
+	Daniel Morgan	Echo	male	1. A famous frontiersman and leader, depicted in an illustration at the beginning of the book. He is presented as a hero of the border and pioneer days. | 4. Famous Virginian rifleman and adventurer with the Indian bear | 5. A famous Virginian rifleman who enlisted in the French and Indian War. He gained recognition for his bravery when he successfully held a dangerous sentinel post against Native American attackers, leading to his promotion to Lieutenant. He later became a captain and played a significant role in the American Revolutionary War, commanding Virginian riflemen with great distinction.
+	Doctor Sinnickson	Fable	*male	18. A Texan doctor who was captured by Mexicans and later served as a messenger between the Mexican forces and the Rangers during the siege of Mier.
+	Felipe Flores	Psi	*male	22. A Mexican herder who worked with Henry Shane and his brother. He was present during several dangerous encounters with Indians, including one where he was nearly killed by a Comanche warrior.
+	Fox	Santa	*male	18. A business partner of Wallace who came to Wallace's hut and jokingly called him 'Big Foot' after the Indian chief. | 24. A red fox that barks to his sleek-fed mate, part of the forest ecosystem
+	Frontiersman at clearing	Alex	*male	11. A man who greeted Lewis and Martin after they escaped from Native Americans. He praised their courage and expressed sympathy for their father's death.
+	General Caldwell	Santa	*male	18. A military officer who commanded infantrymen and recognized Wallace's leadership potential during the battle for San Antonio.
+	General Harmer	Omega	*male	11. A military general who ordered the arrest of Lewis Wetzel after a Native American warrior was killed. He was involved in military operations against Native Americans.
+	General Viscarro	Liam	male	14. Mexican military commander who led a party of rancheros and was betrayed by hostile Indians, but was saved by the Bents' intervention.
+	George Rogers Clarke	Daniel	male	4. Famous leader of the borderland of Kentucky | 9. A brave and noble leader of the Kentucky borderlands, born in Virginia. He was a daring fighter who organized resistance against British and Indian forces, captured key forts including Vincennes, and led a remarkable winter march through frozen waters to retake the fort. He was known for his courage, strategic thinking, and ability to inspire others.
+	Gillespie	Eric	male	19. Scout who was badly wounded by an Indian spear and later killed the Comanche chief at Pedernales River, ending that battle.
+	Gravis	Omega	*male	18. A settler who accused Wallace of theft, claiming the footprints leading from his cabin to Wallace's door matched Wallace's large feet.
+	Half Moon	Fenrir	*male	10. An Indian brave who showed some compassion toward John Slover, allowing him to sleep and even untied his bonds for rest. He was one of the guards who watched over Slover during his captivity.
+	Hamilton	Santa	*male	9. The British Governor of Detroit who attempted to retake Vincennes but was ultimately forced to surrender after being outmaneuvered by Clarke.
+	Henry Shane	Michael	male	4. Heroic scout of the plain of teas | 22. A German-born Texan pioneer and soldier who fought in the Mexican War, known for his heroic scout exploits on the Texas plains. He is a brave frontiersman who repeatedly escapes from Indian captivity and engages in numerous battles with hostile tribes. He is described as a daring, courageous man who lived many years on his ranch in Uvalde County.
+	Hugh	Eric	male	13. Meshack Browning's friend and hunting companion who often went with him on bear and wolf hunts. He was present during several of Meshack's dangerous encounters.
+	Indian	Puck	*male	17. An old Indian who spoke about Old Bill Williams, describing him as a great hunter and trapper but also noting that he had no friends or squaw, preferring to be alone like an eagle or panther. | 18. An unarmed Indian captive who approached Wallace after being cornered by his dogs, seeking food and having broken his knife.
+	Jack	Nicola	male	23. A lean, little cowboy who tells stories about Jerry Lane and the dangers of Jackson's Hole. He is described as having a corduroy waistcoat and red handkerchief knotted about his neck, typical of the cowboy character in the story.
+	Jack Hays	Psi	male	19. Famous Texan Ranger and Commander of Valiant Border Fighters, born in Tennessee in 1818, who moved to Texas in 1837. Known for his courage and skill as an Indian fighter, he distinguished himself in multiple battles including Plum Creek, the siege of San Antonio, Bandera Pass, and various encounters with Comanches. He later became Sheriff of San Francisco County.
+	James Girty	George	male	10. The brother of Simon Girty, also a renegade who influenced the Native Americans against John Slover by accusing him of being an enemy at heart and having no loyalty to his Native American upbringing.
+	James Harrod	Michael	male	4. Founder of Harrodsburg, Kentucky, and famous scout of the frontier | 6. Founder of Harrodsburg, Kentucky, and famous frontier scout known for his bravery, solitude-loving nature, modesty, and skill in woodcraft. Built a log cabin at the site of Harrodsburg and led expeditions into the wilderness.
+	Jerry Lane	Lewis	male	23. A young New Yorker who left his tame Eastern life for the wilderness of the Rockies, living as a trapper in a cabin high in the mountains. He is described as lithe, active, with a devil-may-care manner and fresh pink-cheeked face. He rode a magnificent half-bred roan horse with silver-mounted bridle and saddle, wearing tawny buckskin suit and a wide sombrero. He was shot and killed in a gun accident near the Montana line.
+	Jim Beckwith	Lewis	male	16. A scout who accompanied Jim Bridger and provided an account of a battle between Sioux and Pawnee warriors. Known for his humorous storytelling style.
+	Jim Bridger	Puck	male	4. Founder of Bridger, Wyoming, and famous Indian fighter | 16. Founder of Bridger, Wyoming and famous frontiersman who fought Indians, trapped, and traded in the Rocky Mountains. Known for his strength, agility, and marksmanship. Married to a Blackfoot maiden and had several half-breed children.
+	John Ashley	Fenrir	male	15. A famous trader and explorer who organized the Rocky Mountain Fur Company. Confident leader who underestimated Indian hostility, leading to disastrous consequences for his expedition.
+	John Madison	Lewis	*male	11. Brother of James Madison, President of the United States. He accompanied Lewis Wetzel on a land surveying trip and was wounded by Native Americans.
+	John Martin	Puck	male	8. A trapper who volunteers to accompany Benjamin Logan on his rescue mission and shows great courage | 13. A famous marksman known for his ability to shoot squirrels from high trees. He was called upon during the bear hunting adventure at the 'Blooming Rose' settlement.
+	John Slover	Echo	male	4. Scout under Crawford and hero of extraordinary adventures | 10. A frontiersman who was kidnapped as a child by Native Americans and raised among the Miami tribe. He later joined the American forces in the Revolutionary War, served as a scout under Colonel William Crawford during an expedition against Native Americans, and became famous for his daring escape from capture after being captured himself. He was known for his woodcraft skills and courage. | 11. A participant in Colonel Crawford's defeat. Not directly described but referenced as part of historical events.
+	John Wetzel	Lewis	male	11. Father of Lewis and Martin Wetzel, killed by Native Americans in his cabin attack. A frontiersman who was brutally murdered while trying to protect his family.
+	L. C. Page & Company	Psi	*male	1. The publishing company responsible for the book 'Famous Frontiersmen and Heroes of the Border.' They are listed as publishers in the copyright notice.
+	Leal	Puck	*male	22. A Mexican ranch boss who accompanied Henry Shane on a journey and later refused to join him in pursuing Indians, preferring to return home.
+	Lemuel Potts	Psi	male	12. Samuel Colter's fellow trapper who accompanies him on the expedition. He is killed by Blackfeet arrows during an encounter when he and Colter are ambushed while checking traps. He carries a rifle that is taken from him by an Indian warrior.
+	Lewis Wetzel	Liam	male	4. Heroic Virginia frontiersman and implacable enemy of the redskins | 11. Main protagonist, a brave frontiersman and scout who was captured as a child by Native Americans but escaped. Known for his ability to load rifles while running and his implacable hatred of Native Americans.
+	Louis Van Sickle	Daniel	male	13. A young man who accompanied Meshack on a deer hunting trip in February 1800. He was beaten by a buck and later helped Meshack kill another.
+	Mad Anthony Wayne	Liam	male	7. A celebrated military general who led American forces against Native Americans. He tasked Robert McLellan with capturing a Native prisoner to gather intelligence about enemy strength.
+	Major Bennett Riley	Kumo	male	14. Military officer who led two hundred men to escort traders along the Santa Fé Trail, and later provided relief during an Indian attack.
+	Major Hay	Fenrir	*male	9. An English officer who represented Hamilton during negotiations with Clarke and was frightened by the American leader's audacity.
+	Manuel Lisa	Onyx	*male	7. A Spanish trader who opposed Robert McLellan's trading activities and attempted to manipulate Native Americans against the American traders. He was considered a trickster by McLellan. | 12. The owner of the trading station where Samuel Colter eventually reaches after his escape. He provides shelter and hospitality to the exhausted trapper.
+	Martin Wetzel	Michael	*male	11. Lewis's younger brother who was captured with him and also escaped from Native American captivity. A child during the initial attack on their cabin.
+	Meriwether Clark	Lewis	male	7. An explorer who met Robert McLellan while returning from his expedition to the Pacific coast with Lewis. He warned McLellan about French and Spanish traders being jealous of American trade in the region.
+	Meshack Browning	Alex	male	4. Celebrated bear hunter of the Alleghanies | 13. The celebrated bear hunter of the Alleghanies, son of a General Braddock's soldier. Lived his life in the wild fastnesses of the Blue Ridge mountains, killing thousands of deer, beaver, panthers, wolves and wildcats. Known for his courage and skill in hunting, he was a hero to all in the mountain republic.
+	Mr. Caldwell	Nicola	male	13. A successful bear hunter who owned two fine dogs trained to fight bears. He lived in the settlement where young Meshack had his first bear encounter.
+	Mr. Calmes	Echo	male	13. A friend of Meshack who traveled through the wilderness with others during Indian troubles. He warned Meshack about wolves and their danger to livestock.
+	Mr. Hunt	Eric	*male	7. A leader of the Astoria expedition who worked with Robert McLellan and Crooks. He was a partner in the American Fur Company.
+	Old Bill Williams	Onyx	male	4. Famous log rider of Colorado | 15. An experienced trapper who was part of Thomas Eddie's group and participated in various frontier battles, including the Arapaho encounter. | 17. A young but experienced trapper and scout from Tennessee, known for his expertise in woodcraft and solitary expeditions. He is described as gaunt, ungainly, and skilled in combat with a reputation for taking scalps. He lived alone on the frontier, preferred solitude, and was known for his ability to escape from enemies. He died in a canyon after being trapped by Blackfeet and succumbing to exposure.
+	Old pioneer	Onyx	*male	11. Lewis and Martin's father who was killed by Shawnee warriors while canoeing down the Ohio River. A heroic figure who died defending his family.
+	Patterson	Kumo	*male	22. A ranch owner who helped Henry Shane in a confrontation with Indians at his ranch. He provided assistance and joined the pursuit of the redskins.
+	Perkins	Fable	*male	20. Leader of the trappers who took charge after Bill Williams left. Experienced in dealing with hostile tribes and maintaining order among the trapper party.
+	Redskin	George	*male	11. A Native American warrior who was killed by Lewis Wetzel during an ambush near General Harmer's fort. He died while trying to escape into the fort.
+	Robert McLellan	Santa	male	7. A renowned frontier scout and rifleman known for his incredible agility, fearlessness, and ability to leap great distances. He was a key figure in the exploration of the western frontier, participated in battles with Native Americans, and later became a trader. He was described as plucky, fearless, and possessed of wonderful agility.
+	Robert Stuart	Kumo	*male	7. A commander who led a second expedition to deliver dispatches from Astoria to St. Louis, with Robert McLellan as one of the members.
+	Rose	Alex	*male	15. A Kentuckian trapper who had been outlawed and lived among the Crow Indians, becoming a chief. Known for his keen knowledge of Native Americans and his distrust of Ashley's leadership. | 17. A white renegade who formerly lived near the Mississippi River and became a leader among the Crows, teaching them to fight like whites. He was an advisor in their councils of war and helped the Crows defeat the Blackfeet.
+	Samuel Colter	George	male	4. Character in the wonderful race for life | 12. A brave trapper and frontiersman who becomes the protagonist of a life-or-death race with Blackfeet warriors. He is described as having great physical strength and courage, being one of the swiftest foot racers on the border. He demonstrates exceptional skill in surviving alone in the wilderness and eventually reaches Lisa's Fort, where he recovers his strength.
+	scout	George	*male	25. A brave warrior who fought and bled on the plains, now a ghostly figure riding past in memory of his deeds.
+	Shawnee warrior	Liam	*male	11. A Native American who spoke to the Wetzel family and was killed by Lewis Wetzel during their encounter on the river.
+	Simon Girty	Omega	male	10. A famous renegade who had been captured by the Americans and later became a Native American ally. He was present during the battle with Crawford's Rangers and played a role in turning the Native Americans against John Slover.
+	Stoke Holmes	Nicola	male	19. Young Ranger who attempted to rope an Indian during a chase but fell into prickly pear cactus, getting thousands of thorns in his body.
+	Swift Runner	Puck	*male	20. Cheyenne chief's son who introduced young Bill Hamilton to the village and invited him to join a buffalo hunt. Known for his skill with horses and hunting prowess.
+	The Blackfeet Chief	Alex	*male	12. A prominent leader among the Blackfeet warriors who captures Samuel Colter and proposes the race for life as a method of execution. He is described as having authority over his people and making decisions about the trapper's fate.
+	The cow-puncher	Fenrir	*male	23. A cowboy who rides into camp three days after Jerry Lane's death to inform the group that Jerry was shot and killed in a gun accident near the Montana line.
+	The Redskins	Eric	*male	5. Native American warriors who attempted to attack the colonial camp during the French and Indian War. They were ambushed by Daniel Morgan's group, resulting in several casualties.
+	the voice from the forest	George	*male	3. An otherworldly or supernatural voice that calls to the frontiersman, speaking in poetic verses about the wild frontier and beckoning him toward adventure.
+	The Youngsters	Fable	*male	21. Five young men who are on an amateur hunting excursion with Uncle Job. They are eager to hear stories about the plains and Indian battles.
+	Thomas Eddie	Fenrir	male	4. Last of the old school trappers | 15. A 24-year-old Scottish frontiersman, athletic and brave, who became a hero in the Rocky Mountain Fur Company expedition. Known for his steady rifle aim, iron will, and willingness to face danger. Survived the Arickara attack and later led trapping expeditions across the Rockies, eventually becoming a tavern owner in Council Bluffs.
+	Thomas Mills	Fable	male	11. A pioneer who sought Lewis Wetzel's help to retrieve his horse from Indian Spring. Was killed by Native Americans while trying to untie his horse.
+	Tom Slover	Michael	male	10. John Slover's father's brother who recognized him at the Pittsburgh treaty meeting in 1773 and helped reunite him with his white family. He was a frontiersman who had been searching for his nephew since the kidnapping.
+	trapper	Omega	*male	24. A human hunter who hears the song of the moose and represents humanity's role in the natural world, portrayed as a threat to wildlife
+	Uncle Job Witherspoon	Fable	male	4. Character in exciting adventures with the Blackfeet | 21. A veteran plainsman and trapper born around 1830, still hale and hearty in 1898. He is a seasoned hunter who has fought Indian battles, grizzly bears, and desperadoes. He tells stories of his adventures to young hunters.
+	Wallace	Nicola	*male	18. A huge, lanky ranger called 'Big Foot' Wallace due to his large feet. Born in Lexington, Virginia in 1817, he was six feet two inches tall and weighed 240 pounds. He became a noted Texas Ranger and fought in the Mexican-American War.
+	Westfall	George	*male	18. A friend of Wallace who was involved in the hunt for Big Foot Indian and later became a Lieutenant under Wallace's command.
+	White Bear	Fenrir	*male	15. A Sioux warrior who led a band of warriors against the Arickaras. Known for his bravery and skill in combat, particularly during a fierce duel with an Arickara chief.
+	Winnemac	Santa	*male	8. A Native American chief who captures Logan and his companions during a scouting expedition
+	Young Thunder	Echo	*male	20. Sioux warrior who led the pursuit of Pawnee warriors who stole horses. Young and aggressive leader in the conflict with the Pawnees.
+	Blackfoot maiden	Emma	*female	16. Young Indian girl who fell in love with Jim Bridger and helped him escape from the Blackfoot camp. She was brave, resourceful, and willing to risk her own safety to save him.
+	Miss Nancy Lee	Dora	female	13. A young woman who lived in the frontier settlement and told stories about Indian attacks. She admired Meshack's courage after his bear fight.
+	the cat	Tebukuro	*female	3. A domestic cat that purrs and urges the frontiersman to stay near his cabin, contrasting with the wild call of the forest.
+	the loom	Lily	*female	3. A household object that 'whirrs' and seems to speak in a gentle manner, urging the frontiersman to remain calm and stay near his home.
+	alcade	Alex		
+	apache	Alex		
+	arickara	Alex		
+	blackfoot brave	Alex		
+	captain edward storey	Alex		
+	captain hays	Alex		
+	colonel leavenworth	Adam		
+	colonel logan	Adam		
+	comanche warrior	Alex		
+	companion	Aiden		
+	gaudy warrior	Alex		
+	guard	Alex		
+	guides	Alex		
+	head trapper	Alex		
+	mexican	Alex		
+	mr. martin	Adam		
+	ranger	Alex		
+	redskins	Alex		
+	scout russell	Alex		
+	soldier	Alex		
+	speaker	Alex		
+	texan	Alex		
+	trappers	Alex		
+	*Allan West	George	*male	27. A teenage protagonist in Burton E. Stevenson's railroad adventure series, who works as a section-hand on a Western railroad
+	*Asa Holmes	Psi	*male	26. Main character from a book about a boy at crossroads, described as a typical American lad
+	*Barragan	Omega	*male	18. A Mexican lieutenant who showed extraordinary bravery during the prison escape attempt and refused to surrender except to an officer.
+	*Beautiful Joe	Puck	*male	26. Main character from a series of books about an animal, described as a dog
+	*beaver	Lewis	*male	24. A beaver that breeds in the inky pool, part of the forest's ecosystem
+	*Bernaldo	Puck	*male	22. A Mexican worker who was with Henry Shane when Indians attacked the ranch. He became frightened and ran away from the scene of conflict.
+	*Big Foot	Eric	*male	18. A Waco Indian chieftain known for his giant feet (14 inches long), who terrorized frontier towns by stealing horses and property. He was six feet seven inches tall, muscular, and weighed about 300 pounds.
+	*Big Thunder	Lewis	*male	20. Sioux chief who requested the trappers to camp in his village. Friendly leader of a tribe that treated white men cordially.
+	*Blackfeet	Daniel	*male	17. A group of Native American warriors who were enemies of the Crows and often engaged in conflicts with Old Bill Williams. They were described as being led by a white renegade named Rose and were known for their war-like nature. | 21. A hostile Native American tribe who attack Uncle Job while he is hiding in a cave. They are described as cowardly and numerous, with warriors who fight aggressively but eventually retreat.
+	*Blackfeet braves	Nicola	*male	17. A group of twenty or thirty Blackfeet warriors who surrounded Old Bill Williams while he was trapping near the Missouri River. They were described as being vindictive and pursuing him for four days.
+	*Blas	Psi	*male	18. One of Wallace's four half-bred dogs, kept as a guard and companion.
+	*Bob Armstrong	Kumo	*male	27. A pioneer boy character in the 'THE YOUNG PIONEER SERIES' who goes on hunting and trapping expeditions with his companion Sandy
+	*Brennan	Fenrir	*male	18. A scout who led the charge against guards during the prison escape from Hacienda Salado.
+	*Bruin	Santa	*male	17. A large grizzly bear that Old Bill Williams was tracking for its hide. The bear is described as a big, fine-looking animal that Old Bill encountered in the brush.
+	*Bryan	Liam	*male	11. A frontier house owner whose home was burned by Native Americans. His family's fate is not detailed but his property was destroyed.
+	*Captain Kingsbury	Michael	*male	11. An officer who attempted to arrest Lewis Wetzel after the killing of a Native American warrior. He was part of the military forces in Wheeling.
+	*Captain Nicholas Dawson	Echo	male	19. Leader of a company of fifty Texans who were surrounded and fought against the Mexicans at San Antonio. He was among those captured during the battle.
+	*caribou	Alex	*male	24. A caribou that comes from the distant blue, representing another migrating species
+	*chewink	Nicola	*male	24. A chewink whose flute-like song trills in the balm of the softening day
+	*chickadee	Fable	*male	24. A chickadee that whispers his mating song, part of the forest's avian life
+	*chief	Daniel	*male	25. A leader of the warrior bands who once held revelry and gathered at the trader's feast, now part of the past.
+	*Coates	Nicola	*male	14. One of the two plainsmen who joined Bill Bent to fight off pursuing Comanches, and later helped defend against Apache attacks.
+	*Colonel Bowman	Nicola	male	8. Military leader who leads the expedition against the Shawnee territory and is second in command under Benjamin Logan
+	*Colonel Crawford	Lewis	*male	11. A military officer mentioned in the context of a defeat where John Slover was involved. Not directly described but referenced as part of historical events.
+	*Colonel Harrison	Omega	*male	10. A prominent soldier of the American army who was killed during the retreat from the Native American attack. He was among those mentioned as having died in the battle.
+	*Constance	Eric	male	22. Henry Shane's brother who helped herd sheep and lived with him. He was captured by Indians, wounded with an arrow, but survived his injuries.
+	*Crawford	Santa	*male	20. Trapper who was killed by Pah Ute Indians while setting traps. Tall, brave Texan with good education who was well-liked by his companions.
+	*Crows	Fable	*male	17. A Native American tribe that was at war with the Blackfeet. They were described as being more cowardly than their enemies but had an advantage due to a white renegade leader named Rose.
+	*Daniel Boone	Psi	male	6. Founder of Kentucky, revered frontier pioneer known for his skill in woodcraft and exceptional rifle shooting abilities. | 9. An old frontiersman and explorer who was modest and refused to become a leader, despite his fame. He had settled in Kentucky before Clarke's time but was not actively involved in the military campaigns described.
+	*Dean LeBaron Russell Briggs	Lewis	male	2. Professor at Harvard College who advised the author to 'browse in the Library'
+	*deer	Michael	*male	24. A deer that appears in the forest, part of the ecosystem
+	*Dickerson	Alex	*male	11. A scout who accompanied Lewis Wetzel in an ambush against a Native American warrior. They ambushed and killed the warrior during a truce period.
+	*Dilliard	Echo	*male	22. A man whom Felipe Flores mistook for a friend approaching the camp, but who was actually an Indian warrior.
+	*Dockett	Liam	*male	20. Scout who was wounded during an Indian attack and later participated in the pursuit of hostile tribes. Experienced trapper with traps set far from camp.
+	*Edward Storey	George	male	19. Captain and old Texan Ranger who raised the Virginia Rifles to fight against Piute Indians in Nevada. He was killed during the battle at Pyramid Lake.
+	*elk	Alex	*male	24. An elk that appears in the forest, part of the ecosystem
+	*Evans	Michael	*male	20. Experienced scout who accompanied Williams on dangerous missions. Known for his skill in combat and ability to handle firearms.
+	*Ewing Cameron	Liam	*male	18. A captain who led the Texas Rangers during the siege of Mier and was ultimately executed by Santa Anna despite drawing a white bean.
+	*Ewing Young	Onyx	male	14. A famous scout known as one of the bravest and most generous men. He warned other plainsmen about an ambush by two thousand warriors.
+	*Famous Indian Chiefs	Alex	*male	29. A reference to a collection or list of notable Native American leaders, mentioned as a footnote
+	*Famous Scouts	Liam	*male	29. A reference to a collection or list of notable Native American or frontier scouts, mentioned as a footnote
+	*Gabriel	Michael	*male	27. A young French boy character in Evaleen Stein's 'GABRIEL AND THE HOUR BOOK', who assists monks in manuscript illumination during medieval times
+	*Galbreath	Fenrir	male	19. Scout who was wounded by an arrow above the pistol-belt during the Battle of Bandera Pass but continued fighting without complaint.
+	*General Ampudia	Echo	*male	18. A Mexican general who led forces against the Texan invasion of Mier and was involved in the battle where Wallace captured Mexican pants.
+	*General Burleson	Eric	male	19. Military leader who commanded a large company of Texan forces during the pursuit of Comanche raiders. He was among those who started for the scene of action after the attack on Linnville.
+	*General Harrison	Onyx	male	8. Military commander who leads campaigns against the Maumee Indians and is mentioned in connection with Logan's later death
+	*General Houston	Onyx	male	19. Texas leader who commissioned Jack Hays to raise a force for frontier protection after the battle of Plum Creek.
+	*General Somervell	Puck	*male	18. A Texas general who commanded an expedition into Mexico in 1843, which included Wallace and other Rangers.
+	*General Wall	Puck	male	19. Mexican commander who led approximately 1500 men in San Antonio during the battle against Jack Hays and his Rangers.
+	*goldfinch	Fenrir	*male	24. A goldfinch that whispers and undulates, part of the forest's avian life
+	*gray goose	Puck	*male	24. A gray goose that flies to the Chesapeake, representing migratory birds
+	*Harold	Fenrir	*male	10. Colonel Crawford's son who was killed during the retreat from the Native American attack. He was among those killed in the battle and later mentioned as one of the prominent soldiers who died.
+	*Harrison	Psi	*male	8. A frontiersman who is wounded during an Indian attack on Fort Logan and requires rescue by Benjamin Logan
+	*Hawk	Omega	*male	27. A young Native American character who appears in 'HAWK: THE YOUNG OSAGE', beginning as a papoose and eventually becoming chief of his tribe
+	*Henry	Santa	*male	7. An adventurous trader who had established a trading post on the Snake River before abandoning it due to difficulties with Native Americans.
+	*Henry Burns	Eric	*male	26. Main character from a camping adventure series, described as a typical American lad
+	*Jack Harvey	Onyx	*male	26. Main character from a story about oyster pirates, described as a young man
+	*Jack Lorimer	Lewis	*male	27. A high school boy character in Winn Standish's series, described as a fine example of the American high-school boy
+	*Jim	Kumo	*male	23. A cowboy who accompanies the narrator on a hike up a tributary to the Grosventre River. He is part of the group that encounters mountain lions and helps with elk hunting.
+	*Jim Bailey	Nicola	male	6. Settler whose cabin was attacked by Shawnees, resulting in the capture of his two daughters who were later rescued by James Harrod.
+	*Joel	Nicola	*male	26. Main character from a story set in the time of Christ, portrayed as a boy
+	*John Coffee Hays	Nicola	male	19. Also known as Jack Hays, the Ranger who was named after General Coffee of the Battle of New Orleans. Born in Wilson County, Tennessee in 1818 and moved to Texas at age 19. Surveyor by profession who became a prominent frontier leader.
+	*John Jacob Astor	Alex	male	7. A wealthy New York merchant who founded the trading post at Astoria. He was a partner in the American Fur Company and organized expeditions to explore and trade in the western territories.
+	*John Paul	George	*male	10. A young frontiersman who refused to surrender when captured by the Native Americans during the retreat. He managed to escape and eventually reached the frontier settlement at Wheeling.
+	*John Reed	Liam	*male	7. A clerk of the Fur Company who led an expedition to St. Louis with Robert McLellan and others. He was wounded during a confrontation with Native Americans.
+	*Jones	Puck	*male	9. A man chosen as a delegate to the Virginia Assembly alongside George Rogers Clarke, representing Kentucky's interests in seeking military supplies.
+	*Kit Ackland	Kumo	male	19. Ranger who wounded the Comanche chief at Bandera Pass with his rifle.
+	*Kit Carson	Puck	male	14. Young scout who first showed his bravery by shooting a redskin from under his horse, and later played a key role in rescuing Bill Bent's party.
+	*lark	Omega	*male	24. A lark that appears in the drowsy larch, representing forest birds
+	*Lieutenant Phipps	Santa	male	5. A Lieutenant in the Virginia corps who died during the French and Indian War. He was replaced by Daniel Morgan after his death, as noted in Colonel St. Clair's commission of Morgan to take his place.
+	*Little Turtle	Daniel	*male	5. A Native American leader who defeated Colonel St. Clair's army during the French and Indian War, as mentioned in the story context. | 7. A Native American leader who fought against General Anthony Wayne during the Battle of Fallen Timbers.
+	*Logan's father	Fable	male	8. Benjamin Logan's deceased father whose estate is divided among his children
+	*logger	Liam	*male	24. A lone logger whose hut emits blue wisps and represents human encroachment on the forest
+	*lynx	George	*male	24. A predator that attacks moose, taught to be feared by the young moose as a natural enemy
+	*Lyons	Kumo	*male	18. A scout who led the charge against guards during the prison escape from Hacienda Salado.
+	*man	Santa	*male	24. A generic representation of humanity as a threat to wildlife, described as bringing death and war
+	*McKenzie	Daniel	*male	7. A leader of one of the four sections that separated during their journey to Astoria. He was part of the group that met up with Robert McLellan and his companions.
+	*Miller	Omega	*male	7. A fellow scout who accompanied Robert McLellan on a mission to capture an Indian prisoner. He was also the brother of a captured white man who had chosen to remain with Native Americans.
+	*Milton Sublette	George	male	16. Jim Bridger's best friend who was wounded in the ankle by an Indian bullet during a battle with Blackfeet warriors. Later had his leg amputated and recovered fully.
+	*Moluntha	Eric	*male	8. A Native American chief whose son is captured by Colonel Logan and raised in his family
+	*Monsieur Gerbault	Echo	*male	9. A French parish priest who became a key diplomatic figure in persuading the garrison at Vincennes to join the American cause.
+	*moose brothers	Onyx	*male	24. Male moose whose horns turn velvet to bone, representing mature males
+	*moosling	Eric	*male	24. A young moose that plays and grows in the forest, representing the next generation
+	*Mr. Redskin	Psi	*male	21. A Blackfeet warrior who follows Uncle Job into the cave and is killed by his rifle. He represents one of the first attackers who gets shot.
+	*Noble	Fable	*male	20. Scout who accompanied Williams in pursuit of hostile Indians. Part of the group that engaged in combat with the Blackfeet.
+	*Old Bear	Daniel	*male	20. Chief of the Utah tribe who led attacks against the trappers. Killed during the confrontation with the white men.
+	*Old Nick	Nicola	*male	21. A reference to the devil, used by Uncle Job when describing how he felt to the Blackfeet who thought they were fighting against evil.
+	*Old Roka	Onyx	*male	22. An experienced Mexican guide who knew Indian customs and helped lead soldiers to the Indian camp. He was instrumental in locating Henry Shane during his capture.
+	*osprey	Michael	*male	24. An osprey that peers from the hemlock's crown, representing the forest's avian life
+	*partridge	Kumo	*male	24. A partridge that drums a song, part of the forest's ground-dwelling birds
+	*Pawnee warriors	Liam	*male	16. A band of Native American warriors who fought against Sioux and were involved in a battle with Jim Bridger's party near the Republican River.
+	*Pim	Fenrir	*male	15. A great chief of the Snake tribe who died and was buried by the trappers in a Christian ceremony after his people requested it.
+	*Poor Jerry Lane	Liam	male	4. The lost trapper of Wyoming
+	*Preston Polly	Michael	*male	18. A youth who accompanied Westfall in the ambush of Big Foot Indian and helped capture stolen horses.
+	*priest	Santa	*male	25. A spiritual figure who gathered with others at the trader's feast, now part of the ghostly assembly in memory.
+	*rabbit	Lewis	*male	24. A rabbit that appears in the forest, part of the ecosystem
+	*Ralph Somerby	Echo	*male	27. A young English lad who is the protagonist of 'RALPH SOMERBY AT PANAMA', traveling to Jamaica and experiencing adventures related to the Panama Canal route
+	*Ring	Daniel	*male	18. One of Wallace's four half-bred dogs, kept as a guard and companion.
+	*Robert Isaacs	Echo	*male	14. Companion of Bill Bent on a trapping expedition to Arizona, where they were surrounded by Mescalero Apaches.
+	*Robert McLean	Alex	male	4. Plucky early pioneer
+	*robin	Psi	*male	24. A robin with feathers of flame that carols a psalm from the budding spray
+	*Rock	Santa	*male	18. One of Wallace's four half-bred dogs, particularly fond of which he was. Rock was well-trained to follow Indian scent and served as a guard.
+	*Roman Nose	Michael	*male	16. A prominent Sioux leader who fought against emigrant trains and Sandy Forsyth in the Republican River area.
+	*Russell	Alex	*male	20. Scout who worked with Evans to pursue and confront hostile Indians. Quick-footed warrior experienced in dangerous battles.
+	*salmon	Echo	*male	24. Salmon that race from their spawning creek, representing fish in the ecosystem
+	*Samuel Wallace	Onyx	*male	18. William Alexander Anderson Wallace's older brother who died in the massacre of Colonel Fannin's men at Goliad during the Texas Revolution.
+	*Sandy Armstrong	Fenrir	*male	27. A pioneer boy character in the 'THE YOUNG PIONEER SERIES' who travels with Bob Armstrong on hunting and trapping expeditions
+	*Sandy Forsyth	Lewis	*male	16. A historical figure who had a great battle with Roman Nose near the Republican River, where Jim Bridger later piloted emigrant trains.
+	*Santa Anna	Alex	*male	18. The Mexican dictator who ordered the execution of captured Texas Rangers and later kept his promise to release them after his wife's death.
+	*Shepherd	George	*male	18. A Texan prisoner who feigned death during the execution and escaped, only to be recaptured and killed.
+	*Sioux	Psi	*male	17. A Native American tribe mentioned as one of the groups with whom Old Bill Williams had skirmishes and hand-to-hand encounters.
+	*Sioux warriors	Alex	*male	16. A band of Native American warriors who attacked trappers and emigrant trains, including a group that besieged Jim Bridger's companions near the Platte River.
+	*Speck	Fable	*male	18. One of Wallace's four half-bred dogs, kept as a guard and companion.
+	*squirrel	George	*male	24. A squirrel that appears in the forest, part of the ecosystem
+	*The Bear	Fable	*male	5. A large brown bear that appeared to have human-like feet with moccasins, leading Daniel Morgan to believe it was a disguised Native American warrior. | 24. A brown bear that hides in the tamarack and represents another natural threat to moose | 24. A bear that keeps sheltering lair, representing the forest's apex predator
+	*The giant redskin	Fenrir	*male	6. A warrior who seized James Harrod in the Indian town, whom Harrod stunned and killed with a blow to the neck.
+	*The leader of the deer skinning party	Echo	*male	6. A Shawnee warrior who was killed by James Harrod while skinning a deer, with the scout later killing two more in retaliation.
+	*The Pursuing Red Man	Fable	*male	12. A swift Blackfeet warrior who pursues Samuel Colter during the race for life. He is described as one of the swiftest runners among his people and nearly catches Colter before being defeated by him.
+	*The Redskin Who Shot Potts	Daniel	*male	12. An unnamed Blackfeet warrior who wounds Lemuel Potts with an arrow, leading to Potts' death. He is later killed by Colter in retaliation.
+	*The Shawnee sentinel	Puck	*male	6. A warrior guarding a campfire who was killed by James Harrod during his rescue mission for Jim Bailey's daughters.
+	*The sheriff	Fenrir	*male	23. A sturdy little figure described as standing on a platform in corduroys, who was ambushed and killed while pursuing train robbers. He is described as having a light-haired, blue-eyed Swede appearance.
+	*The third Indian	Kumo	*male	6. A Shawnee warrior who was killed by James Harrod after being exposed while skinning a deer, with the scout ultimately killing him in combat.
+	*the woodsman and trapper	Michael	*male	3. A lanky, gaunt frontiersman with a scarred and seamed face, blackened hands from toiling, and bronzed skin. He is a wanderer by nature who responds to the call of the wild, carrying a rifle and powder-horn.
+	*Tobacco's son	Kumo	*male	9. The Grand Chief of the Native American tribes who openly declared himself a friend to the Americans (Big Knives) and supported Clarke's cause.
+	*Tom Galbraith	Omega	male	19. Ranger who dismounted and killed an Indian who was trying to escape into a thicket during the encounter near Frio River.
+	*Trapper Miller	Lewis	*male	7. A white man who had been captured by Native Americans and chose to remain with them rather than return to his own people. He was the brother of Miller, one of Robert McLellan's companions.
+	*Turkey Head	Eric	male	6. A celebrated Shawnee chief known for his cruelty to settlers, whom James Harrod struck with his tomahawk during a confrontation.
+	*Turtle Heart	Onyx	male	6. A famous warrior leading a marauding expedition against frontier settlements, whom James Harrod attempted to stop by infiltrating an Indian town.
+	*voyageur	Liam	*male	25. A trapper and explorer who ventured into the wilderness, now remembered as one of those who tred paths in olden times.
+	*Waldo	Eric	*male	14. One of the two plainsmen who joined Bill Bent to fight off pursuing Comanches, and later helped defend against Apache attacks.
+	*warrior	Fable	*male	25. A brave fighter who once yelled with bands of warriors, now remembered in the ghostly assembly.
+	*Watch	Psi	*male	13. Meshack Browning's faithful hunting dog who was lame from a previous bear bite. He helped track and hunt game including turkeys and panthers.
+	*Wells	George	*male	7. A fellow scout who accompanied Robert McLellan on a mission to capture an Indian prisoner. He was one of the two men who shot at Native Americans during a reconnaissance mission.
+	*Whaling	Lewis	*male	18. A Texan prisoner who requested to be blindfolded during execution, wanting to see his killer face-to-face.
+	*White renegade	Santa	*male	11. A white man who was captured with Miss Betsy Bryan by Native Americans. He was killed during the rescue attempt by Lewis Wetzel.
+	*Will Sublette	Omega	*male	15. A trapper who removed an arrow wound from Thomas Eddie's thigh during the Blackfeet ambush.
+	*William Kennan	Michael	*male	7. A fellow Kentuckian and noted scout who was said to be the only person who could rival Robert McLellan in terms of jumping ability.
+	*wolf	Omega	*male	24. A predator that howls at the blinding spray and is part of the natural ecosystem that moose must contend with | 24. A wolf that charges and hunts, representing the predator's role in nature
+	*wolf whelp	Daniel	*male	24. A young wolf that joins the adult wolf in hunting, representing the predator's offspring
+	*Yellow Bear	Kumo	*male	14. An Apache chief who was a friend and ally of Bill Bent, known for his loyalty to the whites.
+	*Alma	Alloy	*female	26. Main character from a school-based series, portrayed as a student at Hadley Hall
+	*Alys	Xiaobei	*female	27. A child character in Una MacDonald's series, described as delightful and heart-stirring with a happy ending story
+	*arctic owl	Nicole	*female	24. An arctic owl with a pure white cowl and soft voice, part of the forest's nocturnal life
+	*Betty	Isabella	*female	26. A character mentioned as keeping a 'Good Times Book' in the Little Colonel series
+	*Blanche McManus	Alpha	female	28. Author of the Little Cousin Series, listed among contributors to the series
+	*Blue Bonnet	Bella	*female	26. Heroine of a Texas-based children's book series, characterized as a lively and honest young girl
+	*Clara V. Winlow	Isabella	female	28. Author of the Little Cousin Series, listed among contributors to the series
+	*Dorcas	Kore	female	13. Meshack Browning's sister, born to a poor widow after their father died when Meshack was an infant. She lived with her mother and brothers in the wilderness.
+	*Florence E. Mendel	Xiaoni	female	28. Author of the Little Cousin Series, listed among contributors to the series
+	*Genevieve Hartley	Gongitsune	*female	26. Main character from a Texas ranch vacation story, depicted as a real girl who enjoys outdoor activities
+	*Julia Darrow Cowles	Aoede	female	28. Author of Our Little Roman Cousin and Our Little Athenian Cousin of Long Ago
+	*Lenore E. Mulets	Alloy	female	28. Author of The Phyllis Series
+	*Logan's mother	Jessica	*female	8. Benjamin Logan's mother who lives in Virginia and receives part of her son's inheritance
+	*Mary F. Nixon-Roulet	Beta	female	28. Author of the Little Cousin Series, listed among contributors to the series
+	*Mary Hazelton Wade	Xiaobei	female	28. Author of the Little Cousin Series, listed among contributors to the series
+	*Mary Ware	Sara	*female	26. The Little Colonel's chum and companion, a young girl who accompanies the main character in various adventures
+	*Miss Betsy Bryan	River	*female	11. A woman who was captured by Native Americans and later rescued by Lewis Wetzel. She was found near a campfire with three Indians and a white renegade.
+	*Miss Clarke	Nezumi	female	15. Thomas Eddie's bride, a belle from St. Louis who had eleven children and remained beautiful despite her age.
+	*moose	Sky	*female	24. The central character of the song, a female moose representing an ancient and vanishing race that is hunted by humans | 24. A moose that is hunted and killed by humans, representing the tragic fate of wildlife
+	*moose mothers	Sarah	*female	24. Female moose that flee from their marsh-sunken bed, protecting their young
+	*Mrs. Shane	Xiaoxiao	female	22. Henry Shane's wife who was informed of her husband's supposed death by their Mexican herder and sent help to assist him.
+	*Nancy	Alpha	*female	27. A little girl character who appears in multiple books by Marion Ames Taggart, described as bright and cheerful with a lovable personality
+	*Nancy Porter	Beta	*female	27. A child character created by Marion Ames Taggart who becomes 'the doctor's assistant' and later 'the doctor's partner', known for her lovable nature
+	*otter	Nova	*female	24. An otter that mews to its hungry brood, representing the forest's aquatic life
+	*Peggy Raymond	Heart	*female	26. Main character from a series of books about girls living on Friendly Terrace, portrayed as successful and popular
+	*Phyllis	Gongitsune	*female	28. Young female heroine of The Phyllis Series, described as a little girl
+	*Pussy Black-Face	Xiaoni	*female	26. Main character from a children's book series, described as a little kitten who narrates the story
+	*sheldrake	Xiaoyi	*female	24. A sheldrake that croons to her fledglings brown, representing waterfowl
+	*squaw	Siwis	*female	25. A woman who gathered at the trader's feast with other Native Americans, now part of the remembered past.
+	*The Little Colonel	Alice	*female	26. Main character from a series of children's books, portrayed as a young girl with a strong personality and adventurous spirit
+	*Tilda Jane	Aoede	*female	26. Main character from a series of books about an orphaned girl, characterized as delightful and fond of animal pets

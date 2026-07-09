@@ -1,0 +1,24 @@
+King Arthur	male	Emperor of Rome, descended from Belinus and Brennius, son of Helen, claiming right to Roman Empire through ancestry. He is the central figure who refuses tribute from Rome and leads military campaigns against Lucius Tiberius. He is described as manly-seeming, strong enough to keep his kingdoms without paying tribute, and ultimately crowned Emperor in Rome.
+Lucius Tiberius	male	Emperor of Rome who demands tribute and homage from King Arthur. He is the primary antagonist, leading a massive army against Britain, ultimately defeated and killed by King Arthur in battle at Soissons. He is described as angry when ambassadors return with refusal to submit.
+Sir Cador of Cornwall	male	Knight of the Round Table who speaks first at the council, advocating for war against Rome. He is chosen to convey King Arthur's message to the Roman ambassadors and later sent to escort them out of Britain.
+King Anguish of Scotland	male	Scottish king who swears to avenge Rome's past oppression and promises twenty thousand men-at-arms to King Arthur.
+*King of Little Britain	*male	A king who promises thirty thousand men to King Arthur's cause.
+*Sir Lancelot	male	Knight of the Round Table who promises a great host to King Arthur.
+Sir Gawain	male	Knight of the Round Table, nephew to King Arthur. He is sent to confront Emperor Lucius and engages in combat with a Tuscan knight named Prianius. He is wounded but healed by the balm of Paradise.
+Sir Bors	male	Knight of the Round Table who accompanies Sir Gawain in confronting Emperor Lucius. He fights valiantly against Romans and is captured but later freed by Sir Gawain.
+*Sir Lionel	male	Knight of the Round Table who fights alongside Sir Bors and Sir Bedivere against Roman forces.
+*Sir Bedivere	male	Knight of the Round Table who fights alongside Sir Lionel and Sir Bors against Romans.
+Sir Ganius	*male	A knight and cousin of Emperor Lucius who laughs at the Britons' boasting, leading to his death by Sir Gawain's sword.
+*Sir Idrus	*male	Knight who joins Sir Gawain in a fierce assault against Romans after his companions are captured.
+*Sir Badewine	*male	Knight who is left in charge of the realm while King Arthur crosses to Rome.
+*Sir Constantine	*male	Knight who is left in charge of the realm while King Arthur crosses to Rome.
+*Sir Florence	*male	Knight who is sent by King Arthur to gather food and cattle from enemy forests.
+*Sir Clegis	*male	Knight who accompanies Sir Gawain on the mission to gather food and cattle.
+*Sir Claremond	*male	Captain of Cardiff who joins Sir Gawain on the mission to gather food and cattle.
+*Sir Whishard	*male	Knight who is present with Sir Gawain and notices his wounds.
+Prianius	*male	Tuscan knight who fights Sir Gawain and is wounded. He becomes a Christian after being healed by the balm of Paradise.
+*Sir Ethelwold	*male	Earl who leads a surprise attack against Sir Gawain and his company.
+*Duke of Duchmen	*male	Leader who joins Sir Ethelwold in attacking Sir Gawain's company.
+*Duchess	*female	A noblewoman who kneels before King Arthur and pleads for mercy after the city is taken.
+*Duke	*male	A nobleman who is captured and sent to Dover for his life after the city surrenders.
+*Queen Guinevere	*female	King Arthur's queen who receives him upon his return to England.

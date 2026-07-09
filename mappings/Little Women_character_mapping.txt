@@ -1,0 +1,17 @@
+	narrator	Heart	male	Story narrator
+	*Bhaer	Puck	*male	10. A character who resumes a quote and speaks about someone being a stupid old fellow
+	*Cross-patch	Michael	*male	10. A character who is addressed to draw the latch, likely a servant or minor character
+	*David	Echo	*male	10. A character mentioned in reference to David Copperfield, likely a literary allusion
+	*Mr. Laurence	Liam	*male	10. A character who is asked to provide wine, likely a family friend or relative
+	*N. Winkle	Alex	*male	10. A character mentioned in a letter, likely a friend or acquaintance of the main characters
+	*Teddy	George	*male	10. A character whose name is referenced as 'Teddyism' in the text
+	*A. M. Barnard	Dora	*female	10. A pseudonym used by Louisa May Alcott for her works
+	*Beth	Kore	*female	10. A character addressed in a letter, likely the same person as Betty/Bethy
+	*Betty	Heart	*female	10. A character whose name was changed to 'Bethy' in the 1869 novel, addressed as Beth
+	*Daisy	Bella	*female	10. A character who has difficulty keeping her eyes off her 'pitty aunty'
+	*Flora Fairfield	Alice	*female	10. A pseudonym used by Louisa May Alcott for her works
+	*Jenny	Emma	*female	10. A character mentioned in a clause about ballads, likely one of the main female characters
+	*Jo	Aoede	*female	10. A character mentioned in a clause about going up, likely one of the main female characters
+	*Lulu	Siwis	*female	10. A character whose library is referenced in the text, likely a fictional character or author
+	*Meg	River	*female	10. A character who obediently follows instructions, likely one of the main female characters
+	*Peggotty	Alloy	*female	10. A character mentioned in reference to David Copperfield, likely a literary allusion

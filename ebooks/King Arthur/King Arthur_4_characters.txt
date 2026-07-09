@@ -1,0 +1,13 @@
+King Arthur	male	The ruler of Britain, a valiant conqueror who has subdued Ireland, Iceland, Norway, Dacia, and Gaul. He is known for his strength, courage, and determination to avenge wrongs. He draws the sword Excalibur from a stone and is deeply involved in battles against giants, Romans, and other enemies. He shows both mercy and justice, as seen when he forgives Balin after his impulsive killing of the lady of the lake.
+*Riculf	male	The King of Norway who fights against King Arthur. He leads the Norwegian forces in battle but is defeated and killed by Arthur's army.
+*Hoel	*male	The husband of the Duchess of Brittany, who is captured and killed by a giant. He is King Arthur's cousin.
+*Duchess of Brittany	female	The wife of Sir Hoel, who is captured and killed by a giant. She is described as the fairest lady in the world.
+*Sir Key	male	A knight in King Arthur's court who accompanies the king on his quest to defeat the giant. He is one of the knights sent with Arthur to St. Michael's Mount.
+*Sir Bedwin	male	A knight in King Arthur's court who accompanies the king on his quest to defeat the giant. He is one of the knights sent with Arthur to St. Michael's Mount.
+*Flollo	*male	The Roman tribune who fights King Arthur in single combat. He is described as a man of mighty stature and courage, but is ultimately defeated by Arthur.
+King Ryence	male	The King of North Wales who sends a threatening message to King Arthur demanding his beard. He is described as proud and haughty, with eleven defeated kings whose beards he has used to trim a mantle.
+Balin le Savage	*male	A poor knight who has been imprisoned at King Arthur's court for slaying a cousin of the king. He is known for his gentle blood and valiant address, but was initially ashamed to try the sword. He successfully draws Excalibur from its scabbard, proving himself worthy.
+The Lady of the Lake	*female	A mysterious woman who appears at the court and demands the head of Balin or the damsel who brought him the sword. She is revealed to be the murderer of Balin's mother and his enemy.
+The Damsel	*female	A mysterious woman who brings the sword Excalibur to King Arthur's court. She claims it can only be drawn by a faithful, pure, and true knight without guile or treachery. She is the one who warns Balin about keeping the sword.
+Sir Noran	*male	A knight in King Arthur's court who knows King Ryence and warns the king that he is proud, haughty, and likely to wage war with Arthur.
+The Squire	*male	Balin's companion who accompanies him after he departs from King Arthur's court. He expresses concern about Balin's actions and warns him of displeasing the king.

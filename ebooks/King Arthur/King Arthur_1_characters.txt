@@ -1,0 +1,11 @@
+Vortigern	male	Usurper king of Britain, cowardly and treacherous, who summoned Merlin to find a child born without mortal father to build his castle. He was ultimately burned alive in his tower by Aurelius.
+Merlin	*male	Young boy with mysterious parentage, claimed to be born without a mortal father. He is the son of the foul fiend according to some, but proves himself a powerful prophet and magician who foretells Arthur's birth. He serves as advisor to the kings and helps build Stonehenge.
+*Ambrosius	*male	Son of Constantine, rightful king of Britain who leads the rebellion against Vortigern. He is also known as Aurelius Ambrosius and becomes king after defeating Vortigern.
+Uther	male	King of Britain, brother of Aurelius and father of Arthur. He marries Igerna after the death of Gorlois, and is poisoned by Saxons while sick at Verulum. He becomes known as Uther Pendragon after Merlin's prophecy.
+*Gorlois	male	Duke of Cornwall and husband of Igerna. He is slain in battle, leading to Uther's marriage with his widow.
+*Igerna	female	Beautiful wife of Gorlois, whom Uther marries after her husband's death. She is described as the most famous beauty in all Britain.
+*Ector	*male	Knight loyal to Uther who is chosen by Merlin to raise Arthur. He and his wife nurse the infant Arthur in secret.
+*Arthur	*male	The future king of Britain, born to Uther and Igerna. He is secretly raised by Sir Ector and his wife until he grows up, fulfilling Merlin's prophecy.
+*Octa	*male	Saxon leader who is slain during the battle against Uther, contributing to the Britons' victory.
+*Eosa	*male	Saxon leader who is slain during the battle against Uther, contributing to the Britons' victory.
+*Gillomanius	*male	King of Ireland who initially resists the Britons' attempt to take the Giants' Dance stones for Stonehenge.

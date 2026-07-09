@@ -1,0 +1,95 @@
+	narrator	Adam	male	Story narrator
+	Boy	Fenrir	male	16. A young male character who is being instructed by the master and responds to his commands
+	Cupid	Santa	male	3. A divine figure who guides the narrator through palazzos and tapestries, leading to intimate encounters. He is described as clever, incorruptible, and skilled at providing what the narrator desires. | 7. The god of love who is described as stirring the flame in their lamp and who previously served the triumvirs, depicted with a male gender based on traditional mythology | 11. The mythological god of love who has gifted 'She' with the ability to coax desire from ashes when slumber begins, suggesting he is a figure of romantic inspiration. | 15. A deceptive figure who claims to have the best intentions toward the speaker, offering themes for poems while secretly stealing his time and mental faculties. He is described as a scoundrel who seduces others, including Aurora. | 17. The god of love who turns lifegiving dew into poisonous drool and holds out his hand | 18. Roman god of love, described as residing in the narrator's heart | 22. The god of love who serves as Fame's ancient foe. He is cunning and mischievous, known for using arrows to inspire love and has a particular talent for ensnaring heroes. | 23. God of love who is described as a mischievous scamp, responsible for revealing Midas's secret
+	Genius	Kumo	*male	2. A divine figure addressed directly, described as alive within the sanctified walls of Rome
+	Hermes	Fable	male	9. God who guides the speaker past Cestius' Tomb to Orkus below | 13. The messenger god, described as looking askance with a roguish yet tender demeanor | 17. The healing god, herald of Zeus who speeds mercifully over the earth
+	Jupiter	Omega	male	3. The king of the gods in Roman mythology, referenced as a comparison to the narrator's contentment with Cupid's delights. | 9. The father of gods and man, hospitable deity who welcomes the speaker to his Olympian heights | 13. The king of gods, portrayed with a godly brow | 24. The king of gods who supposedly dishonestly won his throne, according to Priapus. He is mentioned as having a throne made of color and ivory, marble and bronze.
+	master	Onyx	male	16. A male figure addressed as 'dear master' who is giving instructions about lighting lamps and closing shutters
+	Phoebus	George	male	9. The god who evokes clear forms and colors by day | 13. A name associated with Apollo, depicted taking forward strides
+	Quirites	Liam	*male	21. A male audience or addresser, likely a Roman citizen or official | 23. A group of Roman citizens, likely referring to the people who would hear about a secret love affair
+	Speaker	Lewis	*male	1. The narrator of the poem who tends a garden and speaks directly to Priapus. He appears to be male based on pronouns used in the text. | 6. A male narrator who describes his personal encounter with Opportunity, mentioning he seized her and she returned his kisses lovingly. | 15. A poet who is being manipulated by Cupid, receiving themes for poems while losing his creative energy. He is in a romantic relationship with an unnamed woman, who is described as sleeping beside him.
+	the speaker	Alex	*male	A poet who is being manipulated by Cupid, receiving themes for poems while losing his creative energy. He is in a romantic relationship with an unnamed woman, who is described as sleeping beside him. | A male narrator who describes his personal encounter with Opportunity, mentioning he seized her and she returned his kisses lovingly.
+	Cythera	Nezumi	*female	13. A goddess or divine figure who sends glances toward Bacchus, associated with desire
+	Fame	Nicole	female	22. A powerful goddess known for her arrogance and overbearing nature. She has an ancient rivalry with Cupid and is obsessed with reputation and public recognition.
+	Love	Sara	female	19. The beloved woman who was supposed to meet someone at the vineyard cot but failed to appear
+	Minerva	Dora	female	13. The goddess of wisdom, portrayed as phlegmatic and looking down
+	my beloved	Sohee	female	8. The speaker's female partner, described as the one who expresses deep emotion and grief over accusations from neighbors. She is a widow with a child, and the poem suggests she has been accused of infidelity.
+	*Acolytes	Psi	*male	14. Impatient followers waiting anxiously for light during the sacred ritual
+	*Albani	Michael	*male	8. A pimp who used billets doux to seduce the female speaker. He is mentioned alongside other figures in her past romantic entanglements.
+	*Alexander	Fable	male	12. A historical figure mentioned as one of the greats who would share renown with the narrator
+	*AMOR	Alex	*male	2. God of love, whose temple is described as the only one that will take an initiate in, representing the ultimate destination for the speaker's spiritual journey
+	*Anchises	Echo	*male	5. A mortal man who caught the eye of a goddess in an Idean grove, according to mythological lore
+	*Ancient	Alex	*male	17. A poet who had a slave fetch girls from the Aventine Hill, from Tarpeia's grove
+	*Bacchus	Onyx	male	13. The god of wine and sensuality, depicted as a dreamer | 22. The god of wine and revelry. He is shown laughing at the deception and wanting to see more of the scene.
+	*Caesar	Liam	male	12. A historical figure mentioned as one of the greats who would share renown with the narrator
+	*Cestius	Daniel	*male	9. A person whose tomb is mentioned as a destination for the speaker
+	*child	Alex	*male	8. The speaker's young child, who is present during the emotional scene where she expresses her grief and guilt.
+	*Falconier	Echo	*male	8. A man who ogled the female speaker when she was young and vulnerable. He is mentioned as one of the seducers who took advantage of her poverty.
+	*Father	Puck	*male	8. The speaker's father, who warned her about men and their deceptive nature. He is described as having said that women are cheated by men.
+	*Florus	George	male	18. Person who would easily pull the narrator to the Popina tavern
+	*Fredrick	Kumo	male	12. A historical figure mentioned as one of the greats who would share renown with the narrator
+	*Goethe	Eric	male	24. The German poet and author who wrote the Elegies, including the two priapeia (I & XXIV). He was returning from Italy and had taken a girlfriend into his cottage, alienating courtly friends.
+	*Henry	Omega	male	12. A historical figure mentioned as one of the greats who would share renown with the narrator
+	*Hercules	Santa	male	22. The legendary hero who is the object of both Fame's admiration and Cupid's trickery. He is described as a mighty man who conquers Amazons.
+	*Hesperian dragon	Eric	male	17. A noble dragon defending beautiful golden apples, portrayed as courageous and forthright
+	*Horace	Liam	male	18. Roman poet who is described as a priest of the sun
+	*Initiate youths	Nicola	*male	14. Young men who followed the tale of Demeter and Jason, astonished by the mystery
+	*Jason	Lewis	male	14. Powerful king of the Cretans who received immortal parts from Demeter, making Crete prosperous
+	*Jove	Lewis	male	22. The father of the gods, also known as Zeus. He is mentioned as being the parent of Hercules and is addressed by Fame in her boastful declaration.
+	*Julius Caesar	Fenrir	male	18. Historical figure, Roman general and statesman mentioned as a comparison for travel to Britain
+	*Leander	Nicola	*male	5. A man who plunged into dark waters to swim toward his love, according to mythological reference
+	*loved one	Michael	*male	16. A romantic interest of the master who is expected to arrive, gender guessed as male based on context
+	*Lover	George	*male	11. The male partner who shares the bed with 'She' and will be warmed by her return to tend the fireplace. He is described as someone who enjoys the romantic evening with his partner.
+	*Lucretius	Puck	male	17. A man who knew how to forego love completely, avoiding unchaste embraces
+	*man	Michael	*male	4. A foreigner who is described as footloose and lusty, staying with the mistress but unknown to her beyond his nationality
+	*Marlborough	Eric	*male	4. A fictional Englishman character from a popular song, traveling through various European locations including Livorno, Rome, Naples and Madras
+	*Mars	Psi	*male	5. A god who seized Rhea Silvia and begat sons with her, according to mythological reference
+	*Mercury	Nicola	male	22. The messenger god, known for his speed and trickery. He joins Bacchus in wanting to see more of the deception.
+	*Midas	Echo	male	23. King of Phrygia who has been transformed into an ass with donkey ears, keeping his secret hidden from others
+	*old gardner	Omega	*male	19. The elderly male gardener who owns the garden and has a niece
+	*Orkus	Fenrir	*male	9. A deity or underworld figure associated with the tomb of Cestius
+	*Philainis	Michael	*male	24. A poet who describes artful sexual positions in his work, mentioned by Priapus as the source of knowledge about intimate acts.
+	*Priapus	Daniel	male	1. A male deity or figure who serves as a guardian of the garden, positioned at the speaker's side. He is described as good and capable of protecting against thieves. | 24. A fertility god described as inaptly formed, standing in a garden corner with a large phallus (lingam), suffering from time's effects and filth. He claims to have secured Jupiter's throne through artistic efforts and is admired by intelligent men and girls, though he is monstrously strong. He is the subject of a poem that describes his phallus as a reward for artistic endeavors.
+	*Priests	Santa	*male	14. Men who murmured and performed gestures with deep meaning during the sacred ceremony
+	*Propertius	Daniel	*male	17. A poet who had a slave fetch girls from the Aventine Hill, from Tarpeia's grove
+	*Proteus	Psi	male	6. A sea god who is the father of Opportunity and sired her upon Thetis, known for his ability to change forms.
+	*Quattro Fontani	Eric	*male	8. A man who called the female speaker to Ostia, one of her past lovers or seducers. He is mentioned in the context of other men who took advantage of her youth and vulnerability.
+	*scarecrow	Kumo	*male	19. The man-made figure in the garden that was mistaken for a person by Love
+	*Schiller	Puck	male	24. A dramatist and close friend of Goethe who undertook the periodical Die Horen in 1795 and solicited contributions from Goethe's Elegies for aesthetic education purposes.
+	*the dog	Onyx	*male	20. A neighbor's dog that barks loudly and was present during a secret meeting between the narrator and his girl
+	*the uncle	Fable	male	18. Mistress's uncle who is deceived by his niece for the narrator's company | 19. The male relative of the woman who was seen by her in the vineyard, mistaken for a scarecrow
+	*Theseus	Echo	male	15. A mythological figure referenced in the poem as someone who was supposedly seduced by Ariadne. The speaker compares the sleeping woman to Ariadne, implying Theseus is the one who fled from her.
+	*Vulcan	Psi	male	22. The god of fire and metalworking. He is portrayed as being tricked by Cupid's deception, similar to how he was caught with his own lusty friend.
+	*Werther	Puck	male	4. A fictional character from Goethe's novel, described as having passionate and melancholic qualities, with a tragic love story involving Lotte
+	*Zeus	Nicola	male	6. The king of gods who is mentioned as having the power to punish those who abandon their worship, referenced in connection with the Erinyes. | 17. The father of Hermes, who followed his urges in ancient times
+	*Ariadne	Xiaobei	female	15. The mythological figure who was seduced by Theseus, according to the speaker's reference. She is described as lying in a position similar to that of the sleeping woman, though she is not directly present.
+	*Aurora	Heart	female	5. A goddess who was jealous of Luna and would have wakened a dreamer hastily, according to mythological reference | 15. The goddess of morning, who is described as a friend of the speaker's muse. She has been seduced by Cupid and now comes to wake him at his altar, suggesting she is in love with him.
+	*Callisto	Alpha	female	17. A woman chosen by Jupiter, one of his lovers in ancient times
+	*Ceres	Isabella	female	14. The nourishing goddess who replaced acorns with golden wheat, central figure in the festival being described
+	*Cynthia	Xiaobei	female	17. A woman who drove Lucretius out of unchaste embraces, finding him unfaithful but whole
+	*Demeter	Beta	female	14. Goddess who granted Jason, king of the Cretans, immortal parts to explore, leading to Crete's fortune
+	*Erinyes	Lily	female	6. Furies or avenging spirits who are mentioned as being potentially attracted by the worshippers' devotion to Opportunity, willing to endure terrible punishments rather than abandon their worship.
+	*Faustina	Alloy	female	21. The speaker's female companion in bed, described as faithful and loving
+	*Fortuna	Nova	female	9. Jupiter's daughter, goddess who strews glorious presents in a manner like that of girls
+	*Graces	Isabella	*female	17. Divine beings to whom the speaker prays for protection of their garden and pleasure
+	*Hebe	Siwis	female	9. A goddess who seized the speaker and led them to the sacred hill of Jupiter
+	*Hero	Aoede	*female	5. A woman who regarded Leander at a banquet, according to mythological reference | 14. The mysterious figure who received kindness from Demeter, referenced as the one who made Crete prosperous
+	*Juno	Emma	female	3. The wife of Jupiter in Roman mythology, referenced as a comparison to the narrator's contentment with Cupid's delights. | 13. The wife of Jupiter, depicted looking upward in the scene | 17. The wife of Zeus, whose wrath would rage if poisonous weapons were turned on her by her spouse | 22. The queen of the gods, wife of Jove. She is delighted to see Hercules humbled and mocked by Cupid's deception.
+	*Lady Borghese	Gongitsune	female	3. A beautiful woman addressed directly by the narrator, who is being courted or in a romantic relationship with him. She is described as beautiful and is asked about her desires.
+	*Lethe	Alice	*female	12. A mythological figure associated with the river of forgetfulness, described as capturing feet in its flight
+	*Lotte	Jessica	female	4. Werther's only true love, a woman from the story who is central to his romantic tragedy
+	*Luna	Sky	*female	5. A goddess who kissed a dreamer without delay, according to mythological reference | 23. A woman who is about to arrive and must not be seen by her neighbor, suggesting she is likely a lover or romantic interest
+	*mistress	Kore	female	4. A woman who has a relationship with an unnamed male character, possibly the narrator, and knows little about Werther and Lotte | 18. Narrator's romantic interest who deceives her uncle to meet the narrator
+	*Mother	Alloy	female	8. The speaker's mother, who was not impressed by her father's warnings about men and their behavior. | 18. Girl's parent who sits at the table with her
+	*my girl	Siwis	female	20. The narrator's romantic partner, who visits him and with whom he shares secrets
+	*niece	Nova	*female	19. The young female relative of the old gardner who lives in his garden
+	*Nipotina	Xiaoni	*female	3. A woman who is addressed alongside Lady Borghese, likely a relative or companion. She is asked about her own desires in the romantic context.
+	*Opportunity	Tebukuro	female	6. The main deity being worshipped, described as sweet and playful with a daughter of Proteus who was sired upon Thetis. She appears in various forms and is associated with metamorphoses that have deceived heroes.
+	*Rhea Silvia	Bella	*female	5. A princess and virgin who came down to the Tiber to fetch water, according to mythological reference
+	*ROMA	Xiaoxiao	*female	2. Eternal city personified as a female figure, described as having a soul in each object and being the subject of the speaker's devotion
+	*Semel	Beta	female	17. A woman chosen by Jupiter, one of his lovers in ancient times
+	*the girl	Alice	*female	18. Young woman who sits at the table next to her mother, drawing patterns with wine on the table
+	*the Parcae	Sarah	*female	18. Roman goddesses of fate who spin the thread of life
+	*Thetis	River	female	6. A sea nymph who is the mother of Opportunity and was sired upon by Proteus, known for her association with transformation.
+	*Virgins	Alpha	*female	14. Women who bore caskets securely locked, richly wreathed with grain during the sacred ritual
+	*your mother	Sarah	*female	10. The narrator's mother, who found praise in her child but was not considered fair by others

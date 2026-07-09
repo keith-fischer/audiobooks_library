@@ -1,0 +1,422 @@
+	narrator	XIV
+	narrator	SIR LANCELOT AND THE FAIR ELAINE
+	narrator	Now after the quest of the Sangreal was fulfilled and all the knights who were left alive were come again to the Round Table
+	narrator	there was great joy in the court.
+	narrator	And passing glad were King Arthur and Queen Guinevere to see Sir Lancelot and Sir Bors, for they had been long absent in that quest.
+	narrator	And so greatly was Sir Lancelot's fame now spread abroad that many ladies and damsels daily resorted to him and besought him for their champion;
+	narrator	and all right quarrels did he gladly undertake for the pleasure of our Lord Christ.
+	narrator	And always as much as he might he withdrew him from the queen.
+	narrator	Wherefore Queen Guinevere, who counted him for her own knight, grew wroth with him, and on a certain day she called him to her chamber
+	narrator	and said thus:
+	queen guinevere	Sir Lancelot, I daily see thy loyalty to me doth slack, for ever thou art absent from this court
+	queen guinevere	and takest other ladies' quarrels on thee more than ever thou wert wont. Now do I understand thee
+	queen guinevere	false knight, and therefore shall I never trust thee more. Depart now from my sight, and come no more within this court upon pain of
+	queen guinevere	thy head.
+	narrator	With that she turned from him and would hear no excuses.
+	narrator	So Sir Lancelot departed in heaviness of heart, and calling Sir Bors, Sir Ector, and Sir Lionel
+	narrator	he told them how the queen had dealt with him.
+	sir bors	Fair sir, remember what honor ye have in this country, and how ye are called the noblest knight in the world; wherefore go not
+	sir bors	for women are hasty, and do often what they sore repent of afterwards. Be ruled by my advice. Take horse and ride to the hermitage
+	sir bors	beside Windsor
+	sir bors	and there abide till I send ye better tidings.
+	narrator	To that Sir Lancelot consented, and departed with a sorrowful countenance.
+	narrator	Now when the queen heard of his leaving she was inwardly sorry, but made no show of grief
+	narrator	bearing a proud visage outwardly.
+	narrator	And on a certain day she made a costly banquet to all the knights of the Round Table
+	narrator	to show she had as great joy in all others as in Sir Lancelot.
+	narrator	And at the banquet were Sir Gawain, and his brothers Sir Agravaine, Sir Gaheris, and Sir Gareth; also Sir Modred
+	narrator	Sir Bors, Sir Blamor, Sir Bleoberis, Sir Ector, Sir Lionel, Sir Palomedes, Sir Mador de la Port
+	narrator	and his cousin Sir Patrice--a knight of Ireland, Sir Pinell le Savage, and many more.
+	narrator	Now Sir Pinell hated Sir Gawain because he had slain one of his kinsmen by treason; and Sir Gawain had a great love for all
+	narrator	kinds of fruit
+	narrator	which, when Sir Pinell knew, he poisoned certain apples that were set upon the table, with intent to slay him.
+	narrator	And so it chanced as they ate and made merry, Sir Patrice, who sat next to Sir Gawain
+	narrator	took one of the poisoned apples and eat it, and when he had eaten he suddenly swelled up and fell down dead.
+	narrator	At that every knight leapt from the board ashamed and enraged nigh out of their wits, for they knew not what to say
+	narrator	yet seeing that the queen had made the banquet they all had suspicion of her.
+	sir gawain	My lady the queen, I wit well this fruit was meant for me, for all men know my love for it
+	sir gawain	and now had I been nearly slain; wherefore, I fear me, ye will be ashamed.
+	sir mador de la port	This shall not end so; now have I lost a noble knight of my own blood, and for this despite and shame I will be
+	sir mador de la port	revenged to the uttermost.
+	narrator	Then he challenged Queen Guinevere concerning the death of his cousin, but she stood still, sore abashed
+	narrator	and anon with her sorrow and dread, she swooned.
+	narrator	At the noise and sudden cry came in King Arthur, and to him appealed Sir Mador, and impeached the queen.
+	sir mador de la port	Fair lords, full sorely am I troubled at this matter, for I must be rightful judge, and therein it repenteth me I may not do
+	sir mador de la port	battle for my wife
+	sir mador de la port	for, as I deem, this deed was none of hers. But I suppose she will not lack a champion
+	sir mador de la port	and some good knight surely will put his body in jeopardy to save her.
+	narrator	But all who had been bidden to the banquet said they could not hold the queen excused
+	narrator	or be her champions, for she had made the feast, and either by herself or servants must it have come.
+	queen guinevere	Alas! I made this dinner for a good intent, and no evil, so God help me in my need.
+	sir mador de la port	My lord the king, I require you heartily as you be a righteous king give me a day when I may have justice.
+	king arthur	Well, I give ye this day fifteen days, when ye shall be ready and armed in the meadow beside Westminster
+	king arthur	and if there be a knight to fight with you, God speed the right, and if not
+	king arthur	then must my queen be burnt.
+	narrator	When the king and queen were alone together he asked her how this case befell.
+	queen guinevere	I wot not how or in what manner.
+	king arthur	Where is Sir Lancelot? for he would not grudge to do battle for thee.
+	queen guinevere	Sir, I cannot tell you, but all his kinsmen deem he is not in this realm.
+	king arthur	These be sad tidings; I counsel ye to find Sir Bors, and pray him for Sir Lancelot's sake to do this battle for you.
+	narrator	So the queen departed and sent for Sir Bors to her chamber, and besought his succor.
+	sir bors	Madam, what would you have me do? for I may not with my honor take this matter on me
+	sir bors	for I was at that same dinner, and all the other knights would have me ever in suspicion. Now do ye miss Sir Lancelot
+	sir bors	for he would not have failed you in right nor yet in wrong, as ye have often proved
+	sir bors	but now ye have driven him from the country.
+	queen guinevere	Alas! fair knight, I put me wholly at your mercy, and all that is done amiss I will amend as ye will counsel me.
+	narrator	And therewith she kneeled down upon both her knees before Sir Bors, and besought him to have mercy on her.
+	narrator	Anon came in King Arthur also, and prayed him of his courtesy to help her, saying,
+	king arthur	I require you for the love of Lancelot.
+	narrator	My lord,
+	sir bors	ye require the greatest thing of me that any man can ask, for if I do this battle for the queen I shall anger all
+	sir bors	my fellows of the Table Round; nevertheless
+	sir bors	for my lord Sir Lancelot's sake, and for yours, I will that day be the queen's champion
+	sir bors	unless there chance to come a better knight than I am to do battle for her.
+	narrator	And this he promised on his faith.
+	narrator	Then were the king and queen passing glad, and thanked him heartily, and so departed.
+	narrator	But Sir Bors rode in secret to the hermitage where Sir Lancelot was, and told him all these tidings.
+	sir lancelot	It has chanced as I would have it,
+	sir lancelot	yet make ye ready for the battle, but tarry till ye see me come.
+	sir bors	Sir,
+	sir bors	doubt not but ye shall have your will.
+	narrator	But many of the knights were greatly wroth with him when they heard he was to be the queen's champion
+	narrator	for there were few in the court but deemed her guilty.
+	sir bors	Wit ye will, fair lords, it were a shame to us all to suffer so fair and noble a lady to be burnt for lack
+	sir bors	of a champion
+	sir bors	for ever hath she proved herself a lover of good knights; wherefore I doubt not she is guiltless of this treason.
+	narrator	At that were some well pleased, but others rested passing wroth.
+	narrator	And when the day was come, the king and queen and all the knights went to the meadow beside Westminster
+	narrator	where the battle should be fought.
+	narrator	Then the queen was put in ward, and a great fire was made round the iron stake
+	narrator	where she must be burnt if Sir Mador won the day.
+	narrator	So when the heralds blew, Sir Mador rode forth, and took oath that Queen Guinevere was guilty of Sir Patrice's death
+	narrator	and his oath he would prove with his body against any who would say the contrary.
+	narrator	Then came forth Sir Bors, and said,
+	sir bors	Queen Guinevere is in the right, and that will I prove with my hands.
+	narrator	With that they both departed to their tents to make ready for the battle.
+	narrator	But Sir Bors tarried long, hoping Sir Lancelot would come, till Sir Mador cried out to King Arthur
+	sir mador de la port	Bid thy champion come forth, unless he dare not.
+	narrator	Then was Sir Bors ashamed, and took his horse and rode to the end of the lists.
+	narrator	But ere he could meet Sir Mador he was aware of a knight upon a white horse
+	narrator	armed at all points, and with a strange shield, who rode to him and said,
+	knight	I pray you withdraw from this quarrel, for it is mine, and I have ridden far to fight in it.
+	narrator	Thereat Sir Bors rode to King Arthur, and told him that another knight was come who would do battle for the queen.
+	king arthur	Who is he?
+	sir bors	I may not tell you,
+	sir bors	but he made a covenant with me to be here to-day, wherefore I am discharged.
+	narrator	Then the king called that knight, and asked him if he would fight for the queen.
+	knight	Therefore came I hither, Sir king,
+	knight	but let us tarry no longer, for anon I have other matters to do.
+	knight	But wit ye well,
+	knight	it is shame to ye for such a courteous queen to suffer this dishonor.
+	narrator	And all men marveled who this knight might be, for none knew him save Sir Bors.
+	narrator	Then Sir Mador and the knight rode to either end of the lists, and couching their spears
+	narrator	ran one against the other with all their might; and Sir Mador's spear broke short, but the strange knight bore both him and his horse
+	narrator	down to the ground.
+	narrator	Then lightly they leaped from their saddles and drew their swords, and so came eagerly to the battle
+	narrator	and either gave the other many sad strokes and sore and deep wounds.
+	narrator	Thus they fought nigh an hour, for Sir Mador was a full strong and valiant knight.
+	narrator	But at last the strange knight smote him to the earth, and gave him such a buffet on the helm as wellnigh killed him.
+	narrator	Then did Sir Mador yield, and prayed his life.
+	knight	I will but grant it thee,
+	knight	if thou wilt release the queen from this quarrel forever, and promise that no mention shall be made upon Sir Patrice's tomb that ever she
+	knight	consented to that treason.
+	sir mador de la port	All this shall be done,
+	narrator	Then the knights parters took up Sir Mador and led him to his tent, and the other knight went straight to the stair foot of
+	narrator	King Arthur's throne; and by that time was the queen come to the king again
+	narrator	and kissed him lovingly.
+	narrator	Then both the king and she stooped down, and thanked the knight, and prayed him to put off his helm and rest him
+	narrator	and to take a cup of wine.
+	narrator	And when he put his helmet off to drink, all people saw it was Sir Lancelot.
+	narrator	But when the queen beheld him she sank almost to the ground weeping for sorrow and for joy
+	narrator	that he had done her such great goodness when she had showed him such unkindness.
+	narrator	Then the knights of his blood gathered round him, and there was great joy and mirth in the court.
+	narrator	And Sir Mador and Sir Lancelot were soon healed of their wounds; and not long after came the Lady of the Lake to the court
+	narrator	and told all there by her enchantments how Sir Pinell, and not the queen, was guilty of Sir Patrice's death.
+	narrator	Whereat the queen was held excused of all men, and Sir Pinell fled the country.
+	narrator	So Sir Patrice was buried in the church of Winchester, and it was written on his tomb that Sir Pinell slew him with a poisoned
+	narrator	apple
+	narrator	in error for Sir Gawain.
+	narrator	Then, through Sir Lancelot's favor, the queen was reconciled to Sir Mador, and all was forgiven.
+	narrator	Now fifteen days before the Feast of the Assumption of our Lady, the king proclaimed a tourney to be held that feast-day at Camelot
+	narrator	whereat himself and the King of Scotland would joust with all who should come against them.
+	narrator	So thither went the King of North Wales, and King Anguish of Ireland, and Sir Galahaut the noble prince
+	narrator	and many other nobles of divers countries.
+	narrator	And King Arthur made ready to go, and would have had the queen go with him, but she said that she was sick.
+	narrator	Sir Lancelot, also, made excuses,
+	sir lancelot	saying he was not yet whole of his wounds.
+	narrator	At that the king was passing heavy and grieved, and so departed alone towards Camelot.
+	narrator	And by the way he lodged in a town called Astolat, and lay that night in the castle.
+	narrator	As soon as he had gone, Sir Lancelot said to the queen, "This night I will rest
+	narrator	and to-morrow betimes will I take my way to Camelot; for at these jousts I will be against the king and his fellowship."
+	queen guinevere	Ye may do as ye list, but by my counsel ye will not be against the king
+	queen guinevere	for in his company are many hardy knights, as ye well know.
+	sir lancelot	Madam, I pray ye be not displeased with me, for I will take the adventure that God may send me.
+	narrator	And on the morrow he went to the church and heard mass, and took his leave of the queen
+	narrator	and so departed.
+	narrator	Then he rode long till he came to Astolat, and there lodged at the castle of an old baron called Sir Bernard of Astolat
+	narrator	which was near the castle where King Arthur lodged.
+	narrator	And as Sir Lancelot entered the king espied him, and knew him.
+	narrator	Then said he to the knights, "I have just seen a knight who will fight full well at the joust toward which we go."
+	narrator	"Who is it?" asked they.
+	king arthur	As yet ye shall not know, he answered smiling.
+	narrator	When Sir Lancelot was in his chamber unarming the old baron came to him, saluting him, though as yet he knew not who he was.
+	narrator	Now Sir Bernard had a daughter passing beautiful, called the Fair Maid of Astolat, and when she saw Sir Lancelot she loved him from that
+	narrator	instant with her whole heart
+	narrator	and could not stay from gazing on him.
+	narrator	On the morrow, Sir Lancelot asked the old baron to lend him a strange shield.
+	narrator	"For," said he, "I would be unknown."
+	sir bernard of astolat	Sir, ye shall have your desire, for here is the shield of my eldest son, Sir Torre
+	sir bernard of astolat	who was hurt the day he was made knight, so that he cannot ride; and his shield
+	sir bernard of astolat	therefore, is not known. And, if it please you, my youngest son, Sir Lavaine, shall ride with you to the jousts
+	sir bernard of astolat	for he is of his age full strong and mighty; and I deem ye be a noble knight
+	sir bernard of astolat	wherefore I pray ye tell me your name.
+	sir lancelot	As to that, ye must hold me excused at this time, but if I speed well at the jousts
+	sir lancelot	I will come again and tell you; but in anywise let me have your son, Sir Lavaine
+	sir lancelot	with me, and lend me his brother's shield.
+	narrator	Then, ere they departed, came Elaine, the baron's daughter, and said to Sir Lancelot, "I pray thee
+	narrator	gentle knight, to wear my token at to-morrow's tourney."
+	sir lancelot	If I should grant you that, fair damsel, ye might say that I did more for you than ever I have done for lady or
+	sir lancelot	damsel.
+	narrator	Then he bethought him that if he granted her request he would be the more disguised, for never before had he worn any lady's token.
+	narrator	So anon he said, "Fair damsel, I will wear thy token on my helmet if thou wilt show it me."
+	narrator	Thereat was she passing glad, and brought him a scarlet sleeve broidered with pearls, which Sir Lancelot took
+	narrator	and put upon his helm.
+	narrator	Then he prayed her to keep his shield for him until he came again, and taking Sir Torre's shield instead
+	narrator	rode forth with Sir Lavaine towards Camelot.
+	narrator	On the morrow the trumpets blew for the tourney, and there was a great press of dukes and earls and barons and many noble knights;
+	narrator	and King Arthur sat in a gallery to behold who did the best.
+	narrator	So the King of Scotland and his knights, and King Anguish of Ireland rode forth on King Arthur's side; and against them came the King
+	narrator	of North Wales
+	narrator	the King of a Hundred Knights, the King of Northumberland, and the noble prince Sir Galahaut.
+	narrator	But Sir Lancelot and Sir Lavaine rode into a little wood behind the party which was against King Arthur
+	narrator	to watch which side should prove the weakest.
+	narrator	Then was there a strong fight between the two parties, for the King of a Hundred Knights smote down the King of Scotland; and Sir
+	narrator	Palomedes
+	narrator	who was on King Arthur's side, overthrew Sir Galahaut.
+	narrator	Then came fifteen Knights of the Round Table and beat back the Kings of Northumberland and North Wales with their knights.
+	sir lancelot	Now, if ye will help me, ye shall see yonder fellowship go back as fast as they came.
+	sir lavaine	Sir, I will do what I can.
+	narrator	Then they rode together into the thickest of the press, and there, with one spear, Sir Lancelot smote down five Knights of the Round Table
+	narrator	one after other, and Sir Lavaine overthrew two.
+	narrator	And taking another spear, for his own was broken, Sir Lancelot smote down four more knights, and Sir Lavaine a fifth.
+	narrator	Then, drawing his sword, Sir Lancelot fought fiercely on the right hand and the left, and unhorsed Sir Safire
+	narrator	Sir Epinogris, and Sir Galleron.
+	narrator	At that the Knights of the Round Table withdrew themselves as well as they were able.
+	sir gawain	Now, mercy, what knight is that who doth such marvelous deeds of arms? I should deem him by his force to be Sir Lancelot
+	sir gawain	but that he wears a lady's token on his helm as never Lancelot doth.
+	king arthur	Let him be, he will be better known, and do more ere he depart.
+	narrator	Thus the party against King Arthur prospered at this time, and his knights were sore ashamed.
+	narrator	Then Sir Bors, Sir Ector, and Sir Lionel called together the knights of their blood, nine in number
+	narrator	and agreed to join together in one band against the two strange knights.
+	narrator	So they encountered Sir Lancelot all at once, and by main force smote his horse to the ground; and by misfortune Sir Bors struck Sir
+	narrator	Lancelot through the shield into the side
+	narrator	and the spear broke off and left the head in the wound.
+	narrator	When Sir Lavaine saw that, he ran to the King of Scotland and struck him off his horse
+	narrator	and brought it to Sir Lancelot, and helped him to mount.
+	narrator	Then Sir Lancelot bore Sir Bors and his horse to the ground, and in like manner served Sir Ector and Sir Lionel; and turning upon
+	narrator	three other knights he smote them down also; while Sir Lavaine did many gallant deeds.
+	narrator	But feeling himself now sorely wounded Sir Lancelot drew his sword, and proffered to fight with Sir Bors
+	narrator	who, by this time, was mounted anew.
+	narrator	And as they met, Sir Ector and Sir Lionel came also, and the swords of all three drave fiercely against him.
+	narrator	When he felt their buffets, and his wound that was so grievous, he determined to do all his best while he could yet endure
+	narrator	and smote Sir Bors a blow that bent his head down nearly to the ground and razed his helmet off and pulled him from his
+	narrator	horse.
+	narrator	Then rushing at Sir Ector and Sir Lionel, he smote them down, and might have slain all three
+	narrator	but when he saw their faces his heart forbade him.
+	narrator	Leaving them, therefore, on the field, he hurled into the thickest of the press, and did such feats of arms as never were beheld before.
+	narrator	And Sir Lavaine was with him through it all, and overthrew ten knights; but Sir Lancelot smote down more than thirty
+	narrator	and most of them Knights of the Round Table.
+	narrator	Then the king ordered the trumpets to blow for the end of the tourney, and the prize to be given by the heralds to the
+	narrator	knight with the white shield who bore the red sleeve.
+	narrator	But ere Sir Lancelot was found by the heralds, came the King of the Hundred Knights, the King of North Wales
+	narrator	the King of Northumberland, and Sir Galahaut, and said to him, "Fair knight, God bless thee, for much have ye done this day for us;
+	narrator	wherefore we pray ye come with us and receive the honor and the prize as ye have worshipfully deserved it."
+	sir lancelot	My fair lords, wit ye well if I have deserved thanks, I have sore bought them, for I am like never to escape with my
+	sir lancelot	life; therefore pray ye let me depart
+	sir lancelot	for I am sore hurt. I take no thought of honor, for I had rather rest me than be lord of all the world.
+	narrator	And therewith he groaned piteously, and rode a great gallop away from them.
+	narrator	And Sir Lavaine rode after him, sad at heart, for the broken spear still stuck fast in Sir Lancelot's side
+	narrator	and the blood streamed sorely from the wound.
+	narrator	Anon they came near a wood more than a mile from the lists, where he knew he could be hidden.
+	sir lancelot	O gentle knight, help me to pull out this spear-head from my side, for the pain thereof nigh killeth me.
+	sir lavaine	Dear lord, I fain would help ye; but I dread to draw it forth, lest ye should die for loss of blood.
+	sir lancelot	I charge you as you love me, draw it out.
+	narrator	So they dismounted, and with a mighty wrench Sir Lavaine drew the spear forth from Sir Lancelot's side; whereat he gave a marvelous great shriek
+	narrator	and ghastly groan
+	narrator	and all his blood leaped forth in a full stream.
+	narrator	Then he sank swooning to the earth, with a visage pale as death.
+	sir lavaine	Alas! what shall I do now?
+	narrator	And then he turned his master's face towards the wind, and sat by him nigh half an hour while he lay quiet as one dead.
+	narrator	But at the last he lifted up his eyes, and said, "I pray ye bear me on my horse again
+	narrator	and lead me to a hermit who dwelleth within two miles hence, for he was formerly a knight of Arthur's court
+	narrator	and now hath mighty skill in medicine and herbs."
+	narrator	So with great pain Sir Lavaine got him to his horse, and led him to the hermitage within the wood
+	narrator	beside a stream.
+	narrator	Then knocked he with his spear upon the door, and prayed to enter.
+	narrator	At that a child came out, to whom he said, "Fair child, pray the good man thy master to come hither and let in a
+	narrator	knight who is sore wounded."
+	narrator	Anon came out the knight-hermit, whose name was Sir Baldwin, and asked, "Who is this wounded knight?"
+	sir lavaine	I know not, save that he is the noblest knight I ever met with, and hath done this day such marvelous deeds of arms against
+	sir lavaine	King Arthur that he hath won the prize of the tourney.
+	narrator	Then the hermit gazed long on Sir Lancelot, and hardly knew him, so pale he was with bleeding
+	narrator	yet said he at the last, "Who art thou, lord?"
+	sir lancelot	I am a stranger knight adventurous, who laboreth through many realms to win worship.
+	sir baldwin	Why hidest thou thy name, dear lord, from me? for in sooth I know thee now to be the noblest knight in all the world--my
+	sir baldwin	lord Sir Lancelot du Lake
+	sir baldwin	with whom I long had fellowship at the Round Table.
+	sir lancelot	Since ye know me, fair sir, I pray ye, for Christ's sake, to help me if ye may.
+	sir baldwin	Doubt not, that ye shall live and fare right well.
+	narrator	Then he staunched his wound, and gave him strong medicines and cordials till he was refreshed from his faintness and came to himself again.
+	narrator	Now after the jousting was done King Arthur held a feast, and asked to see the knight with the red sleeve that he might take
+	narrator	the prize.
+	narrator	So they told him how that knight had ridden from the field wounded nigh to death.
+	narrator	"These be the worst tidings I have heard for many years," cried out the king; "I would not for my kingdom he were slain."
+	narrator	Then all men asked, "Know ye him, lord?"
+	king arthur	I may not tell ye at this time; but would to God we had good tidings of him.
+	narrator	Then Sir Gawain prayed leave to go and seek that knight, which the king gladly gave him.
+	narrator	So forthwith he mounted and rode many leagues round Camelot, but could hear no tidings.
+	narrator	Within two days thereafter King Arthur and his knights returned from Camelot, and Sir Gawain chanced to lodge at Astolat
+	narrator	in the house of Sir Bernard.
+	narrator	And there came in the fair Elaine to him, and prayed him news of the tournament, and who won the prize.
+	narrator	"A knight with a white shield," said he, "who bare a red sleeve in his helm, smote down all comers and won the day."
+	narrator	At that the visage of Elaine changed suddenly from white to red, and heartily she thanked our Lady.
+	sir gawain	Know ye that knight?" and urged her till she told him that it was her sleeve he wore.
+	narrator	So Sir Gawain knew it was for love that she had given it; and when he heard she kept his proper shield he prayed to
+	narrator	see it.
+	narrator	As soon as it was brought he saw Sir Lancelot's arms thereon, and cried, "Alas! now am I heavier of heart than ever yet."
+	fair elaine	Wherefore?
+	sir lancelot du lake	Fair damsel, know ye not that the knight ye love is of all knights the noblest in the world
+	sir lancelot du lake	Sir Lancelot du Lake? With all my heart I pray ye may have joy of each other
+	sir lancelot du lake	but hardly dare I think that ye shall see him in this world again, for he is so sore wounded he may scarce live
+	sir lancelot du lake	and is gone out of sight where none can find him.
+	narrator	Then was Elaine nigh mad with grief and sorrow, and with piteous words she prayed her father that she might go seek Sir Lancelot and
+	narrator	her brother.
+	narrator	So in the end her father gave her leave, and she departed.
+	narrator	And on the morrow came Sir Gawain to the court, and told how he had found Sir Lancelot's shield in Elaine's keeping
+	narrator	and how it was her sleeve which he had worn; whereat all marveled, for Sir Lancelot had done for her more than he had ever
+	narrator	done for any woman.
+	narrator	But when Queen Guinevere heard it she was beside herself with wrath, and sending privily for Sir Bors
+	narrator	who sorrowed sorely that through him Sir Lancelot had been hurt--
+	queen guinevere	Have ye now heard, how falsely Sir Lancelot hath betrayed me?
+	sir bors	I beseech thee, madam, speak not so, for else I may not hear thee.
+	queen guinevere	Shall I not call him traitor, who hath worn another lady's token at the jousting?
+	sir bors	Be sure he did it, madam, for no ill intent, but that he might be better hidden, for never did he in that wise before.
+	queen guinevere	Now shame on him, and thee who wouldest help him.
+	sir bors	Madam, say what ye will; but I must haste to seek him, and God send me soon good tidings of him.
+	narrator	So with that he departed to find Sir Lancelot.
+	narrator	Now Elaine had ridden with full haste from Astolat, and come to Camelot, and there she sought throughout the country for any news of Lancelot.
+	narrator	And so it chanced that Sir Lavaine was riding near the hermitage to exercise his horse, and when she saw him she ran up and
+	narrator	cried aloud
+	elaine	How doth my lord Sir Lancelot fare?
+	sir lavaine	How know ye my lord's name, fair sister?
+	narrator	So she told him how Sir Gawain had lodged with Sir Bernard, and knew Sir Lancelot's shield.
+	elaine	Then prayed she to see his lord forthwith, and when she came to the hermitage and found him lying there sore sick and bleeding
+	elaine	she swooned for sorrow. Anon, as she revived, Sir Lancelot kissed her, and said,
+	sir lancelot du lake	Fair maid, I pray ye take comfort, for, by God's grace, I shall be shortly whole of this wound
+	sir lancelot du lake	and if ye be come to tend me, I am heartily bounden to your great kindness.
+	narrator	Yet was he sore vexed to hear Sir Gawain had discovered him, for he knew Queen Guinevere would be full wroth because of the red
+	narrator	sleeve.
+	narrator	So Elaine rested in the hermitage, and ever night and day she watched and waited on Sir Lancelot
+	narrator	and would let none other tend him.
+	narrator	And as she saw him more, the more she set her love upon him, and could by no means withdraw it.
+	narrator	Then said Sir Lancelot to Sir Lavaine,
+	sir lancelot du lake	I pray thee set some to watch for the good knight Sir Bors, for as he hurt me, so will he surely seek for me.
+	narrator	Now Sir Bors by this time had come to Camelot, and was seeking for Sir Lancelot everywhere
+	narrator	so Sir Lavaine soon found him, and brought him to the hermitage.
+	narrator	And when he saw Sir Lancelot pale and feeble, he wept for pity and sorrow that he had given him that grievous wound.
+	sir bors	God send thee a right speedy cure, dear lord; for I am of all men most unhappy to have wounded thee
+	sir bors	who art our leader, and the noblest knight in all the world.
+	sir lancelot du lake	Fair cousin, be comforted, for I have but gained what I sought, and it was through pride that I was hurt
+	sir lancelot du lake	for had I warned ye of my coming it had not been; wherefore let us speak of other things.
+	narrator	So they talked long together, and Sir Bors told him of the queen's anger.
+	narrator	Then he asked Sir Lancelot,
+	sir bors	Was it from this maid who tendeth you so lovingly ye had the token?
+	sir lancelot du lake	Yea, said Sir Lancelot; and would I could persuade her to withdraw her love from me.
+	sir bors	Why should ye do so? for she is passing fair and loving. I would to heaven ye could love her.
+	sir lancelot du lake	That may not be, replied he; but it repenteth me in sooth to grieve her.
+	narrator	Then they talked of other matters, and of the great jousting at Allhallowtide next coming, between King Arthur and the King of North Wales.
+	sir lancelot du lake	Abide with me till then, for by that time I trust to be all whole again, and we will go together.
+	narrator	So Elaine daily and nightly tending him, within a month he felt so strong he deemed himself full cured.
+	narrator	Then on a day, when Sir Bors and Sir Lavaine were from the hermitage, and the knight-hermit also was gone forth
+	narrator	Sir Lancelot prayed Elaine to bring him some herbs from the forest.
+	narrator	When she was gone he rose and made haste to arm himself, and try if he were whole enough to joust
+	narrator	and mounted on his horse, which was fresh with lack of labor for so long a time.
+	narrator	But when he set his spear in the rest and tried his armor, the horse bounded and leapt beneath him
+	narrator	so that Sir Lancelot strained to keep him back.
+	narrator	And therewith his wound, which was not wholly healed, burst forth again, and with a mighty groan he sank down swooning on the ground.
+	narrator	At that came fair Elaine and wept and piteously moaned to see him lying so.
+	narrator	And when Sir Bors and Sir Lavaine came back, she called them traitors to let him rise
+	narrator	or to know any rumor of the tournament.
+	narrator	Anon the hermit returned and was wroth to see Sir Lancelot risen, but within a while he recovered him from his swoon and staunched the
+	narrator	wound.
+	narrator	Then Sir Lancelot told him how he had risen of his own will to assay his strength for the tournament.
+	narrator	But the hermit bade him rest and let Sir Bors go alone, for else would he sorely peril his life.
+	narrator	And Elaine, with tears, prayed him in the same wise, so that Sir Lancelot in the end consented.
+	narrator	So Sir Bors departed to the tournament, and there he did such feats of arms that the prize was given between him and Sir Gawain
+	narrator	who did like valiantly.
+	narrator	And when all was over he came back and told Sir Lancelot, and found him so nigh well that he could rise and walk.
+	narrator	And within a while thereafter he departed from the hermitage and went with Sir Bors, Sir Lavaine
+	narrator	and fair Elaine to Astolat, where Sir Bernard joyfully received them.
+	narrator	But after they had lodged there a few days Sir Lancelot and Sir Bors must needs depart and return to King Arthur's court.
+	narrator	So when Elaine knew Sir Lancelot must go, she came to him and said,
+	elaine	Have mercy on me, fair knight, and let me not die for your love.
+	narrator	Then said Sir Lancelot, very sad at heart,
+	sir lancelot	Fair maid, what would ye that I should do for you?
+	narrator	"If I may not be your wife, dear lord," she answered,
+	elaine	I must die.
+	narrator	"Alas!" said he, "I pray heaven that may not be; for in sooth I may not be your husband. But fain would I show ye
+	narrator	what thankfulness I can for all your love and kindness to me. And ever will I be your knight
+	narrator	fair maiden; and if it chance that ye shall ever wed some noble knight, right heartily will I give ye such a dower as half
+	narrator	my lands will bring."
+	narrator	"Alas! what shall that aid me?" answered she; "for I must die," and therewith she fell to the earth in a deep swoon.
+	narrator	Then was Sir Lancelot passing heavy of heart, and said to Sir Bernard and Sir Lavaine,
+	sir lancelot	What shall I do for her?
+	narrator	"Alas!" said Sir Bernard, "I know well that she will die for your sake."
+	narrator	And Sir Lavaine said, "I marvel not that she so sorely mourneth your departure, for truly I do as she doth
+	narrator	and since I once have seen you, lord, I cannot leave you."
+	narrator	So anon, with a full sorrowful heart, Sir Lancelot took his leave, and Sir Lavaine rode with him to the court.
+	narrator	And King Arthur and the Knights of the Round Table joyed greatly to see him whole of his wound
+	narrator	but Queen Guinevere was sorely wroth, and neither spake with him nor greeted him.
+	narrator	Now when Sir Lancelot had departed, the Maid of Astolat could neither eat, nor drink, nor sleep for sorrow; and having thus endured ten days
+	narrator	she felt within herself that she must die.
+	narrator	Then sent she for a holy man, and was shriven and received the sacrament.
+	narrator	But when he told her she must leave her earthly thoughts, she answered,
+	elaine	Am I not an earthly woman? What sin is it to love the noblest knight of all the world? And
+	elaine	by my truth, I am not able to withstand the love whereof I die; wherefore, I pray the High Father of Heaven to have mercy
+	elaine	on my soul.
+	narrator	Then she besought Sir Bernard to indite a letter as she should devise, and said,
+	elaine	When I am dead put this within my hand, and dress me in my fairest clothes, and lay me in a barge all covered with
+	elaine	black samite
+	elaine	and steer it down the river till it reach the court. Thus, father, I beseech thee let it be.
+	narrator	Then, full of grief, he promised her it should be so.
+	narrator	And anon she died, and all the household made a bitter lamentation over her.
+	narrator	Then did they as she had desired, and laid her body, richly dressed, upon a bed within the barge
+	narrator	and a trusty servant steered it down the river towards the court.
+	narrator	Now King Arthur and Queen Guinevere sat at a window of the palace, and saw the barge come floating with the tide
+	narrator	and marveled what was laid therein, and sent a messenger to see, who, soon returning, prayed them to come forth.
+	narrator	When they came to the shore they marveled greatly, and the king asked of the serving-man who steered the barge what this might mean.
+	narrator	But he made signs that he was dumb, and pointed to the letter in the damsel's hands.
+	narrator	So King Arthur took the letter from the hand of the corpse, and found thereon written, "To the noble knight
+	narrator	Sir Lancelot du Lake."
+	narrator	Then was Sir Lancelot sent for, and the letter read aloud by a clerk, and thus it was written:--
+	narrator	"Most noble knight, my lord Sir Lancelot, now hath death forever parted us. I, whom men call the Maid of Astolat
+	narrator	set my love upon you, and have died for your sake. This is my last request, that ye pray for my soul and give me
+	narrator	burial. Grant me this
+	narrator	Sir Lancelot, as thou art a peerless knight."
+	narrator	At these words the queen and all the knights wept sore for pity.
+	narrator	Then said Sir Lancelot,
+	sir lancelot	My lord, I am right heavy for the death of this fair damsel; and God knoweth that right unwillingly I caused it
+	sir lancelot	for she was good as she was fair, and much was I beholden to her; but she loved me beyond measure
+	sir lancelot	and asked me that I could not give her.
+	narrator	"Ye might have shown her gentleness enough to save her life," answered the queen.
+	narrator	"Madam," said he, "she would but be repaid by my taking her to wife, and that I could not grant her
+	narrator	for love cometh of the heart and not by constraint."
+	narrator	"That is true," said the king; "for love is free."
+	narrator	"I pray you," said Sir Lancelot, "let me now grant her last asking, to be buried by me."
+	narrator	So on the morrow, he caused her body to be buried richly and solemnly, and ordained masses for her soul
+	narrator	and made great sorrow over her.
+	narrator	Then the queen sent for Sir Lancelot, and prayed his pardon for her wrath against him without cause.
+	narrator	"This is not the first time it hath been so," answered he; "yet must I ever bear with ye
+	narrator	and so do I now forgive you."
+	narrator	So Queen Guinevere and Sir Lancelot were made friends again; but anon such favor did she show him
+	narrator	as in the end brought many evils on them both and all the realm.

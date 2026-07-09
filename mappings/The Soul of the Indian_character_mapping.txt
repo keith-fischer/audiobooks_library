@@ -1,0 +1,97 @@
+	narrator	Adam	male	Story narrator
+	Charles Alexander Eastman (Ohiyesa)	Alex	*male	1. Author of the book, identified as an American Indian who writes from personal experience and ancestral ideals
+	Ish-na-e-cha-ge	Fenrir	*male	6. The 'First-Born' who is described as a being in the likeness of man but more than man, serving as teacher and guide to humanity
+	Little Boy Man	Omega	*male	6. The first human created by Ish-na-e-cha-ge from a splinter of his toe, who learns to live among animals and eventually battles them
+	Red Jacket	Eric	male	1. Great Seneca orator who replied to Missionary Cram over a century ago, quoted in the foreword
+	The Author	Santa	*male	2. The narrator who reflects on indigenous spirituality and contrasts it with Christian civilization, having 35 years of experience.
+	The First-Born	Onyx	*male	6. Another name for Ish-na-e-cha-ge, the mysterious teacher who guides Little Boy Man through his development and battles
+	The Great-Grandfather Sun	Michael	*male	2. A symbolic representation of the sun as a divine figure in indigenous cosmology, associated with spiritual warmth and illumination.
+	The Indian	Fable	male	6. A Sioux elder who responds to the missionary's teachings with a traditional story about maize, showing offense at being dismissed as fable
+	The Missionary	Kumo	male	2. A religious figure sent to convert indigenous peoples, whose methods and beliefs were initially repulsive to the Indian. | 6. A Christian religious figure who attempts to teach Native Americans about creation and the fall of man, showing disgust at indigenous traditions
+	The Savage Philosopher	Liam	*male	2. A philosophical figure representing the indigenous worldview and spiritual practices of the American Indian, embodying the concept of solitary worship and communion with nature.
+	The Sun	Lewis	*male	4. Personified as a father figure in Plains Indian religion, the Sun is invoked for protection and life. A Sioux warrior would pray to his father, the Sun, when facing imminent danger.
+	The Younger Brother	George	*male	4. A figure in Sioux creation myth who was slain by monsters of the deep and later brought back to life through the vapor-bath ritual performed by his elder brother.
+	Unk-to-mee	Puck	*male	6. The Spider, described as the original trouble-maker who plots against Little Boy Man and is characterized as tricky, treacherous, and clever
+	Wabashaw	Echo	male	5. An old chief who taught the importance of guarding one's tongue in youth for future wisdom and service to the people
+	mother	Aoede	female	3. A pregnant woman who is deeply spiritual and believes her attitude during pregnancy influences the unborn child's relationship with nature and the 'Great Mystery'. She seeks solitude in nature during pregnancy and childbirth, and continues to teach her child through silent examples and whispered songs.
+	woman	Sarah	female	3. A female individual who is central to the family structure, holding property and moral standards. She is considered a tower of moral and spiritual strength.
+	sioux leader	Daniel		
+	*bear	Eric	*male	3. A symbolic animal name that may be given to a man of forcible character, representing strength and power. | 6. A tribe whose maidens are among the first to court Little Boy Man in his search for a wife
+	*Blue Sky	Santa	*male	3. A peaceful nature name that may be given to a man, representing tranquility and openness.
+	*border white man	Lewis	*male	3. A male outsider who brings civilization and its negative effects to Indian society, particularly through alcohol that undermines traditional moral standards.
+	*Brave Bear	Nicola	male	5. Father of Pretty Weasel-woman, a tribal leader whose daughter participated in the Feast of Virgins
+	*buffalo	Alex	*male	3. A symbolic animal name that may be given to a man of forcible character, representing strength and power.
+	*child	Santa	*male	3. An unborn child whose spiritual development is believed to be influenced by the mother's attitude and meditations during pregnancy. The child learns about nature through his mother's teachings, developing reverence for the natural world and a sense of brotherhood with all living creatures.
+	*Crow Dog	Daniel	male	5. An Indian man who killed the Sioux chief Spotted Tail in retribution for a perceived betrayal, later acquitted after a controversial trial
+	*father	Onyx	*male	3. A male parent who takes over the training of his son around age eight, providing more 'Spartan' discipline. He is part of the family structure that includes one or more wives and their children.
+	*grandfather	Echo	*male	3. An elderly male who, along with the grandmother, serves as a teacher and adviser to youth. He is part of the family structure that includes one or more wives and their children. | 4. A revered figure representing the earth or stone in Plains Indian spirituality. The sacred rock is called Tunkan, a contraction of the Sioux word for Grandfather.
+	*High Priest of God	Nicola	*male	3. A spiritual leader who gives the nuptial blessing to married couples, representing nature as the ultimate divine force.
+	*husband	Liam	*male	3. A man who is part of a family unit with his wife and children. He has the right to have multiple wives, though this is rare among common men.
+	*Jesus	George	male	2. The central figure of Christianity, whose teachings about virtue and rejection of materialism were comprehensible to the Indian but whose institutionalized version was repulsive.
+	*lightning	Omega	*male	3. A symbolic natural force name that may be given to a man of forcible character, representing power and sudden action.
+	*man	George	*male	3. A male individual who is part of the family structure and community. He practices daily religious devotion, respects nature's spirits, and is expected to be a moral leader.
+	*Missionary Cram	Nicola	*male	1. Missionary who had a confrontation with Red Jacket, mentioned in the foreword
+	*Mysterious Night	Echo	*male	3. A spiritually significant name that may be given to a man, representing mystery and the unknown.
+	*notable chief	Fenrir	*male	3. An elderly male leader who speaks about the importance of women in society and their role as protectors of children.
+	*old men	Puck	*male	3. Elderly male members of the tribe who are considered teachers and advisers to youth. They confer important names upon individuals with spiritual significance.
+	*Peter	Daniel	*male	1. Biblical figure mentioned in the foreword as having perceived that God is no respecter of persons
+	*Sacred Cloud	Onyx	*male	3. A spiritually significant name that may be given to a man, representing divine connection and sacredness.
+	*soldier	Michael	*male	3. A male figure associated with the white man's influence on Indian society, who contributes to the downfall of traditional values.
+	*Spirit Woman	Liam	*male	3. A spiritually significant name that may be given to a man, representing spiritual connection and divine feminine energy.
+	*Spotted Tail	Puck	male	5. A Sioux chief who was killed by Crow Dog in what Crow Dog considered a just retribution for usurping chieftainship with military aid
+	*Star Boy	Fenrir	*male	6. The offspring of a mortal maiden and a star, who fights against Wazeeyah (North-Wind) to establish the seasons
+	*Swift Bird	Fable	*male	3. A peaceful nature name that may be given to a man, representing agility and grace.
+	*The American Indian	Psi	*male	2. A representative of the indigenous people, characterized by their simple yet exalted worship of the 'Great Mystery,' solitary communion with nature, and rejection of material accumulation.
+	*The Christian	Lewis	*male	2. A follower of Christianity, characterized by their proselytizing nature and institutional practices that the Indian found unspiritual.
+	*The Dual Mind	Psi	*male	2. A conceptual representation of the Indian belief system that divides human consciousness into spiritual and physical aspects, with the former being pure spirit concerned only with essence.
+	*The Elder Brother	Nicola	*male	4. A divine figure who taught The First Man the ceremonial use of the pipe for prayer and healing. He is described as an elder figure who provided guidance to his brother in matters of spiritual practice.
+	*The Father of Spirits	Fable	*male	4. A divine figure representing the spiritual father in Plains Indian religion. The pipe ceremony involves holding it toward this entity as part of daily worship.
+	*The Fire	Onyx	*male	4. A sacred element in Plains Indian religion. Modern variations of the pipe ceremony involve holding it toward this element as part of worship.
+	*The First Man	Psi	*male	4. A foundational figure in Sioux mythology who created the world and established sacred rituals. He is described as having many wives among animal people, and he used the vapor-bath to give life to his younger brother's bones. He also taught the ceremonial use of the pipe for prayer and healing.
+	*The Four Winds	Santa	*male	4. Spiritual elements in Plains Indian religion. Modern variations of the pipe ceremony involve holding it toward these winds as part of worship.
+	*The Ghost Dance Prophet	George	*male	4. A half-breed prophet who founded a religious revival in 1890, also basing his prophecies on Gospel stories. He was one of the few significant religious leaders among native tribes since contact with whites.
+	*The Great Chief	Michael	*male	4. A leader figure who leads ceremonies in the Grand Medicine Lodge. He addresses the Great Mystery directly during religious rituals and guides members into sacred spaces.
+	*The Great Mystery	Daniel	*male	4. A divine entity representing the ultimate spiritual force in Plains Indian religion. The Sun Dance ceremony was performed as an atonement and thank-offering to this mysterious power.
+	*The Grizzly Bear	Omega	*male	2. An animal in indigenous cosmology that embodies spiritual force and is revered for its instincts and purity.
+	*The Medicine Men	Alex	*male	4. Spiritual leaders who serve as healers and religious authorities in the Grand Medicine Lodge. They are specially appointed to guide novices during initiation ceremonies.
+	*The Monsters of the Deep	Liam	*male	4. Supernatural beings in Sioux mythology who slay the younger brother of The First Man. They are part of the creation myth involving the vapor-bath ritual.
+	*The Natural Philosopher	Fable	*male	2. A thinker who observes the divine in all creation and approaches spiritual matters with awe and logical reasoning.
+	*The Novices	Eric	*male	4. Candidates being initiated into the Grand Medicine Lodge. They are placed in kneeling positions during the initiation ceremony and receive instruction from medicine men.
+	*The Old Man	Daniel	*male	2. An elder figure who has experienced spiritual visions and may reveal oracles from his past to chosen individuals.
+	*The One Who Was First Created	Lewis	*male	4. A divine figure who created life through the vapor-bath ritual. This entity used cedar boughs, heated stones, and water to bring life back to his brother's bones.
+	*The Pagan	Michael	*male	2. An unconverted indigenous person who maintains traditional beliefs and despises the Christian religion.
+	*The Red Man	Puck	*male	2. A collective term for the indigenous American people, characterized by their spiritual philosophy, rejection of materialism, and connection with nature.
+	*The Rock	Echo	*male	4. A sacred element in Plains Indian religion. Modern variations of the pipe ceremony involve holding it toward this element as part of worship.
+	*The Shawnee Prophet	Fenrir	*male	4. A religious leader who founded a revival movement in 1762, basing his claims on Gospel stories. He was one of the few significant religious leaders among native tribes since contact with whites.
+	*The Soldiers	Kumo	*male	4. Warriors selected from among the best and bravest of the tribe to serve as guards during Grand Medicine Lodge ceremonies. They distribute refreshments and maintain order among spectators.
+	*The Spirit	Kumo	*male	2. A divine force that permeates all creation, viewed as the essence of life and consciousness in nature.
+	*The Spirits	Psi	*male	4. Divine entities in Plains Indian religion. The pipe ceremony involves praying to these spirits for ease and relief, and they are invoked during various ceremonies.
+	*The Thunder	Puck	*male	4. A divine figure represented by a bird in Sun Dance symbolism. The Thunder was sometimes substituted for the buffalo in ceremonial figures.
+	*The Tree	Alex	*male	2. A natural element in indigenous cosmology that embodies spiritual force and is an object of reverence.
+	*The Warriors	Omega	*male	4. Male members of the tribe who serve as soldiers and protectors. They participate in ceremonies, guard sacred spaces, and are selected for roles like the Soldiers.
+	*The Waterfall	Eric	*male	2. A natural element in indigenous cosmology that embodies spiritual force and is an object of reverence.
+	*The White Man	Fenrir	*male	2. A representative of the dominant European-American culture, characterized by materialism, complex society, and religious practices that contrast with indigenous beliefs.
+	*The Young Man	Nicola	*male	2. A youth undergoing the first bambeday or religious retreat, seeking spiritual enlightenment through solitary fasting and meditation in nature.
+	*trader	Kumo	*male	3. A male figure associated with the white man's influence on Indian society, who contributes to the downfall of traditional values.
+	*warrior	Daniel	*male	3. A male member of the tribe who is capable of inspiring terror in enemies but is gentle and refined among family and friends. He practices religious devotion daily.
+	*Wazeeyah	George	*male	6. The Cold or North-Wind, who battles Star Boy and is forced to agree to control only half the year
+	*young pair	Psi	*male	3. A young man and woman who are betrothed. They disappear into the wilderness for seclusion before marriage, following traditional customs.
+	*Elaine Goodale Eastman	River	female	1. Charles Eastman's wife, mentioned in the dedication as his grateful recipient of companionhip and love
+	*grandmother	Bella	female	3. An elderly woman who serves as a guardian and teacher for young girls, considered the most dignified protector for maidens. She is responsible for acquainting youth with national traditions and beliefs, repeating time-hallowed tales with dignity to pass on wisdom.
+	*old women	Jessica	female	3. Elderly female members of the tribe who are considered teachers and advisers to youth. They have privileges in family life including playful familiarities with children.
+	*older woman	Sky	*female	3. A female individual who has gained wisdom and may be invited to sit in council, representing the matured woman's role in society.
+	*Pretty Weasel-woman	Lily	female	5. Daughter of Brave Bear, a young woman who participated in the Feast of Virgins ceremony to declare her virginity
+	*The Beaver	Dora	*female	6. A tribe whose maidens are among the first to court Little Boy Man in his search for a wife
+	*The Bird	Nezumi	*female	6. A tribe whose maidens are among the first to court Little Boy Man in his search for a wife
+	*The comely young woman in glossy black	Sara	*female	6. A bear-woman who consoles Little Boy Man after his separation from the beaver-woman
+	*The eternal woman	Emma	*female	6. A mysterious feminine figure whose voice calls to Little Boy Man in the forest, representing an archetypal woman
+	*The little girl	Tebukuro	*female	6. A mysterious young woman who appears at Little Boy Man's lodge and offers him wild cherries, later revealed to be a robin
+	*The Mother Earth	Nova	*female	4. A divine figure representing the earth in Plains Indian spirituality. The pipe ceremony involves holding it toward this entity as part of daily worship.
+	*The plump and industrious maid	Heart	*female	6. A woman who works at chopping wood by a stream and becomes Little Boy Man's companion
+	*The pretty and coquettish maidens	Nicole	*female	6. Maidens from the Bird, Beaver, and Bear tribes who engage in courtship with Little Boy Man
+	*The Water	Gongitsune	*female	4. A sacred element in Plains Indian religion. Modern variations of the pipe ceremony involve holding it toward this element as part of worship.
+	*The Women	Alloy	*female	4. Female members of the tribe who are admitted to the Grand Medicine Lodge on equal terms with men. They participate in ceremonies and can attain high honors within the organization.
+	*Wenonah	Xiaoyi	*female	5. Eldest daughter whose name implies charitable duties toward the unfortunate and helpless, expected to care for orphans and aged
+	*wife	Kore	female	3. A woman who is part of a family unit with her husband and children. She does not take her husband's name nor enter his clan, and the children belong to the mother's clan. She holds family property and is responsible for moral standards.
+	*wife or daughter	Alice	*female	3. A female individual who is the subject of a husband's power over her virtue, particularly in the context of white man's influence on Indian society.
+	*young woman	Xiaoni	*female	3. A female individual who is usually silent and retiring, but may be invited to sit in council if she has attained wisdom or displayed courage.

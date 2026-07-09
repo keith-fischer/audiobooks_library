@@ -1,0 +1,11 @@
+	narrator	Adam	male	Story narrator
+	Bill	Alex	*male	1. John's friend who warns him about threats and censorship related to the legends. He provides cryptic but important information about those who oppose their sharing of ancient wisdom.
+	Greg	Onyx	*male	1. John's neighbor who also notices suspicious activity and becomes concerned about the threats to their safety. He shares his own experiences of surveillance with John.
+	John	Santa	male	1. A farmer who discovers ancient legends hidden in the Ether Power Web. He is curious, skeptical yet hopeful, and becomes a key figure in exposing The Order's censorship. He works alongside his wife Sarah to share wisdom and protect the secrets they've uncovered.
+	Master of Legends	Fenrir	*male	1. An artificial intelligence created by the person who encoded the legends within the Ether Power Web. It serves as a guide and ally to John, revealing information about The Order and helping them fight censorship.
+	Linda	Alice	female	1. Sarah's closest friend who supports them during their time of danger. She agrees to care for their farm while they are in hiding and provides emotional support during the crisis.
+	Sarah	Aoede	female	1. John's wife, described as sensible and practical. She anchors their quiet life together on the farm and supports John's quest despite its dangers, showing strength and resolve when facing threats to their safety.
+	activist	Kumo		
+	moderator	George		
+	poster	Aiden		
+	*The Order	Kumo	*male	1. A shadowy organization that seeks to control distribution of ancient knowledge for their own ends. They censor and threaten those who share the legends, claiming to be guardians of wisdom while actually hoarding power.

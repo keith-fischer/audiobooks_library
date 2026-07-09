@@ -1,0 +1,334 @@
+	narrator	Adam	male	Story narrator
+	Anaximander	Fable	male	10. A pupil of Thales who held that each thing springs from its own proper principle and believed in infinite principles generating worlds.
+	Anaximenes	Nicola	male	10. A pupil of Anaximander who attributed all causes to an infinite air and believed gods sprang from the air.
+	Apuleius	Santa	male	1. Philosopher mentioned in Book VIII who taught that demons should be worshipped as mediators between gods and men | 10. A Platonist philosopher from Madaura who wrote a work on the God of Socrates and believed demons were intermediaries between gods and men. | 11. A Platonist philosopher whose treatise on demons is criticized by Augustine for not attributing virtue to demons, describing their minds as turbulent and passion-driven. | 12. A Platonist philosopher mentioned as having beliefs about demons that Augustine contrasts with Porphyry's views. | 14. A writer who held the opinion that humans exist collectively as immortal but individually as mortal.
+	Augustine	Daniel	male	2. Bishop and theologian who wrote 'The City of God' as a defence of Christianity against accusations that Rome's fall was due to the spread of Christianity. He was 59-72 years old during the work's completion and considered it his masterpiece. | 3. The author of the work, a Christian bishop and theologian who defends the city of God against pagan accusations. He is deeply religious, philosophical, and committed to defending Christianity. | 7. The author of the work, a Christian theologian and philosopher who discusses doctrine of fate, free will, and the Roman empire. He argues against astrological determinism and defends God's prescience. | 8. The author of the work, a Christian theologian and philosopher who is refuting beliefs about divine worship for eternal life. He argues against the pagan theological divisions and the worship of false gods. | 10. The author and main protagonist of the text, a Christian theologian who is discussing natural theology with philosophers. He is deeply engaged in philosophical argumentation and theological discourse. | 11. The author and narrator of the text, a Christian theologian who argues against the worship of demons and defends the necessity of Christ as mediator between God and men. | 12. The author and narrator of the text, a Christian theologian and philosopher who teaches about divine worship and the nature of good angels. He is engaged in defending Christian doctrine against Platonist and other philosophical positions. | 13. The author of this work, a Christian theologian and philosopher who discusses the origin and nature of the two cities (earthly and heavenly) in this book. | 14. The author and narrator of this chapter, a Christian theologian who is presenting arguments about the nature of angels, creation, and human origins. He uses philosophical reasoning to defend Christian doctrine. | 17. Aurelius Augustine, the author and narrator of the work, a Christian theologian and philosopher
+	Beugnot	Fable	*male	2. Historian who assessed the limited effect of Augustine's 'City of God' and criticized its treatment of certain questions.
+	Cicero	Liam	*male	4. A Roman orator and philosopher whose works are cited by Augustine. He is mentioned in the context of his writings on the Roman republic and his views on comedy, satire, and justice. | 7. A Roman philosopher and statesman mentioned as opposing the Stoic doctrine of fate. He is criticized by Augustine for denying God's foreknowledge. | 7. Roman philosopher and statesman mentioned as opposing the Stoic doctrine of fate. He is criticized by Augustine for denying God's foreknowledge. | 8. A Roman orator and philosopher who praised Varro as 'the most acute of all men' and 'the most learned.' He wrote about Varro in his Academic books. | 10. A Roman philosopher who wrote about the gods and their names in his Tusculan Questions. | 11. A Roman philosopher and orator whose writings on ethics, particularly regarding Stoic vs. Peripatetic views on mental passions, are cited by Augustine.
+	Cæsar	Kumo	*male	3. Julius Cæsar, the Roman general and statesman. He is quoted in the text for his description of war atrocities. | 9. A high priest to whom Varro dedicated his work. | 11. A Roman leader whose compassion is praised by Cicero and cited by Augustine to support the idea that compassion is a virtue.
+	Diogenes	Onyx	male	10. A pupil of Anaximenes who said air was the original substance with divine reason, without which nothing could be produced.
+	Dupin	Michael	*male	2. Historian who found Augustine's work pleasant reading but criticized his discussion of useless questions.
+	Flottes	Eric	*male	2. Scholar who praised the work and cited Pressensé's eulogy of it.
+	God	Onyx	male	12. The one true God, Creator of all things, who alone deserves worship and sacrifice. He is the source of happiness and blessedness for both angels and humans. | 13. The supreme deity, creator of all things, unchangeable and eternal, who is the Father, Son, and Holy Spirit in one Trinity. He is described as supremely good, wise, and powerful, the source of all existence and truth. | 14. The supreme good, unchangeable Creator of all essences and beings, who created angels and humans out of nothing. He is the source of all blessedness and truth, and His nature is immutable and eternal. | 15. The Creator of heaven and earth, who made humanity in His image. He is the source of life and death, who threatened Adam with death for disobedience and ultimately provided redemption through Christ.
+	Helenus	Michael	*male	12. A character from Virgil's Aeneid who gives advice to Æneas about appeasing Juno.
+	Hermes Trismegistus	Alex	*male	10. An Egyptian philosopher who wrote about making gods and the future abolition of idolatry, though he was aware that these were made by men.
+	Horace	Fenrir	*male	3. A Roman poet who is mentioned in the text as having said that fresh minds retain impressions longer. | 7. Roman poet whose verses Augustine quotes to show the recognition of ambition as a vice that must be controlled.
+	Huet	Puck	*male	2. Scholar who described Augustine's work as a collection of excellent materials.
+	Jerome	Lewis	*male	2. Early Christian theologian who expressed profound emotion at Rome's fall and was critical of the city's inhospitality to him. | 14. A biblical translator and theologian whose version of scripture is referenced in the text.
+	Jesus Christ	Fenrir	*male	12. The Son of God, the Mediator between God and men, who assumed human nature to save humanity. He is described as the true sacrifice offered for sins.
+	Job	Echo	*male	3. A biblical figure known for his patience and endurance through suffering. He is cited as an example of someone who endured trials without committing suicide.
+	Labeo	Liam	*male	4. A jurist of the time of Augustus, whose learning makes him an authority on such points. He is cited by Augustine as having opinions about the distinction between good and evil deities. | 10. A figure who placed Plato among the demi-gods and thought bad deities should be propitiated with bloody victims while good ones with plays. | 11. A figure mentioned by Augustine as one of those who might argue that demons should be called angels, though this is rejected.
+	Lucan	Lewis	*male	12. A Roman poet who wrote about the moon and plants.
+	Lucilius Balbus	Kumo	*male	7. Character in Cicero's work who defends Stoic positions on fate and divination.
+	Lucius Titius	Daniel	*male	4. A person who delivered a message from Jupiter to Sylla regarding his victory over Mithridates. He is mentioned in the context of divine predictions.
+	Ludovicus Vives	Santa	*male	2. Scholar who was asked to write a commentary on 'City of God' for Erasmus's edition and advocated for a separate edition.
+	Moses	Fenrir	*male	12. A prophet who led the Hebrew people out of Egypt and received divine revelations. | 15. Prophet who led the Israelites out of Egypt and received divine revelation, including the event where water flowed from a rock as a figure of Christ.
+	Paulinus	Alex	*male	3. Bishop of Nola who voluntarily abandoned wealth and became poor. He was captured by barbarians during the sack of Nola.
+	Pilus	Nicola	*male	4. An interlocutor in Cicero's 'De Republica' who demanded that the question of justice be more thoroughly sifted. He advocated with great keenness for injustice against justice.
+	Plotinus	Lewis	male	10. A renowned Platonist philosopher who was a Greek and one of the most illustrious recent philosophers following Plato. | 11. A philosopher whose views on human souls and demons are cited by Augustine, particularly regarding the mortality of human bodies as a mercy compared to demons' eternal existence. | 12. A Platonist philosopher who taught that rational souls derive their blessedness from the same source as humans - a divine light or intelligence.
+	Porphyry	Eric	male	1. Philosopher mentioned in Book X who taught a doctrine of redemption | 2. Antichristian writer whose work Augustine refuted in his 'City of God'. | 9. A Greek philosopher who interpreted the mutilation of Atys as symbolic. | 10. A Greek Platonist philosopher who was among the most illustrious recent philosophers following Plato. | 12. A Platonist philosopher who discusses theurgy and the purification of the soul. He is critical of demon worship but still entertains some beliefs about spiritual hierarchies. | 14. A Platonist philosopher who rejected the idea that souls return to misery in cycles, preferring that they be delivered from evil. | 15. Philosopher who, like Plato, believed in the immortality of souls but later rejected the idea that souls should be bound to bodies eternally.
+	Postumius	Omega	*male	4. An augur who predicted the success of Sylla in his battles. He is mentioned as interpreting signs and predictions related to Roman military affairs.
+	Poujoulat	George	*male	2. Scholar who described Augustine's work as like an encyclopedia of the fifth century.
+	Pythagoras	Nicola	male	8. A Greek philosopher who believed gods are of number. | 9. A Greek philosopher who used hydromancy and was influenced by Persian practices. | 10. Founder of the Italic school of philosophy, credited with giving the term 'philosopher' to those who love wisdom. He was a student of Thales and believed in the mathematical nature of reality.
+	Sallust	Onyx	*male	3. A Roman historian who is cited in the text for his account of Cæsar's speech about war atrocities. | 4. A Roman historian whose works are cited by Augustine. He is mentioned in the context of describing the moral decline of Rome and his opinion on equity and virtue among Romans. | 7. Roman historian and politician whose writings Augustine cites to support his arguments about Roman virtues and the nature of human ambition. | 9. A Roman historian who wrote about the role of fortune in human affairs. | 11. A Roman historian whose views on the relationship between soul and body are quoted by Augustine in his discussion of demons.
+	Scipio Nasica	Echo	*male	3. A Roman pontiff and statesman who opposed the destruction of Carthage. He is held up as a wise leader who feared prosperity would corrupt Rome. | 4. A Roman senator who was chosen by the senate to receive the image of the goddess Cybele and convey it into the city. He is described as having severe morality, opposing theatrical entertainment in Rome.
+	Seneca	Psi	*male	7. Roman philosopher and statesman whose verses Augustine quotes to support his argument about fate being connected with divine will. | 8. A Roman philosopher and statesman who wrote against superstition. He was more critical of civil theology than Varro, describing its practices as shameful and mad.
+	Terence	Puck	*male	4. A Roman playwright mentioned by Augustine in the context of a young man who sees a fresco representing Jupiter's descent into Danaë and accepts it as precedent for his own licentiousness.
+	Thales	Psi	male	10. Founder of the Ionic school, one of the Seven Sages. He believed water was the first principle of things and made astronomical predictions.
+	The Psalmist	Michael	*male	14. A biblical author who wrote psalms, including those cited in the text about God's wisdom and protection.
+	Tully	Psi	*male	7. Latin name for Cicero, who Augustine discusses as a philosopher who opposed Stoic fate theory but was concerned about preserving free will. | 8. A nickname for Cicero, who praised Varro highly in his Academic books.
+	Varro	Omega	male	1. Roman scholar mentioned in Book VI as having a threefold division of theology | 8. A Roman scholar and writer whom Augustine cites extensively. Varro is described as highly learned and acute, but who defended the worship of pagan gods despite acknowledging their falseness. He divided theology into mythical, natural, and civil kinds. | 9. A learned Roman scholar who wrote extensively on religion and theology, author of the book on select gods. | 10. A Roman scholar who wrote about natural theology and interpreted sacred rites as referring to heaven, earth, and the elements of perishable things.
+	Virgil	George	*male	3. A Roman poet who wrote the Aeneid. He is quoted in the text as depicting the behavior of gods and heroes during the fall of Troy. | 7. Roman poet whose works Augustine cites to show Roman values of glory and domination, particularly in his portrayal of Jupiter's prophecy. | 9. A Roman poet who wrote about the causes of things and mentioned Jupiter. | 11. The Roman poet whose works are cited by Augustine to illustrate concepts of virtue and emotional responses in human character. | 12. The Roman poet who wrote about Juno and other mythological figures. | 15. Roman poet who borrowed ideas from Plato about souls returning to stars and then being reborn into mortal bodies.
+	antoninus	Alex		
+	pirate	Alex		
+	scævola	Aiden		
+	speaker	Aiden		
+	*Abel	Echo	*male	12. One of the first humans mentioned in Scripture who offered a sacrifice to God, which was accepted.
+	*Abraham	Santa	male	3. A biblical patriarch who was willing to sacrifice his son Isaac as commanded by God. He is cited as an example of obedience that was not considered murder. | 12. A patriarch in the Hebrew tradition who received divine promises and was commanded to leave his country. | 14. A biblical patriarch whose existence is used to illustrate the concept of time and creation. | 15. Patriarch who fathered two sons, Isaac and Ishmael. He is central to the biblical narrative of covenant and spiritual allegory.
+	*Adam	Daniel	male	15. First man created by God, who sinned and caused death to enter the world. He was made from dust of the earth and became a living soul through God's breath. His sin led to the fall of humanity and introduced mortality.
+	*Adonis	George	*male	8. A Roman god associated with beauty and youth, mentioned in the context of worship practices.
+	*Africanus	Psi	*male	4. A Roman general mentioned by Cicero in his work 'De Republica'. He is described as one of the great men who were part of the debate about the republic.
+	*Alaric	George	male	2. King of the Goths who stormed and sacked Rome in 410 AD, which prompted Augustine to write his work defending Christianity. | 3. The Visigothic king who sacked Rome. He is mentioned as the leader of barbarians who spared Christians during their invasion.
+	*Alexander	Santa	male	14. The founder of Alexandria, mentioned as a historical figure in relation to the founding of cities.
+	*Alexander of Macedon	Daniel	*male	10. The king who received a letter from his mother Olympias about Egyptian high priests and their revelations.
+	*Alexander the Great	Michael	male	14. A historical figure who received a letter from an Egyptian priest containing ancient chronology about kingdoms.
+	*Altor	Lewis	*male	9. A god associated with nourishing all that springs from the earth.
+	*Anaxagoras	Eric	male	10. A pupil of Anaximenes who perceived that a divine mind was the productive cause of all things and believed in homogeneous particles.
+	*Andrew R. Faussett	Onyx	*male	16. Rev. Andrew R. Faussett, M.A., Rector of St. Cuthbert's, York, who edited Bengel's Gnomon of the New Testament
+	*Anebo	George	*male	12. An Egyptian who wrote to Porphyry about the differences among demons and spiritual beings.
+	*Angels	George	*male	13. Spiritual beings created by God, some of whom remained faithful and good while others fell into sin. They are described as existing in two communities - those who enjoy God and those who swell with pride. | 14. Spiritual beings created by God with one nature but differing in will. Some are good and cleave to God, others are evil and turn away from Him through pride. | 15. Spiritual beings created by God, who continue in bliss and serve as fellow citizens with the redeemed. They are immortal by creation but can be disobedient, though they cannot cease living or feeling.
+	*Annæus Seneca	Nicola	*male	7. Roman philosopher and statesman whose verses Augustine cites to support his argument about fate being connected with divine will.
+	*Antisthenes	Kumo	male	10. A follower of Socrates who placed the chief good in virtue.
+	*Apollo	Puck	*male	8. A Roman god associated with music and prophecy, mentioned in the context of worship practices. | 9. A select god identified with the sun and associated with divination and healing.
+	*Archelaus	Santa	male	10. A disciple of Anaxagoras who believed particles were pervaded by a divine mind that energized eternal bodies.
+	*Arion	Liam	*male	3. A Greek lyric poet who was thrown overboard but saved by a dolphin. He is mentioned as an example of divine intervention.
+	*Aristippus	George	male	10. A follower of Socrates who placed the chief good in pleasure. | 11. A Socratic philosopher whose response to banter about fear during a storm is quoted by Augustine to illustrate Stoic philosophy.
+	*Aristodemus	Santa	*male	4. A tragedian mentioned by Cicero in his work 'De Republica' who was sent as a plenipotentiary to Philip by the Athenians.
+	*Aristotle	Puck	*male	11. Plato's disciple and founder of the Peripatetic school, whose philosophical views on mental passions are discussed by Augustine in relation to Stoic and Platonist positions.
+	*Arnobius	George	*male	8. A Christian apologist who referenced Varro's work.
+	*Assaracus	Kumo	*male	7. Legendary ancestor of Romans, used by Augustine to show Roman ambition and glory-seeking.
+	*Atys	Kumo	*male	8. A Roman god associated with castration and love, mentioned in the context of worship practices. | 9. A figure associated with the Great Mother and whose castration was part of sacred rites.
+	*Augustus	Echo	*male	7. Roman emperor who was given power by God, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Aulus Gellius	Eric	*male	11. An ancient Roman writer whose work 'Noctes Atticæ' is referenced by Augustine to illustrate Stoic views on mental passions and the fear of a wise man during a storm.
+	*Aurelius Augustine	Fable	male	1. Bishop of Hippo and author of The City of God; main subject of the work
+	*Bad Angels	Daniel	*male	14. Angels who fell from grace through pride, turning away from God to pursue their own power and self-interest. They became evil by their willful defection.
+	*Barnabas	Fenrir	*male	12. An apostle who, along with Paul, was mistaken for a god by the Lycaonians.
+	*Bindemann	Santa	*male	2. Scholar who provided abstracts of Augustine's 'City of God'.
+	*Brutus	Lewis	*male	3. Lucretia's kinsman, a Roman noble who helped in the plot to avenge her rape. | 7. Roman statesman who killed his own son for the sake of liberty and glory, used by Augustine to contrast Roman virtue with Christian values.
+	*Böhringer	George	*male	2. Scholar who provided abstracts of Augustine's 'City of God'.
+	*Cain	Kumo	*male	12. One of the first humans mentioned in Scripture who offered a sacrifice to God, which was rejected.
+	*Caius Cæsar	Psi	*male	7. Roman general and statesman mentioned by Sallust as a virtuous figure of his time, used by Augustine to discuss Roman character and ambition. | 7. Roman general who was given power by God, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Catiline	Echo	*male	4. A Roman politician who was described as the worst of men, reduced to poverty and defeated in war. He is mentioned as an example of a wicked man who was not favored by the gods.
+	*Cato	Puck	*male	3. A Roman statesman who committed suicide at Utica rather than submit to Caesar's rule. He is contrasted with Regulus in terms of moral strength. | 4. A Roman statesman mentioned by Cicero in his work 'De Republica' as someone whose character was lampooned by comedians. | 7. Roman statesman who was a moral exemplar, used by Augustine to show Roman virtue and the love of glory.
+	*Celsus	Michael	*male	2. Antichristian writer whose work Augustine refuted in his 'City of God'.
+	*Chaldæan	Lewis	*male	12. A person who practices theurgy and is mentioned as having sought purification from demons.
+	*Christ	Fable	male	14. The Son of God who died for sins and rose from the dead, representing eternal salvation. | 15. The second Adam, who came to undo the damage of the first Adam's sin. He was made a quickening spirit, rose from the dead, and offers resurrection to believers through His mediation.
+	*Chrysippus	Kumo	*male	11. A Stoic philosopher who, along with Zeno, founded the Stoic school and whose views on mental passions are cited by Augustine through Epictetus.
+	*Chæremon	Daniel	*male	12. A man who wrote about Egyptian mysteries involving the gods Isis and Osiris.
+	*Cinna	Puck	*male	7. Roman general who was a civil war leader, used by Augustine to contrast with Christian virtue in leadership.
+	*Cleombrotus	Echo	*male	3. A figure mentioned in the text as having committed suicide after reading Plato's work on immortality.
+	*Cleon	Onyx	*male	4. A figure mentioned by Cicero in his work 'De Republica' as an example of a demagogue who was lampooned by comedians.
+	*Cleophon	Fenrir	*male	4. A figure mentioned by Cicero in his work 'De Republica' as an example of a demagogue who was lampooned by comedians.
+	*Cneius Scipio	Omega	*male	4. A Roman senator mentioned in the context of his moral character and opposition to theatrical entertainment. He is described as a man who would be ashamed of his mother being honored with obscene rites.
+	*Collatinus	Michael	*male	3. Lucretia's husband, a Roman noble who was involved in the plot to avenge her rape.
+	*Constantine	Liam	*male	7. Roman emperor who was given power by God, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Cotta	Fenrir	*male	7. Character in Cicero's work who debates against Stoics regarding the existence of divinity and fate theory.
+	*Critias	Eric	*male	14. A figure mentioned in the text who gave an account of Egyptian chronology to Solon.
+	*Curtius	Fable	*male	7. Roman who threw himself into a gulf to fulfill an oracle, used by Augustine as example of Roman devotion to duty.
+	*Cyprian	Fable	*male	10. A Christian martyr whose relics are honored by Christians but not worshipped as gods.
+	*Cæcilius	Eric	*male	4. A Roman playwright mentioned by Cicero in his work 'De Republica' as someone whose comedies were considered inappropriate for portraying leading men.
+	*Decii	Puck	*male	7. Roman family who dedicated themselves to death for the good of Rome, used by Augustine as example of Roman sacrifice.
+	*Diomede	Omega	*male	3. A Greek hero from the Trojan War, mentioned in Virgil's account of how Greeks desecrated temples and stole sacred images from Troy.
+	*Dives	Daniel	*male	3. A rich man mentioned in the parable of Lazarus and Dives. He is contrasted with a poor man who was carried to Abraham's bosom.
+	*Domiducus	Alex	*male	8. A Roman god associated with marriage, mentioned in the context of worship practices.
+	*Domitian	Alex	*male	7. Roman emperor who was given power by God, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Domitius	Liam	*male	8. A Roman god associated with marriage, mentioned in the context of worship practices.
+	*Ennius	Daniel	*male	9. A Roman poet who translated Euhemerus's work into Latin.
+	*Epictetus	Santa	*male	11. A Stoic philosopher whose teachings on impressions and passions are quoted by Augustine to support his argument about the Stoics' position on mental perturbations.
+	*Epicurus	Nicola	*male	8. A Greek philosopher who believed gods are of atoms.
+	*Epidaurian serpent	Fable	*male	12. A mythical creature that attached itself to Æsculapius.
+	*Erasmus	Psi	*male	2. Scholar who engaged Vives to write a commentary on 'City of God' and criticized Augustine's writing style as obscure.
+	*Esau	Liam	*male	7. Biblical twin brother of Jacob, used by Augustine to illustrate how different personalities and fates can exist even in identical twins.
+	*Eugenius	Michael	*male	7. Roman tyrant who was defeated by Theodosius, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Euhemerus	Onyx	*male	8. An ancient Greek writer who claimed that gods were originally men and mortals. | 9. An ancient Greek writer who wrote about the origins of gods as men.
+	*Eusebius	Puck	*male	14. A church historian who provided the chronology used by Augustine for calculating time since creation.
+	*Fabius	Onyx	*male	3. A Roman general who conquered Tarentum and was praised for not making booty of the images of gods.
+	*Fabricius	Liam	*male	4. A Roman general mentioned by Augustine as one of the admirable Romans. He is described in contrast to those who were corrupted. | 7. Roman who refused large gifts from enemies to remain loyal, used by Augustine as example of Roman integrity.
+	*Faustus	George	*male	14. A Manichaean teacher who is referenced in the text as a theological opponent.
+	*Furius Camillus	Michael	*male	7. Roman general who saved Rome from the Gauls, used by Augustine to show Roman dedication to duty and glory.
+	*Ganymede	Nicola	*male	9. A figure in Greek mythology who was taken up to heaven by Zeus.
+	*Genius	Kumo	*male	9. A select god who is said to be the rational soul of every individual, and also identified with the universal soul of the world.
+	*George Wilson	Puck	male	1. Translator of Books IV, XVII, and XVIII mentioned in the introduction
+	*Gratian	Psi	*male	7. Roman emperor who was killed by a tyrant, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Heraclitus	Psi	*male	8. A Greek philosopher who believed gods are of fire.
+	*Heros	Michael	*male	12. A figure from Greek mythology who is associated with the air and demons.
+	*Hezekiah	Omega	*male	12. A king of Judah who destroyed idols and was considered pious.
+	*Hippocrates	Kumo	*male	7. Ancient Greek physician who is cited by Augustine as having observed twins with similar health conditions, supporting the argument against astrological determinism.
+	*Homer	Onyx	*male	7. Ancient Greek poet whose verses are quoted by Cicero and cited by Augustine to support arguments about fate and divine will.
+	*Honorius	Alex	*male	2. Emperor who sent Marcellinus to Africa to arrange a settlement between Donatists and Catholics.
+	*Hyperbolus	Michael	*male	4. A figure mentioned by Cicero in his work 'De Republica' as an example of a demagogue who was lampooned by comedians.
+	*Iamblichus	Liam	male	10. A Greek Platonist philosopher who was among the most illustrious recent philosophers following Plato.
+	*J. J. Smith	Eric	male	1. Translator of Books V, VI, VII, and VIII mentioned in the introduction
+	*Jacob	Omega	male	7. Biblical twin brother of Esau, used by Augustine to demonstrate how twins can have vastly different lives and destinies despite similar birth circumstances. | 14. A biblical figure whose story is used to illustrate how mental influences can affect physical characteristics.
+	*Janus	Daniel	*male	8. A Roman god associated with beginnings and transitions, mentioned in the context of worship practices. | 9. A select god who is identified with the world itself, associated with beginnings and entrances. He has a two-faced image representing forward and backward vision.
+	*Jephthah	George	*male	3. A biblical judge who vowed to sacrifice the first person who greeted him upon his return from battle. He is mentioned as having killed his daughter.
+	*Jeremiah	Onyx	*male	10. A Hebrew prophet who prophesied about 100 years before Plato's birth.
+	*Jesus of Nazareth	Alex	*male	11. The central figure in Christian theology, described by Augustine as the true Mediator between God and men who became incarnate to free humanity from demonic influence.
+	*John	Lewis	*male	7. Egyptian desert monk who was a prophet, used by Augustine to show divine intervention in history.
+	*John the Baptist	Santa	*male	12. A prophet mentioned in Scripture who bore witness to the true Light (Jesus). He is described as having been sent from God.
+	*Jonah	Omega	*male	3. A biblical prophet who was swallowed by a great fish. He is cited as an example of divine protection.
+	*Jovian	Daniel	*male	7. Roman emperor who died early, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Jugatinus	Echo	*male	8. A Roman god associated with marriage, mentioned in the context of worship practices.
+	*Julian	Lewis	*male	2. Antichristian writer whose work Augustine refuted in his 'City of God'. | 7. Roman emperor who was given power by God but became apostate, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Junius Brutus	Fable	*male	4. A consul who forced Lucius Tarquinius Collatinus to resign his office on the charge of being of the name and blood of the Tarquins. He is described as a man who acted with justice in his actions.
+	*Jupiter	Alex	*male	3. The chief deity of the Roman pantheon, king of the gods. Mentioned as being married to Juno and father of many deities. | 7. Roman god whose prophetic words about Rome's greatness are quoted by Augustine to illustrate Roman ambition and desire for glory. | 7. Roman king of gods, used by Augustine to show how divine providence works through both good and evil rulers. | 8. A major Roman god, mentioned in the context of being worshipped with human-like attributes and practices. | 9. A select god who is identified with the world and its causes, considered king of all things. He has many surnames like Victor, Invictus, and Ruminus. | 15. In philosophical tradition, the king of gods who is said to live in physical elements and whose soul is extended throughout the universe according to Plato's teachings.
+	*Justin	Liam	*male	2. Early Christian apologist whose arguments Augustine considered outdated compared to his own work.
+	*King Tarquin	George	*male	7. Roman king who was banished, used by Augustine to show Roman desire for liberty and glory.
+	*Lactantius	Fable	*male	2. Early Christian writer whose work Augustine referenced in discussing Rome's fall. | 8. A Christian theologian who referenced Varro's work.
+	*Lazarus	Psi	*male	3. A poor man mentioned in the parable of Lazarus and Dives. He is contrasted with Dives.
+	*Leo	Psi	*male	10. An Egyptian high priest who communicated revelations to Alexander of Macedon.
+	*Liber	Michael	*male	8. A Roman god associated with wine and fertility, mentioned in the context of worship practices. | 9. A select god associated with seeds and fertility, particularly male seed.
+	*Liber Bacchus	Psi	*male	9. A deity associated with wine and fertility, distinct from the Liber mentioned in the text.
+	*Lot	Alex	*male	12. Abraham's nephew who was rescued from Sodom by angels.
+	*Lucius Pontius	Alex	*male	4. A person whose slave cried out that he was Bellona's messenger, predicting the victory of Sylla. He is mentioned in connection with divine predictions and prophecies.
+	*Lucius Tarquinius Collatinus	Puck	*male	4. Lucretia's husband and Brutus's colleague, who was forced to resign his office by Brutus due to his connection with the Tarquin family. He is described as a good and innocent man.
+	*Lucius Valerius	Santa	*male	7. Roman who died poor and was buried by public funds, used by Augustine to contrast Roman virtue with Christian poverty.
+	*Lymphs	Lewis	*male	8. Roman deities associated with water, mentioned in the context of worship practices.
+	*Lælius	Nicola	*male	4. An interlocutor in Cicero's 'De Republica' who defended justice against injustice. He is described as someone who attempted to prove that nothing was more hurtful to a state than injustice.
+	*Man	Omega	*male	14. The first human created by God, formed from dust and given a rational soul. He is the ancestor of all humanity, created in God's image with reason and intelligence.
+	*Marcellinus	Kumo	*male	2. Friend of Augustine who urged him to expand his defence of Christianity beyond letters, and was sent to Africa by Emperor Honorius to settle differences between Donatists and Catholics. | 3. Dear son of Augustine, suggested the theme of 'The City of God' and is owed a promise by Augustine for undertaking this work. He is a Christian convert who supports Augustine's defense of the city of God. | 4. Son of Augustine, addressed as a recipient of his writings and considered a Christian supporter. He is mentioned in the context of Augustine's work being dedicated to him.
+	*Marcus Camillus	Eric	*male	4. An eminent Roman general who conquered the Veians and restored security to Rome. He was later fined 10,000 asses by the people and went into exile.
+	*Marcus Cato	Daniel	*male	7. Roman statesman and philosopher praised by Sallust for his virtue. Augustine quotes him to illustrate the Roman love of glory and honor.
+	*Marcus Dodds	Santa	male	1. Editor of the translation mentioned in the introduction
+	*Marcus Marcellus	Nicola	*male	3. A Roman general who took Syracuse and is known for his chaste behavior towards enemies. He wept over the city's ruin before it was sacked.
+	*Marcus Pulvillus	Eric	*male	7. Roman statesman who showed indifference to his son's death for the sake of glory, used by Augustine as example of Roman ambition.
+	*Marcus Varro	Daniel	*male	8. The same as Varro, a Roman scholar who wrote forty-one books of antiquities and divided divine things into three categories: mythical, natural, and civil.
+	*Marius	Santa	*male	4. A Roman general who was seven times consul and lived full of years in his seventh consulship. He is described as a low-born, self-made man who ruthlessly provoked and conducted civil wars. | 7. Roman general who was given power by God, used by Augustine to show how divine providence works through both good and evil rulers. | 7. Roman general who was a civil war leader, used by Augustine to contrast with Christian virtue in leadership.
+	*Mars	Liam	*male	7. Roman god of war, invoked by Augustine to show how Romans sought glory through warfare and conquest. | 8. A Roman god of war, mentioned in the context of worship practices. | 9. A select god associated with war and conflict, identified as the god of human warfare.
+	*Martyrs	Psi	*male	15. Righteous individuals who suffer death for their faith in Christ, preferring to die rather than deny Him. Their deaths are considered glorious and meritorious for the sake of righteousness.
+	*Maximus	Fenrir	*male	7. Roman tyrant who murdered Gratian, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Mercury	Echo	*male	9. A select god associated with speech and communication, said to be the messenger between gods and men. | 10. The Egyptian god who was also known as Hermes and the grandson of Mercury according to Trismegistus.
+	*Merivale	Onyx	*male	2. Historian who commented on Augustine's work and the relationship between Rome's fall and Christianity.
+	*Metellus	Kumo	*male	4. A Roman general who was highly esteemed and prospered in this life. He is mentioned as an example of a good man who was successful despite being a worshipper of false gods.
+	*Milman	Puck	*male	2. Historian who wrote about the history of Christianity and referenced Augustine's work.
+	*Mucius	Lewis	*male	7. Roman hero who burned his hand on a sacrificial altar to demonstrate loyalty, used by Augustine as an example of Roman virtue.
+	*Neptune	Onyx	*male	8. A Roman god of the sea, mentioned in the context of worship practices. | 9. A select god associated with waters, identified as the sea and its parts.
+	*Nero	Kumo	*male	7. Roman emperor who represents the extreme of Roman vice and cruelty, used by Augustine to contrast with Christian virtue.
+	*Nigidius	Alex	*male	7. Mathematician who used the potter's wheel analogy to explain twin births. Augustine argues against this reasoning about celestial influences.
+	*Nourrisson	Kumo	*male	2. Scholar who wrote about Augustine's philosophy and learning.
+	*Numa Pompilius	Lewis	male	4. The second king of Rome, who is said to have framed some laws but not sufficient for the regulation of civic affairs. He was known more for religious observances than secular laws. | 9. The second king of Rome who established religious practices and wrote books on sacred rites. | 10. The second king of Rome who concealed sacred rites by causing them to be buried with himself.
+	*Nævius	Puck	*male	4. A Roman playwright mentioned by Cicero in his work 'De Republica' as someone whose comedies were considered inappropriate for portraying leading men.
+	*Orcus	Liam	*male	9. A select god identified with the underworld and death, also called Father Dis.
+	*Origen	Liam	*male	13. A Christian theologian whose doctrine was criticized for suggesting that the world was created to restrain evil rather than produce good.
+	*Osiris	Santa	*male	8. An Egyptian god, mentioned in the context of worship practices. | 10. The Egyptian god who was the husband of Isis and a figure in Egyptian mythology. | 12. An Egyptian god whose mysteries are mentioned in the text.
+	*Ozanam	Fenrir	*male	2. Historian who described Augustine's work as the first real effort to produce a philosophy of history.
+	*Pallor	Fable	*male	8. A Roman god associated with paleness, mentioned in the context of worship practices.
+	*Paul	Lewis	*male	10. A Christian martyr whose relics are honored by Christians but not worshipped as gods. | 12. An apostle who, along with Barnabas, was mistaken for a god by the Lycaonians.
+	*Pavor	Lewis	*male	8. A Roman god associated with fear, mentioned in the context of worship practices.
+	*Pericles	Lewis	*male	4. A figure mentioned by Cicero in his work 'De Republica' as someone who was lampooned by comedians despite his dignity in presiding over the state.
+	*Peter	Michael	*male	10. A Christian martyr whose relics are honored by Christians but not worshipped as gods.
+	*Pharaoh	Liam	*male	12. The king of Egypt who oppressed the Hebrew people and was confronted by Moses.
+	*Phœnix	Nicola	*male	3. A figure mentioned in the text as being involved in the desecration of Troy's temples.
+	*Picus	Puck	*male	8. A Roman god, mentioned in the context of worship practices.
+	*Pilumnus	Nicola	*male	8. A Roman god associated with the pestle, mentioned in the context of worship practices.
+	*Plato	Fenrir	male	4. A Greek philosopher whose ideal republic excluded poets. He is mentioned as having a view that poets should be banished from the city because they bring dishonor to gods and deprave citizens. | 8. A Greek philosopher mentioned by Augustine in reference to his work on the gods. | 9. A Greek philosopher who wrote about ideas or forms. | 10. The master philosopher and founder of the Academy, whose teachings Augustine discusses at length. He is portrayed as a great thinker who approached philosophy through the love of wisdom and believed in the existence of one true God. | 11. The founder of Platonism, whose philosophical positions on gods and demons are referenced by Augustine in his argument against demon worship. | 13. A Greek philosopher who held views about the creation of the world that Augustine found partially compatible with Christian doctrine. | 14. A philosopher who believed in cycles of time and the transmigration of souls, though Augustine argues against these views. | 15. Philosopher who believed gods have immortal bodies and that the soul must abandon earthly bodies for blessedness. He taught that divine will can preserve things from death and dissolution.
+	*Plautus	Fable	*male	4. A Roman playwright mentioned by Cicero in his work 'De Republica' as someone whose comedies were considered inappropriate for portraying leading men.
+	*Pluto	Santa	*male	8. A Roman god of the underworld, mentioned in the context of worship practices.
+	*Pompey	Fable	*male	7. Roman general who was defeated by Caesar, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Porsenna	Eric	*male	7. Etruscan king who was defeated by Romans, used by Augustine to show Roman ambition and glory-seeking.
+	*Posidonius	Echo	*male	7. Stoic philosopher who believed in the influence of astrology on human affairs. Augustine criticizes his theories about twins and celestial influences.
+	*Pressensé	Daniel	*male	2. Scholar who gave an unqualified eulogy of Augustine's 'City of God'.
+	*Priam	Psi	*male	3. The king of Troy during the Trojan War, who was killed while fleeing to the altar of Zeus.
+	*Priapus	Eric	*male	8. A Roman god associated with fertility and gardens, mentioned in the context of worship practices. | 9. A god associated with fertility and vegetation.
+	*Priscillian	Kumo	*male	14. A Christian heretic whose teachings are opposed by Augustine in the text.
+	*Proteus	Nicola	*male	12. A sea god mentioned in Virgil's work who could turn himself into all shapes.
+	*Ptolemy	Fenrir	*male	10. King of Egypt who requested Hebrew prophetic scriptures to be translated into Greek.
+	*Publius Scipio	Daniel	*male	4. A Roman senator mentioned in the context of his moral character and opposition to theatrical entertainment. He is described as a man who would be ashamed of his mother being honored with obscene rites.
+	*Pyrrhus	Echo	*male	7. King of Epirus who offered Fabricius a large gift, used by Augustine to show Roman integrity.
+	*Quintius Cincinnatus	George	*male	7. Roman farmer who was made dictator and then returned to farming, used by Augustine as example of Roman humility.
+	*Radagaisus	Omega	*male	7. King of the Goths who was defeated by Romans, used by Augustine to show divine intervention in history.
+	*Regulus	Fenrir	*male	3. A Roman general who was captured by Carthage and voluntarily returned to face torture, demonstrating great honor but ultimately dying in agony. | 4. A Roman general who was captured and died in captivity, described as one of the best citizens of Rome. He is contrasted with Marius to show that gods did not always favor the good. | 7. Roman general who returned to his enemies despite being offered freedom, used by Augustine as example of Roman honor and faithfulness.
+	*Romulus	Michael	male	4. The legendary founder of Rome, who was elevated to the rank of a demigod by Romans. He is described as having been given a flamen (priest) and being preferred to other gods like Neptune, Pluto, and Saturn. | 8. A legendary founder of Rome, mentioned in the context of worship practices. | 14. The legendary founder of Rome, mentioned in the context of human creation and founding.
+	*Rusor	Fable	*male	9. A god associated with things returning to their origin.
+	*Saisset	Nicola	*male	2. Professor of Philosophy who translated 'City of God' into French and whose translation is considered excellent.
+	*Samson	Eric	*male	3. A biblical judge who was given strength by God. He is mentioned as having been justified in his actions when he destroyed the Philistines.
+	*Satan	Psi	*male	12. The deceiver who transforms himself into an angel of light, according to Augustine's interpretation.
+	*Saturn	Fable	*male	8. A Roman god associated with agriculture and time, mentioned in the context of worship practices. | 9. A select god associated with seeds and sowing, identified by Varro as the one who devours his own offspring. He is also connected with agriculture and time.
+	*Schoenemann	Echo	*male	2. Scholar whose bibliography included the editions of Augustine's works.
+	*Scipio	Onyx	*male	4. An interlocutor in Cicero's work 'De Republica', who is quoted as saying that the lewdness of comedy could never have been suffered by audiences unless customs had previously sanctioned it. He is also mentioned as having a discussion about the Roman republic. | 12. A Roman general who conquered Africa and is used as an example of a hero.
+	*Sentinus	Fenrir	*male	9. An obscure god associated with giving sensation to fetuses.
+	*Sextus	Fable	*male	3. The son of King Tarquin who violated Lucretia, leading to her suicide.
+	*Silvanus	Psi	*male	8. A Roman god associated with forests and agriculture, mentioned in the context of worship practices.
+	*Simplicianus	Onyx	*male	12. A bishop of Milan who reportedly said that the opening of John's gospel should be written in gold.
+	*Socrates	Puck	male	10. Plato's master and the founder of Socratic philosophy, who directed philosophical attention to moral questions. He was condemned to death by the Athenians but later publicly mourned by them.
+	*Sol	Alex	*male	9. A select god identified with the sun.
+	*Solomon	Lewis	male	14. The biblical king who wrote Ecclesiastes and whose words about repetition are cited in the text.
+	*Speusippus	Echo	male	10. Plato's sister's son who succeeded him in the Academy.
+	*Subigus	Omega	*male	8. A Roman god associated with marriage, mentioned in the context of worship practices.
+	*Sylla	George	*male	4. A Roman general and statesman whose rule was cruel, described as having disfigured the republic. He is mentioned in connection with civil wars and his belief that he was aided by gods. | 7. Roman general who was a civil war leader, used by Augustine to contrast with Christian virtue in leadership.
+	*Tarquin	Santa	*male	7. Roman king who was banished, used by Augustine to show Roman desire for liberty and glory. | 12. A king of Rome who cut a whetstone with a razor.
+	*Tellumo	Michael	*male	9. A god associated with the masculine principle of the earth.
+	*Terentian	Omega	*male	8. A reference to Terence, who wrote about Varro as 'a man universally informed.'
+	*Terminus	Alex	*male	7. Roman god of boundaries, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Tertullian	Omega	*male	2. Early Christian apologist whose arguments Augustine considered outdated compared to his own work. | 8. A Christian theologian who referenced Seneca's work on superstition. | 9. A Christian theologian who made a witty but untruthful remark about gods being selected like onions.
+	*The Apostate Angels	Onyx	*male	14. Angels who rebelled against God, becoming evil through their own willful choice to abandon divine love and pursue pride.
+	*The apostle	Echo	*male	11. Refers to Paul, whose writings are cited by Augustine in support of the idea that knowledge without charity leads to pride.
+	*The Apostles	Kumo	*male	13. Followers of Christ who received divine revelation and were instrumental in spreading the teachings of God. They are described as receiving instruction from the angels of God. | 14. Followers of Christ who were given authority and teachings by God. | 15. Disciples of Jesus Christ who received the Holy Spirit after His resurrection and were commissioned to preach the gospel.
+	*The demons	Nicola	*male	11. Evil spirits who Augustine argues are not mediators between God and men, but rather deceivers who hinder spiritual progress.
+	*The Devil	Santa	*male	13. A fallen angel who was created good but chose to sin through pride, becoming the enemy of God and humanity. He is described as a murderer from the beginning who abode not in the truth.
+	*The Egyptians	Echo	*male	14. People who were said to have ancient chronology records, including those mentioned in Alexander's letter.
+	*The Father	Omega	*male	11. Refers to God the Father in Christian theology, described by Augustine as the source of all things and the one to whom worship should be directed.
+	*The First Man	Psi	male	14. Adam, the first human created by God in his own image. He was made alone to represent all humanity and establish the foundation for human society. | 15. Adam, the first human being created by God. He was made a living soul and had an animal body that could not die except through sin.
+	*The gods	Michael	*male	11. Refers to various deities in the Platonist tradition, described by Augustine as either good and blessed or wicked demons.
+	*The good angels	Onyx	*male	11. Holy spirits who Augustine describes as blessed and immortal, distinct from demons but not to be worshipped instead of God. | 14. Angels who remain faithful to God, cleaving to Him and enjoying blessedness. They were created good but chose to remain in that goodness.
+	*The Greeks	Alex	*male	14. People who had their own historical chronology, which Augustine contrasts with biblical accounts.
+	*The holy angels	Fenrir	*male	11. Angels who Augustine describes as having perfect knowledge of divine principles and enjoying contemplation of God.
+	*The Holy Ghost	Fenrir	*male	14. The third person of the Trinity who imparts divine love and grace to believers, including holy angels.
+	*The Holy Spirit	Eric	*male	13. The third person of the Trinity, consubstantial and co-eternal with the Father and Son. He is described as the Spirit of God, who proceeds from the Father and Son, and is called the holiness of both.
+	*The Jews	Liam	*male	14. People who were said to have received divine revelation and whose faith is defended in the text.
+	*The Last Adam	Nicola	*male	15. Jesus Christ, the second Adam who became a quickening spirit and brought resurrection to believers.
+	*The Lord	Liam	*male	11. Another reference to Jesus Christ, described by Augustine as the one who made Himself known to demons and demonstrated His authority over them.
+	*The Manichees	Alex	*male	13. A heretical sect that believed in the existence of opposing evil principles and held erroneous views about the nature of God and creation.
+	*The men	Lewis	*male	11. Human beings described by Augustine as mortal and miserable, in contrast to the blessed immortals.
+	*The Peripatetics	Eric	*male	11. Philosophical school founded by Aristotle, whose views on mental passions are discussed by Augustine.
+	*The Platonists	Fable	*male	11. Philosophical school that Augustine critiques for their views on demons and mediation between gods and men.
+	*The Prophets	Echo	*male	13. Individuals who received divine revelation and spoke on behalf of God. They are described as being inspired by the wisdom of God to reveal His works and will.
+	*The Saints	Omega	*male	14. Believers who are perfected in the afterlife and will know divine truths. | 15. Believers who are made righteous through grace and will be resurrected with spiritual bodies. They rest in peace after death but await resurrection, and their deaths are precious to God.
+	*The Second Man	Nicola	*male	14. A reference to Christ, who is described as the second man in contrast to Adam. He represents humanity's redemption and restoration.
+	*The Stoics	Puck	*male	11. Philosophical school whose views on mental passions are discussed by Augustine in contrast to Platonist positions.
+	*The Trinity	Psi	*male	11. Refers to the Christian doctrine of God as three persons in one essence, described by Augustine as the ultimate source of blessedness.
+	*The Word	Puck	*male	13. Also called the only-begotten Son of God, who is consubstantial with the Father and Holy Spirit. He is described as the unchangeable Wisdom of God by whom all things were made, and who assumed humanity without destroying His divinity.
+	*The Word of God	Daniel	*male	11. Refers to Jesus Christ as the divine Logos, described by Augustine as equal to the Father and the one Mediator between God and men.
+	*Theodosius	Nicola	*male	7. Roman emperor who was a Christian and showed religious humility, used by Augustine as example of good Christian leadership.
+	*Tiberinus	Eric	*male	8. A Roman god associated with the Tiber River, mentioned in the context of worship practices.
+	*Titus Latinius	Omega	*male	10. A figure who was sent a disease by gods because he refused to obey their commands about theatrical plays.
+	*Titus Tatius	Fenrir	*male	8. A legendary king of Rome, mentioned in the context of worship practices.
+	*Tobit	Alex	*male	3. A biblical figure who was commended for burying the dead. He is cited as an example of piety.
+	*Torquatus	Kumo	*male	3. A Roman general who executed his own son for disobeying military orders. He is mentioned as an example of strict justice. | 7. Roman general who killed his own son for disobeying military orders, illustrating Roman values of honor and duty.
+	*Tullus Hostilius	Michael	*male	8. A legendary king of Rome, mentioned in the context of worship practices.
+	*Ulysses	Daniel	*male	3. Also known as Odysseus, a Greek hero from the Trojan War. He is mentioned alongside Diomede in describing how they desecrated temples and stole sacred items from Troy.
+	*Valentinian	Onyx	*male	7. Roman emperor who was protected by Theodosius, used by Augustine to show Christian virtue in leadership.
+	*Valerius Soranus	Omega	*male	9. A Roman writer whose verses Varro interpreted to show Jupiter as the world.
+	*Vitumnus	Onyx	*male	9. An obscure god associated with giving life to fetuses.
+	*Volusian	Echo	*male	2. Proconsul of Africa who was a pagan but interested in Christianity, and with whom Augustine corresponded about theological difficulties including the Incarnation.
+	*Vulcan	Fenrir	*male	8. A Roman god of fire and metalworking, mentioned in the context of worship practices. | 9. A select god associated with fire and metalworking, identified as the fire of the world.
+	*Waterland	Eric	*male	2. Scholar who called Augustine's 'City of God' his most learned, correct, and elaborate work.
+	*Xenocrates	Alex	male	10. Plato's beloved disciple who succeeded him in the Academy.
+	*Zeno	George	*male	11. Founder of the Stoic school, whose philosophical positions on mental passions are referenced by Augustine through Epictetus's writings.
+	*Æneas	Liam	*male	3. A legendary Trojan hero and the founder of Rome according to Virgil's epic. He is described as pious and a leader who fled to the temples of his gods during the fall of Troy. | 12. A Trojan hero who carried household gods from Troy.
+	*Æschines	George	*male	4. An eloquent Athenian mentioned by Cicero in his work 'De Republica' who had been a tragic actor and became a statesman.
+	*Æsculapius	Nicola	*male	10. A figure addressed by Hermes Trismegistus in their dialogue about making gods and the nature of divine beings.
+	*Abeona	Xiaoni	*female	9. A goddess associated with conducting boys on journeys.
+	*Adeona	River	*female	9. A goddess associated with conducting boys home again.
+	*Bellona	Sky	*female	7. Roman goddess of war, invoked by Augustine to show how Romans sought glory through warfare and conquest. | 8. A Roman goddess of war, mentioned in the context of worship practices.
+	*Berecynthia	River	*female	4. A goddess mentioned by Augustine as the mother of all gods, whose worship involved obscene and filthy practices.
+	*Carthage	Dora	*female	3. The rival city of Rome that was destroyed by the Romans. It is mentioned in relation to Regulus and as a rival power.
+	*Ceres	Sara	*female	8. A Roman goddess of agriculture, mentioned in the context of worship practices. | 9. A select goddess associated with seeds and agriculture, identified as the Great Mother. | 10. A Roman goddess identified with Isis by some, associated with agriculture and barley.
+	*Cloacina	Nova	*female	8. A Roman goddess associated with sewers, mentioned in the context of worship practices.
+	*Cybele	Xiaoni	*female	4. A goddess mentioned by Augustine in the context of obscene rites and theatrical entertainments. She is described as a mother goddess whose worship involved shameful practices.
+	*Cœlestis	Gongitsune	*female	4. A goddess mentioned by Augustine in the context of obscene rites and theatrical entertainments. She is described as a virgin goddess whose worship involved shameful practices.
+	*Danaë	Alloy	*female	4. A figure mentioned by Terence in a fresco representing Jupiter's descent into her lap as a golden shower, which was used by a young man to justify his own licentiousness.
+	*Diana	Nova	*female	8. A Roman goddess associated with the hunt, mentioned in the context of worship practices. | 9. A select goddess associated with the moon and hunting.
+	*Diverra	Alpha	*female	8. A Roman goddess associated with the besom, mentioned in the context of worship practices.
+	*Egeria	Nezumi	*female	9. A nymph who was said to be married to Numa Pompilius and helped him with sacred rites.
+	*Eve	Alice	female	15. First woman, created from Adam's rib. She was the mother of all living and together with Adam transgressed God's commandment by eating from the forbidden tree, bringing sin and death into the world.
+	*Felicitas	Sky	*female	9. A goddess associated with fortune and happiness, not considered among the select gods.
+	*Felicity	Siwis	*female	7. A personification of happiness or blessedness, described as a gift of God rather than a goddess. She is central to Augustine's argument about true happiness.
+	*Flora	Xiaoxiao	*female	4. A goddess mentioned by Cicero in the context of games celebrated to propitiate her, which were considered devout in proportion to their lewdness.
+	*Fulgora	Kore	*female	8. A Roman goddess, mentioned in the context of worship practices.
+	*Hagar	Aoede	*female	15. Servant of Abraham who bore Ishmael. She represents the bond woman in biblical allegory, contrasting with Sarah as a symbol of freedom versus bondage.
+	*Honour	Xiaoyi	*female	7. Personification of respect and dignity, worshipped by Romans alongside Virtue, used by Augustine to show Roman values.
+	*Hêrê	Dora	*female	12. A Greek goddess associated with the air and demons, who is contrasted with Christian martyrs.
+	*Intercidona	Xiaobei	*female	8. A Roman goddess associated with the hatchet, mentioned in the context of worship practices.
+	*Isis	Alloy	*female	10. The Egyptian goddess who was worshipped as a wife of Osiris and believed to bestow good things when propitious. | 12. An Egyptian goddess whose mysteries are mentioned in the text.
+	*Juno	Aoede	*female	3. A major goddess in Roman mythology, wife of Jupiter and queen of the gods. In the text, she is mentioned as having a temple in Troy that was not spared during the Greek siege. | 4. A goddess mentioned by Augustine as the one from whom Romans deduce their origin according to the flesh. She is contrasted with devils who grudge an everlasting seat to mankind. | 7. Roman goddess who was invoked in Virgil's poetry, used by Augustine to show Roman religious beliefs. | 8. A major Roman goddess, mentioned in the context of sacred rites and worship. | 8. A Roman goddess, mentioned in the context of worship practices. | 9. A select goddess associated with marriage and childbirth, identified as queen among the gods. | 12. A goddess associated with the air and demons, who is contrasted with the Christian martyrs.
+	*Libera	Xiaoxiao	*female	9. A goddess associated with the female aspect of seed emission, identified as Venus.
+	*Lucretia	Alice	*female	3. A noble Roman matron whose rape by Sextus Tarquinius led to her suicide. She is praised for her chastity but criticized for taking her own life. | 4. A Roman woman who was violated by the son of King Tarquin, leading to Brutus forcing her husband Collatinus to resign his office.
+	*Luna	Nicole	*female	9. A select goddess identified with the moon.
+	*Manturnæ	Kore	*female	8. A Roman goddess associated with marriage, mentioned in the context of worship practices.
+	*Mena	Tebukuro	*female	9. A goddess associated with menses, identified as Juno Lucina.
+	*Minerva	Lily	*female	3. The Roman goddess of wisdom, warfare, and crafts. In the text, she is mentioned as being defeated in Troy. | 9. A select goddess associated with wisdom and human arts.
+	*Nola	Heart	*female	3. A city in Italy that was sacked by barbarians. It is mentioned as the location where Paulinus, bishop of Nola, was captured.
+	*Nænia	Xiaobei	*female	8. A Roman goddess associated with death and funerals, mentioned in the context of worship practices.
+	*Olympias	Heart	female	10. Mother of Alexander who received a letter from him about Egyptian revelations. | 14. Alexander the Great's mother, to whom he wrote a letter about Egyptian chronology.
+	*Pecunia	Jessica	*female	9. A goddess associated with money, identified as a surname of Jupiter.
+	*Pertunda	Alpha	*female	8. A Roman goddess associated with marriage, mentioned in the context of worship practices.
+	*Phrygian mother	Bella	*female	12. A goddess whose image was moved by a woman's girdle.
+	*Populonia	Isabella	*female	8. A Roman goddess, mentioned in the context of worship practices.
+	*Prema	Beta	*female	8. A Roman goddess associated with marriage, mentioned in the context of worship practices.
+	*Proserpine	Emma	*female	8. A Roman goddess associated with the underworld, mentioned in the context of worship practices. | 9. A goddess associated with the underworld and fertility, identified as a part of the earth.
+	*Rome	Bella	*female	3. The Roman city that was sacked by barbarians. It is described as having been protected by Christian churches during the sack.
+	*Rumina	Emma	*female	8. A Roman goddess, mentioned in the context of worship practices. | 9. A goddess associated with nursing and nourishment, connected to Jupiter's surnames.
+	*Salacia	Beta	*female	8. A Roman goddess of the sea, mentioned in the context of worship practices. | 9. A goddess associated with the sea, wife of Neptune.
+	*Sarah	Lily	*female	15. Wife of Abraham and mother of Isaac, representing the free woman in biblical allegory. She is one of two women mentioned as figures for spiritual understanding.
+	*Segetia	Tebukuro	*female	7. Roman goddess of harvest, used by Augustine to show how divine providence works through both good and evil rulers.
+	*Tellus	Sara	*female	9. A select goddess identified with the earth, also called Mater Magna and Ops.
+	*Troy	Sarah	*female	3. The legendary city of Troy, which was destroyed by the Greeks. It is described as having been unable to protect its citizens in temples.
+	*Venilia	Gongitsune	*female	9. A goddess associated with waves, wife of Neptune.
+	*Venus	Nicole	*female	8. A Roman goddess associated with love and beauty, mentioned in the context of worship practices. | 9. A select goddess associated with love and fertility.
+	*Vesta	Xiaoyi	*female	9. A select goddess associated with the hearth and domestic fire.
+	*Vestal	Jessica	*female	4. A figure mentioned by Augustine in the context of a celestial country that has no vestal fire, contrasting with earthly Rome. | 12. A priestess who carried water in a sieve without any dropping.
+	*Virginiensis	Isabella	*female	8. A Roman goddess associated with virginity, mentioned in the context of worship practices.
+	*Virtue	Nezumi	*female	7. Personification of moral excellence, worshipped by Romans alongside Honour, used by Augustine to show Roman values.
+	*Virtus	Siwis	*female	9. A goddess associated with virtue, not considered among the select gods.
+	*Woman	Sarah	female	14. Created from Adam's side by God, she is the first wife and represents the bond between husband and wife. She is derived from man but not created separately like him.

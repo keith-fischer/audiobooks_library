@@ -1,0 +1,798 @@
+	narrator	XII
+	narrator	THE ADVENTURES OF SIR TRISTRAM
+	narrator	Again King Arthur held high festival at Caerleon, at Pentecost, and gathered round him all the fellowship of the Round Table
+	narrator	and so, according to his custom, sat and waited till some adventure should arise, or some knight return to court whose deeds and perils might
+	narrator	be told.
+	narrator	Anon he saw Sir Lancelot and a crowd of knights coming through the doors and leading in their midst the mighty knight
+	narrator	Sir Tristram.
+	narrator	As soon as King Arthur saw him, he rose up and went through half the hall, and held out both his hands and cried
+	king arthur	Right welcome to thee, good Sir Tristram, as welcome art thou as any knight that ever came before into this court. A long time have
+	king arthur	I wished for thee amongst my fellowship.
+	narrator	Then all the knights and barons rose up with one accord and came around, and cried out
+	narrator	Welcome.
+	narrator	Queen Guinevere came also, and many ladies with her, and all with one voice said the same.
+	narrator	Then the king took Sir Tristram by the hand and led him to the Round Table and said
+	king arthur	Welcome again for one of the best and gentlest knights in all the world; a chief in war
+	king arthur	a chief in peace, a chief in field and forest, a chief in the ladies' chamber--right heartily welcome to this court
+	king arthur	and mayest thou long abide in it.
+	narrator	When he had so said he looked at every empty seat until he came to what had been Sir Marhaus'
+	narrator	and there he found written in gold letters, "This is the seat of the noble knight, Sir Tristram." Whereat they made him
+	narrator	with great cheer and gladness, a Fellow of the Round Table.
+	narrator	Now the story of Sir Tristram was as follows:
+	narrator	There was a king of Lyonesse, named Meliodas, married to the sister of King Mark of Cornwall
+	narrator	a right fair lady and a good.
+	narrator	And so it happened that King Meliodas hunting in the woods was taken by enchantment and made prisoner in a castle.
+	narrator	When his wife Elizabeth heard it she was nigh mad with grief, and ran into the forest to seek out her lord.
+	narrator	But after many days of wandering and sorrow she found no trace of him, and laid her down in a deep valley and prayed to
+	narrator	meet her death.
+	narrator	And so indeed she did, but ere she died she gave birth in the midst of all her sorrow to child
+	narrator	a boy, and called him with her latest breath Tristram; for she said,
+	narrator	His name shall show how sadly he hath come into this world.
+	narrator	Therewith she gave up her ghost, and the gentlewoman who was with her took the child and wrapped it from the cold as well as
+	narrator	she was able
+	narrator	and lay down with it in her arms beneath the shadow of a tree hard by, expecting death to come to her in turn.
+	narrator	But shortly after came a company of lords and barons seeking for the queen, and found the lady and the child and took them home.
+	narrator	And on the next day came King Meliodas, whom Merlin had delivered, and when he heard of the queen's death his sorrow was greater than
+	narrator	tongue can tell.
+	narrator	And anon he buried her solemnly and nobly, and called the child Tristram as she had desired.
+	narrator	Then for seven years King Meliodas mourned and took no comfort, and all that time young Tristram was well nourished; but in a while he
+	narrator	wedded with the daughter of Howell
+	narrator	King of Brittany, who, that her own children might enjoy the kingdom, cast about in her mind how she might destroy Tristram.
+	narrator	So on a certain day she put poison in a silver cup, where Tristram and her children were together playing
+	narrator	that when he was athirst he might drink of it and die.
+	narrator	But so it happened that her own son saw the cup, and, thinking it must hold good drink
+	narrator	he climbed and took it, and drank deeply of it, and suddenly thereafter burst and fell down dead.
+	narrator	When the queen heard that, her grief was very great, but her anger and envy were fiercer than before
+	narrator	and soon again she put more poison in the cup.
+	narrator	And by chance one day her husband finding it when thirsty, took it up and was about to drink therefrom
+	narrator	when, seeing him, she sprang up with a mighty cry and dashed it from his hands.
+	narrator	At that King Meliodas, wondering greatly, called to mind the sudden death of his young child, and taking her fiercely by the hand he cried:
+	king meliodas	Traitress, tell me what drink is in this cup or I will slay thee in a moment;
+	narrator	and therewith pulling out his sword he swore by a great oath to slay her if she straightway told him not the truth.
+	narrator	"Ah, mercy, lord," said she, and fell down at his feet; "mercy, and I will tell thee all."
+	narrator	And then she told him of her plot to murder Tristram, so that her own sons might enjoy the kingdom.
+	narrator	"The law shall judge thee," said the king.
+	narrator	And so anon she was tried before the barons, and condemned to be burnt to death.
+	narrator	But when the fire was made, and she brought out, came Tristram kneeling at his father's feet and besought of him a favor.
+	narrator	"Whatsoever thou desirest I will give thee," said the king.
+	narrator	"Give me the life, then, of the queen, my step-mother," said he.
+	narrator	"Thou doest wrong to ask it," said Meliodas; "for she would have slain thee with her poisons if she could
+	narrator	and chiefly for thy sake she ought to die."
+	narrator	"Sir," said he, "as for that, I beseech thee of thy mercy to forgive it her, and for my part may God pardon her as
+	narrator	I do; and so I pray thee grant me my boon
+	narrator	and for God's sake hold thee to thy promise."
+	narrator	"If it must be so," said the king, "take thou her life, for to thee I give it
+	narrator	and go and do with her as thou wilt."
+	narrator	Then went young Tristram to the fire and loosed the queen from all her bonds and delivered her from death.
+	narrator	And after a great while by his good means the king again forgave and lived in peace with her
+	narrator	though never more in the same lodgings.
+	narrator	Anon was Tristram sent abroad to France in care of one named Governale.
+	narrator	And there for seven years he learned the language of the land, and all knightly exercises and gentle crafts
+	narrator	and especially was he foremost in music and in hunting, and was a harper beyond all others.
+	narrator	And when at nineteen years of age he came back to his father, he was as lusty and strong of body and as noble of
+	narrator	heart as ever man was seen.
+	narrator	Now shortly after his return it befell that King Anguish of Ireland sent to King Mark of Cornwall for the tribute due to Ireland
+	narrator	but which was now seven years behindhand.
+	narrator	To whom King Mark sent answer, if he would have it he must send and fight for it
+	narrator	and they would find a champion to fight against it.
+	narrator	So King Anguish called for Sir Marhaus, his wife's brother, a good knight of the Round Table
+	narrator	who lived then at his court, and sent him with a knightly retinue in six great ships to Cornwall.
+	narrator	And, casting anchor by the castle of Tintagil, he sent up daily to King Mark for the tribute or the champion.
+	narrator	But no knight there would venture to assail him, for his fame was very high in all the realm for strength and hardihood.
+	narrator	Then made King Mark a proclamation throughout Cornwall, that if any knight would fight Sir Marhaus he should stand at the king's right hand forevermore
+	narrator	and have great honor and riches all the rest of his days.
+	narrator	Anon this news came to the land of Lyonesse, and when young Tristram heard it he was angry and ashamed to think no knight of
+	narrator	Cornwall durst assail the Irish champion.
+	narrator	"Alas," said he, "that I am not a knight, that I might match this Marhaus! I pray you give me leave
+	narrator	sir, to depart to King Mark's court and beg him of his grace to make me knight."
+	narrator	"Be ruled by thy own courage," said his father.
+	narrator	So Tristram rode away forthwith to Tintagil to King Mark, and went up boldly to him and said
+	narrator	"Sir, give me the order of knighthood and I will fight to the uttermost with Sir Marhaus of Ireland."
+	narrator	"What are ye, and whence come ye?" said the king, seeing he was but a young man
+	narrator	though strong and well made both in body and limb.
+	narrator	"My name is Tristram," said he, "and I was born in the country of Lyonesse."
+	narrator	"But know ye," said the king, "this Irish knight will fight with none who be not come of royal blood and near of kin to
+	narrator	kings or queens
+	narrator	as he himself is, for his sister is the Queen of Ireland."
+	narrator	Then said Tristram, "Let him know that I am come both on my father's and my mother's side of blood as good as his
+	narrator	for my father is King Meliodas and my mother was that Queen Elizabeth, thy sister, who died in the forest at my birth."
+	narrator	When King Mark heard that he welcomed him with all his heart, and knighted him forthwith, and made him ready to go forth as soon
+	narrator	as he would choose
+	narrator	and armed him royally in armor covered with gold and silver.
+	narrator	Then he sent Sir Marhaus word, "That a better man than he should fight with him, Sir Tristram of Lyonesse
+	narrator	son of King Meliodas and of King Mark's own sister."
+	narrator	So the battle was ordained to be fought in an island near Sir Marhaus' ships, and there Sir Tristram landed on the morrow
+	narrator	with Governale alone attending him for squire, and him he sent back to the land when he had made himself ready.
+	narrator	When Sir Marhaus and Sir Tristram were thus left alone, Sir Marhaus said, "Young knight Sir Tristram
+	narrator	what doest thou here? I am full sorry for thy rashness, for ofttimes have I been assailed in vain
+	narrator	and by the best knights of the world. Be warned in time, return to them that sent thee."
+	narrator	"Fair knight, and well-proved knight," replied Sir Tristram, "be sure that I shall never quit this quarrel till one of us be overcome. For this
+	narrator	cause have I been made knight
+	narrator	and thou shalt know before we part that though as yet unproved, I am a king's son and firstborn of a queen. Moreover I have
+	narrator	promised to deliver Cornwall from this ancient burden
+	narrator	or to die. Also, thou shouldst have known, Sir Marhaus, that thy valor and thy might are but the better reasons why I should assail
+	narrator	thee; for whether I win or lose I shall gain honor to have met so great a knight as thou art."
+	narrator	Then they began the battle, and tilted at their hardest against each other, so that both knights and horses fell to the earth.
+	narrator	But Sir Marhaus' spear smote Sir Tristram a great wound in the side.
+	narrator	Then, springing up from their horses, they lashed together with their swords like two wild boars.
+	narrator	And when they had stricken together a great while they left off strokes and lunged at one another's breasts and visors; but seeing this availed
+	narrator	not they hurtled together again to bear each other down.
+	narrator	Thus fought they more than half the day, till both were sorely spent and blood ran from them to the ground on every side.
+	narrator	But by this time Sir Tristram remained fresher than Sir Marhaus and better winded, and with a mighty stroke he smote him such a buffet
+	narrator	as cut through his helm into his brain-pan
+	narrator	and there his sword stuck in so fast that thrice Sir Tristram pulled ere he could get it from his head.
+	narrator	Then fell Sir Marhaus down upon his knees, and the edge of Sir Tristram's sword broke off into his brain-pan.
+	narrator	And suddenly when he seemed dead, Sir Marhaus rose and threw his sword and shield away from him and ran and fled into his ship.
+	narrator	And Tristram cried out after him, "Aha! Sir knight of the Round Table, dost thou withdraw thee from so young a knight? it is a
+	narrator	shame to thee and all thy kin; I would rather have been hewn into a hundred pieces than have fled from thee."
+	narrator	But Sir Marhaus answered nothing, and sorely groaning fled away.
+	narrator	"Farewell, Sir knight, farewell," laughed Tristram, whose own voice now was hoarse and faint with loss of blood; "I have thy sword and shield in
+	narrator	my safe keeping
+	narrator	and will wear them in all places where I ride on my adventures, and before King Arthur and the Table Round."
+	narrator	Then was Sir Marhaus taken back to Ireland by his company; and as soon as he arrived his wounds were searched
+	narrator	and when they searched his head they found therein a piece of Tristram's sword; but all the skill of surgeons was in vain to move
+	narrator	it out.
+	narrator	So anon Sir Marhaus died.
+	narrator	But the queen, his sister, took the piece of sword-blade and put it safely by, for she thought that some day it might help her
+	narrator	to revenge her brother's death.
+	narrator	Meanwhile, Sir Tristram, being sorely wounded, sat down softly on a little mound and bled passing fast; and in that evil case was found anon
+	narrator	by Governale and King Mark's knights.
+	narrator	Then they gently took him up and brought him in a barge back to the land, and lifted him into a bed within the castle
+	narrator	and had his wounds dressed carefully.
+	narrator	But for a great while he lay sick, and was likely to have died of the first stroke Sir Marhaus had given him with the
+	narrator	spear
+	narrator	for the point of it was poisoned.
+	narrator	And, though the wisest surgeons and leeches--both men and women--came from every part, yet could he be by no means cured.
+	narrator	At last came a wise lady, and said plainly that Sir Tristram never should be healed, until he went and stayed in that same country
+	narrator	when the poison came.
+	narrator	When this was understood, the king sent Sir Tristram in a fair and goodly ship to Ireland
+	narrator	and by fortune he arrived fast by a castle where the king and queen were.
+	narrator	And as the ship was being anchored, he sat upon his bed and harped a merry lay
+	narrator	and made so sweet a music as was never equaled.
+	narrator	When the king heard that the sweet harper was a wounded knight, he sent for him, and asked his name.
+	speaker tristram	I am of the country of Lyonesse, and my name is Tramtrist;
+	narrator	for he dared not tell his true name lest the vengeance of the queen should fall upon him for her brother's death.
+	king anguish	Well,
+	king anguish	thou art right welcome here, and shalt have all the help this land can give thee; but be not anxious if I am at times
+	king anguish	cast down and sad
+	king anguish	for but lately in Cornwall the best knight in the world, fighting for my cause, was slain; his name was Sir Marhaus
+	king anguish	a knight of King Arthur's Round Table.
+	narrator	And then he told Sir Tristram all the story of Sir Marhaus' battle, and Sir Tristram made pretense of great surprise and sorrow
+	narrator	though he knew all far better than the king himself.
+	narrator	Then was he put in charge of the king's daughter, La Belle Isault, to be healed of his wound
+	narrator	and she was as fair and noble a lady as men's eyes might see.
+	narrator	And so marvelously was she skilled in medicine, that in a few days she fully cured him; and in return Sir Tramtrist taught her the
+	narrator	harp; so
+	narrator	before long, they two began to love each other greatly.
+	narrator	But at that time a heathen knight, Sir Palomedes, was in Ireland, and much cherished by the king and queen.
+	narrator	He also loved mightily La Belle Isault, and never wearied of making her great gifts, and seeking for her favor
+	narrator	and was ready even to be christened for her sake.
+	narrator	Sir Tramtrist therefore hated him out of measure, and Sir Palomedes was full of rage and envy against Tramtrist.
+	narrator	And so it befell that King Anguish proclaimed a great tournament to be held, the prize whereof should be a lady called the Lady of
+	narrator	the Launds
+	narrator	of near kindred to the king: and her the winner of the tournament should wed in three days afterwards
+	narrator	and possess all her lands.
+	narrator	When La Belle Isault told Sir Tristram of this tournament, he said,
+	sir tristram	Fair lady! I am yet a feeble knight, and but for thee had been a dead man now: what wouldest thou I should do? Thou
+	sir tristram	knowest well I may not joust.
+	la belle isault	Ah, Tramtrist,
+	la belle isault	why wilt thou not fight in this tournament? Sir Palomedes will be there, and will do his mightiest; and therefore be thou there
+	la belle isault	I pray thee, or else he will be winner of the prize.
+	sir tristram	Madam,
+	sir tristram	I will go, and for thy sake will do my best; but let me go unknown to all men; and do thou
+	sir tristram	I pray thee, keep my counsel, and help me to a disguise.
+	narrator	So on the day of jousting came Sir Palomedes, with a black shield, and overthrew many knights.
+	narrator	And all the people wondered at his prowess; for on the first day he put to the worse Sir Gawain
+	narrator	Sir Gaheris, Sir Agravaine, Sir Key, and many more from far and near.
+	narrator	And on the morrow he was conqueror again, and overthrew the king with a hundred knights and the King of Scotland.
+	narrator	But presently Sir Tramtrist rode up to the lists, having been let out at a privy postern of the castle
+	narrator	where none could see.
+	narrator	La Belle Isault had dressed him in white armor and given him a white horse and shield
+	narrator	and so he came suddenly into the field as it had been a bright angel.
+	narrator	As soon as Sir Palomedes saw him he ran at him with a great spear in rest
+	narrator	but Sir Tramtrist was ready, and at the first encounter hurled him to the ground.
+	narrator	Then there arose a great cry that the knight with the black shield was overthrown.
+	narrator	And Palomedes, sorely hurt and shamed, sought out a secret way and would have left the field; but Tramtrist watched him
+	narrator	and rode after him, and bade him stay, for he had not yet done with him.
+	narrator	Then did Sir Palomedes turn with fury, and lash at Sir Tramtrist with his sword; but at the first stroke Sir Tramtrist smote him to
+	narrator	the earth
+	narrator	and cried,
+	sir tristram	Do now all my commands, or take thy death.
+	narrator	Then he yielded to Sir Tristram's mercy, and promised to forsake La Belle Isault, and for twelve months to wear no arms or armor.
+	narrator	And rising up, he cut his armor off him into shreds with rage and madness, and turned and left the field: and Sir Tramtrist also
+	narrator	left the lists
+	narrator	and rode back to the castle through the postern gate.
+	narrator	Then was Sir Tramtrist long cherished by the King and Queen of Ireland, and ever with La Belle Isault.
+	narrator	But on a certain day, while he was bathing, came the queen with La Belle Isault by chance into his chamber
+	narrator	and saw his sword lie naked on the bed: anon she drew it from the scabbard and looked at it a long while
+	narrator	and both thought it a passing fair sword; but within a foot and a half of the end there was a great piece broken out
+	narrator	and while the queen was looking at the gap, she suddenly remembered the piece of sword-blade that was found in the brain-pan of her brother
+	narrator	Sir Marhaus.
+	narrator	Therewith she turned and cried, "By my faith, this is the felon knight who slew thy uncle!"
+	narrator	And running to her chamber she sought in her casket for the piece of iron from Sir Marhaus' head and brought it back
+	narrator	and fitted it in Tristram's sword; and surely did it fit therein as closely as it had been but yesterday broke out.
+	narrator	Then the queen caught the sword up fiercely in her hand, and ran into the room where Sir Tristram was yet in his bath
+	narrator	and making straight for him, had run him through the body, had not his squire, Sir Hebes
+	narrator	got her in his arms, and pulled the sword away from her.
+	narrator	Then ran she to the king, and fell upon her knees before him, saying,
+	queen isault	Lord and husband, thou hast here in thy house that felon knight who slew my brother Marhaus!
+	king mark	Who is it?
+	queen isault	It is Sir Tramtrist!
+	queen isault	whom Isault hath healed.
+	king mark	Alas!
+	king mark	I am full grieved thereat, for he is a good knight as ever I have seen in any field; but I charge thee leave thou
+	king mark	him
+	king mark	and let me deal with him.
+	narrator	Then the king went to Sir Tramtrist's chamber and found him all armed and ready to mount his horse
+	narrator	and said to him,
+	king mark	Sir Tramtrist, it is not to prove me against thee I come, for it were shameful of thy host to seek thy life. Depart in
+	king mark	peace
+	king mark	but tell me first thy name, and whether thou slewest my brother, Sir Marhaus.
+	narrator	Then Sir Tristram told him all the truth, and how he had hid his name, to be unknown in Ireland; and when he had ended
+	narrator	the king declared he held him in no blame.
+	king mark	Howbeit, I cannot for mine honor's sake retain thee at this court, for so I should displease my barons
+	king mark	and my wife, and all her kin.
+	sir tristram	Sir, I thank thee for the goodness thou hast shown me here, and for the great goodness my lady
+	sir tristram	thy daughter, hath shown me; and it may chance to be more for thy advantage if I live than if I die; for wheresoever I
+	sir tristram	may be
+	sir tristram	I shall ever seek thy service, and shall be my lady thy daughter's servant in all places
+	sir tristram	and her knight in right and wrong, and shall never fail to do for her as much as knight can do.
+	narrator	Then Sir Tristram went to La Belle Isault, and took his leave of her.
+	la belle isault	O gentle knight,
+	la belle isault	full of grief am I at your departing, for never yet I saw a man to love so well.
+	sir tristram	Madam,
+	sir tristram	I promise faithfully that all my life I shall be your knight.
+	narrator	Then Sir Tristram gave her a ring, and she gave him another, and after that he left her
+	narrator	weeping and lamenting, and went among the barons, and openly took his leave of them all, saying
+	sir tristram	Fair lords, it so befalleth that I now must depart hence; therefore, if there be any here whom I have offended or who is grieved
+	sir tristram	with me
+	sir tristram	let him now say it, and before I go I will amend it to the utmost of my power. And if there be but one
+	sir tristram	who would speak shame of me behind my back
+	sir tristram	let him say it now or never, and here is my body to prove it on--body against body.
+	narrator	And all stood still and said no word, though some there were of the queen's kindred who would have assailed him had they dared.
+	narrator	So Sir Tristram departed from Ireland and took the sea and came with a fair wind to Tintagil.
+	narrator	And when the news came to King Mark that Sir Tristram was returned, healed of his wound
+	narrator	he was passing glad, and so were all his barons.
+	narrator	And when he had visited the king his uncle, he rode to his father, King Meliodas, and there had all the heartiest welcome that could
+	narrator	be made him.
+	narrator	And both the king and queen gave largely to him of their lands and goods.
+	narrator	Anon he came again to King Mark's court, and there lived in great joy and pleasure, till within a while the king grew jealous of
+	narrator	his fame
+	narrator	and of the love and favor shown him by all damsels.
+	narrator	And as long as King Mark lived, he never after loved Sir Tristram, though there was much fair speech between them.
+	narrator	Then it befell upon a certain day that the good knight Sir Bleoberis de Ganis, brother to Sir Blamor de Ganis
+	narrator	and nigh cousin to Sir Lancelot of the Lake, came to King Mark's court and asked of him a favor.
+	narrator	And though the king marveled, seeing he was a man of great renown, and a knight of the Round Table
+	narrator	he granted him all his asking.
+	narrator	Then said Sir Bleoberis,
+	sir bleoberis de ganis	I will have the fairest lady in your court, at my own choosing.
+	king mark	I may not say thee nay,
+	king mark	choose therefore, but take all the issues of thy choice.
+	narrator	So when he had looked around, he chose the wife of Earl Segwarides, and took her by the hand
+	narrator	and set her upon horseback behind his squire, and rode forth on his way.
+	narrator	Presently thereafter came in the earl, and rode out straightway after him in rage.
+	narrator	But all the ladies cried out shame upon Sir Tristram that he had not gone, and one rebuked him foully and called him coward knight
+	narrator	that he would stand and see a lady forced away from his uncle's court.
+	narrator	But Sir Tristram answered her,
+	sir tristram	Fair lady, it is not my place to take part in this quarrel while her lord and husband is here to do it. Had he
+	sir tristram	not been at this court
+	sir tristram	peradventure I had been her champion. And if it so befall that he speed ill, then may it happen that I speak with that foul
+	sir tristram	knight before he pass out of this realm.
+	narrator	Anon ran in one of Sir Segwarides' squires, and told that his master was sore wounded, and at the point of death.
+	narrator	When Sir Tristram heard that, he was soon armed and on his horse, and Governale, his servant
+	narrator	followed him with shield and spear.
+	narrator	And as he rode, he met his cousin Sir Andret, who had been commanded by King Mark to bring home to him two knights of
+	narrator	King Arthur's court who roamed the country thereabouts seeking adventures.
+	sir tristram	What tidings?
+	sir andret	God help me, never worse,
+	sir andret	for those I went to bring have beaten and defeated me, and set my message at naught.
+	sir tristram	Fair cousin,
+	sir tristram	ride ye on your way, perchance if I should meet them ye may be revenged.
+	narrator	So Sir Andret rode into Cornwall, but Sir Tristram rode after the two knights who had misused him
+	narrator	namely, Sir Sagramour le Desirous, and Sir Dodinas le Savage.
+	narrator	And before long he saw them but a little way before him.
+	governale	Sir, by my advice thou wilt leave them alone, for they be two well-proved knights of Arthur's court.
+	sir tristram	Shall I not therefore rather meet them!
+	narrator	and, riding swiftly after them, he called to them to stop, and asked them whence they came
+	narrator	and whither they were going, and what they were doing in those marches.
+	sir sagramour le desirous	Fair knight, be ye a knight of Cornwall?
+	sir tristram	Wherefore askest thou that?
+	sir sagramour le desirous	Truly, because it is full seldom seen, that Cornish knights are valiant with their arms as with their tongues. It is but two hours since
+	sir sagramour le desirous	there met us such a Cornish knight
+	sir sagramour le desirous	who spoke great words with might and prowess, but anon, with little mastery, he was laid on earth
+	sir sagramour le desirous	as I trow wilt thou be also.
+	sir tristram	Fair lords, it may chance I be a better man than he; but, be that as it may
+	sir tristram	he was my cousin, and for his sake I will assail ye both; one Cornish knight against ye two.
+	narrator	When Sir Dodinas le Savage heard this speech, he caught at his spear and said,
+	sir dodinas le savage	Sir knight, keep well thyself;
+	narrator	and then they parted and came together as it had been thunder, and Sir Dodinas' spear split asunder; but Sir Tristram smote him with so
+	narrator	full a stroke as hurled him over his horse's crupper
+	narrator	and nearly brake his neck.
+	narrator	Sir Sagramour, seeing his fellow's fall, marveled who this new knight be, and dressed his spear, and came against Sir Tristram as a whirlwind; but
+	narrator	Sir Tristram smote him a mighty buffet
+	narrator	and rolled him with his horse down on the ground; and in the falling he brake his thigh.
+	narrator	Then, looking at them both as they lay groveling on the grass, Sir Tristram said,
+	sir tristram	Fair knights, will ye joust any more? Are there no bigger knights in King Arthur's court? Will ye soon again speak shame of Cornish knights?
+	sir sagramour le desirous	Thou hast defeated us, in truth, and on the faith of knighthood I require thee tell us thy right name?
+	sir tristram	Ye charge me by a great thing, and I will answer ye.
+	narrator	And when they heard his name the two knights were right glad that they had met Sir Tristram
+	narrator	for his deeds were known through all the land, and they prayed him to abide in their company.
+	sir tristram	Nay, I must find a fellow-knight of yours, Sir Bleoberis de Ganis, whom I seek.
+	narrator	God speed you well,
+	sir tristram	said the two knights; and Sir Tristram rode away.
+	narrator	Soon he saw before him in a valley Sir Bleoberis with Sir Segwarides' wife riding behind his squire upon a palfrey.
+	narrator	At that he cried out aloud,
+	sir tristram	Abide, Sir knight of King Arthur's court, bring back again that lady or deliver her to me.
+	sir bleoberis de ganis	I will not, for I dread no Cornish knight.
+	sir tristram	Why, may not a Cornish knight do well as any other? This day, but three miles back
+	sir tristram	two knights of thy own court met me, and found one Cornish knight enough for both before we parted.
+	sir bleoberis de ganis	What were their names?
+	sir tristram	Sir Sagramour le Desirous and Sir Dodinas le Savage.
+	sir bleoberis de ganis	Ah, hast thou then met with them? By my faith, they were two good knights and men of worship
+	sir bleoberis de ganis	and if thou hast beat both thou must needs be a good knight; but for all that
+	sir bleoberis de ganis	thou shalt beat me also ere thou hast this lady.
+	sir tristram	Defend thee, then,
+	narrator	cried out Sir Tristram, and came upon him swiftly with his spear in rest.
+	narrator	But Sir Bleoberis was as swift as he, and each bore down the other, horse and all
+	narrator	on to the earth.
+	narrator	Then they sprang clear of their horses, and lashed together full eagerly and mightily with their swords
+	narrator	tracing and traversing on the right hand and on the left more than two hours, and sometimes rushing together with such fury that they both
+	narrator	lay groveling on the ground.
+	narrator	At last Sir Bleoberis started back and said,
+	sir bleoberis de ganis	Now, gentle knight, hold hard awhile, and let us speak together.
+	sir tristram	Say on,
+	narrator	said Sir Tristram, "and I will answer thee."
+	sir bleoberis de ganis	Sir, I would know thy name, and court, and country.
+	sir tristram	I have no shame to tell them. I am King Meliodas' son, and my mother was sister to King Mark
+	sir tristram	from whose court I now come. My name is Sir Tristram de Lyonesse.
+	sir bleoberis de ganis	Truly, I am right glad to hear it, for thou art he that slew Sir Marhaus hand-to-hand
+	sir bleoberis de ganis	fighting for the Cornish tribute; and overcame Sir Palomedes at the great Irish tournament, where also thou didst overthrow Sir Gawain and his nine companions.
+	sir tristram	I am that knight, and now I pray thee tell me thy name.
+	sir bleoberis de ganis	I am Sir Bleoberis de Ganis, cousin of Sir Lancelot of the Lake, one of the best knights in all the world,
+	sir tristram	Thou sayest truth, for Sir Lancelot, as all men know, is peerless in courtesy and knighthood, and for the great love I bear to his
+	sir tristram	name I will not willingly fight more with thee his kinsman.
+	sir bleoberis de ganis	In good faith, sir, I am as loth to fight thee more; but since thou hast followed me to win this lady
+	sir bleoberis de ganis	I proffer thee kindness, courtesy, and gentleness; this lady shall be free to go with which of us she pleaseth best.
+	sir tristram	I am content, for I doubt not she will come to me.
+	narrator	That shalt thou shortly prove,
+	narrator	said he, and called his squire, and set the lady in the midst between them, who forthwith walked to Sir Bleoberis and elected to abide
+	narrator	with him.
+	narrator	Which, when Sir Tristram saw, he was in wondrous anger with her, and felt that he could scarce for shame return to King Mark's court.
+	sir bleoberis de ganis	Hearken to me, good knight, Sir Tristram, because King Mark gave me free choice of any gift
+	sir bleoberis de ganis	and because this lady chose to go with me, I took her; but now I have fulfilled my quest and my adventure
+	sir bleoberis de ganis	and for thy sake she shall be sent back to her husband at the abbey where he lieth.
+	narrator	So Sir Tristram rode back to Tintagil, and Sir Bleoberis to the abbey where Sir Segwarides lay wounded
+	narrator	and there delivered up his lady, and departed as a noble knight.
+	narrator	After this adventure Sir Tristram abode still at his uncle's court, till in the envy of his heart King Mark devised a plan to be
+	narrator	rid of him.
+	narrator	So on a certain day he desired him to depart again for Ireland, and there demand La Belle Isault on his behalf
+	narrator	to be his queen--forever had Sir Tristram praised her beauty and her goodness, till King Mark desired to wed her for himself.
+	narrator	Moreover, he believed his nephew surely would be slain by the queen's kindred if he once were found again in Ireland.
+	narrator	But Sir Tristram, scorning fear, made ready to depart, and took with him the noblest knights that could be found
+	narrator	arrayed in the richest fashion.
+	narrator	And when they were come to Ireland, upon a certain day Sir Tristram gave his uncle's message
+	narrator	and King Anguish consented thereto.
+	narrator	But when La Belle Isault was told the tidings she was very sorrowful and loth--yet made she ready to set forth with Sir Tristram
+	narrator	and took with her Dame Bragwaine, her chief gentlewoman.
+	narrator	Then the queen gave Dame Bragwaine, and Governale, Sir Tristram's servant, a little flask, and charged them that La Belle Isault and King Mark should
+	narrator	both drink of it on their marriage day
+	narrator	and then should they surely love each other all their lives.
+	narrator	Anon, Sir Tristram and Isault, with a great company, took the sea and departed.
+	narrator	And so it chanced that one day sitting in their cabin they were athirst, and saw a little flask of gold which seemed to hold
+	narrator	good wine.
+	sir tristram	Fair lady, this looketh to be the best of wines, and your maid, Dame Bragwaine, and my servant, Governale, have kept it for themselves.
+	narrator	Thereat they both laughed merrily, and drank each after other from the flask, and never before had they tasted any wine which seemed so good
+	narrator	and sweet.
+	narrator	But by the time they had finished drinking they loved each other so well that their love nevermore might leave them for weal or woe.
+	narrator	And thus it came to pass that though Sir Tristram might never wed La Belle Isault, he did the mightiest deeds of arms for her
+	narrator	sake only all his life.
+	narrator	Then they sailed onwards till they came to a castle called Pluere, where they would have rested.
+	narrator	But anon there ran forth a great company and took them prisoners.
+	narrator	And when they were in prison, Sir Tristram asked a knight and lady whom they found therein wherefore they were so shamefully dealt with;
+	sir tristram	for, said he, it was never the custom of any place of honor that I ever came unto to seize a knight and lady asking
+	sir tristram	shelter and thrust them into prison
+	sir tristram	and a full evil and discourteous custom is it.
+	knight	Sir, said the knight, know ye not that this is called the Castle Pluere, or the weeping castle
+	knight	and that it is an ancient custom here that whatsoever knight abideth in it must needs fight the lord of it
+	knight	Sir Brewnor, and he that is the weakest shall lose his head.
+	knight	And if the lady he hath with him be less fair than the lord's wife, she shall lose her head; but if she be fairer
+	knight	then must the lady of the castle lose her head.
+	sir tristram	Now Heaven help me, said Sir Tristram, but this is a foul and shameful custom.
+	sir tristram	Yet have I one advantage, for my lady is the fairest that doth live in all the world
+	sir tristram	so that I nothing fear for her; and as for me, I will full gladly fight for my own head in a fair field.
+	knight	Look ye be up betimes to-morrow, and make you ready and your lady.
+	narrator	And on the morrow came Sir Brewnor to Sir Tristram, and put him and Isault forth out of prison
+	narrator	and brought him a horse and armor, and bade him make ready, for all the commons and estates of that lordship waited in the field
+	narrator	to see and judge the battle.
+	narrator	Then Sir Brewnor, holding his lady by the hand, all muffled, came forth, and Sir Tristram went to meet him with La Belle Isault beside
+	narrator	him
+	narrator	muffled also.
+	sir brewnor	Sir knight, if thy lady be fairer than mine, with thy sword smite off my lady's head; but if my lady be fairer than thine
+	sir brewnor	with my sword I will smite off thy lady's head.
+	sir brewnor	And if I overcome thee thy lady shall be mine, and thou shalt lose thy head.
+	sir tristram	Sir knight, replied Sir Tristram, this is a right foul and felon custom, and rather than my lady shall lose her head will I lose
+	sir tristram	my own.
+	sir brewnor	Nay, said Sir Brewnor, but the ladies shall be now compared together and judgment shall be had.
+	sir tristram	I consent not, cried Sir Tristram, for who is here that will give rightful judgment?
+	sir tristram	Yet doubt not that my lady is far fairer than thine own, and that will I prove and make good.
+	narrator	Therewith Sir Tristram lifted up the veil from off La Belle Isault, and stood beside her with his naked sword drawn in his hand.
+	narrator	Then Sir Brewnor unmuffled his lady and did in like manner.
+	narrator	But when he saw La Belle Isault he knew that none could be so fair, and all there present gave their judgment so.
+	sir tristram	Because thou and thy lady have long used this evil custom, and have slain many good knights and ladies
+	sir tristram	it were a just thing to destroy thee both.
+	sir brewnor	In good sooth, thy lady is fairer than mine, and of all women I never saw any so fair. Therefore
+	sir brewnor	slay my lady if thou wilt, and I doubt not but I shall slay thee and have thine.
+	sir tristram	Thou shalt win her, as dearly as ever knight won lady; and because of thy own judgment and of the evil custom that thy lady
+	sir tristram	hath consented to
+	sir tristram	I will slay her as thou sayest.
+	narrator	And therewithal Sir Tristram went to him and took his lady from him, and smote off her head at a stroke.
+	sir brewnor	Now take thy horse,
+	narrator	cried out Sir Brewnor, "for since I have lost my lady I will win thine and have thy life."
+	narrator	So they took their horses and came together as fast as they could fly, and Sir Tristram lightly smote Sir Brewnor from his horse.
+	narrator	But he rose right quickly, and when Sir Tristram came again he thrust his horse through both the shoulders
+	narrator	so that it reeled and fell.
+	narrator	But Sir Tristram was light and nimble, and voided his horse, and rose up and dressed his shield before him
+	narrator	though meanwhile, ere he could draw out his sword, Sir Brewnor gave him three or four grievous strokes.
+	narrator	Then they rushed furiously together like two wild boars, and fought hurtling and hewing here and there for nigh two hours
+	narrator	and wounded each other full sorely.
+	narrator	Then at the last Sir Brewnor rushed upon Sir Tristram and took him in his arms to throw him
+	narrator	for he trusted greatly in his strength.
+	narrator	But Sir Tristram was at that time called the strongest and biggest knight of the world; for he was bigger than Sir Lancelot
+	narrator	though Sir Lancelot was better breathed.
+	narrator	So anon he thrust Sir Brewnor groveling to the earth, and then unlaced his helm and struck off his head.
+	narrator	Then all they that belonged to the castle came and did him homage and fealty, and prayed him to abide there for a season and
+	narrator	put an end to that foul custom.
+	narrator	But within a while he departed and came to Cornwall, and there King Mark was forthwith wedded to La Belle Isault with great joy and
+	narrator	splendor.
+	narrator	And Sir Tristram had high honor, and ever lodged at the king's court.
+	narrator	But for all he had done him such services King Mark hated him, and on a certain day he set two knights to fall upon
+	narrator	him as he rode in the forest.
+	narrator	But Sir Tristram lightly smote one's head off, and sorely wounded the other, and made him bear his fellow's body to the king.
+	narrator	At that the king dissembled and hid from Sir Tristram that the knights were sent by him; yet more than ever he hated him in
+	narrator	secret
+	narrator	and sought to slay him.
+	narrator	So on a certain day, by the assent of Sir Andret, a false knight, and forty other knights
+	narrator	Sir Tristram was taken prisoner in his sleep and carried to a chapel on the rocks above the sea to be cast down.
+	narrator	But as they were about to cast him in, suddenly he brake his bonds asunder, and rushing at Sir Andret
+	narrator	took his sword and smote him down therewith.
+	narrator	Then, leaping down the rocks where none could follow, he escaped them.
+	narrator	But one shot after him and wounded him full sorely with a poisoned arrow in the arm.
+	narrator	Anon, his servant Governale, with Sir Lambegus, sought him and found him safe among the rocks, and told him that King Mark had banished him
+	narrator	and all his followers to avenge Sir Andret's death.
+	narrator	So they took ship and came to Brittany.
+	narrator	Now Sir Tristram, suffering great anguish from his wound, was told to seek Isoude, the daughter of the King of Brittany
+	narrator	for she alone could cure such wounds.
+	narrator	Wherefore he went to King Howell's court, and said,
+	sir tristram	Lord, I am come into this country to have help from thy daughter, for men tell me none but she may help me.
+	narrator	And Isoude gladly offering to do her best, within a month he was made whole.
+	narrator	While he abode still at that court, an earl named Grip made war upon King Howell, and besieged him; and Sir Kay Hedius
+	narrator	the king's son, went forth against him, but was beaten in battle and sore wounded.
+	narrator	Then the king praying Sir Tristram for his help, he took with him such knights as he could find
+	narrator	and on the morrow, in another battle, did such deeds of arms that all the land spake of him.
+	narrator	For there he slew the earl with his own hands, and more than a hundred knights besides.
+	narrator	When he came back King Howell met him, and saluted him with every honor and rejoicing that could be thought of
+	narrator	and took him in his arms, and said,
+	king howell	Sir Tristram, all my kingdom will I resign to thee.
+	sir tristram	Nay,
+	narrator	answered he, "God forbid, for truly am I beholden to you forever for your daughter's sake."
+	narrator	Then the king prayed him to take Isoude in marriage, with a great dower of lands and castles.
+	narrator	To this Sir Tristram presently consenting anon they were wedded at the court.
+	narrator	But within a while Sir Tristram greatly longed to see Cornwall, and Sir Kay Hedius desired to go with him.
+	narrator	So they took ship; but as soon as they were at sea the wind blew them upon the coast of North Wales
+	narrator	nigh to Castle Perilous, hard by a forest wherein were many strange adventures ofttimes to be met.
+	narrator	Then said Sir Tristram to Sir Kay Hedius,
+	sir tristram	Let us prove some of them ere we depart.
+	narrator	So they took their horses and rode forth.
+	narrator	When they had ridden a mile or more, Sir Tristram spied a goodly knight before him well armed
+	narrator	who sat by a clear fountain with a strong horse near him, tied to an oak-tree.
+	narrator	"Fair sir," said he, when they came near,
+	sir tristram	ye seem to be a knight errant by your arms and harness, therefore make ready now to joust with one of us, or both.
+	narrator	Thereat the knight spake not, but took his shield and buckled it round his neck, and leaping on his horse caught a spear from his
+	narrator	squire's hand.
+	narrator	Then said Sir Kay Hedius to Sir Tristram,
+	sir kay hedius	Let me assay him.
+	sir tristram	Do thy best.
+	narrator	So the two knights met, and Sir Kay Hedius fell sorely wounded in the breast.
+	sir tristram	Thou hast well jousted,
+	narrator	cried Sir Tristram to the knight; "now make ready for me!"
+	narrator	"I am ready," answered he, and encountered him, and smote him so heavily that he fell down from his horse.
+	narrator	Whereat, being ashamed, he put his shield before him, and drew his sword, crying to the strange knight to do likewise.
+	narrator	Then they fought on foot for well nigh two hours, till they were both weary.
+	sir tristram	In all my life I never met a knight so strong and well-breathed as ye be. It were a pity we should further hurt each
+	sir tristram	other. Hold thy hand
+	sir tristram	fair knight, and tell me thy name.
+	sir lamoracke	That will I, if thou wilt tell me thine.
+	sir tristram	My name, said he, is Sir Tristram of Lyonesse.
+	sir lamoracke	And mine, Sir Lamoracke of Gaul.
+	narrator	Then both cried out together, "Well met;" and Sir Lamoracke said, "Sir for your great renown, I will that ye have all the worship of
+	narrator	this battle
+	narrator	and therefore will I yield me unto you." And therewith he took his sword by the point to yield him.
+	sir tristram	Nay, ye shall not do so, for well I know ye do it of courtesy, and not of dread." And therewith he offered his sword
+	sir tristram	to Sir Lamoracke
+	sir tristram	saying, "Sir, as an overcome knight, I yield me unto you as unto the man of noblest powers I have ever met with.
+	sir lamoracke	Hold, let us now swear together nevermore to fight against each other.
+	narrator	Then did they swear as he said.
+	narrator	Then Sir Tristram returned to Sir Kay Hedius, and when he was whole of his wounds, they departed together in a ship
+	narrator	and landed on the coast of Cornwall.
+	narrator	And when they came ashore, Sir Tristram eagerly sought news of La Belle Isault.
+	narrator	And one told him in mistake that she was dead.
+	narrator	Whereat, for sore and grievous sorrow, he fell down in a swoon, and so lay for three days and nights.
+	narrator	When he awoke therefrom he was crazed, and ran into the forest and abode there like a wild man many days; whereby he waxed lean
+	narrator	and weak of body
+	narrator	and would have died, but that a hermit laid some meat beside him as he slept.
+	narrator	Now in that forest was a giant named Tauleas, who, for fear of Tristram, had hid himself within a castle
+	narrator	but when they told him he was mad, came forth and went at large again.
+	narrator	And on a certain day he saw a knight of Cornwall, named Sir Dinaunt, pass by with a lady
+	narrator	and when he had alighted by a well to rest, the giant leaped out from his ambush
+	narrator	and took him by the throat to slay him.
+	narrator	But Sir Tristram, as he wandered through the forest, came upon them as they struggled; and when the knight cried out for help
+	narrator	he rushed upon the giant, and taking up Sir Dinaunt's sword, struck off therewith the giant's head
+	narrator	and straightway disappeared among the trees.
+	narrator	Anon, Sir Dinaunt took the head of Tauleas, and bare it with him to the court of King Mark
+	narrator	whither he was bound, and told of his adventures.
+	narrator	"Where had ye this adventure?" said King Mark.
+	sir dinaunt	At a fair fountain in thy forest," answered he.
+	king mark	I would fain see that wild man," said the king.
+	narrator	So within a day or two he commanded his knights to a great hunting in the forest.
+	narrator	And when the king came to the well, he saw a wild man lying there asleep, having a sword beside him; but he knew not
+	narrator	that it was Sir Tristram.
+	narrator	Then he blew his horn, and summoned all his knights to take him gently up and bear him to the court.
+	narrator	And when they came thereto they bathed and washed him, and brought him somewhat to his right mind.
+	narrator	Now La Belle Isault knew not that Sir Tristram was in Cornwall; but when she heard that a wild man had been found in the
+	narrator	forest
+	narrator	she came to see him.
+	narrator	And so sorely was he changed, she knew him not.
+	narrator	"Yet," said she to Dame Bragwaine, "in good faith I seem to have beheld him ofttimes before."
+	narrator	As she thus spoke a little hound, which Sir Tristram had given her when she first came to Cornwall
+	narrator	and which was ever with her, saw Sir Tristram lying there, and leapt upon him, licking his hands and face
+	narrator	and whined and barked for joy.
+	la belle isault	Alas, cried out La Belle Isault, "it is my own true knight, Sir Tristram.
+	narrator	And at her voice Sir Tristram's senses wholly came again, and wellnigh he wept for joy to see his lady living.
+	narrator	But never would the hound depart from Tristram; and when King Mark and other knights came up to see him
+	narrator	it sat upon his body and bayed at all who came too near.
+	narrator	Then one of the knights said, "Surely this is Sir Tristram; I see it by the hound."
+	king mark	Nay, said the king, "it cannot be," and asked Sir Tristram on his faith who he was.
+	sir tristram	My name, said he, is Sir Tristram of Lyonesse, and now ye may do what ye list with me.
+	king mark	It repents me that ye are recovered," said the king, and sought to make his barons slay him. But most of them would not assent
+	king mark	thereto
+	king mark	and counseled him instead to banish Tristram for ten years again from Cornwall, for returning without orders from the king. So he was sworn to
+	king mark	depart forthwith.
+	narrator	And as he went towards the ship a knight of King Arthur, named Sir Dinadan, who sought him
+	narrator	came and said, "Fair knight, ere that you pass out of this country, I pray you joust with me!"
+	sir tristram	With a good will," said he.
+	narrator	Then they ran together, and Sir Tristram lightly smote him from his horse.
+	narrator	Anon he prayed Sir Tristram's leave to bear him company, and when he had consented they rode together to the ship.
+	narrator	Then was Sir Tristram full of bitterness of heart, and said to all the knights who took him to the shore
+	narrator	"Greet well King Mark and all mine enemies from me, and tell them I will come again when I may. Well am I now rewarded
+	narrator	for slaying Sir Marhaus
+	narrator	and delivering this kingdom from its bondage, and for the perils wherewithal I brought La Belle Isault from Ireland to the king
+	narrator	and rescued her at the Castle Pluere, and for the slaying of the giant Tauleas, and all the other deeds that I have done for
+	narrator	Cornwall and King Mark." Thus angrily and passing bitterly he spake
+	narrator	and went his way.
+	narrator	And after sailing awhile the ship stayed at a landing-place upon the coast of Wales; and there Sir Tristram and Sir Dinadan alighted
+	narrator	and on the shore they met two knights, Sir Ector and Sir Bors.
+	narrator	And Sir Ector encountered with Sir Dinadan and smote him to the ground; but Sir Bors would not encounter with Sir Tristram
+	sir bors	For,
+	narrator	said he, "no Cornish knights are men of worship."
+	narrator	Thereat Sir Tristram was full wroth, but presently there met them two more knights, Sir Bleoberis and Sir Driant;
+	narrator	and Sir Bleoberis proffered to joust with Sir Tristram, who shortly smote him down.
+	sir bors	I had not thought,
+	narrator	cried out Sir Bors, "that any Cornish knight could do so valiantly."
+	narrator	Then Sir Tristram and Sir Dinadan departed, and rode into a forest, and as they rode a damsel met them
+	narrator	who for Sir Lancelot's sake was seeking any noble knights to rescue him.
+	narrator	For Queen Morgan le Fay, who hated him, had ordered thirty men-at-arms to lie in ambush for him as he passed
+	narrator	with the intent to kill him.
+	narrator	So the damsel prayed them to rescue him.
+	sir tristram	Bring me to that place, fair damsel.
+	sir dinadan	It is not possible for us to meet with thirty knights! I will take no part in such a hardihood
+	sir dinadan	for to match one or two or three knights is enough; but to match fifteen I will never assay.
+	sir tristram	For shame,
+	narrator	replied Sir Tristram, "do but your part."
+	sir dinadan	That will I not,
+	narrator	said he; "wherefore, I pray ye, lend me your shield, for it is of Cornwall, and because men of that country are deemed cowards
+	narrator	ye are but little troubled as ye ride with knights to joust with."
+	sir tristram	Nay,
+	narrator	said Sir Tristram, "I will never give my shield up for her sake who gave it me; but if thou wilt not stand by me
+	narrator	to-day I will surely slay thee; for I ask no more of thee than to fight one knight
+	narrator	and if thy heart will not serve thee that much, thou shalt stand by and look on me and them."
+	sir dinadan	Would God that I had never met with ye!
+	narrator	cried Sir Dinadan; "but I promise to look on and do all that I may to save myself."
+	narrator	Anon they came to where the thirty knights lay waiting, and Sir Tristram rushed upon them, saying
+	sir tristram	Here is one who fights for love of Lancelot!
+	narrator	Then slew he two of them at the first onset with his spear, and ten more swiftly after with his sword.
+	narrator	At that Sir Dinadan took courage, and assailed the others with him, till they turned and fled.
+	narrator	But Sir Tristram and Sir Dinadan rode on till nightfall, and meeting with a shepherd, asked him if he knew of any lodging thereabouts.
+	shepherd	Truly, fair lords,
+	narrator	said he, "there is good lodging in a castle hard by, but it is a custom there that none shall lodge therein save ye first
+	narrator	joust with two knights
+	narrator	and as soon as ye be within, ye shall find your match."
+	sir dinadan	That is an evil lodging,
+	narrator	said Sir Dinadan; "lodge where ye will, I will not lodge there."
+	sir tristram	Shame on thee!
+	narrator	said Sir Tristram; "art thou a knight at all?"
+	narrator	Then he required him on his knighthood to go with him, and they rode together to the castle.
+	narrator	As soon as they were near, two knights came out and ran full speed against them; but both of them they overthrew
+	narrator	and went within the castle, and had noble cheer.
+	narrator	Now, when they were unarmed and ready to take rest, there came to the castle-gate two knights
+	narrator	Sir Palomedes and Sir Gaheris, and desired the custom of the castle.
+	sir dinadan	I would far rather rest than fight,
+	narrator	said Sir Dinadan.
+	sir tristram	That may not be,
+	narrator	replied Sir Tristram, "for we must needs defend the custom of the castle, seeing we have overcome its lords; therefore
+	narrator	make ready."
+	sir dinadan	Alas that I ever came into your company,
+	narrator	said Sir Dinadan.
+	narrator	So they made ready, and Sir Gaheris encountered Sir Tristram and fell before him; but Sir Palomedes overthrew Sir Dinadan.
+	narrator	Then would all fight on foot save Sir Dinadan, for he was sorely bruised and frighted by his fall.
+	narrator	And when Sir Tristram prayed him to fight,
+	sir dinadan	I will not,
+	narrator	answered he, "for I was wounded by those thirty knights with whom we fought this morning; and as to you
+	narrator	ye are in truth like one gone mad, and who would cast himself away! There be but two knights in the world so mad
+	narrator	and the other is Sir Lancelot, with whom I once rode forth, who kept me evermore at battling so that for a quarter of a
+	narrator	year thereafter I lay in my bed. Heaven defend me again from either of your fellowships!"
+	sir tristram	Well,
+	narrator	said Sir Tristram, "if it must be, I will fight them both."
+	narrator	Therewith he drew his sword and assailed Sir Palomedes and Sir Gaheris together; but Sir Palomedes said
+	sir palomedes	Nay, but it is a shame for two to fight with one.
+	narrator	So he bade Sir Gaheris stand by, and he and Sir Tristram fought long together; but in the end Sir Tristram drave him backward
+	narrator	whereat Sir Gaheris and Sir Dinadan with one accord sundered them.
+	narrator	Then Sir Tristram prayed the two knights to lodge there; but Dinadan departed and rode away into a priory hard by
+	narrator	and there he lodged that night.
+	narrator	And on the morrow came Sir Tristram to the priory to find him, and seeing him so weary that he could not ride
+	narrator	he left him, and departed.
+	narrator	At that same priory was lodged Sir Pellinore, who asked Sir Dinadan Sir Tristram's name, but could not learn it
+	narrator	for Sir Tristram had charged that he should remain unknown.
+	sir pellinore	Since ye will not tell it me, I will ride after him and find it myself.
+	sir dinadan	Beware, Sir knight,
+	narrator	said Sir Dinadan, "ye will repent it if ye follow him."
+	narrator	But Sir Pellinore straightway mounted and overtook him, and cried to him to joust; whereat Sir Tristram forthwith turned and smote him down; and wounded
+	narrator	him full sorely in the shoulder.
+	narrator	On the day after, Sir Tristram met a herald, who told him of a tournament proclaimed between King Carados of Scotland
+	narrator	and the King of North Wales, to be held at the Maiden's Castle.
+	narrator	Now King Carados sought Sir Lancelot to fight there on his side, and the King of North Wales sought Sir Tristram.
+	narrator	And Sir Tristram purposed to be there.
+	narrator	So as he rode, he met Sir Key, the seneschal, and Sir Sagramour, and Sir Key proffered to joust with him.
+	narrator	But he refused, desiring to keep himself unwearied for the tourney.
+	sir key	Sir knight of Cornwall, joust with me, or yield as recreant.
+	narrator	When Sir Tristram heard that, he fiercely turned and set his spear in rest, and spurred his horse towards him.
+	narrator	But when Sir Key saw him so madly coming on, he in his turn refused, whereat Sir Tristram called him coward
+	narrator	till for shame he was compelled to meet him.
+	narrator	Then Sir Tristram lightly smote him down, and rode away.
+	narrator	But Sir Sagramour pursued him, crying loudly to joust with him also.
+	narrator	So Sir Tristram turned and quickly overthrew him likewise, and departed.
+	narrator	Anon a damsel met him as he rode, and told him of a knight adventurous who did great harm thereby
+	narrator	and prayed him for his help.
+	narrator	But as he went with her he met Sir Gawain, who knew the damsel for a maiden of Queen Morgan le Fay.
+	narrator	Knowing, therefore, that she needs must have evil plots against Sir Tristram, Sir Gawain demanded of him courteously whither he went.
+	sir tristram	I know not whither, save as this damsel leadeth me.
+	sir gawain	Sir, ye shall not ride with her, for she and her lady never yet did good to any;
+	narrator	and, drawing his sword, he said to the damsel, "Tell me now straightway for what cause thou leadest this knight
+	narrator	or else shalt thou die; for I know of old thy lady's treason."
+	damsel	Mercy, Sir Gawain, and I will tell thee all.
+	narrator	Then she told him that Queen Morgan had ordained thirty fair damsels to seek out Sir Lancelot and Sir Tristram
+	narrator	and by their wiles persuade them to her castle, where she had thirty knights in wait to slay them.
+	sir gawain	Oh shame! That ever such foul treason should be wrought by a queen, and a king's sister.
+	sir gawain	Sir knight, if ye will stand with me, we will together prove the malice of these thirty knights.
+	sir tristram	I will not fail you, for but few days since I had to do with thirty knights of that same queen
+	sir tristram	and trust we may win honor as lightly now as then.
+	narrator	So they rode together, and when they came to the castle, Sir Gawain cried aloud, "Queen Morgan le Fay
+	narrator	send out thy knights that we may fight with them."
+	narrator	Then the queen urged her knights to issue forth, but they durst not, for they well knew Sir Tristram
+	narrator	and feared him greatly.
+	narrator	So Sir Tristram and Sir Gawain went on their way, and as they rode they saw a knight
+	narrator	named Sir Brewse-without-pity, chasing a lady, with intent to slay her.
+	narrator	Then Sir Gawain prayed Sir Tristram to hold still and let him assail that knight.
+	narrator	So he rode up between Sir Brewse and the lady, and cried, "False knight, turn thee to me and leave that lady."
+	narrator	Then Sir Brewse turned and set his spear in rest, and rushed against Sir Gawain and overthrew him
+	narrator	and rode his horse upon him as he lay, which when Sir Tristram saw, he cried, "Forbear that villainy," and galloped at him.
+	narrator	But when Sir Brewse saw by the shield it was Sir Tristram, he turned and fled.
+	narrator	And though Sir Tristram followed swiftly after him, yet he was so well horsed that he escaped.
+	narrator	Anon Sir Tristram and Sir Gawain came nigh the Maiden's Castle, and there an old knight named Sir Pellonnes gave them lodging.
+	narrator	And Sir Persides, the son of Sir Pellonnes, a good knight, came out to welcome them.
+	narrator	And, as they stood talking at a bay window of the castle, they saw a goodly knight ride by on a black horse
+	narrator	and carrying a black shield.
+	sir tristram	What knight is that?
+	sir persides	One of the best knights in all the world.
+	sir tristram	Is he Sir Lancelot?
+	sir persides	Nay, it is Sir Palomedes, who is yet unchristened.
+	narrator	Within a while one came and told them that a knight with a black shield had smitten down thirteen knights.
+	sir tristram	Let us go and see this jousting.
+	narrator	So they armed themselves and went down.
+	narrator	And when Sir Palomedes saw Sir Persides, he sent a squire to him and proffered him to joust.
+	narrator	So they jousted, and Sir Persides was overthrown.
+	narrator	Then Sir Tristram made ready to joust, but ere he had his spear in rest, Sir Palomedes took him at advantage
+	narrator	and struck him on the shield so that he fell.
+	narrator	At that Sir Tristram was wroth out of measure and sore ashamed, wherefore he sent a squire and prayed Sir Palomedes to joust once again.
+	narrator	But he would not, saying, "Tell thy master to revenge himself to-morrow at the Maiden's Castle, where he shall see me again."
+	narrator	So on the morrow Sir Tristram commanded his servant to give him a black shield with no cognizance thereon
+	narrator	and he and Sir Persides rode into the tournament and joined King Carados' side.
+	narrator	Then the knights of the King of North Wales came forth, and there was a great fighting and breaking of spears
+	narrator	and overthrow of men and horses.
+	narrator	Now King Arthur sat above in a high gallery to see the tourney and give the judgment
+	narrator	and Sir Lancelot sat beside him.
+	narrator	Then came against Sir Tristram and Sir Persides, two knights with them of North Wales, Sir Bleoberis and Sir Gaheris; and Sir Persides was smitten
+	narrator	down and nigh slain
+	narrator	for four horsemen rode over him.
+	narrator	But Sir Tristram rode against Sir Gaheris and smote him from his horse, and when Sir Bleoberis next encountered him
+	narrator	he overthrew him also.
+	narrator	Anon they horsed themselves again, and with them came Sir Dinadan, whom Sir Tristram forthwith smote so sorely
+	narrator	that he reeled off his saddle.
+	sir dinadan	Ah! Sir knight, I know ye better than ye deem, and promise nevermore to come against ye.
+	narrator	Then rode Sir Bleoberis at him the second time, and had a buffet that felled him to the earth.
+	narrator	And soon thereafter the king commanded to cease for that day, and all men marveled who Sir Tristram was
+	narrator	for the prize of the first day was given him in the name of the Knight of the Black Shield.
+	narrator	Now Sir Palomedes was on the side of the King of North Wales, but knew not Sir Tristram again.
+	narrator	And, when he saw his marvelous deeds, he sent to ask his name.
+	sir tristram	As to that, he shall not know at this time, but tell him he shall know when I have broken two spears upon him
+	sir tristram	for I am the knight he smote down yesterday, and whatever side he taketh, I will take the other.
+	narrator	So when they told him that Sir Palomedes would be on King Carados' side--for he was kindred to King Arthur--"Then will I be on the
+	narrator	King of North Wales' side," said he
+	narrator	"but else would I be on my lord King Arthur's."
+	narrator	Then on the morrow, when King Arthur was come, the heralds blew unto the tourney.
+	narrator	And King Carados jousted with the King of a Hundred Knights and fell before him, and then came in King Arthur's knights and bare back
+	narrator	those of North Wales.
+	narrator	But anon Sir Tristram came to aid them and bare back the battle, and fought so mightily that none could stand against him
+	narrator	for he smote down on the right and on the left, so that all the knights and common people shouted his praise.
+	king arthur	Since I bare arms, never saw I a knight do more marvelous deeds.
+	narrator	Then the King of the Hundred Knights and those of North Wales set upon twenty knights who were of Sir Lancelot's kin
+	narrator	who fought all together, none failing the others.
+	narrator	When Sir Tristram beheld their nobleness and valor, he marveled much.
+	sir tristram	Well may he be valiant and full of prowess, who hath such noble knights for kindred.
+	narrator	So, when he had looked on them awhile, he thought it shame to see two hundred men assailing twenty
+	narrator	and riding to the King of a Hundred Knights, he said, "I pray thee, Sir king, leave your fighting with those twenty knights
+	narrator	for ye be too many and they be too few. For ye shall gain no honor if ye win
+	narrator	and that I see verily ye will not do unless ye slay them; but if ye will not stay
+	narrator	I will ride with them and help them."
+	king of a hundred knights	Nay, ye shall not do so; for full gladly I will do your courtesy,
+	narrator	and with that he withdrew his knights.
+	narrator	Then Sir Tristram rode his way into the forest, that no man might know him.
+	narrator	And King Arthur caused the heralds to blow that the tourney should end that day, and he gave the King of North Wales the prize
+	narrator	because Sir Tristram was on his side.
+	narrator	And in all the field there was such a cry that the sound thereof was heard two miles away--"The knight with the black shield hath
+	narrator	won the field."
+	king arthur	Alas! where is that knight? it is shame to let him thus escape us.
+	king arthur	Then he comforted his knights, and said, "Be not dismayed, my friends, howbeit ye have lost the day; be of good cheer; to-morrow I myself
+	king arthur	will be in the field
+	king arthur	and fare with you." So they all rested that night.
+	narrator	And on the morrow the heralds blew unto the field.
+	narrator	So the King of North Wales and the King of a Hundred Knights encountered with King Carados and the King of Ireland
+	narrator	and overthrew them.
+	narrator	With that came King Arthur, and did mighty deeds of arms, and overthrew the King of North Wales and his fellows
+	narrator	and put twenty valiant knights to the worse.
+	narrator	Anon came in Sir Palomedes, and made great fight upon King Arthur's side.
+	narrator	But Sir Tristram rode furiously against him, and Sir Palomedes was thrown from his horse.
+	king arthur	Knight of the Black Shield, keep thyself.
+	narrator	And as he spake he came upon him, and smote him from his saddle to the ground
+	narrator	and so passed on to other knights.
+	narrator	Then Sir Palomedes having now another horse rushed at Sir Tristram, as he was on foot, thinking to run over him.
+	narrator	But he was aware of him, and stepped aside, and grasped Sir Palomedes by the arms, and pulled him off his horse.
+	narrator	Then they rushed together with their swords, and many stood still to gaze on them.
+	narrator	And Sir Tristram smote Sir Palomedes with three mighty strokes upon the helm, crying at each stroke
+	narrator	"Take this for Sir Tristram's sake," and with that Sir Palomedes fell to the earth.
+	narrator	Anon the King of North Wales brought Sir Tristram another horse, and Sir Palomedes found one also.
+	narrator	Then did they joust again with passing rage, for both by now were like mad lions.
+	narrator	But Sir Tristram avoided his spear, and seized Sir Palomedes by the neck, and pulled him from his saddle
+	narrator	and bore him onward ten spears' length, and so let him fall.
+	narrator	Then King Arthur drew forth his sword and smote the spear asunder, and gave Sir Tristram two or three sore strokes ere he could get
+	narrator	at his own sword.
+	narrator	But when he had it in his hand he mightily assailed the king.
+	narrator	With that eleven knights of Lancelot's kin went forth against him, but he smote them all down to the earth
+	narrator	so that men marveled at his deeds.
+	narrator	And the cry was now so great that Sir Lancelot got a spear in his hand,
+	sir lancelot	Knight with the black shield, make ready.
+	narrator	When Sir Tristram heard him he leveled his spear,
+	narrator	and both stooping their heads, they ran together mightily, as it had been thunder.
+	narrator	And Sir Tristram's spear brake short, but Sir Lancelot struck him with a deep wound in the side and broke his spear
+	narrator	yet overthrew him not.
+	narrator	Therewith Sir Tristram, smarting at his wound, drew forth his sword, and rushing at Sir Lancelot, gave him mighty strokes upon the helm
+	narrator	so that the sparks flew from it, and Sir Lancelot stooped his head down to the saddle-bow.
+	narrator	But then Sir Tristram turned and left the field, for he felt his wound so grievous that he deemed he should soon die.
+	narrator	Then did Sir Lancelot hold the field against all comers, and put the King of North Wales and his party to the worse.
+	narrator	And because he was the last knight in the field the prize was given him.
+	narrator	But he refused to take it, and when the cry was raised, "Sir Lancelot hath won the day," he cried out
+	sir lancelot	Nay, but Sir Tristram is the victor, for he first began and last endured, and so hath he done each day.
+	narrator	And all men honored Lancelot more for his knightly words than if he had taken the prize.
+	narrator	This was the tournament ended, and King Arthur departed to Caerleon, for the Whitsun feast was now nigh come
+	narrator	and all the knights adventurous went their ways.
+	narrator	And many sought Sir Tristram in the forest whither he had gone, and at last Sir Lancelot found him
+	narrator	and brought him to King Arthur's court, as hath been told already.

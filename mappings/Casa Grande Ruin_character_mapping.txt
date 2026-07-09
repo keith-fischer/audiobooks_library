@@ -1,0 +1,34 @@
+	narrator	Adam	male	Story narrator
+	Bartlett	Kumo	*male	1. John Russell Bartlett who published a comprehensive description of the Casa Grande ruin in his 'Personal Narrative' in 1854
+	Castaneda	George	*male	1. Spanish chronicler who described the Casa Grande ruins during Coronado's expedition in 1540
+	Font	Michael	*male	1. Padre who made a journey to Gila and Colorado rivers in 1775-1776 and provided a detailed description of the Casa Grande ruin
+	Mange	Santa	*male	1. Secretary and companion of Father Kino who recorded a description of the Casa Grande ruin in 1697 | 2. A Spanish observer who saw the Casa Grande ruin with Padre Font in 1697. He described the walls as shining like Puebla pottery, providing early testimony about the fine finish of the structure's interior walls that was still visible in his time.
+	*A. F. Bandelier	Psi	*male	4. Scholar who described Casa Grande and its Pima tradition, mentioned in the index
+	*A. von Humboldt	Fable	*male	4. Scholar who commented on dimensions of Casa Grande, mentioned in the index
+	*Adobe	Psi	*male	4. A person mentioned in the index, likely a historical figure or researcher associated with Casa Grande
+	*Bandelier	Fable	*male	1. A. F. Bandelier who studied the documentary history of the southwest and wrote about the Casa Grande ruin
+	*Capt. Johnston	Fenrir	*male	4. Person who visited Casa Grande, mentioned in the index
+	*Carlo Traverso	Lewis	*male	1. Producer of the distributed proofreading project for the Casa Grande ruin text
+	*Chichilticale	Echo	*male	4. Person or figure described in relation to Casa Grande, mentioned in the index
+	*Cosmos Mindeleff	Puck	*male	1. Author of the Casa Grande ruin report and archaeological researcher
+	*Cushing	Eric	*male	1. F. H. Cushing who presented preliminary notes on southwestern archaeology and mentioned the Casa Grande
+	*Emory	Daniel	*male	1. Colonel who passed through the Gila valley and provided a description of the Casa Grande ruin
+	*Eusebio Kino	Daniel	*male	4. Person who visited Casa Grande, mentioned in the index
+	*F. H. Cushing	Onyx	*male	4. Scholar who made allusions to Casa Grande and southwestern sun-temples, mentioned in the index
+	*Fewkes	Liam	*male	1. J. Walter Fewkes who reported on the present condition of the Casa Grande ruin and published detailed illustrations
+	*Frank Hamilton Cushing	Echo	*male	2. An archaeologist who conducted excavations of structures in the Casa Grande area and identified hollow mounds as potential sun-temples. He proposed that these structures were covered with grass roofs similar to pueblo baskets, though this interpretation remains debated among scholars.
+	*J. R. Bartlett	Nicola	*male	4. Cited author or researcher mentioned in the index
+	*J. W. Fewkes	Liam	*male	4. Scholar who described Casa Grande, mentioned in the index
+	*Johnston	Fenrir	*male	1. Captain who provided a description and sketch of the Casa Grande ruin
+	*Juan M. Mange	Alex	*male	4. Person who commented on Casa Grande, mentioned in the index
+	*Kino	Alex	*male	1. Jesuit Father who visited the Casa Grande ruin in 1694
+	*Mr. Bandelier	Nicola	male	3. A scholar intimately acquainted with the documentary history of the southwest and knowledgeable about Pima traditions. He collected Pima traditions and wrote about them, suggesting a connection between the Casa Grande and the Pima Indians.
+	*Padre Font	Omega	*male	2. A Spanish missionary who visited the Casa Grande area in 1776 and provided early measurements of the ruin. His description was copied by later writers, though his measurements were incorrectly applied to the ruin itself rather than to the surrounding area. Font's account was influential in early documentation of the site, though his interpretation has been questioned by later researchers.
+	*Padre Kino	Onyx	*male	2. A Spanish missionary who visited the Casa Grande area in the late 17th century. He noted that the structure was already a ruin at that time, indicating it had been abandoned for some time before his visit. His observations provide important historical context about the site's abandonment and its condition during the colonial period.
+	*Pedro Font	Eric	*male	4. Person who provided an account of Casa Grande, mentioned in the index
+	*Ternaux-Compans	Lewis	*male	4. Translator who worked on Castaneda's account, mentioned in the index
+	*V. Mindeleff	Puck	*male	4. Person who commented on pueblo farming outlooks, mentioned in the index
+	*W. H. Emory	Omega	*male	4. Person who visited Casa Grande, mentioned in the index
+	*Bibliotheque nationale de France	River	*female	1. French national library that provided images for the digital proofreading project
+	*Casa Grande	Nezumi	*female	2. A large adobe ruin structure located near the southwestern corner of the Casa Grande group, built in a late period of Pueblo occupation. The structure is characterized by its three central rooms arranged side by side, with two additional rooms at the northern and southern ends. It features three stories in its central room, with walls reaching 28-30 feet above ground level. The ruin is notable for its well-preserved walls and unique construction methods using rammed earth blocks, though it lacks any trace of molded adobe brick. The structure was built in the late prehistoric period and represents one of the best preserved examples of a type of architecture found primarily in the Gila valley.
+	*Louise Hope	Alloy	*female	1. Producer of the distributed proofreading project for the Casa Grande ruin text

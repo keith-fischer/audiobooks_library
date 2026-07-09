@@ -1,0 +1,929 @@
+	narrator	After these things Merlin fell into a dotage of love for a damsel of the lady of the lake
+	narrator	and would let her have no rest, but followed her in every place.
+	narrator	And ever she encouraged him, and made him welcome till she had learned all his crafts that she desired to know.
+	narrator	Then upon a time she went with him beyond the sea to the land of Benwicke, and as they went he showed her many wonders
+	narrator	till at length she was afraid, and would fain have been delivered from him.
+	narrator	And as they were in the forest of Broceliande, they sat together under an oak-tree, and the damsel prayed to see all that charm whereby
+	narrator	men might be shut up yet alive in rocks or trees.
+	narrator	But he refused her a long time, fearing to let her know, yet in the end, her prayers and kisses overcame him
+	narrator	and he told her all.
+	narrator	Then did she make him great cheer, but anon, as he lay down to sleep, she softly rose
+	narrator	and walked about him waving her hands and muttering the charm, and presently enclosed him fast within the tree whereby he slept.
+	narrator	And therefrom nevermore he could by any means come out for all the crafts that he could do.
+	narrator	And so she departed and left Merlin.
+	narrator	At the vigil of the next Feast of Pentecost, when all the Knights of the Round Table were met together at Camelot
+	narrator	and had heard mass, and were about to sit down to meat, there rode into the hall a fair lady on horseback
+	narrator	who went straight up to King Arthur where he sat upon his throne, and reverently saluted him.
+	king arthur	God be with thee, fair damsel, what desirest thou of me?
+	damsel of the lake	I pray thee tell me, lord, where Sir Lancelot is.
+	king arthur	Yonder may ye see him.
+	damsel of the lake	Sir, I salute thee in King Pelles' name, and require thee to come with me into the forest hereby.
+	sir lancelot	Then asked he her with whom she dwelt, and what she wished of him.
+	damsel of the lake	I dwell with King Pelles, whom Balin erst so sorely wounded when he smote the dolorous stroke. It is he who hath sent me to
+	damsel of the lake	call thee.
+	sir lancelot	I will go with thee gladly, and bade his squire straightway saddle his horse and bring his armor.
+	queen guinevere	Sir Lancelot, will ye leave me thus at this high feast?
+	damsel of the lake	Madam, by dinner-time to-morrow he shall be with you.
+	queen guinevere	If I thought not, he should not go with thee by my goodwill.
+	narrator	Then Sir Lancelot and the lady rode forth till they came to the forest, and in a valley thereof found an abbey of nuns
+	narrator	whereby a squire stood ready to open the gates.
+	narrator	When they had entered, and descended from their horses, a joyful crowd pressed round Sir Lancelot and heartily saluted him
+	narrator	and led him to the abbess's chamber, and unarmed him.
+	narrator	Anon he saw his cousins likewise there, Sir Bors and Sir Lionel, who also made great joy at seeing him
+	narrator	and said, "By what adventure art thou here, for we thought to have seen thee at Camelot to-morrow?"
+	sir lancelot	A damsel brought me here, but as yet I know not for what service.
+	narrator	As they thus talked twelve nuns came in, who brought with them a youth so passing fair and well made
+	narrator	that in all the world his match could not be found.
+	narrator	His name was Galahad, and though he knew him not, nor Lancelot him, Sir Lancelot was his father.
+	narrator	"Sir," said the nuns, "we bring thee here this child whom we have nourished from his youth
+	narrator	and pray thee to make him a knight, for from no worthier hand can he receive that order."
+	sir lancelot	Cometh this desire from himself?
+	sir galahad	Yea, and all the nuns.
+	sir lancelot	To-morrow, then, in reverence for the feast, he shall have his wish.
+	narrator	And the next day at the hour of prime, he knighted him, and said, "God make of thee as good a man as He hath
+	narrator	made thee beautiful."
+	narrator	Then with Sir Lionel and Sir Bors he returned to the court, and found all gone to the minster to hear service.
+	narrator	When they came into the banquet-hall each knight and baron found his name written in some seat in letters of gold
+	narrator	as "here ought to sit Sir Lionel," "here ought to sit Sir Gawain,"--and so forth.
+	narrator	And in the Perilous Seat, at the high center of the table, a name was also written
+	narrator	whereat they marveled greatly, for no living man had ever yet dared sit upon that seat, save one
+	narrator	and him a flame leaped forth and drew down under earth, so that he was no more seen.
+	narrator	Then came Sir Lancelot and read the letters in that seat, and said, "My counsel is that this inscription be now covered up until the
+	narrator	knight be come who shall achieve this great adventure." So they made a veil of silk and put it over the letters.
+	narrator	In the meanwhile came Sir Gawain to the court and told the king he had a message to him from beyond the sea
+	narrator	from Merlin.
+	sir gawain	For, as I rode through the forest of Broceliande but five days since, I heard the voice of Merlin speaking to me from the midst
+	sir gawain	of an oak-tree
+	sir gawain	whereat, in great amazement, I besought him to come forth. But he, with many groans, replied he never more might do so
+	sir gawain	for that none could free him, save the damsel of the Lake, who had enclosed him there by his own spells which he had taught
+	sir gawain	her. 'But go,' said he
+	sir gawain	'to King Arthur, and tell him, that he now prepare his knights and all his Table Round to seek the Sangreal
+	sir gawain	for the time is come when it shall be achieved.
+	narrator	When Sir Gawain had spoken thus, King Arthur sat pensive in spirit, and mused deeply of the Holy Grail and what saintly knight should come
+	narrator	who might achieve it.
+	narrator	Anon he bade them hasten to set on the banquet.
+	narrator	"Sir," said Sir Key, the seneschal, "if we go now to meat ye will break the ancient custom of your court
+	narrator	for never have ye dined at this high feast till ye have seen some strange adventure."
+	narrator	Thou sayest truly,
+	king arthur	but my mind was full of wonders and musings, till I bethought me not of mine old custom.
+	narrator	As they stood speaking thus, a squire ran in and cried,
+	squire	Lord, I bring thee marvelous tidings.
+	king arthur	What be they?
+	squire	Lord, hereby at the river is a marvelous great stone, which I myself saw swim down hither-wards upon the water
+	squire	and in it there is set a sword, and ever the stone heaveth and swayeth on the water
+	squire	but floateth down no further with the stream.
+	king arthur	I will go and see it,
+	narrator	So all the knights went with him, and when they came to the river, there surely found they a mighty stone of red marble floating
+	narrator	on the water
+	narrator	as the squire had said, and therein stuck a fair and rich sword, on the pommel whereof were precious stones wrought skillfully with gold into
+	narrator	these words:
+	narrator	"No man shall take me hence but he by whose side I should hang, and he shall be the best knight in the world."
+	king arthur	When the king read this, he turned round to Sir Lancelot, and said,
+	king arthur	Fair sir, this sword ought surely to be thine, for thou art the best knight in all the world.
+	sir lancelot	Certainly, sir, it is not for me; nor will I have the hardihood to set my hand upon it. For he that toucheth it and
+	sir lancelot	faileth to achieve it shall one day be wounded by it mortally. But I doubt not
+	sir lancelot	lord, this day will show the greatest marvels that we yet have seen, for now the time is fully come
+	sir lancelot	as Merlin hath forewarned us, when all the prophecies about the Sangreal shall be fulfilled.
+	narrator	Then stepped Sir Gawain forward and pulled at the sword, but could not move it, and after him Sir Percival
+	narrator	to keep him fellowship in any peril he might suffer.
+	narrator	But no other knight durst be so hardy as to try.
+	sir key	Now may ye go to your dinner, for a marvelous adventure ye have had.
+	narrator	So all returned from the river, and every knight sat down in his own place, and the high feast and banquet then was sumptuously begun
+	narrator	and all the hall was full of laughter and loud talk and jests, and running to and fro of squires who served their knights
+	narrator	and noise of jollity and mirth.
+	narrator	Then suddenly befell a wondrous thing, for all the doors and windows of the hall shut violently of themselves
+	narrator	and made thick darkness; and presently there came a fair and gentle light from out the Perilous Seat
+	narrator	and filled the palace with its beams.
+	narrator	Then a dead silence fell on all the knights, and each man anxiously beheld his neighbor.
+	king arthur	Lords and fair knights, have ye no fear, but rejoice; we have seen strange things to-day, but stranger yet remain. For now I know we
+	king arthur	shall to-day see him who may sit in the Siege Perilous
+	king arthur	and shall achieve the Sangreal. For as ye all well know, that holy vessel, wherefrom at the Supper of our Lord before His death He
+	king arthur	drank the wine with His disciples
+	king arthur	hath been held ever since the holiest treasure of the world, and wheresoever it hath rested peace and prosperity have rested with it on the
+	king arthur	land. But since the dolorous stroke which Balin gave King Pelles none have seen it
+	king arthur	for Heaven, wroth with that presumptuous blow, hath hid it none know where. Yet somewhere in the world it still may be
+	king arthur	and may be it is left to us, and to this noble order of the Table Round
+	king arthur	to find and bring it home, and make of this our realm the happiest in the earth. Many great quests and perilous adventures have ye
+	king arthur	all taken and achieved
+	king arthur	but this high quest he only shall attain who hath clean hands and a pure heart, and valor and hardihood beyond all other men.
+	narrator	While the king spoke there came in softly an old man robed all in white, leading with him a young knight clad in red from
+	narrator	top to toe
+	narrator	but without armor or shield, and having by his side an empty scabbard.
+	old man	Lord, here I bring thee this young knight of royal lineage, and of the blood of Joseph of Arimathea
+	old man	by whom the marvels of thy court shall fully be accomplished.
+	king arthur	Sir, ye be right heartily welcome, and the young knight also.
+	old man	This place is thine.
+	narrator	Then the old man put on Sir Galahad (for it was he) a crimson robe trimmed with fine ermine
+	narrator	and took him by the hand and led him to the Perilous Seat, and lifting up the silken cloth which hung upon it
+	narrator	read these words written in gold letters,
+	narrator	"This is the seat of Sir Galahad, the good knight."
+	sir galahad	Sir, ye may now go your way, for ye have done well and truly all ye were commanded
+	sir galahad	and commend me to my grandsire, King Pelles, and say that I shall see him soon.
+	narrator	So the old man departed with a retinue of twenty noble squires.
+	narrator	But all the knights of the Round Table marveled at Sir Galahad, and at his tender age
+	narrator	and at his sitting there so surely in the Perilous Seat.
+	king arthur	Here,
+	narrator	said he, "is as great a marvel as I ever saw, and right good knights have tried and failed to gain that sword."
+	sir galahad	I marvel not thereat,
+	narrator	said Galahad, "for this adventure is not theirs, but mine; and for the certainty I had thereof
+	narrator	I brought no sword with me, as thou mayst see here by this empty scabbard."
+	narrator	Anon he laid his hand upon the sword, and lightly drew it from the stone, and put it in his sheath
+	narrator	and said,
+	sir galahad	This sword was that enchanted one which erst belonged to the good knight, Sir Balin, wherewith he slew through piteous mistake his brother Balan; who
+	sir galahad	also slew him at the same time: all which great woe befell him through the dolorous stroke he gave my grandsire
+	sir galahad	King Pelles, the wound whereof is not yet whole, nor shall be till I heal him.
+	narrator	As he stood speaking thus, they saw a lady riding swiftly down the river's bank towards them
+	narrator	on a white palfrey, who, saluting the king and queen, said,
+	damsel of the lake	Lord king, Nacien the hermit sendeth thee word that to thee shall come to-day the greatest honor and worship that hath yet ever befallen a
+	damsel of the lake	king of Britain; for this day shall the Sangreal appear in thy house.
+	narrator	With that the damsel took her leave, and departed the same way she came.
+	narrator	"Now," said the king, "I know that from to-day the quest of the Sangreal shall begin, and all ye of the Round Table will be
+	narrator	scattered so that nevermore shall I see ye again together as ye are now; let me then see a joust and tournament amongst ye for
+	narrator	the last time before ye go."
+	narrator	So they all took their harness and met together in the meadows by Camelot, and the queen and all her ladies sat in a tower
+	narrator	to see.
+	narrator	Then Sir Galahad, at the prayer of the king and queen, put on a coat of light armor
+	narrator	and a helmet, but shield he would take none, and grasping a lance, he drove into the middle of the press of knights
+	narrator	and began to break spears marvelously, so that all men were full of wonder.
+	narrator	And in so short a time he had surmounted and exceeded the rest, save Sir Lancelot and Sir Percival
+	narrator	that he took the chief worship of the field.
+	narrator	Then the king and all the court and fellowship of knights went back to the palace, and so to evensong in the great minster
+	narrator	a royal and goodly company, and after that sat down to supper in the hall, every knight in his own seat
+	narrator	as they had been before.
+	narrator	Anon suddenly burst overhead the cracking and crying of great peals of thunder, till the palace walls were shaken sorely
+	narrator	and they thought to see them riven all to pieces.
+	narrator	And in the midst of the blast there entered in a sunbeam, clearer by seven times than ever they saw day
+	narrator	and a marvelous great glory fell upon them all.
+	narrator	Then each knight, looking on his neighbor, found his face fairer than he had ever seen, and so--all standing on their feet--they gazed as dumb
+	narrator	men on each other
+	narrator	not knowing what to say.
+	narrator	Then entered into the hall the Sangreal, borne aloft without hands through the midst of the sunbeam
+	narrator	and covered with white samite, so that none might see it.
+	narrator	And all the hall was filled with perfume and incense, and every knight was fed with the food he best loved.
+	narrator	And when the holy vessel had been thus borne through the hall, it suddenly departed, no man saw whither.
+	narrator	When they recovered breath to speak, King Arthur first rose up, and yielded thanks to God and to our Lord.
+	narrator	Then Sir Gawain sprang up and said, "Now have we all been fed by miracle with whatsoever food we thought of or desired; but with
+	narrator	our eyes we have not seen the blessed vessel whence it came
+	narrator	so carefully and preciously it was concealed. Therefore, I make a vow, that from to-morrow I shall labor twelve months and a day in quest
+	narrator	of the Sangreal
+	narrator	and longer if need be; nor will I come again into this court until mine eyes have seen it evidently."
+	narrator	When he had spoken thus, knight after knight rose up and vowed himself to the same quest
+	narrator	till the most part of the Round Table had thus sworn.
+	narrator	But when King Arthur heard them all, he could not refrain his eyes from tears, and said
+	narrator	"Sir Gawain, Sir Gawain, thou hast set me in great sorrow, for I fear me my true fellowship shall never meet together here again; and
+	narrator	surely never Christian king had such a company of worthy knights around his table at one time."
+	narrator	And when the queen and her ladies and gentlewomen heard the vows, they had such grief and sorrow as no tongue could tell; and Queen
+	narrator	Guinevere cried out
+	narrator	"I marvel that my lord will suffer them to depart from him." And many of the ladies who loved knights would have gone with them
+	narrator	but were forbidden by the hermit Nacien, who sent this message to all who had sworn themselves to the quest: "Take with ye no lady
+	narrator	nor gentlewoman
+	narrator	for into so high a service as ye go in, no thought but of our Lord and heaven may enter."
+	narrator	On the morrow morning all the knights rose early, and when they were fully armed, save shields and helms
+	narrator	they went in with the king and queen to service in the minster.
+	narrator	Then the king counted all who had taken the adventure on themselves, and found them a hundred and fifty knights of the Round Table; and
+	narrator	so they all put on their helms
+	narrator	and rode away together in the midst of cries and lamentations from the court, and from the ladies
+	narrator	and from all the town.
+	narrator	But the queen went alone to her chamber, that no man might see her sorrow; and Sir Lancelot followed her to say farewell.
+	queen guinevere	Oh, Sir Lancelot, thou hast betrayed me; thou hast put me to death thus to depart and leave my lord the king.
+	sir lancelot	Ah, madam, be not displeased or angry, for I shall come again as soon as I can with honor.
+	queen guinevere	Alas! That ever I saw thee; but He that suffered death upon the cross for all mankind be to thee safety and good conduct
+	queen guinevere	and to all thy company.
+	narrator	Then Sir Lancelot saluted her and the king, and went forth with the rest, and came with them that night to Castle Vagon
+	narrator	where they abode, and on the morrow they departed from each other on their separate ways, every knight taking the way that pleased him best.
+	narrator	Now Sir Galahad went forth without a shield, and rode so four days without adventure; and on the fourth day
+	narrator	after evensong, he came to an abbey of white monks, where he was received in the house
+	narrator	and led into a chamber.
+	narrator	And there he was unarmed, and met two knights of the Round Table, King Bagdemagus, and Sir Uwaine.
+	sir galahad	Sirs, what adventure hath brought ye here?
+	king bagdemagus	Within this place, as we are told, there is a shield no man may bear around his neck without receiving sore mischance
+	king bagdemagus	or death within three days.
+	king bagdemagus	To-morrow, I shall attempt the adventure; and if I fail, do thou, Sir Galahad, take it up after me.
+	sir galahad	I will willingly; for as ye see I have no shield as yet.
+	narrator	So on the morrow they arose and heard mass, and afterwards King Bagdemagus asked where the shield was kept.
+	narrator	Then a monk led him behind the altar, where the shield hung, as white as any snow
+	narrator	and with a blood-red cross in the midst of it.
+	monk	Sir, this shield should hang from no knight's neck unless he be the worthiest in the world. I warn ye
+	monk	therefore, knights; consider well before ye dare to touch it.
+	king bagdemagus	Well, I know well that I am far from the best knight in all the world, yet shall I make the trial
+	narrator	and so he took the shield, and bore it from the monastery.
+	king bagdemagus	If it please thee, sir, abide here till thou hearest how I speed.
+	sir galahad	I will abide thee.
+	narrator	Then taking with him a squire who might return with any tidings to Sir Galahad, the king rode forth; and before he had gone two
+	narrator	miles
+	narrator	he saw in a fair valley a hermitage, and a knight who came forth dressed in white armor
+	narrator	horse and all, who rode fast against him.
+	narrator	When they encountered, Bagdemagus brake his spear upon the White Knight's shield, but was himself struck through the shoulder with a sore wound
+	narrator	and hurled down from his horse.
+	narrator	Then the White Knight alighting, came and took the white shield from the king, and said,
+	white knight	Thou hast done great folly, for this shield ought never to be borne but by one who hath no living peer.
+	white knight	Bear thou this shield to the good knight, Sir Galahad, and greet him well from me.
+	squire	In whose name shall I greet him?
+	white knight	Take thou no heed of that; it is not for thee or any earthly man to know.
+	squire	Now tell me, fair sir, at the least, why may this shield be never borne except its wearer come to injury or death?
+	white knight	Because it shall belong to no man save its rightful owner, Galahad.
+	narrator	Then the squire went to his master, and found him wounded nigh to death, wherefore he fetched his horse
+	narrator	and bore him back with him to the abbey.
+	narrator	And there they laid him in a bed, and looked to his wounds; and when he had lain many days grievously sick
+	narrator	he at the last barely escaped with his life.
+	squire	Sir Galahad, the knight who overthrew King Bagdemagus sent you greeting, and bade you bear this shield.
+	sir galahad	Now blessed be God and fortune,
+	narrator	and hung the shield about his neck, and armed him, and rode forth.
+	narrator	Anon he met the White Knight by the hermitage, and each saluted courteously the other.
+	sir galahad	Sir, this shield I bear hath surely a full marvelous history.
+	white knight	Thou sayest rightly,
+	narrator	answered he.
+	narrator	"That shield was made in the days of Joseph of Arimathea, the gentle knight who took our Lord down from the cross. He
+	narrator	when he left Jerusalem with his kindred, came to the country of King Evelake, who warred continually with one Tollome; and when
+	narrator	by the teaching of Joseph, King Evelake became a Christian, this shield was made for him in our Lord's name; and through its aid King
+	narrator	Tollome was defeated. For when King Evelake met him next in battle
+	narrator	he hid it in a veil, and suddenly uncovering it, he showed his enemies the figure of a bleeding man nailed to a cross
+	narrator	at sight of which they were discomfited and fled. Presently after that, a man whose hand was smitten off touched the cross upon the shield
+	narrator	and had his hand restored to him; and many other miracles it worked. But suddenly the cross that was upon it vanished away. Anon both
+	narrator	Joseph and King Evelake came to Britain
+	narrator	and by the preaching of Joseph the people were made Christians. And when at length he lay upon his death-bed
+	narrator	King Evelake begged of him some token ere he died. Then, calling for his shield, he dipped his finger in his own blood
+	narrator	for he was bleeding fast, and none could staunch the wound, and marked that cross upon it
+	narrator	saying, 'This cross shall ever show as bright as now, and the last of my lineage shall wear this shield about his neck
+	narrator	and go forth to all the marvelous deeds he will achieve.'"
+	narrator	When the White Knight had thus spoken he vanished suddenly away, and Sir Galahad returned to the abbey.
+	narrator	As he alighted, came a monk, and prayed him to go see a tomb in the churchyard
+	narrator	wherefrom came such a great and hideous noise, that none could hear it but they went nigh mad
+	narrator	or lost all strength.
+	narrator	"And, sir," said he, "I deem it is a fiend."
+	sir galahad	Lead me thither.
+	narrator	When they were come near the place, "Now," said the monk, "go thou to the tomb, and lift it up."
+	narrator	And Galahad, nothing afraid, quickly lifted up the stone, and forthwith came out a foul smoke, and from the midst thereof leaped up the loathliest
+	narrator	figure that ever he had seen in the likeness of man; and Galahad blessed himself
+	narrator	for he knew it was a fiend of hell.
+	narrator	Then he heard a voice crying out, "Oh, Galahad, I cannot tear thee as I would; I see so many angels round thee
+	narrator	that I may not come at thee."
+	narrator	Then the fiend suddenly disappeared with a marvelous great cry; and Sir Galahad, looking in the tomb
+	narrator	saw there a body all armed, with a sword beside it.
+	narrator	"Now, fair brother," said he to the monk, "let us remove this cursed body, which is not fit to lie in a churchyard
+	narrator	for when it lived, a false and perjured Christian man dwelt in it. Cast it away, and there shall come no more hideous noises from
+	narrator	the tomb."
+	sir galahad	And now must I depart, for I have much in hand, and am upon the holy quest of the Sangreal, with many more good knights.
+	narrator	So he took his leave, and rode many journeys backwards and forwards as adventure would lead him; and at last one day he departed from
+	narrator	a castle without first hearing mass
+	narrator	which was it ever his custom to hear before he left his lodging.
+	narrator	Anon he found a ruined chapel on a mountain, and went in and kneeled before the altar
+	narrator	and prayed for wholesome counsel what to do;
+	narrator	and as he prayed he heard a voice, which said,
+	voice	Depart, adventurous knight, unto the Maiden's Castle, and redress the violence and wrongs there done!
+	narrator	Hearing these words he cheerfully arose, and mounted his horse, and rode but half a mile, when he saw before him a strong castle
+	narrator	with deep ditches round it, and a fair river running past.
+	narrator	And seeing an old churl hard by, he asked him what men called that castle.
+	old churl	Fair sir, it is the Maiden's Castle.
+	sir galahad	It is a cursed place, and all its masters are but felons, full of mischief and hardness and shame.
+	old churl	For that good reason, thou wert well-advised to turn thee back.
+	sir galahad	For that same reason, will I the more certainly ride on.
+	narrator	Then, looking at his armor carefully, to see that nothing failed him, he went forward, and presently there met him seven damsels
+	narrator	who cried out, "Sir knight, thou ridest in great peril, for thou hast two waters to pass over."
+	damsels	Sir knight, thou ridest in great peril, for thou hast two waters to pass over.
+	sir galahad	Why should I not pass over them?
+	narrator	and rode straight on.
+	narrator	Anon he met a squire, who said, "Sir knight, the masters of this castle defy thee, and bid thee go no further
+	narrator	till thou showest them thy business here."
+	squire	Sir knight, the masters of this castle defy thee, and bid thee go no further, till thou showest them thy business here.
+	sir galahad	Fair fellow, I am come here to destroy their wicked customs.
+	squire	If that be thy purpose, thou wilt have much to do.
+	sir galahad	Go thou, and hasten with my message.
+	narrator	In a few minutes after rode forth furiously from the gateways of the castle seven knights, all brothers
+	narrator	and crying out, "Knight, keep thee," bore down all at once upon Sir Galahad.
+	narrator	But thrusting forth his spear, he smote the foremost to the earth, so that his neck was almost broken
+	narrator	and warded with his shield the spears of all the others, which every one brake off from it
+	narrator	and shivered into pieces.
+	narrator	Then he drew out his sword, and set upon them hard and fiercely, and by his wondrous force drave them before him
+	narrator	and chased them to the castle gate, and there he slew them.
+	narrator	At that came out to him an ancient man, in priest's vestments, saying, "Behold, sir, here, the keys of this castle."
+	ancient man	Behold, sir, here, the keys of this castle.
+	narrator	Then he unlocked the gates, and found within a multitude of people, who cried out, "Sir knight
+	narrator	ye be welcome, for long have we waited thy deliverance," and told him that the seven felons he had slain had long enslaved the people
+	narrator	round about
+	narrator	and killed all knights who passed that way, because the maiden whom they had robbed of the castle had foretold that by one knight they
+	narrator	should themselves be overthrown.
+	sir galahad	Where is the maiden?
+	people	She lingereth below in a dungeon.
+	narrator	So Sir Galahad went down and released her, and restored her her inheritance; and when he had summoned the barons of the country to do
+	narrator	her homage
+	narrator	he took his leave, and departed.
+	narrator	Presently thereafter, as he rode, he entered a great forest, and in a glade thereof met two knights
+	narrator	disguised, who proffered him to joust.
+	narrator	These were Sir Lancelot, his father, and Sir Percival, but neither knew the other.
+	narrator	So he and Sir Lancelot encountered first, and Sir Galahad smote down his father.
+	narrator	Then drawing his sword, for his spear was broken, he fought with Sir Percival, and struck so mightily that he clave Sir Percival's helm
+	narrator	and smote him from his horse.
+	narrator	Now hard by where they fought there was a hermitage, where dwelt a pious woman, a recluse
+	narrator	who, when she heard the sound, came forth, and seeing Sir Galahad ride, she cried, "God be with thee
+	narrator	the best knight in the world; had yonder knights known thee as well as I do, they would not have encountered with thee."
+	pious woman	God be with thee, the best knight in the world; had yonder knights known thee as well as I do
+	pious woman	they would not have encountered with thee.
+	narrator	When Sir Galahad heard that, fearing to be made known, he forthwith smote his horse with his spurs
+	narrator	and departed at a great pace.
+	narrator	Sir Lancelot and Sir Percival heard her words also, and rode fast after him, but within a while he was out of their sight.
+	narrator	Then Sir Percival rode back to ask his name of the recluse; but Sir Lancelot went forward on his quest
+	narrator	and following any path his horse would take, he came by-and-by after nightfall to a stone cross hard by an ancient chapel.
+	narrator	When he had alighted and tied his horse up to a tree, he went and looked in through the chapel door
+	narrator	which was all ruinous and wasted, and there within he saw an altar, richly decked with silk
+	narrator	whereon there stood a fair candlestick of silver, bearing six great lights.
+	narrator	And when Sir Lancelot saw the light, he tried to get within the chapel, but could find no place.
+	narrator	So, being passing weary and heavy, he came again to his horse, and when he had unsaddled him
+	narrator	and set him free to pasture, he unlaced his helm, and ungirded his sword, and laid him down to sleep upon his shield before the
+	narrator	cross.
+	narrator	And while he lay between waking and sleeping, he saw come by him two white palfreys bearing a litter
+	narrator	wherein a sick knight lay, and the palfreys stood still by the cross.
+	narrator	Then Sir Lancelot heard the sick man say, "O sweet Lord, when shall this sorrow leave me
+	narrator	and the holy vessel pass by me, wherethrough I shall be blessed? for I have long endured."
+	sick knight	O sweet Lord, when shall this sorrow leave me, and the holy vessel pass by me, wherethrough I shall be blessed? for I have long
+	sick knight	endured.
+	narrator	With that Sir Lancelot saw the chapel open, and the candlestick with the six tapers come before the cross
+	narrator	but he could see none who bare it.
+	narrator	Then came there also a table of silver, and thereon the holy vessel of the Sangreal.
+	narrator	And when the sick knight saw that, he sat up, and lifting both his hands, said, "Fair Lord
+	narrator	sweet Lord, who art here within this holy vessel, have mercy on me, that I may be whole"; and therewith he crept upon his hands
+	narrator	and knees so nigh
+	narrator	that he might touch the vessel; and when he had kissed it, he leaped up, and stood and cried aloud
+	narrator	"Lord God, I thank Thee, for I am made whole." Then the Holy Grail departed with the table and the silver candlestick into the chapel
+	narrator	so that Sir Lancelot saw it no more, nor for his sins' sake could he follow it.
+	narrator	And the knight who was healed went on his way.
+	narrator	Then Sir Lancelot awake, and marveled whether he had seen aught but a dream.
+	narrator	And as he marveled, he heard a voice saying, "Sir Lancelot, thou art unworthy, go thou hence
+	narrator	and withdraw thee from this holy place."
+	voice	Sir Lancelot, thou art unworthy, go thou hence, and withdraw thee from this holy place.
+	narrator	And when he heard that, he was passing heavy, for he bethought him of his sins.
+	narrator	So he departed weeping, and cursed the day of his birth, for the words went into his heart
+	narrator	and he knew wherefore he was thus driven forth.
+	narrator	Then he went to seek his arms and horse, but could not find them; and then he called himself the wretchedest and most unhappy of
+	narrator	all knights
+	narrator	and said,
+	sir lancelot	My sin hath brought me unto great dishonor: for when I sought earthly honors, I achieved them ever; but now I take upon me holy
+	sir lancelot	things
+	sir lancelot	my guilt doth hinder me, and shameth me; therefore had I no power to stir or speak when the holy blood appeared before me.
+	narrator	So thus he sorrowed till it was day, and he heard the birds sing; then was he somewhat comforted
+	narrator	and departing from the cross on foot, he came into a wild forest, and to a high mountain
+	narrator	and there he found a hermitage; and, kneeling before the hermit down upon both his knees, he cried for mercy for his wicked works
+	narrator	and prayed him to hear his confession.
+	narrator	But when he told his name, the hermit marveled to see him in so sore a case
+	narrator	and said,
+	nacien the hermit	Sir, ye ought to thank God more than any knight living, for He hath given thee more honor than any; yet for thy presumption
+	nacien the hermit	while in deadly sin to come into the presence of His flesh and blood, He suffered thee neither to see nor follow it. Wherefore
+	nacien the hermit	believe that all thy strength and manhood will avail thee little, when God is against thee.
+	sir lancelot	Now know I well ye tell me truth.
+	narrator	Then he confessed to him, and told him all his sins, and how he had for fourteen years served but Queen Guinevere only
+	narrator	and forgotten God, and done great deeds of arms for her, and not for Heaven, and had little or nothing thanked God for the honor
+	narrator	that he won.
+	narrator	And then Sir Lancelot said,
+	sir lancelot	I pray you counsel me.
+	nacien the hermit	I will counsel thee: never more enter into that queen's company when ye can avoid it.
+	narrator	So Sir Lancelot promised him.
+	nacien the hermit	Look that your heart and your mouth accord, said the good man, "and ye shall have more honor and more nobleness than ever ye have
+	nacien the hermit	had.
+	narrator	Then were his arms and horse restored to him, and so he took his leave, and rode forth
+	narrator	repenting greatly.
+	narrator	Now Sir Percival had ridden back to the recluse, to learn who that knight was whom she had called the best in the world.
+	narrator	And when he had told her that he was Sir Percival, she made passing great joy of him
+	narrator	for she was his mother's sister, wherefore she opened her door to him, and made him good cheer.
+	narrator	And on the morrow she told him of her kindred to him, and they both made great rejoicing.
+	narrator	Then he asked her who that knight was, and she told him,
+	sir percival's aunt	He it is who on Whit Sunday last was clad in the red robe, and bare the red arms; and he hath no peer
+	sir percival's aunt	for he worketh all by miracle, and shall be never overcome by any earthly hands.
+	sir percival	By my goodwill, I will never after these tidings have to do with Sir Galahad but in the way of kindness; and I would fain
+	sir percival	learn where I may find him.
+	sir percival's aunt	Fair nephew, ye must ride to the Castle of Goth, where he hath a cousin; by him ye may be lodged
+	sir percival's aunt	and he will teach you the way to go; but if he can tell you no tidings
+	sir percival's aunt	ride straight to the Castle of Carbonek, where the wounded king is lying, for there shall ye surely hear true tidings of him.
+	narrator	So Sir Percival departed from his aunt, and rode till evensong time, when he was ware of a monastery closed round with walls and deep
+	narrator	ditches
+	narrator	where he knocked at the gate, and anon was let in.
+	narrator	And there he had good cheer that night, and on the morrow heard mass.
+	narrator	And beside the altar where the priest stood, was a rich bed of silk and cloth of gold; and on the bed there lay a
+	narrator	man passing old
+	narrator	having a crown of gold upon his head, and all his body was full of great wounds
+	narrator	and his eyes almost wholly blind; and ever he held up his hands and said,
+	king evelake	Sweet Lord, forget not me!
+	narrator	Then Sir Percival asked one of the brethren who he was.
+	brother	Sir, ye have heard of Joseph of Arimathea, how he was sent of Jesus Christ into this land to preach and teach the Christian faith.
+	brother	Now
+	brother	in the city of Sarras he converted a king named Evelake, and this is he. He came with Joseph to this land
+	brother	and ever desired greatly to see the Sangreal; so on a time he came nigh thereto, and was struck almost blind. Then he cried out
+	brother	for mercy
+	brother	and said,
+	king evelake	Fair Lord, I pray thee let me never die until a good knight of my blood achieve the Sangreal
+	king evelake	and I may see and kiss him.
+	narrator	When he had thus prayed, he heard a voice that said,
+	voice	Thy prayers be heard and answered, for thou shalt not die till that knight kiss thee; and when he cometh shall thine eyes be opened
+	voice	and thy wounds be healed.
+	narrator	And now hath he lived here for three hundred winters in a holy life, and men say a certain knight of King Arthur's court shall
+	narrator	shortly heal him.
+	narrator	Thereat Sir Percival marveled greatly, for he well knew who that knight should be; and so, taking his leave of the monk
+	narrator	departed.
+	narrator	Then he rode on till noon, and came into a valley where he met twenty men-at-arms bearing a dead knight on a bier.
+	narrator	And they cried to him,
+	men-at-arms	Whence comest thou?
+	sir percival	From King Arthur's court.
+	men-at-arms	Slay him,
+	narrator	And set upon him.
+	sir percival	Slay him not,
+	narrator	and rushed upon them; and, as fast as his horse could drive, he encountered with the foremost man
+	narrator	and smote him down.
+	narrator	Then, his spear being broken, he drew forth his sword and struck out on the right hand and on the left
+	narrator	at each blow smiting down a man, till the remainder fled, and he pursued them.
+	narrator	Then Sir Percival, knowing that it was Sir Galahad, would fain have overtaken him, but could not
+	narrator	for his horse was slain.
+	narrator	Yet followed he on foot as fast as he could go; and as he went there met him a yeoman riding on a palfrey
+	narrator	and leading in his hand a great black steed.
+	narrator	So Sir Percival prayed him to lend him the steed, that he might overtake Sir Galahad.
+	yeoman	That can I not do, fair sir, for the horse is my master's, and should I lend it he would slay me.
+	narrator	So he departed, and Sir Percival sat down beneath a tree in heaviness of heart.
+	narrator	And as he sat, anon a knight went riding past on the black steed which the yeoman had led.
+	narrator	And presently after came the yeoman back in haste, and asked Sir Percival if he had seen a knight riding his horse.
+	sir percival	Yea
+	yeoman	Alas, said the yeoman, he hath reft him from me by strength, and my master will slay me.
+	narrator	Then he besought Sir Percival to take his hackney and follow, and get back his steed.
+	narrator	So he rode quickly, and overtook the knight, and cried, "Knight, turn again."
+	narrator	Whereat he turned and set his spear, and smote Sir Percival's hackney in the breast, so that it fell dead
+	narrator	and then went on his way.
+	narrator	Then cried Sir Percival after him, "Turn now, false knight, and fight with me on foot"; but he would not
+	narrator	and rode out of sight.
+	narrator	Then was Sir Percival passing wroth and heavy of heart, and lay down to rest beneath a tree
+	narrator	and slept till midnight.
+	narrator	When he awoke he saw a woman standing by him, who said to him right fiercely, "Sir Percival
+	narrator	what doest thou here?"
+	sir percival	I do neither good nor evil.
+	woman	If thou wilt promise me, said she, to do my will whenever I shall ask thee, I will bring thee here a horse that will
+	woman	bear thee wheresoever thou desirest.
+	narrator	At that he was full glad, and promised as she asked.
+	narrator	Then anon she came again, with a great black steed, strong and well appareled.
+	narrator	So Sir Percival mounted, and rode through the clear moonlight, and within less than an hour had gone a four days' journey
+	narrator	till he came to a rough water that roared; and his horse would have borne him into it
+	narrator	but Sir Percival would not suffer him, yet could he scarce restrain him.
+	narrator	And seeing the water so furious, he made the sign of the cross upon his forehead, whereat the horse suddenly shook him off
+	narrator	and with a terrible sound leaped into the water and disappeared, the waves all burning up in flames around him.
+	narrator	Then Sir Percival knew it was a fiend which had brought him the horse; so he commended himself to God
+	narrator	and prayed that he might escape temptations, and continued in prayer till it was day.
+	narrator	Then he saw that he was on a wild mountain, nigh surrounded on all sides by the sea
+	narrator	and filled with wild beasts; and going on into a valley, he saw a serpent carrying a young lion by the neck.
+	narrator	With that came another lion, crying and roaring after the serpent, and anon overtook him, and began to battle with him.
+	narrator	And Sir Percival helped the lion, and drew his sword, and gave the serpent such a stroke that it fell dead.
+	narrator	Thereat the lion fawned upon him like a dog, licking his hands, and crouching at his feet
+	narrator	and at night lay down by him and slept at his side.
+	narrator	And at noon the next day Sir Percival saw a ship come sailing before a strong wind upon the sea towards him
+	narrator	and he rose and went towards it.
+	narrator	And when it came to shore, he found it covered with white samite, and on the deck there stood an old man dressed in priest's
+	narrator	robes
+	narrator	who said,
+	white knight	God be with you, fair sir; whence come ye?
+	sir percival	I am a knight of King Arthur's court, and follow the quest of the Sangreal; but here have I lost myself in this wilderness.
+	white knight	Fear nothing, for I have come from a strange country to comfort thee.
+	narrator	Then he told Sir Percival it was a fiend of hell upon which he had ridden to the sea
+	narrator	and that the lion, whom he had delivered from the serpent, meant the Church.
+	narrator	And Sir Percival rejoiced at these tidings, and entered into the ship, which presently sailed from the shore into the sea.
+	narrator	Now when Sir Bors rode forth from Camelot to seek the Sangreal, anon he met a holy man riding on an ass
+	narrator	and courteously saluted him.
+	holy man	Who are ye, son?
+	sir bors	I am a knight, in quest of the Sangreal, and would fain have thy counsel, for he shall have much earthly honor who may bring
+	sir bors	it to a favorable end.
+	holy man	That is truth, for he shall be the best knight of the world; yet know that none shall gain it save by sinless living.
+	narrator	So they rode to his hermitage together, and there he prayed Sir Bors to abide that night
+	narrator	and anon they went into the chapel, and Sir Bors was confessed.
+	narrator	And they eat bread and drank water together.
+	holy man	Now, I pray thee eat no other food till thou sit at the table where the Sangreal shall be.
+	sir bors	Therto Sir Bors agreed.
+	holy man	Also, it were wise that ye should wear a sackcloth garment next your skin, for penance
+	narrator	and in this also did Sir Bors as he was counseled.
+	narrator	And afterwards he armed himself and took his leave.
+	narrator	Then rode he onwards all that day, and as he rode he saw a passing great bird sit in an old dry tree
+	narrator	whereon no leaves were left; and many little birds lay round the great one, nigh dead with hunger.
+	narrator	Then did the big bird smite himself with his own bill, and bled till he died amongst his little ones
+	narrator	and they recovered life in drinking up his blood.
+	narrator	When Sir Bors saw this he knew it was a token, and rode on full of thought.
+	narrator	And about eventide he came to a tower, whereto he prayed admission, and he was received gladly by the lady of the castle.
+	narrator	But when a supper of many meats and dainties was set before him, he remembered his vow
+	narrator	and bade a squire to bring him water, and therein he dipped his bread, and ate.
+	lady of the castle	Sir Bors, I fear ye like not my meat.
+	sir bors	Yea, truly, God thank thee, madam; but I may eat no other meat this day.
+	narrator	After supper came a squire, and said, "Madam, bethink thee to provide a champion for thee to-morrow for the tourney
+	narrator	or else shall thy sister have thy castle."
+	narrator	At that the lady wept, and made great sorrow.
+	sir bors	Be comforted; to-morrow I will fight for thee
+	narrator	whereat she rejoiced not a little, and sent word to Sir Pridan that she was provided and ready.
+	narrator	And Sir Bors lay on the floor, and in no bed, nor ever would do otherwise till he had achieved his quest.
+	narrator	On the morrow he arose and clothed himself, and went into the chapel, where the lady met him
+	narrator	and they heard mass together.
+	narrator	Anon he called for his armor, and went with a goodly company of knights to the battle.
+	narrator	And the lady prayed him to refresh himself ere he should fight, but he refused to break his fast until the tournament were done.
+	narrator	So they all rode together to the lists, and there they saw the lady's eldest sister, and her husband
+	narrator	Sir Pridan le Noir.
+	narrator	And a cry was made by the heralds that, whichever should win, his lady should have all the other's lands.
+	narrator	Then the two knights departed asunder a little space, and came together with such force, that both their spears were shivered
+	narrator	and their shields and hauberks pierced through; and both fell to the ground sorely wounded, with their horses under them.
+	narrator	But swiftly they arose, and drew their swords, and smote each other on the head with many great and heavy blows
+	narrator	till the blood ran down their bodies; and Sir Pridan was a full good knight, so that Sir Bors had more ado than he had
+	narrator	thought for to overcome him.
+	narrator	But at last Sir Pridan grew a little faint; that instantly perceived Sir Bors, and rushed upon him the more vehemently
+	narrator	and smote him fiercely, till he rent off his helm, and then gave him great strokes upon his visage with the flat of his sword
+	narrator	and bade him yield or be slain.
+	sir pridan le noir	For God's sake slay me not, and I will never war against thy lady more.
+	narrator	So Sir Bors let him go, and his wife fled away with all her knights.
+	narrator	Then all those who had held lands of the lady of the tower came and did homage to her again
+	narrator	and swore fealty.
+	narrator	And when the country was at peace Sir Bors departed, and rode forth into a forest until it was midday
+	narrator	and there befell him a marvelous adventure.
+	narrator	For at a place where two ways parted, there met him two knights, bearing Sir Lionel, his brother
+	narrator	all naked, bound on a horse, and as they rode, they beat him sorely with thorns, so that the blood trailed down in more than
+	narrator	a hundred places from his body; but for all this he uttered no word or groan
+	narrator	so great he was of heart.
+	narrator	As soon as Sir Bors knew his brother, he put his spear in rest to run and rescue him; but in the same moment heard
+	narrator	a woman's voice cry close beside him in the wood
+	narrator	"St. Mary, succor thy maid"; and, looking round, he saw a damsel whom a felon knight dragged after him into the thickets; and she
+	narrator	perceiving him, cried piteously for help, and adjured him to deliver her as he was a sworn knight.
+	narrator	Then was Sir Bors sore troubled, and knew not what to do, for he thought within himself
+	narrator	"If I let my brother be, he will be murdered; but if I help not the maid
+	narrator	she is shamed forever, and my vow compelleth me to set her free; wherefore must I first help her
+	narrator	and trust my brother unto God."
+	sir bors	Sir knight, lay your hand off that maid, or else ye be but dead.
+	narrator	At that the knight set down the maid, and dropped his shield, and drew forth his sword against Sir Bors
+	narrator	who ran at him, and smote him through both shield and shoulder, and threw him to the earth; and when he pulled his spear forth
+	narrator	the knight swooned.
+	narrator	Then the maid thanked Sir Bors heartily, and he set her on the knight's horse, and brought her to her men-at-arms
+	narrator	who presently came riding after her.
+	narrator	And they made much joy, and besought him to come to her father, a great lord, and he should be right welcome.
+	sir bors	Truly, I may not at this time, for I have a great adventure yet to do
+	narrator	and commending them to God, he departed in great haste to find his brother.
+	narrator	So he rode, seeking him by the track of the horses a great while.
+	narrator	Anon he met a seeming holy man riding upon a strong black horse, and asked him, had he seen pass by that way a knight
+	narrator	led bound and beaten with thorns by two others.
+	narrator	'Yea, truly, such an one I saw,' said the man; 'but he is dead, and lo! his body is hard by in a bush.'
+	narrator	Then he showed him a newly slain body lying in a thick bush, which seemed indeed to be Sir Lionel.
+	narrator	Then made Sir Bors such mourning and sorrow that by-and-by he fell into a swoon upon the ground.
+	narrator	And when he came to himself again, he took the body in his arms and put it on his horse's saddle
+	narrator	and bore it to a chapel hard by, and would have buried it.
+	narrator	But when he made the sign of the cross, he heard a full great noise and cry as though all the fiends of hell had
+	narrator	been about him
+	narrator	and suddenly the body and the chapel and the old man vanished all away.
+	narrator	Then he knew that it was the devil who had thus beguiled him, and that his brother yet lived.
+	narrator	Then held he up his hands to heaven, and thanked God for his own escape from hurt
+	narrator	and rode onwards; and anon, as he passed by an hermitage in a forest, he saw his brother sitting armed by the door.
+	sir bors	Fair brother, when came ye hither?
+	sir lionel	What vain words be these, when for you I might have been slain? Did ye not see me bound and led away to death
+	sir lionel	and left me in that peril to go succoring a gentlewoman, the like whereof no brother ever yet hath done? Now
+	sir lionel	for thy false misdeed, I do defy thee, and ensure thee speedy death.
+	sir bors	Fair brother, remember the love that should be between us twain.
+	sir lionel	Sir Bors, keep thee from me, for I shall do to thee as a felon and a traitor; therefore
+	sir lionel	start upon thy horse, for if thou wilt not, I will run upon thee as thou standest.
+	narrator	But for all his words Sir Bors would not defend himself against his brother.
+	narrator	And anon the fiend stirred up Sir Lionel to such rage, that he rushed over him and overthrew him with his horse's hoofs
+	narrator	so that he lay swooning on the ground.
+	narrator	Then would he have rent off his helm and slain him, but the hermit of that place ran out
+	narrator	and prayed him to forbear, and shielded Sir Bors with his body.
+	sir lionel	Now, God so help me, sir priest, but I shall slay thee else thou depart, and him too after thee.
+	narrator	And when the good man utterly refused to leave Sir Bors, he smote him on the head until he died
+	narrator	and then he took his brother by the helm and unlaced it, to have stricken off his head
+	narrator	and so he would have done, but suddenly was pulled off backwards by a knight of the Round Table
+	narrator	who, by the will of Heaven, was passing by that place--Sir Colgrevance by name.
+	sir colgrevance	Sir Lionel, will ye slay your brother, one of the best knights of all the world? That ought no man to suffer.
+	sir lionel	Why, will ye hinder me and meddle in this strife? beware, lest I shall slay both thee and him.
+	narrator	And when Sir Colgrevance refused to let them be, Sir Lionel defied him, and gave him a great stroke through the helmet
+	narrator	whereat Sir Colgrevance drew his sword, and smote again right manfully.
+	narrator	And so long they fought together that Sir Bors awoke from his swoon, and tried to rise and part them
+	narrator	but had no strength to stand upon his feet.
+	narrator	Anon Sir Colgrevance saw him, and cried out to him for help, for now Sir Lionel had nigh defeated him.
+	narrator	When Sir Bors heard that, he struggled to his feet, and put his helmet on, and took his sword.
+	narrator	But before he could come to him, Sir Lionel had smitten off Sir Colgrevance's helm, and thrown him to the earth and slain him.
+	narrator	Then turned he to his brother as a man possessed by fiends, and gave him such a stroke as bent him nearly double.
+	sir bors	But Sir Bors prayed him for God's sake to quit that battle, "For if it befell us that we either slew the other we should
+	sir bors	die for care of that sin.
+	sir lionel	Never will I spare thee if I master thee,
+	narrator	cried out Sir Lionel
+	narrator	Then Sir Bors drew his sword all weeping, and said, "Now, God have mercy on me, though I defend my life against my brother"
+	narrator	with that he lifted up his sword to strike, but suddenly he heard a mighty voice, "Put up thy sword
+	narrator	Sir Bors, and flee, or thou shalt surely slay him."
+	narrator	And then there fell upon them both a fiery cloud, which flamed and burned their shields, and they fell to the earth in sore dread.
+	narrator	Anon Sir Bors rose to his feet, and saw that Sir Lionel had taken no harm.
+	narrator	Then came the voice again, and said, "Sir Bors, go hence and leave thy brother, and ride thou forward to the sea
+	narrator	for there Sir Percival abideth thee."
+	narrator	Then he said to his brother, "Brother, forgive me all my trespass against thee."
+	sir lionel	God forgive it thee, as I do.
+	narrator	Then he departed and rode to the sea, and on the strand he found a ship all covered with white samite
+	narrator	and as soon as he had entered thereinto, it put forth from the shore.
+	narrator	And in the midst of the ship there stood an armed knight, whom he knew to be Sir Percival.
+	narrator	Then they rejoiced greatly over each other, and said, "We lack nothing now but the good knight Sir Galahad."
+	narrator	Now when Sir Galahad had rescued Sir Percival from the twenty knights he rode into a vast forest.
+	narrator	And after many days it befell that he came to a castle whereat was a tournament.
+	narrator	And the knights of the castle were put to the worse; which when he saw, he set his spear in rest and ran to help
+	narrator	them
+	narrator	and smote down many of their adversaries.
+	narrator	And as it chanced, Sir Gawain was amongst the stranger knights, and when he saw the white shield with the red cross
+	narrator	he knew it was Sir Galahad, and proffered to joust with him.
+	narrator	So they encountered, and having broken their spears, they drew their swords, and Sir Galahad smote Sir Gawain so sorely on the helm that he
+	narrator	clove it through
+	narrator	and struck on slanting to the earth, carving the horse's shoulder in twain, and Sir Gawain fell to the earth.
+	narrator	Then Sir Galahad beat back all who warred against the castle, yet would he not wait for thanks
+	narrator	but rode away that no man might know him.
+	narrator	And he rested that night at a hermitage, and when he was asleep, he heard a knocking at the door.
+	narrator	So he rose, and found a damsel there, who said, "Sir Galahad, I will that ye arm you
+	narrator	and mount upon your horse and follow me, for I will show you within these three days the highest adventure that ever any knight saw."
+	narrator	Anon Sir Galahad armed him, and took his horse, and commended himself to God, and bade the gentlewoman go
+	narrator	and he would follow where she liked.
+	narrator	So they rode onwards to the sea as fast as their horses might gallop, and at night they came to a castle in a valley
+	narrator	inclosed by running water, and by strong and high walls, whereinto they entered and had great cheer
+	narrator	for the lady of the castle was the damsel's mistress.
+	narrator	And when he was unarmed, the damsel said to her lady, "Madam, shall we abide here this night?"
+	narrator	Nay,
+	she	but only till he hath dined and slept a little.
+	narrator	So he ate and slept a while, till the maid called him, and armed him by torchlight; and when he had saluted the lady of
+	narrator	the castle
+	narrator	the damsel and Sir Galahad rode on.
+	narrator	Anon they came to the seaside, and lo! the ship, wherein were Sir Percival and Sir Bors
+	narrator	abode by the shore.
+	narrator	Then they cried, "Welcome, Sir Galahad, for we have awaited thee long."
+	narrator	Then they rejoiced to see each other, and told of all their adventures and temptations.
+	narrator	And the damsel went into the ship with them, and spake to Sir Percival: "Sir Percival, know ye not who I am?"
+	narrator	And he replied, "Nay, certainly, I know thee not."
+	narrator	Then said she, "I am thy sister, the daughter of King Pellinore, and am sent to help thee and these knights
+	narrator	thy fellows, to achieve the quest which ye all follow."
+	narrator	So Sir Percival rejoiced to see his sister, and they departed from the shore.
+	narrator	And after a while they came upon a whirlpool, where their ship could not live.
+	narrator	Then saw they another greater ship hard by and went towards it, but saw neither man nor woman therein.
+	narrator	And on the end of it these words were written, "Thou who shalt enter me, beware that thou be in steadfast belief
+	narrator	for I am Faith; and if thou doubtest, I cannot help thee." Then were they all adread
+	narrator	but, commending themselves to God, they entered in.
+	narrator	As soon as they were on board they saw a fair bed, whereon lay a crown of silk
+	narrator	and at the foot was a fair and rich sword drawn from its scabbard half a foot and more.
+	narrator	The pommel was of precious stones of many colors, every color having a different virtue, and the scales of the haft were of two ribs
+	narrator	of different beasts.
+	narrator	The one was bone of a serpent from Calidone forest, named the serpent of the fiend; and its virtue saveth all men who hold it
+	narrator	from weariness.
+	narrator	The other was of a fish that haunteth the floods of Euphrates, named Ertanax; and its virtue causeth whoever holdeth it to forget all other
+	narrator	things
+	narrator	whether of joy or pain, save the thing he seeth before him.
+	narrator	"In the name of God," said Sir Percival, "I shall assay to handle this sword"; and set his hand to it
+	narrator	but could not grasp it.
+	narrator	"By my faith," said he, "now have I failed."
+	narrator	Sir Bors set his hand to it, and failed also.
+	narrator	Then came Sir Galahad, and saw these letters written red as blood, "None shall draw me forth save the hardiest of all men; but he
+	narrator	that draweth me shall never be shamed or wounded to death." "By my faith," said Sir Galahad
+	narrator	"I would draw it forth, but dare not try."
+	narrator	"Ye may try safely," said the gentlewoman, Sir Percival's sister, "for be ye well assured the drawing of this sword is forbid to all but
+	narrator	you. For this was the sword of David
+	narrator	King of Israel, and Solomon his son made for it this marvelous pommel and this wondrous sheath
+	narrator	and laid it on this bed till thou shouldest come and take it up; and though before thee some have dared to raise it
+	narrator	yet have they all been maimed or wounded for their daring."
+	narrator	"Where," said Sir Galahad, "shall we find a girdle for it?"
+	narrator	"Fair sir," said she, "dismay you not"; and therewith took from out a box a girdle, nobly wrought with golden thread
+	narrator	set full of precious stones and with a rich gold buckle.
+	narrator	"This girdle, lords," said she, "is made for the most part of mine own hair, which, while I was yet in the world
+	narrator	I loved full well; but when I knew that this adventure was ordained me, I cut off and wove as ye now see."
+	narrator	Then they all prayed Sir Galahad to take the sword, and so anon he gripped it in his fingers; and the maiden girt it round
+	narrator	his waist
+	narrator	saying, "Now reck I not though I die, for I have made thee the worthiest knight of all the world."
+	narrator	"Fair damsel," said Sir Galahad, "ye have done so much that I shall be your knight all the days of my life."
+	narrator	Then the ship sailed a great way on the sea, and brought them to land near the Castle of Carteloise.
+	narrator	When they were landed came a squire and asked them, "Be ye of King Arthur's court?"
+	narrator	"We are," said they.
+	narrator	"In an evil hour are ye come," said he, and went back swiftly to the castle.
+	narrator	Within a while they heard a great horn blow, and saw a multitude of well-armed knights come forth
+	narrator	who bade them yield or die.
+	narrator	At that they ran together, and Sir Percival smote one to the earth and mounted his horse
+	narrator	and so likewise did Sir Bors and Sir Galahad, and soon had they routed all their enemies and alighted on foot
+	narrator	and with their swords slew them downright, and entered into the castle.
+	narrator	Then came there forth a priest, to whom Sir Galahad kneeled and said, "In sooth, good father
+	narrator	I repent me of this slaughter; but we were first assailed, or else it had not been."
+	narrator	"Repent ye not," said the good man, "for if ye lived as long as the world lasted ye could do no better deed
+	narrator	for these were all the felon sons of a good knight, Earl Hernox, whom they have thrown into a dungeon
+	narrator	and in his name have slain priests and clerks, and beat down chapels far and near."
+	narrator	Then Sir Galahad prayed the priest to bring him to the earl; who, when he saw Sir Galahad
+	narrator	cried out, "Long have I waited for thy coming, and now I pray thee hold me in thine arms that I may die in peace."
+	narrator	And therewith, when Sir Galahad had taken him in his arms, his soul departed from his body.
+	narrator	Then came a voice in the hearing of them all, "Depart now, Sir Galahad, and go quickly to the maimed king
+	narrator	for he hath long abided to receive health from thy hand."
+	narrator	So the three knights departed, and Sir Percival's sister with them, and came to a vast forest
+	narrator	and saw before them a white hart, exceeding fair, led by four lions; and marveling greatly at that sight
+	narrator	they followed.
+	narrator	Anon they came to a hermitage and a chapel, whereunto the hart entered, and the lions with it.
+	narrator	Then a priest offered mass, and presently they saw the hart change into the figure of a man
+	narrator	most sweet and comely to behold; and the four lions also changed and became a man, an eagle
+	narrator	a lion, and an ox.
+	narrator	And suddenly all those five figures vanished without sound.
+	narrator	Then the knights marveled greatly, and fell upon their knees, and when they rose they prayed the priest to tell them what that sight might
+	narrator	mean.
+	priest	What saw ye, sirs? for I saw nothing.
+	narrator	Then they told him.
+	priest	Ah, lords! ye are full welcome; now know I well ye be the knights who shall achieve the Sangreal
+	priest	for unto them alone such mysteries are revealed. The hart ye saw is One above all men
+	priest	white and without blemish, and the four lions with Him are the four evangelists.
+	narrator	When they heard that they heartily rejoiced, and thanking the priest, departed.
+	narrator	Anon, as they passed by a certain castle, an armed knight suddenly came after them, and cried out to the damsel
+	narrator	"By the holy cross, ye shall not go till ye have yielded to the custom of the castle."
+	sir percival	Let her go, for a maiden, wheresoever she cometh, is free.
+	white knight	Whatever maiden passeth here, must give a dishful of her blood from her right arm.
+	sir galahad	It is a foul and shameful custom, cried Sir Galahad and both his fellows, "and sooner will we die than let this maiden yield thereto.
+	white knight	Then shall ye die," replied the knight, and as he spake there came out from a gate hard by
+	white knight	ten or twelve more, and encountered with them, running upon them vehemently with a great cry. But the three knights withstood them
+	white knight	and set their hands to their swords, and beat them down and slew them.
+	narrator	At that came forth a company of threescore knights, all armed.
+	narrator	"Fair lords," said Sir Galahad, "have mercy on yourselves and keep from us."
+	knights	Nay, fair lords," they answered, "rather be advised by us, and yield ye to our custom.
+	sir galahad	It is an idle word," said Galahad, "in vain ye speak it.
+	knights	Well," they said, "will ye die?
+	sir galahad	We be not come thereto as yet," replied Sir Galahad.
+	narrator	Then did they fall upon each other, and Sir Galahad drew forth his sword, and smote on the right hand and on the left
+	narrator	and slew so mightily that all who saw him thought he was a monster and no earthly man.
+	narrator	And both his comrades helped him well, and so they held the field against that multitude till it was night.
+	narrator	Then came a good knight forward from the enemy and said, "Fair knights, abide with us to-night and be right welcome; by the faith of
+	narrator	our bodies as we are true knights
+	narrator	to-morrow ye shall rise unharmed, and meanwhile maybe ye will, of your own accord, accept the custom of the castle when ye know it better."
+	narrator	So they entered and alighted and made great cheer.
+	narrator	Anon, they asked them whence that custom came.
+	knights	The lady of this castle is a leper," said they, "and can be no way cured save by the blood of a pure virgin and
+	knights	a king's daughter; therefore to save her life are we her servants bound to stay every maid that passeth by
+	knights	and try if her blood may not cure our mistress.
+	damsel of the lake	Take ye of my blood as much as ye will, if it may avail your lady.
+	narrator	And though the three knights urged her not to put her life in that great peril, she replied
+	narrator	"If I die to heal another's body, I shall get health to my soul," and would not be persuaded to refuse.
+	narrator	So on the morrow she was brought to the sick lady, and her arm was bared, and a vein thereof was opened
+	narrator	and the dish filled with her blood.
+	narrator	Then the sick lady was anointed therewith, and anon she was whole of her malady.
+	narrator	With that Sir Percival's sister lifted up her hand and blessed her, saying, "Madam, I am come to my death to make you whole; for
+	narrator	God's love pray for me"; and thus saying she fell down in a swoon.
+	narrator	Then Sir Galahad, Sir Percival, and Sir Bors started to lift her up and staunch her blood
+	narrator	but she had lost too much to live.
+	narrator	So when she came to herself she said to Sir Percival, "Fair brother, I must die for the healing of this lady
+	narrator	and now, I pray thee, bury me not here, but when I am dead put me in a boat at the next haven and let
+	narrator	me float at venture on the sea. And when ye come to the city of Sarras
+	narrator	to achieve the Sangreal, shall ye find me waiting by a tower, and there I pray thee bury me
+	narrator	for there shall Sir Galahad and ye also be laid." Thus having said, she died.
+	narrator	Then Sir Percival wrote all the story of her life and put it in her right hand
+	narrator	and so laid her in a barge and covered it with silk.
+	narrator	And the wind arising drove the barge from land, and all the knights stood watching it till it was out of sight.
+	narrator	Anon they returned to the castle, and forthwith fell a sudden tempest of thunder and lightning and rain
+	narrator	as if the earth were broken up: and half the castle was thrown down.
+	narrator	Then came a voice to the three knights which said, "Depart ye now asunder till ye meet again where the maimed king is lying." So
+	narrator	they parted and rode divers ways.
+	narrator	Now after Sir Lancelot had left the hermit, he rode a long while till he knew not whither to turn
+	narrator	and so he lay down to sleep, if haply he might dream whither to go.
+	narrator	And in his sleep a vision came to him saying, "Lancelot, rise up and take thine armor
+	narrator	and enter the first ship that thou shalt find."
+	narrator	When he awoke he obeyed the vision, and rode till he came to the sea-shore, and found there a ship without sails or oars
+	narrator	and as soon as he was in it he smelt the sweetest savor he had ever known
+	narrator	and seemed filled with all things he could think of or desire.
+	narrator	And looking round he saw a fair bed, and thereon a gentlewoman lying dead, who was Sir Percival's sister.
+	narrator	And as Sir Lancelot looked on her he spied the writing in her right hand, and, taking it
+	narrator	he read therein her story.
+	narrator	And more than a month thereafter he abode in that ship and was nourished by the grace of Heaven
+	narrator	as Israel was fed with manna in the desert.
+	narrator	And on a certain night he went ashore to pass the time, for he was somewhat weary
+	narrator	and, listening, he heard a horse come towards him, from which a knight alighted and went up into the ship
+	white knight	Fair sir, ye be right welcome to mine eyes, for I am thy son Galahad, and long time I have sought for thee.
+	narrator	With that he kneeled and asked his blessing, and took off his helm and kissed him, and the great joy there was between them no
+	narrator	tongue can tell.
+	narrator	Then for half a year they dwelt together in the ship, and served God night and day with all their powers
+	narrator	and went to many unknown islands, where none but wild beasts haunted, and there found many strange and perilous adventures.
+	narrator	And upon a time they came to the edge of a forest, before a cross of stone
+	narrator	and saw a knight armed all in white, leading a white horse.
+	white knight	Then the knight saluted them, and said to Galahad, "Ye have been long time enough with your father; now
+	white knight	therefore, leave him and ride this horse till ye achieve the Holy Quest.
+	narrator	Then went Sir Galahad to his father and kissed him full courteously, and said, "Fair father, I know not when I shall see thee again."
+	narrator	And as he took his horse a voice spake in their hearing, "Ye shall meet no more in this life."
+	sir lancelot	Now, my son, Sir Galahad, since we must so part and see each other never more, I pray the High Father of Heaven to preserve
+	sir lancelot	both you and me.
+	narrator	Then they bade farewell, and Sir Galahad entered the forest, and Sir Lancelot returned to the ship
+	narrator	and the wind rose and drove him more than a month through the sea, whereby he slept but little
+	narrator	yet ever prayed that he might see the Sangreal.
+	narrator	So it befell upon a certain midnight, the moon shining clear, he came before a fair and rich castle
+	narrator	whereof the postern gate was open towards the sea, having no keeper save two lions in the entry.
+	narrator	Anon Sir Lancelot heard a voice:
+	narrator	"Leave now thy ship and go within the castle, and thou shalt see a part of thy desire."
+	narrator	Then he armed and went towards the gate, and coming to the lions he drew out his sword
+	narrator	but suddenly a dwarf rushed out and smote him on the arm, so that he dropt his sword
+	narrator	and heard again the voice,
+	narrator	"Oh, man of evil faith, and poor belief, wherefore trustest thou thine arms above thy Maker?"
+	narrator	Then he put up his sword and signed the cross upon his forehead, and so passed by the lions without hurt.
+	narrator	And going in, he found a chamber with the door shut, which in vain he tried to open.
+	narrator	And listening thereat he heard a voice within, which sang so sweetly that it seemed no earthly thing
+	narrator	'Joy and honor be to the Father of Heaven!'
+	narrator	Then he kneeled down at the door, for he knew well the Sangreal was there within.
+	narrator	Anon the door was opened without hands, and forthwith came thereout so great a splendor as if all the torches of the world had been
+	narrator	alight together.
+	narrator	But when he would have entered in, a voice forbade him; wherefore he drew back, and looked
+	narrator	standing upon the threshold of the door.
+	narrator	And there he saw a table of silver, and the holy vessel covered with red samite, and many angels round it holding burning candles and
+	narrator	a cross and all the ornaments of the altar.
+	narrator	Then a priest stood up and offered mass, and when he took the vessel up, he seemed to sink beneath that burden.
+	sir lancelot	O Father, take it not for sin that I go in to help the priest, who hath much need thereof.
+	narrator	So saying, he went in, but when he came towards the table he felt a breath of fire which issued out therefrom and smote him
+	narrator	to the ground
+	narrator	so that he had no power to rise.
+	narrator	Then felt he many hands about him, which took him up and laid him down outside the chapel door.
+	narrator	There lay he in a swoon all through that night, and on the morrow certain people found him senseless
+	narrator	and bore him to an inner chamber and laid him on a bed.
+	narrator	And there he rested, living, but moving no limbs, twenty-four days and nights.
+	narrator	On the twenty-fifth day he opened his eyes and saw those standing round, and said, "Why have ye waked me? for I have seen marvels
+	narrator	that no tongue can tell
+	narrator	and more than any heart can think."
+	sir lancelot	Then he asked where he was, and they told him, "In the Castle of Carbonek.
+	sir lancelot	Tell your lord, King Pelles, said he, "that I am Sir Lancelot.
+	narrator	At that they marveled greatly, and told their lord it was Sir Lancelot who had lain there so long.
+	narrator	Then was King Pelles wondrous glad and went to see him, and prayed him to abide there for a season.
+	sir lancelot	But Sir Lancelot said, "I know well that I have now seen as much as mine eyes may behold of the Sangreal; wherefore I will
+	sir lancelot	return to my own country.
+	sir lancelot	So he took leave of King Pelles, and departed towards Logris.
+	narrator	Now after Sir Galahad had parted from Sir Lancelot, he rode many days, till he came to the monastery where the blind King Evelake lay
+	narrator	whom Sir Percival had seen.
+	narrator	And on the morrow, when he had heard mass, Sir Galahad desired to see the king, who cried out
+	narrator	"Welcome, Sir Galahad, servant of the Lord! long have I abided thy coming. Take me now in thine arms
+	narrator	that I may die in peace."
+	narrator	At that Sir Galahad embraced him; and when he had so done the king's eyes were opened
+	narrator	and he said, "Fair Lord Jesus, suffer me now to come to Thee"; and anon his soul departed.
+	narrator	Then they buried him royally, as a king should be; and Sir Galahad went on his way.
+	narrator	Within a while he came to a chapel in a forest, in the crypt whereof he saw a tomb which always blazed and burnt.
+	narrator	And asking the brethren what that might mean, they told him,
+	narrator	Joseph of Arimathea's son did found this monastery, and one who wronged him hath lain here these three hundred and fifty years and burneth evermore
+	narrator	until that perfect knight who shall achieve the Sangreal doth quench the fire.
+	narrator	Then said he, "I pray ye bring me to the tomb."
+	narrator	And when he touched the place immediately the fire was quenched, and a voice came from the grave and cried
+	narrator	Thanks be to God, who now hath purged me of my sin, and draweth me from earthly pains into the joys of paradise.
+	narrator	Then Sir Galahad took the body in his arms and bore it to the abbey, and on the morrow put it in the earth before
+	narrator	the high altar.
+	narrator	Anon he departed from thence and rode five days in a great forest; and after that he met Sir Percival
+	narrator	and a little further on Sir Bors.
+	narrator	When they had told each other their adventures, they rode together to the Castle of Carbonek: and there King Pelles gave them hearty welcome
+	narrator	for he knew they should achieve the Holy Quest.
+	narrator	As soon as they were come into the castle, a voice cried in the midst of the chamber
+	narrator	"Let them who ought not now to sit at the table of the Lord rise and depart hence!" Then all
+	narrator	save those three knights, departed.
+	narrator	Anon they saw other knights come in with haste at the hall doors and take their harness off
+	narrator	who said to Sir Galahad, "Sir, we have tried sore to be with you at this table."
+	speaker	Ye be welcome," said he, "but whence are ye?
+	narrator	So three of them said they were from Gaul; and three from Ireland; and three from Denmark.
+	narrator	Then came forth the likeness of a bishop, with a cross in his hand, and four angels stood by him
+	narrator	and a table of silver was before them, whereon was set the vessel of the Sangreal.
+	narrator	Then came forth other angels also--two bearing burning candles, and the third a towel, and the fourth a spear which bled marvelously
+	narrator	the drops wherefrom fell into a box he held in his left hand.
+	narrator	Anon the bishop took the wafer up to consecrate it, and at the lifting up, they saw the figure of a Child
+	narrator	whose visage was as bright as any fire, which smote itself into the midst of the wafer and vanished
+	narrator	so that all saw the flesh made bread.
+	narrator	Thereat the bishop went to Galahad and kissed him, and bade him go and kiss his fellows; and said
+	narrator	"Now, servants of the Lord, prepare for food such as none ever yet were fed with since the world began."
+	narrator	With that he vanished, and the knights were filled with a great dread and prayed devoutly.
+	narrator	Then saw they come forth from the holy vessel the vision of a man bleeding all openly
+	narrator	whom they knew well by the tokens of His passion for the Lord Himself.
+	narrator	At that they fell upon their faces and were dumb.
+	narrator	Anon he brought the Holy Grail to them and spake high words of comfort, and, when they drank therefrom
+	narrator	the taste thereof was sweeter than any tongue could tell or heart desire.
+	narrator	Then a voice said to Galahad, "Son, with this blood which drippeth from the spear anoint thou the maimed king and heal him. And when
+	narrator	thou hast this done
+	narrator	depart hence with thy brethren in a ship that ye shall find, and go to the city of Sarras. And bear with thee the holy
+	narrator	vessel
+	narrator	for it shall no more be seen in the realm of Logris."
+	narrator	At that Sir Galahad walked to the bleeding spear, and therefrom anointing his fingers went out straightway to the maimed King Pelles
+	narrator	and touched his wound.
+	narrator	Then suddenly he uprose from his bed as whole a man as ever he was, and praised God passing thankfully with all his heart.
+	narrator	Then Sir Galahad, Sir Bors, and Sir Percival departed as they had been told; and when they had ridden three days they came to the
+	narrator	sea-shore
+	narrator	and found the ship awaiting them.
+	narrator	Therein they entered, and saw in the midst the silver table and the vessel of the Sangreal
+	narrator	covered with red samite.
+	narrator	Then were they passing glad, and made great reverence thereto.
+	narrator	And Sir Galahad prayed that now he might leave the world and pass to God.
+	narrator	And presently, the while he prayed, a voice said to him, "Galahad, thy prayer is heard, and when thou asketh the death of the body
+	narrator	thou shalt have it
+	narrator	and find the life of thy soul."
+	narrator	But while they prayed and slept the ship sailed on, and when they woke they saw the city of Sarras before them
+	narrator	and the other ship wherein was Sir Percival's sister.
+	narrator	Then the three knights took up the holy table and the Sangreal and went into the city; and there
+	narrator	in a chapel, they buried Sir Percival's sister right solemnly.
+	narrator	Now at the gate of the town they saw an old cripple sitting, whom Sir Galahad called to help them bear their weight.
+	old cripple	Truly," said the old man, "it is ten years since I have gone a step without these crutches.
+	sir galahad	Care ye not," said Sir Galahad, "rise now and show goodwill.
+	narrator	So he assayed to move, and found his limbs as strong as any man's might be, and running to the table helped to carry it.
+	narrator	Anon there rose a rumor in the city that a cripple had been healed by certain marvelous strange knights.
+	narrator	But the king, named Estouranse, who was a heathen tyrant, when he heard thereof took Sir Galahad and his fellows
+	narrator	and put them in prison in a deep hole.
+	narrator	Therein they abode a great while, but ever the Sangreal was with them and fed them with marvelous sweet food
+	narrator	so that they fainted not, but had all joy and comfort they could wish.
+	narrator	At the year's end the king fell sick and felt that he should die.
+	narrator	Then sent he for the three knights, and when they came before him prayed their mercy for his trespasses against them.
+	narrator	So they forgave him gladly, and anon he died.
+	narrator	Then the chief men of the city took counsel together who should be king in his stead
+	narrator	and as they talked, a voice cried in their midst, "Choose ye the youngest of the three knights King Estouranse cast into prison for your
+	narrator	king." At that they sought Sir Galahad and made him king with the assent of all the city
+	narrator	and else they would have slain him.
+	narrator	But within a twelve-month came to him, upon a certain day, as he prayed before the Sangreal
+	narrator	a man in likeness of a bishop, with a great company of angels round about him, who offered mass
+	narrator	and afterwards called to Sir Galahad, "Come forth, thou servant of the Lord, for the time hath come thou hast desired so long."
+	sir galahad	Now, blessed Lord! would I no longer live if it might please Thee.
+	narrator	Anon the bishop gave him the sacrament, and when he had received it with unspeakable gladness, he said
+	narrator	"Who art thou, father?"
+	joseph of arimathea	I am Joseph of Arimathea," answered he, "whom our Lord hath sent to bear thee fellowship.
+	narrator	When he heard that, Sir Galahad went to Sir Percival and Sir Bors and kissed them and commended them to God
+	narrator	saying
+	sir galahad	Salute for me Sir Lancelot, my father, and bid them remember this unstable world.
+	narrator	Therewith he kneeled down and prayed, and suddenly his soul departed, and a multitude of angels bare it up to heaven.
+	narrator	Then came a hand from heaven and took the vessel and the spear and bare them out of sight.
+	narrator	Since then was never man so hardy as to say that he had seen the Sangreal.
+	narrator	And after all these things, Sir Percival put off his armor and betook him to an hermitage
+	narrator	and within a little while passed out of this world.
+	narrator	And Sir Bors, when he had buried him beside his sister, returned, weeping sore for the loss of his two brethren
+	narrator	to King Arthur, at Camelot.

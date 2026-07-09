@@ -1,0 +1,29 @@
+Sir Lancelot	male	Son of King Ban of Brittany, knight of the Round Table known as Lancelot du Lake. Famous for his prowess in jousts and battles, he is the most celebrated knight at the Pentecost feast. He has a deep affection for Queen Guinevere and is renowned for his strength, honor, and adventures.
+*Queen Guinevere	female	The queen of King Arthur's court, wife to the king. She holds Sir Lancelot in great favor and admiration for his feats of arms, having first noticed him when he brought her to King Arthur. She is the object of Lancelot's affection and devotion.
+*King Arthur	male	The king of Britain and leader of the Round Table. He organizes the annual Pentecost feast for knights, appoints festivals, and is the sovereign ruler of his realm.
+*Sir Lionel	male	Lancelot's cousin, a knight of the Round Table. He accompanies Lancelot on adventures and is captured by Queen Morgan le Fay's knights, later freed by Lancelot.
+*King Ban	male	Lancelot's father, king of Brittany. He died in grief and wounds while fleeing a burning castle with his wife Helen and son Lancelot.
+*Helen	*female	Lancelot's mother, wife of King Ban. She fled the burning castle with her husband and son but left Lancelot alone when she went to help her dying husband.
+Lady of the Lake	*female	A mysterious figure who rescued young Lancelot after his parents' death and raised him with his cousins Lionel and Bors in the lake.
+Sir Turquine	male	A powerful and cruel knight who imprisons knights of the Round Table. He is obsessed with killing Sir Lancelot, whom he believes killed his brother Sir Carados.
+Queen Morgan le Fay	female	King Arthur's half-sister and a powerful sorceress. She captures Sir Lancelot in an enchanted sleep, tries to force him to serve her, and is one of the four queens who imprison him.
+*Queen of Northgales	female	One of the four sorceress queens who capture and imprison Sir Lancelot. She is one of the rulers of a northern kingdom.
+*Queen of Eastland	female	One of the four sorceress queens who capture and imprison Sir Lancelot. She is a queen from an eastern realm.
+*Queen of the Out Isles	female	One of the four sorceress queens who capture and imprison Sir Lancelot. She rules over distant islands.
+King Bagdemagus	male	A noble king who holds a tournament against the King of Northgales. He is helped by Sir Lancelot in defeating his enemies.
+*Sir Mador de la Port	male	A knight of King Arthur's court who fought against King Bagdemagus in the tournament. He is defeated by Sir Lancelot.
+*Sir Modred	male	A knight of King Arthur's court who fought against King Bagdemagus in the tournament. He is defeated by Sir Lancelot.
+*Sir Gahalatine	male	A knight of King Arthur's court who fought against King Bagdemagus in the tournament. He is defeated by Sir Lancelot.
+*Sir Key	male	A knight of the Round Table who is mistaken for Sir Lancelot by others. He is captured and later rescued by Sir Lancelot.
+*Sir Brandel	male	A knight of the Round Table whose shield is found in Sir Lancelot's castle.
+*Sir Marhaus	male	A knight of the Round Table whose shield is found in Sir Lancelot's castle.
+*Sir Galind	male	A knight of the Round Table whose shield is found in Sir Lancelot's castle.
+*Sir Aliduke	male	A knight of the Round Table whose shield is found in Sir Lancelot's castle.
+*Sir Ector de Maris	male	Lancelot's kinsman, a knight of the Round Table. His shield is found in Sir Lancelot's castle.
+*Sir Sagramour	male	A knight of King Arthur's court who mistakes Sir Lancelot for Sir Key.
+Sir Gawain	male	A knight of King Arthur's court who mistakes Sir Lancelot for Sir Key.
+*Sir Ewaine	male	A knight of King Arthur's court who mistakes Sir Lancelot for Sir Key.
+*Sir Gilbert	male	A knight who was killed by Sir Meliot de Logres. His wife seeks help from Sir Lancelot to save her brother.
+*Sir Meliot de Logres	male	A knight of the Round Table who was wounded by Sir Gilbert and needs help from Sir Lancelot to be healed.
+Sir Phelot	male	A knight of the King of Northgales who tries to kill Sir Lancelot after his wife tricks him into believing Lancelot is the enemy.
+Sir Pedivere	male	A knight who kills his own wife and then tries to kill Sir Lancelot. He is defeated by Lancelot but later repents and becomes a hermit.

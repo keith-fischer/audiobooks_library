@@ -1,5 +1,0 @@
-Jonathan Harker	male	The protagonist and narrator of the story, an English solicitor traveling to Transylvania to meet Count Dracula. He is methodical and observant, keeping a shorthand journal of his journey.
-Count Dracula	male	The mysterious nobleman who owns the castle in Transylvania. He is a vampire and the main antagonist of the story, known for his supernatural powers and dark nature.
-The Old Lady	*female	An elderly peasant woman who works at the Hotel Royale in Bistritz. She is superstitious and deeply concerned about Jonathan's journey, showing obvious fear of the night and supernatural forces.
-The Landlady	*female	An elderly peasant woman who receives Jonathan at the Hotel Royale. She is traditional in dress and shows fear of supernatural forces, particularly when speaking about St. George's Day.
-The Driver	*male	A mysterious driver who arrives in a calèche to pick up Jonathan at the Borgo Pass. He has supernatural strength, speaks with a commanding voice, and appears to know more about the Count than he reveals.

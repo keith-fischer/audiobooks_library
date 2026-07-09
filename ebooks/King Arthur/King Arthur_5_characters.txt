@@ -1,0 +1,17 @@
+Sir Balin	male	A knight of Arthur's court, known as 'the knight of the two swords' after his adventure with the lady of the lake. He is a valiant warrior who fights in defense of honor and justice, but his actions lead to tragic consequences including the deaths of several knights. He is deeply remorseful for his mistakes and ultimately becomes a wanderer cursed by his 'Dolorous Stroke'.
+Sir Lancear	male	A knight of King Arthur's court who becomes envious of Sir Balin. He pursues Balin to avenge what he sees as an insult to the court, leading to their fatal duel. He is killed by Balin in combat and his lady-love Colombe kills herself upon seeing his death.
+*Colombe	female	The lady-love of Sir Lancear who kills herself with his sword after witnessing his death at the hands of Sir Balin. She is described as a fair lady who deeply mourns her lover's death.
+Sir Balan	male	Sir Balin's brother who joins him in his quest to help King Arthur. He is also a valiant knight and ultimately becomes the one who kills Sir Balin in their final duel on the island, leading to both of their deaths.
+Merlin	*male	The wise wizard who appears throughout the story, warning Sir Balin about his actions and their consequences. He is a prophetic figure who knows the future and guides characters with cryptic prophecies about doom and destruction.
+King Arthur	*male	The king of Britain who is the central figure in the court. He seeks justice for his enemies and becomes a prisoner of Sir Balin and Sir Balan after their successful attack on King Ryence.
+King Ryence	*male	A king who is captured by Sir Balin and Sir Balan after they defeat his army. He seeks mercy from the knights but is ultimately delivered to King Arthur.
+Sir Herleus	*male	A knight who is slain by the invisible knight Garlon. He warns Sir Balin of Garlon's treachery and asks him to avenge his death.
+Sir Garlon	*male	An invisible knight who uses magic and witchcraft to slay knights. He is the main antagonist of this chapter, responsible for killing Sir Herleus and Sir Perin. He is ultimately slain by Sir Balin in a duel.
+*Perin de Mountbelgard	*male	A knight who joins Sir Balin's company and is killed by the invisible knight Garlon in the same manner as Sir Herleus.
+King Pelles	*male	The king who holds the holy Sangreal and is killed by Sir Balin in a fit of rage during the Listeniss feast. His death causes great destruction and is considered the 'Dolorous Stroke'.
+Sir Balin le Savage	male	The same character as Sir Balin, but specifically identified in the final section of the story. He is a wandering knight who has been cursed by his actions and carries deep guilt.
+*King Mark	*male	The king of Cornwall who witnesses the deaths of Sir Lancear and his lady-love. He vows to build a tomb for them and later becomes involved in the events of the story.
+*The Lady Lile	*female	A lady of Avilion who gives the sword to the damsel in exchange for revenge against her brother. She is described as a false and harmful figure.
+The Lady of the Castle	*female	A noblewoman who rules a castle where the damsel must give blood to cure her sick lady. She is also involved in the final confrontation with Sir Balin.
+The Host	*male	A rich man who hosts Sir Balin and his companions at a feast. He is the father of a son wounded by Garlon, who seeks revenge.
+*The Red Knight	*male	Sir Balan, disguised in red armor and riding a red horse. He is the knight who fights Sir Balin on the island, believing him to be his brother.

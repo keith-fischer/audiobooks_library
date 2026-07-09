@@ -1,6 +1,0 @@
-Dr. Seward	male	A physician and one of the main protagonists who keeps a diary. He is observant, caring, and serves as a key member of the group investigating supernatural events.
-Van Helsing	male	A Dutch doctor and expert on the supernatural who leads the investigation. He is methodical, knowledgeable about ancient lore, and displays great determination in fighting evil.
-Arthur	male	Lucy Westenra's fiancé who is deeply affected by her transformation into a vampire. He shows great courage in the final confrontation and demonstrates his love for Lucy.
-Quincey Morris	male	A wealthy American who joins the group in their quest. He is brave, practical, and shows a calm demeanor even under extreme circumstances.
-Lucy Westenra	female	The main victim who becomes a vampire. She is described as beautiful and pure in life, but transformed into a creature of evil and temptation.
-The Child	*male	A young child who was taken by Lucy's vampire form. The child is described as being found unharmed and later returned to safety.

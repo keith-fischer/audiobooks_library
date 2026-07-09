@@ -1,0 +1,83 @@
+	narrator	Eric	male	Story narrator
+	Buckminster Fuller	Lewis	male	4. An American architect and inventor who designed a free-floating tensegrity ring-bridge around the Earth's equator in 1951, which inspired the concept of 'Star City'. Died in 1983.
+	Dr Chris Winter	Psi	male	5. Head of British Telecom's Artificial Life Team, mentioned as believing the information and storage device could be developed within 30 years
+	Dr Smalley	Michael	male	4. Leader of a group of chemists at Rice University who produced tubular forms of C60 (buckytubes), which have greater tensile strength than diamond and make the space elevator concept more plausible. Won the 1996 Nobel Prize in Chemistry.
+	Will Durant	Echo	male	7. Historian who wrote 'The Story of Civilization' and made the quote about civilization being an interval between Ice Ages
+	Yuri Artsutanov	Ryan	male	4. A St Petersburg engineer who invented the concept of the space elevator, also known as 'cosmic funicular'. He met the narrator in 1982.
+	*A. Einstein	Puck	*male	16. Someone who was allocated the book number 2001, which had been intended for the author
+	*A. Rueda	Nicola	male	9. Physicist who co-authored 'Inertia as a Zero-Point Field Lorentz Force' with B. Haisch and H. F. Puthoff
+	*AI Worden	Liam	*male	15. Apollo 15 crew member who watched over the mission from orbit and has a daughter mentioned in the chapter
+	*Al Worden	Fenrir	male	15. Apollo 15 crew member who watched over the mission from orbit and is mentioned as having a daughter present during re-entry
+	*Alec Guinness	Liam	*male	36. A movie star mentioned as one of the distinguished visitors at the Galle Face Hotel.
+	*Alexei Leonov	Kumo	*male	36. A cosmonaut mentioned as having been dedicated to in '2010 Odyssey Two'.
+	*Andrei Sakharov	George	male	9. Russian physicist whose ideas were developed by three American physicists in 1994 | 36. A Nobel Prize winner mentioned as the dedicatee of '2010 Odyssey Two'.
+	*Anthony Storr	Daniel	*male	19. Author who wrote 'Feet of Clay: A Study of Gurus' about religious frauds
+	*Apollo 12 crew	Lewis	*male	36. The second mission to the Moon's surface, mentioned as visitors at the Galle Face Hotel.
+	*Arthur C. Clarke	Psi	*male	36. The author of the Odyssey series, mentioned as writing this final book in Colombo.
+	*Arthur Clarke	Omega	male	15. Author and space visionary who received a relief map from Apollo 15 crew and dedicated his novel 'Earthlight' to the astronauts
+	*Asimov	Santa	*male	16. Named asteroid 5020, honoring the author's old friend who could never know about the naming
+	*B. Haisch	Omega	male	9. Physicist who co-authored 'Inertia as a Zero-Point Field Lorentz Force' with A. Rueda and H. F. Puthoff
+	*Ben Franklin	Michael	male	4. An American polymath who conducted famous kite experiments during thunderstorms, which the narrator references as having killed some of his contemporaries.
+	*Captain Chandler	Santa	male	1. A space explorer or hunter operating in the Kuiper Belt region, as mentioned in the chapter's context about discovering celestial objects
+	*Clarke	Eric	*male	16. Named asteroid 4923, recognized for Project Spaceguard and association with the author
+	*Conan Doyle	George	*male	19. Author of Sherlock Holmes who maintained faith in psychics despite evidence they were frauds
+	*Cyril Gardiner	Fenrir	*male	36. Chairman of the Galle Face Hotel who provided hospitality during the author's writing process and was honored to have his name listed among notable visitors.
+	*Dave Scott	George	male	15. Apollo 15 crew member who signed a map of Falcon's landing site and is mentioned as one of the first men to enter the lunar territory
+	*David Bowman	Puck	*male	36. A character from '2001 A Space Odyssey' who awakens in a hotel room, mentioned as having had his story continued in '2010 Odyssey Two'.
+	*David C. Jewitt	Eric	male	1. Co-author of 'The Kuiper Belt' scientific article, mentioned as a researcher who discovered the Kuiper Belt region
+	*Dr Chandra	George	*male	36. HAL's inventor, mentioned in the context of the '2010 Odyssey Two' book.
+	*Dr Watson	Lewis	*male	19. Sherlock Holmes's companion who commented on the simplicity of Houdini's tricks
+	*E.E. Smith	Fenrir	male	9. Master of the 'Space Opera' genre who invented the concept of inertialess drive in the 1930s
+	*Ganymede	Echo	*male	17. One of Jupiter's moons, the focus of exploration in this chapter and described as having a city that appears artificial
+	*Gentry Lee	Echo	*male	36. A collaborator of the author who worked on projects including Galileo and Viking.
+	*Gregory Peck	Michael	*male	36. A movie star mentioned as one of the distinguished visitors at the Galle Face Hotel.
+	*H. F. Puthoff	Psi	male	9. Physicist who co-authored 'Inertia as a Zero-Point Field Lorentz Force' with B. Haisch and A. Rueda
+	*H. S. Tsien	Echo	male	26. Dr Tsien Hsue-shen, the Chinese rocket scientist whose collected works were edited by Major-General Wang Shouyun
+	*HAL	Omega	*male	36. A computer character from the '2001 A Space Odyssey' series, invented by Dr Chandra according to the text.
+	*Harry Houdini	Onyx	*male	19. Famous magician who was convinced by Conan Doyle that he dematerialized himself to perform feats
+	*Jeffrey Hoffman	Liam	male	4. A Mission Specialist on the Shuttle Atlantis crew who sent the narrator an autographed copy of 'The Fountains of Paradise' after their orbital press conference.
+	*Jim Irwin	Onyx	male	15. Apollo 15 crew member who signed a map of Falcon's landing site and is mentioned as one of the first men to enter the lunar territory
+	*John H. Rogers	Fable	*male	17. Author of 'The Giant Planet Jupiter' and a scholar who published work on Jupiter that includes figures showing Ganymede City
+	*John Q. Popcorn	Nicola	*male	36. A fictional character or metaphorical representation of a typical moviegoer who might be influenced by popular culture and perceive the author's work as derivative.
+	*Jupiter	Alex	*male	17. The giant planet that is the primary destination of the Galileo mission, described as a 'giant planet' in John H. Rogers's work
+	*Khan	Omega	*male	19. A narrator or author figure who makes assertions about human insanity and religious beliefs
+	*Laurence Olivier	Eric	*male	36. A movie star mentioned as one of the distinguished visitors at the Galle Face Hotel.
+	*Lawrence Krauss	Psi	male	9. Technical advisor for Star Trek who gave the only possible answer about inertial dampers
+	*Louis K. Scheffer	Nicola	male	9. Author of 'Machine Intelligence, the Cost of Interstellar Travel and Fermi's Paradox' published in Quarterly Journal of the Royal Astronomical Society
+	*Major-General Wang Shouyun	Alex	male	26. Personal assistant to Dr Tsien Hsue-shen who received copies of 2010 and 2061 from the author and presented him with 'Collected Works of H. S. Tsien'
+	*Martin Gardner	Liam	*male	19. Author who wrote 'The Night is Large' and was referenced as a source for information about Conan Doyle
+	*Medes	Psi	*male	17. A hypothetical ancient civilization that allegedly built the artificial city on Ganymede, described as possibly being 'BIG' based on their wide streets
+	*Mike McQuay	Fable	*male	36. A collaborator of the author who worked on projects including '2061 Odyssey Three', mentioned as having passed away.
+	*National Prevaricator	Nicola	*male	17. A satirical reference to a government official or media figure who might misrepresent scientific discoveries, mentioned as someone whose attention the author feared
+	*Nicholas	Daniel	male	3. Full name Nicholas Negroponte, referred to as 'Being Digital' author, MIT Media Lab researcher who developed the palm-to-palm information transfer concept
+	*Noel Coward	Daniel	*male	36. A stage and movie star mentioned as one of the distinguished visitors at the Galle Face Hotel.
+	*Peter Hyams	Alex	*male	36. A film director who made the movie version of '2010 Odyssey Two'.
+	*Pico	Fable	*male	36. A character referenced in the text as a potential antagonist or threat, mentioned in relation to computer security and cyber threats.
+	*Pol Pot	Michael	*male	19. Political leader whose atrocities are compared to those of the Inquisition
+	*President Clinton	Psi	*male	36. The President of the United States who signed Executive Order 13010 regarding computer-based attacks on critical infrastructure.
+	*Professor Thirugnanasampanthamoorthy	Nicola	*male	36. A character whose name was found in the Colombo Telephone Directory and used in the book.
+	*Richard Feynman	Onyx	male	7. Physicist who made a famous remark about the energy contained in a coffee-mug's volume being enough to boil all the oceans of the world
+	*Robert L. Forward	Lewis	male	5. Author of 'Indistinguishable From Magic' (Baen 1995), referenced for his work on the 'Beanstalk' concept and other science fiction ideas
+	*S. J. Bus	Daniel	male	16. Astronomer who discovered asteroid 4923 (1981 E027) at Siding Spring, Australia
+	*Sherlock Holmes	Fenrir	*male	19. Fictional detective created by Conan Doyle, referenced as a brilliant man whose beliefs turned him into a lunatic
+	*Stanley Kubrick	Santa	*male	36. A film director who collaborated with the author on '2001 A Space Odyssey'.
+	*The author	Kumo	*male	16. Narrator who mentions writing about Asteroid 7794 and references his own work
+	*Theodore von Karman	Puck	male	26. Hungarian aerodynamicist who was Tsien Hsue-shen's mentor and colleague at Caltech, contributing to the establishment of the Guggenheim Aeronautical Laboratory
+	*Thuang Fenggan	Kumo	*male	26. Deputy Director of China National Space Administration who commented on Tsien Hsue-shen's contributions to Chinese rocket development
+	*Tsien Hsue-shen	Santa	male	26. Chinese rocket scientist and founder of both Chinese and American rocket programming, born in 1911, who was deported from the US during McCarthy era and later became a key figure in China's space program
+	*US Marshals	Eric	*male	19. Law enforcement officials who arrested a religious fraud figure
+	*Wally Schirra	Michael	male	15. CBS television journalist who covered the Apollo 15 landing with Walter Cronkite
+	*Walter Cronkite	Lewis	male	15. CBS television journalist who covered the Apollo 15 landing with Wally Schirra
+	*Yuri Gagarin	Onyx	*male	36. The first human to journey into outer space, mentioned as one of the distinguished visitors at the Galle Face Hotel.
+	*Al Worden's daughter	Sarah	*female	15. Young girl who was present during the Apollo 15 re-entry and first noticed that one of the capsule's three parachutes had failed to deploy
+	*Anne	Alloy	*female	4. Buckminster Fuller's wife, who traveled with him on a world trip during which the narrator showed them locations from 'The Fountains of Paradise'.
+	*Cari Sagan	Sky	*female	19. Author who wrote 'The Demon-Haunted World' and criticized New Age beliefs
+	*Carrie Fisher	Dora	*female	36. A movie star mentioned as one of the distinguished visitors at the Galle Face Hotel, known for her role in 'Star Wars'.
+	*Galileo	Xiaoyi	*female	17. A space probe sent to Jupiter and its moons, described as performing admirably despite technical difficulties with its main antenna that unfolded improperly
+	*Iris Chang	Aoede	female	26. Biographer who wrote 'Thread of the Silkworm' about Tsien Hsue-shen, mentioned as a source for information about his life and contributions
+	*Jane X. Luu	Emma	female	1. Co-author of 'The Kuiper Belt' scientific article, mentioned as a researcher who discovered the Kuiper Belt region
+	*Judy-Lynn Del Rey	Nezumi	*female	36. An editor who bought the book '2061 Odyssey Three' for one dollar, mentioned in a dedication.
+	*Mary	Lily	*female	19. A religious figure worshipped by Christians and others, referenced in the context of religious devotion
+	*Michael Kube-McDowell	Nicole	*female	36. A collaborator of the author who worked on projects including '2061 Odyssey Three'.
+	*Shelly Shapiro	Xiaoxiao	*female	36. The editor at Del Rey Books who provided feedback on the book, helping to improve its final product.
+	*Vivien Leigh	Nova	*female	36. A movie star mentioned as one of the distinguished visitors at the Galle Face Hotel.

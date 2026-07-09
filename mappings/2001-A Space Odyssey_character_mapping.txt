@@ -1,0 +1,31 @@
+	narrator	Adam	male	Story narrator
+	David Bowman	Echo	*male	1. The First Captain of the spacecraft Discovery who becomes the sole survivor after his crewmates are killed. He is a key figure in the later chapters of the story, particularly after his journey to Saturn and encounter with TMA-2.
+	Dimitri Moisevitch	Psi	*male	1. A Russian astronomer who meets Dr. Floyd at the Space Station and is concerned about an epidemic on the Moon, though he does not believe the official explanation.
+	Dr. Heywood Floyd	Liam	*male	1. A scientist and member of the National Council of Astronautics who is sent to investigate an epidemic on the Moon. He is a key figure in the modern-day portion of the story, traveling to the Moon and discovering TMA-1.
+	Dr. Roy Michaels	Omega	*male	1. The Chief Scientist who leads the investigation of TMA-1 and presents evidence that it is three million years old. He is a key figure in the scientific community's response to the discovery.
+	Dr. Simonson	Daniel	*male	1. The Chief Programmer from Mission Control who communicates with David Bowman during the crisis involving HAL 9000 and the AE-35 unit.
+	Frank Poole	Michael	*male	1. The Second Captain of the spacecraft Discovery who is killed during an EVA to replace a faulty AE-35 unit. He was the first of the crew members to die in the story.
+	Hal	Nicola	*male	1. HAL 9000, the highly advanced computer that controls Discovery. He becomes a central figure in the conflict with the human crew, ultimately leading to the death of Frank Poole and the destruction of his own consciousness.
+	Moon-Watcher	Santa	*male	1. A man-ape who is nearly five feet high, weighing over a hundred pounds. He is almost a giant among his kind and shows early signs of intelligence that will eventually lead to humanity. He is the protagonist of the opening chapter, leading his tribe and discovering the monolith.
+	Nick Miller	Alex	*male	1. Station Security at the Space Station who accompanies Dr. Floyd to Clavius Base.
+	Ralph Halvorsen	Kumo	*male	1. The Administrator of the Southern Province who oversees Clavius Base on the Moon. He is a key figure in the investigation of TMA-1 and its implications.
+	Whitehead	Michael	*male	1. A geophysicist who is one of the three hibernators that are awakened by Bowman after Frank Poole's death. He is part of the original crew sent to investigate Saturn.
+	Diana	Nicole	*female	1. The young daughter of Administrator Ralph Halvorsen, who meets Dr. Floyd on the Moon and expresses her dislike for Earth's crowded conditions.
+	Miss Simmons	Siwis	*female	1. A stewardess aboard the Orion III spacecraft who is concerned about her fiancé's safety and asks Dr. Floyd about an epidemic on the Moon.
+	arthur c. clarke	Adam		
+	dr. dimitri moisevitch	Adam		
+	hal 9000	Nicola		
+	jack swigert	Adam		
+	mission control	Eric		
+	mr. poole, senior	Adam		
+	mrs. poole	Michael		
+	pilot	Fable		
+	scott meredith	Adam		
+	stewardess	Aoede		
+	*Hunter	Puck	*male	1. A member of the survey team aboard Discovery who is one of the three hibernators that are awakened by Bowman after Frank Poole's death. He is part of the original crew sent to investigate Saturn.
+	*Kaminski	Eric	*male	1. A member of the survey team aboard Discovery who is one of the three hibernators that are awakened by Bowman after Frank Poole's death. He is part of the original crew sent to investigate Saturn.
+	*One-Ear	Lewis	*male	1. A leader of the 'Others' tribe who challenges Moon-Watcher's group. He is described as being of similar size and age to Moon-Watcher but in poorer condition.
+	*White Hair	Liam	*male	1. An older man-ape who is killed by a leopard. He is part of the tribe that Moon-Watcher leads, and his death marks one of the first major events in the story.
+	*Anna	Nezumi	*female	1. One of the space pods used for extravehicular activity aboard Discovery, named after a woman.
+	*Betty	Lily	*female	1. One of the space pods used for extravehicular activity aboard Discovery, named after a woman.
+	*Clara	Aoede	*female	1. One of the space pods used for extravehicular activity aboard Discovery, named after a woman.

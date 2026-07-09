@@ -1,0 +1,184 @@
+	narrator	Adam	male	Story narrator
+	Angus McLeod	Liam	male	6. Eldest son of the trader McLeod, deeply in love with Magaskawee and leader of the relief party to save the exiles
+	Anookasan	Echo	male	4. A young Sioux warrior in his thirties, chosen as one of ten scouts to find buffalo for the winter. He is described as having a massive form wrapped in a fine buffalo robe, with an eagle feather in his scalp-lock. He is the leader of the scouting party and demonstrates courage, determination, and a sanguine spirit despite their failed hunt. He is deeply religious and takes his duty seriously. | 5. A member of the Yankton tribe who leads a group of hungry warriors to Antoine's hut. He is described as having red paint on his wild and warlike face, and he speaks in signs. He is curious about Antoine's fiddle and the strange man himself, eventually becoming friends with him after being invited to share food.
+	Antelope	Fenrir	male	1. A young Sioux warrior seeking to prove himself among his people. He is known for his courage, gentleness, and retirement despite his bravery in battle. He has passed the 'two-arrow-to-kill' buffalo examination and is considered a promising young leader. He is engaged to Taluta but must delay their marriage due to his war duties. | 2. A young Sioux warrior who loved Taluta and was deeply grieved by her death. He sought to communicate with her spirit, later married a Ree maiden named Stasu, and became a father. He was known for his bravery but also his introspective nature.
+	Antoine Michaud	Eric	male	5. A skilled Canadian mixed-blood hunter and rider, known for his exceptional abilities in hunting bison. He is described as having shaggy black hair, dark face with large white teeth, and liquid black eyes. He is a brave and resourceful man who becomes trapped in a buffalo stampede but manages to save himself by climbing a tree. He eventually settles among the Yankton tribe and marries, living out his days there.
+	Bald Eagle	Puck	male	3. Young man who became known by this name after killing the Ree chief, Big Whip's close friend
+	Big Whip	Onyx	male	3. Father's younger brother, young man who dared his friend to kill the Ree chief
+	Black Shield	Santa	male	3. Sioux who had intermarried among the Rees, shouted to the Sioux about the killing
+	Brave Elk	Alex	male	11. Matosapa's inseparable brother-friend who accompanies him on his romantic pursuit of Winona. He is described as a companion who helps Matosapa with his first visit to speak to a woman, providing support and humor during the courtship process.
+	Chanotedah	George	*male	4. The Isantees' name for Oglugechana, a supernatural being who dwells in hollow stumps and has the ability to bewitch travelers with his music. | 5. A Yankton warrior who is mentioned as being present when the red folk invade Antoine's hut. He asks questions about whether Antoine is man or beast, showing curiosity and wariness toward the strange white man.
+	Crowhead	Lewis	*male	1. The war-leader who leads the expedition into Ute country. Antelope enlists in his war-party, and they consult spiritual advisers before departure.
+	Eaglechild	Alex	*male	2. A fellow scout of Antelope who accompanied him on reconnaissance missions. He was part of the war party that went against the three confederated tribes.
+	Face-the-Wind	Fenrir	male	6. Young Sioux messenger chosen for his speed and endurance, who delivered the desperate message to Fort Ellis but died before reaching the village
+	Hahatonwan	Liam	*male	13. An Ojibway warrior who is part of the war party that encounters the Black Robe
+	Hechetu	Lewis	*male	9. An elder hunter who speaks about the advantages of hunting at Shell Lake and suggests strategies for using dogs in the hunt.
+	Herald	Psi	*male	10. A person who announces the christening of Winona in a singsong fashion around the lodges, inviting people to attend the feast.
+	Iyotanka	Kumo	*male	9. A hunter who awakens first after the storm and calls for others to rise, helping organize the search for Wapashaw.
+	Jerry	Fable	*male	6. One of the white men in the relief party who helped set up camp and prepare for travel
+	Little Crow	Santa	male	6. Father of White Lodge, former leader of the Sioux who led an uprising in 1862 | 7. The chief of the Sioux tribe who orders Tawasuota to fire the first shot in the massacre. He is portrayed as cunning and manipulative, using the unrest among his people to gain power and influence. He plans attacks on white settlements and soldiers.
+	Little Eagle	Onyx	*male	17. An orphan and poor young man who is secretly favored by Makatah, becomes her rescuer during the battle, and dies heroically saving her life
+	Mato	Michael	*male	2. A bear who became one of the companions and friends of Stasu and Antelope in their wilderness home. He was given human-like clothing for a play. | 12. A grizzly bear who attacks Snana while she is in a tree with the fawn. He is described as great and warlike, given the rank of warrior among animals.
+	Matosapa	Psi	male	11. A young Sioux warrior who has loved Winona since seeing her at the lakeside. He is described as a brave young man who has been pursuing Winona for nearly a year, presenting her kinsfolk with his game during hunting seasons. He is the suitor who approaches Winona in her private teepee after dances, following traditional Sioux courtship customs.
+	Matoska	Nicola	male	15. A young warrior of the Sioux tribe, known as 'White Bear' and a close rival to Red Owl. He is in love with Blue Sky, brave enough to fight in battle and willing to risk his life for her sake. He is captured by the Crows after being betrayed by Red Owl.
+	McLeod	Nicola	*male	6. Scotch trader at Fort Ellis, father of Angus McLeod, who organized the relief expedition to save the starving Sioux
+	Poor Dog	Psi	male	8. A great chief of the Rees who encountered Zuyamani at Fort Berthold. He criticized the white men for not rewarding Zuyamani's brave deed and expressed concern about the lack of recognition.
+	Red Dog's Track	Echo	male	3. Blackfoot Sioux who joined the Yanktonnais in battle, later called He-Came-Back
+	Red Owl	Liam	male	15. A brave young warrior and close rival of Matoska, both for war honors and the hand of Blue Sky. He is jealous of Matoska's success in battle and his relationship with Blue Sky, ultimately betraying Matoska by shooting his horse from behind. He later kills himself after Matoska's capture.
+	Shunka	Nicola	*male	9. A large, loyal wolf dog who is the faithful companion of Wapashaw. He demonstrates intelligence and bravery by protecting his master during a blizzard, ultimately sacrificing himself to save Wapashaw.
+	Shunkaska	Lewis	male	16. War-chief and husband of Weeko, known as White Dog. He is portrayed as a practical man who values his wife's decisions but also has concerns about her parenting choices, particularly regarding Nakpa and the twins.
+	Smoky Day	George	male	17. An old man and renowned storyteller and historian of his tribe who recounts the story of the War Maiden
+	Tamakoche	Onyx	male	17. The head chief of the Unkpapas, a notable warrior and hunter who is the father of three sons and the father of Makatah
+	Tatankaota	Fable	male	13. Chief of a Sioux band living on the shores of Lake Superior, father of the young war-party leader
+	Tatoka	Kumo	*male	1. Antelope's name as referred to by Taluta in their courtship. He is the young warrior who becomes engaged to Taluta and must delay marriage due to war duties. | 2. The son of Antelope and Stasu, born in the wilderness. He grew up among wild animals and was considered a brave by his parents.
+	Tawasuota	Puck	male	7. The chief soldier of Little Crow's band, a brave warrior who reluctantly participated in the massacre of white settlers. He is described as dignified and proud, with a strong sense of duty that conflicts with his moral objections to the killing. He later becomes a fugitive and attempts to reunite with his family before joining the war party against the whites.
+	Tawasuota's two sons	Daniel	*male	7. Young boys who are taken away by their grandmother to Faribault. They play outside their teepee when Tawasuota finds them and are later kissed farewell by him before he departs.
+	The Game Herald	Alex	*male	9. A hunter who calls out to the group before the hunt, urging them to get the game early.
+	The Leader	Eric	*male	9. A leader among the hunters who reassures his companions about Wapashaw's safety and helps organize their response to his disappearance.
+	The stranger hunter	Kumo	male	12. A young male hunter who encounters Snana with the fawn. He is described as handsome and initially suspicious of her, questioning whether she is human or a doe in disguise.
+	Three Stars	Omega	male	6. Devoted suitor of Winona's who joined the relief party to help save the exiles from starvation
+	Wahpeton chief	Fable	*male	7. An older warrior and blood-relation to Tawasuota who reproaches him for the massacre. He is described as grave and concerned about the consequences of their actions.
+	Wapashaw	Eric	male	9. The game scout, a skilled hunter who leads expeditions and calls to the wolves. He is experienced in winter hunting and has a faithful companion dog named Shunka.
+	Wezee	Michael	male	1. Antelope's father, a common family man who becomes proud of his son's achievements. He is receiving congratulations for Antelope's bravery and is described as speaking complacently about his son's honorable career. | 2. The father of Antelope, a respected elder in the Sioux tribe who was deeply worried about his son's disappearance and later rejoiced at his return.
+	White Ghost	Omega	male	3. Patriarchal old chief of the Yanktonnais Sioux, narrator of the story
+	Zuyamani	Daniel	male	8. A young Hunkpatee warrior who volunteered to carry a crucial message through hostile Sioux territory. He successfully completed the dangerous journey, facing pursuit by hostile warriors and enduring harsh winter conditions. He is described as having no experience but showing great courage.
+	Blue Sky	Nova	female	15. The pretty daughter of the Sioux chief, beloved by Matoska and sister to Brave Hawk. She is brave, determined, and willing to risk her life to find her lover after his capture by the Crows. She demonstrates great courage and resourcefulness in her journey to the Crow camp.
+	Eyatonkawee	River	female	14. A renowned Sioux woman known as 'She-whose-Voice-is-heard-afar,' celebrated for her bravery in hand-to-hand combat against Sacs and Foxes, her role as a peace-maker who intervened in quarrels by recounting her heroic deeds, and her opposition to alcohol consumption among her people. She was a widow who married into another band and became a prominent figure in Sioux society.
+	Grandmother	Siwis	*female	10. An elderly woman who examines and names the infant Winona. She is one of two grandmothers who carry Winona in a cradle and introduce her to nature. She is involved in the naming ceremony and teaches traditional stories.
+	Makatah	Bella	female	17. The War Maiden, daughter of Tamakoche, a beautiful and brave young woman who joins a war party to visit her brothers' graves and prove herself a warrior
+	Miniyata	Sky	female	11. Winona's friend who is also a Sioux maiden. She is present with Winona during their secluded time in the woods, participating in sacred dances and needlework. She is described as one of two Sioux maidens engaged in traditional feminine activities like embroidery with porcupine quills and birch bark.
+	Mother	Tebukuro	female	10. Winona's mother, who gives birth to her after a difficult labor. She is described as meek and innocent like an ermine, and teaches Winona about womanhood, domestic duties, and the importance of hospitality.
+	Second Grandmother	Lily	*female	10. The other grandmother who examines the baby Winona and helps in her upbringing. She carries Winona on her back, takes her to the woods for spiritual initiation, and participates in naming ceremonies.
+	She-who-has-a-Soul	Nicole	female	13. Chief's youngest daughter, a beautiful and generous maiden who shows compassion to the stranger and influences her father to spare him
+	Snana	Dora	female	12. A young Sioux girl who discovers and cares for a fawn, showing compassion and maternal instincts. She is described as graceful like a doe and deeply connected to nature. She becomes the mother of a great race of warriors according to her prayer.
+	Stasu	Xiaoyi	female	2. A Ree maiden who was captured and married by Antelope. She became his wife in the wilderness, bore him a child, and was deeply loved by her husband. She was beautiful and skilled in domestic arts.
+	Taluta	Alice	female	1. A beautiful and virtuous Sioux maiden who has held five maidens' feasts. She is the object of Antelope's affection and is known for her modesty, purity, and grace. She is described as having black hair in thick plaits, brown skin with a faint glow, and calm yet fiery black eyes. | 2. A beautiful maiden who died and became a spirit. She was loved by Antelope and appeared to him in the teepee after her death, telling him of her twin spirit and comforting him.
+	Tawasuota's mother	Emma	female	7. An elderly woman who is deeply concerned about her son's actions. She foresees that this will be their last meal together and is devastated by the events.
+	Tawasuota's wife	Heart	female	7. A woman who has been taken away by her mother to Faribault among the white people. She is described as having accepted white ways and religion, and fears for her family's safety.
+	Weeko	Jessica	female	16. Young wife of war-chief Shunkaska, mother of twin boys, known for her generosity and strong will. She is described as a young mother who was deeply devoted to her children, showing both tenderness and determination in the face of adversity.
+	Winona	Nezumi	female	6. White Lodge's other twin daughter, one of the two women who cared for the starving villagers and visited the orphaned old woman | 10. The main character, born as the first-born daughter of Chetonska, the White Hawk. Known by her birth name Tatiyopa (Her Door) and later called Winona for her charitable nature. Raised in accordance with Sioux traditions, she is taught to be industrious, helpful, and graceful, developing strong maternal instincts early in life. | 11. A Sioux maiden who has attended her first maidens' feast and is considered eligible for marriage. She possesses robust beauty like a wild lily, with deep yellow and scarlet colors against the prairie. She is skilled in preparing skins, removing hair, and tanning deer hides into moccasins within three days. She is modest yet graceful, with smooth black hair parted in the middle and plaited in two. She is engaged in traditional feminine pursuits like embroidery, swimming, and playing games with other girls.
+	blackfoot sioux	Alex		
+	chief	Alex		
+	hunter	Alex		
+	men	Alex		
+	ree warrior	Alex		
+	tawasuota's eldest sister	Alpha		
+	warrior	Alex		
+	warriors	Alex		
+	*A-tay	Puck	male	18. Father
+	*Ami	Lewis	*male	5. A large grizzly bear who becomes Antoine's companion after both are trapped in the buffalo stampede. The bear is wounded and bleeding from many injuries, having fought off several bulls. He becomes a loyal companion to Antoine, helping with hunting and providing companionship during the winter.
+	*Bald Eagle (Ree chief)	Omega	male	3. Chief of the Rees who was killed by Bald Eagle, also named Bald Eagle
+	*Black Robe	Lewis	*male	13. A Christian missionary or religious figure from the east, dressed in unusual clothing and carrying a cross, who is captured by the Sioux warriors
+	*Brave Hawk	Fable	male	15. The handsome brother of Blue Sky, a brave warrior who dies in battle against the Crows. He is honored with war-bonnet and recognized for his valor, having compelled the Crows to retreat in battle.
+	*Bunch of Stars	Fenrir	*male	8. A scout who participated in the second reconnaissance of the hostile camp and helped escort Zuyamani back to safety. He is mentioned as being west of the middle sky when they set out again.
+	*Cha-ton’-ska	Santa	male	18. White Hawk
+	*Chetonska	Daniel	male	10. Winona's father, referred to as the White Hawk. He is a brave warrior who has given birth to his first daughter, Winona.
+	*Chief Little Crow	Eric	*male	14. The elder chief whose death led to succession disputes between his sons from different bands, and who was the father of His-Red-Nation/Little Crow.
+	*Chief Soldier	George	*male	8. The commanding officer at Fort Rice who requested a brave warrior to carry messages through hostile territory. He provided Zuyamani with a fine horse, saddle, rifle, and soldier's uniform but was ultimately forced to accept Zuyamani after no one else volunteered.
+	*Chin-o-te-dah	Echo	male	18. Lives-in-the-Wood
+	*Chin-to	George	male	18. Yes, indeed
+	*E-yo-tank-a	Fenrir	male	18. Rise up, or sit down
+	*Enakanee	Omega	*male	9. A hunter who serves as a herald, calling out to the group before the hunt begins. He is part of the hunting party that follows Wapashaw's lead.
+	*Eyah	Eric	*male	6. God of famine in Indian mythology, said to swallow all food and whole nations
+	*Ha-ha-ton-wan	Omega	male	18. Ojibway
+	*Ha-na-ka-pe	Daniel	male	18. A grave
+	*Han-ta-wo	Psi	male	18. Out of the way!
+	*He-che-tu	Nicola	male	18. It is well
+	*He-yu-pe-ya	Lewis	male	18. Come here!
+	*Hi	Kumo	male	18. An exclamation of thanks
+	*His-Red-Nation	Alex	*male	14. Later known as Little Crow, the son of a wife from the Kaposia band who was disputed for chieftainship after his father Chief Little Crow's death, and was targeted by rivals who plotted to kill him at a feast.
+	*Hunk-pa-tees	Alex	*male	18. A band of Sioux
+	*James Lynd	Michael	*male	7. A white trader who is killed by Tawasuota during the massacre. He was a friend to the Indians and represents one of the first victims of the violence.
+	*Ka-po-sia	Eric	*male	18. Light Lodges, a band of Sioux
+	*Ko-da	Fable	*male	18. Friend
+	*Little Six	Onyx	*male	7. A warrior who initiates the war against whites by killing two families of settlers. He is part of Little Crow's war party and leads the initial attack.
+	*Ma-to	Liam	*male	18. Bear
+	*Ma-to-sa-pa	Michael	*male	18. Black Bear
+	*Ma-to-ska	Onyx	*male	18. White Bear
+	*Mack	Alex	*male	6. Old reliable lead-dog who served on the relief expedition, experienced in winter travel
+	*Many Buffaloes	Nicola	male	13. Alternative name for Tatankaota, chief of the Sioux band
+	*Me-chink-she	Puck	*male	18. My son or sons
+	*Me-ta	Santa	*male	18. My
+	*Medicine-man	Psi	*male	10. A traditional healer who is summoned to officially name Winona. He requires a gift of a pony with a painted buffalo-robe before performing the naming ceremony.
+	*Min-ne-wa-kan	Echo	*male	18. Sacred Water (Devil's Lake)
+	*Min-ne-ya-ta	George	*male	18. By-the-Water
+	*Myrick	Puck	*male	7. A white man who is shot and killed while fleeing from the massacre. He was one of the victims targeted by the Indians after Tawasuota's initial shot.
+	*Nak-pa	Fenrir	*male	18. Ears or Long Ears
+	*Ne-na e-ya-ya	Omega	*male	18. Run fast!
+	*O-glu-ge-chan-a	Daniel	*male	18. Mysterious Wood-Dweller
+	*Oglugechana	Nicola	*male	4. A supernatural being described as a little man no larger than a newborn babe, with hair all over his body. He is said to dwell in hollow stumps and has the ability to bewitch lone travelers with his music, leading them until they lose their senses. He can transform people into great war-prophets or medicinemen, but his commands are hard to fulfill.
+	*Old Chief	George	*male	2. The chief of the Ree tribe who was the father of Stasu. He welcomed Antelope and his family back to the village.
+	*Psay	Psi	*male	18. Snow-shoes
+	*Red Eagle	Michael	*male	1. Antelope's cousin who accompanies him to the maidens' feast. He is described as wearing an eagle-wing fan partially concealing his face and standing with Antelope in the angle formed by their steeds.
+	*Red Horn	Michael	male	17. A young warrior and persistent suitor of Makatah who is wealthy and uses his father's influence to pressure her into marriage
+	*Ree Warriors	Fenrir	*male	2. The warriors of the Ree tribe who initially attacked Antelope and Stasu upon their return to the village but later accepted them.
+	*Shield	Puck	*male	2. The name that Stasu gave to Antelope in sign language, which he accepted as an omen. He was the name of her brother who had died.
+	*Shunk-a	Nicola	*male	18. Dog
+	*Shunk-a-ska	Lewis	*male	18. White Dog
+	*Shunk-ik-chek-a	Kumo	*male	18. Domestic dog
+	*Shunkmanito	Psi	*male	4. The wolf who calls to the scouts. According to Anookasan, wolves are considered friends in trouble and have guided lost hunters back home during blizzards or led them to game when desperate.
+	*Ske-ske-ta-tonk-a	Alex	*male	18. Sault Sainte Marie
+	*Sna-na	Eric	*male	18. Rattle
+	*Sta-su	Fable	*male	18. Shield (Arickaree)
+	*Ta-ake-che-ta	Liam	*male	18. His soldier
+	*Ta-chin-cha-la	Onyx	*male	18. Fawn
+	*Ta-lu-ta	Puck	*male	18. Scarlet
+	*Ta-ma-hay	Santa	*male	18. Pike
+	*Ta-ma-ko-che	Echo	*male	18. His Country
+	*Ta-na-ge-la	George	*male	18. Humming-Bird
+	*Ta-tank-a-o-ta	Fenrir	*male	18. Many Buffaloes
+	*Ta-te-yo-pa	Omega	*male	18. Her Door
+	*Ta-to-ka	Daniel	*male	18. Antelope
+	*Ta-wa-su-o-ta	Psi	*male	18. Many Hailstones
+	*Tak-cha	Michael	*male	18. Doe
+	*Tamahay	Kumo	male	14. Known as the 'One-eyed Sioux,' a notable frontier figure who fought for Americans during the War of 1812, became a friend of Lieutenant Pike, and was known for his reckless nature and perilous adventures. He later became a drunkard but maintained his reputation as a warrior.
+	*Tanagila	Liam	*male	15. Also known as 'Hummingbird', the beautiful war-horse of Brave Hawk, Blue Sky's dead brother. The horse is decorated with honors won by its master and is used by Blue Sky to ride to the Crow camp.
+	*Te-yo-tee-pee	Lewis	*male	18. Council lodge
+	*Tee-pee	Nicola	*male	18. Tent
+	*To-ke-ya nun-ka hu-wo	Kumo	*male	18. Where are you?
+	*Tunk-a-she-dah	Alex	*male	18. Grandfather
+	*Two Bears	Santa	male	8. Zuyamani's uncle and the chief of his band. He presented Zuyamani's name to the commanding officer after Zuyamani offered to volunteer for the dangerous mission.
+	*U-ya-yo	Liam	*male	18. Come here!
+	*Un-chee-dah	Eric	*male	18. Grandmother
+	*Unk-pa-pa	Fable	*male	18. A band of Sioux
+	*Wa-ba-shaw	Onyx	*male	18. Red Hat (name of a Sioux chief)
+	*Wa-ha-dah	Michael	*male	18. Buyer of Furs
+	*Wa-ho	Santa	*male	18. Howler
+	*Wa-kan	Echo	*male	18. Sacred, mysterious
+	*Wa-pay-na	Fenrir	*male	18. Little Barker
+	*Wah-pay-ton	Puck	*male	18. A band of Sioux
+	*Wahadah	Liam	*male	6. The name McLeod used when ringing his bell to save the dying messenger Face-the-Wind
+	*Waho	Santa	*male	2. A wolf who became one of the companions and friends of Stasu and Antelope in their wilderness home. He was painted up as a brave for a play.
+	*Wak-pay-ku-tay	George	*male	18. A band of Sioux
+	*Wakan	Daniel	*male	4. Anookasan's pony, described as an old charger that has carried him to victory. He is loyal and ready for emergencies, welcoming Anookasan back with a gentle whinny.
+	*Wapayna	Onyx	*male	15. Blue Sky's faithful dog companion who follows her on her journey to find Matoska. He is intelligent and obedient, understanding his mistress's instructions not to attack strangers.
+	*Wazeah	Fable	*male	6. God of Storm, whose anger caused the harsh winter conditions that led to the famine
+	*We-no-na	Daniel	*male	18. Firstborn Daughter
+	*We-sha-wee	Psi	*male	18. Red Girl
+	*We-wop-tay	Nicola	*male	18. A sharpened pole
+	*We-yan-na	Lewis	*male	18. Little woman
+	*We-zee	Kumo	*male	18. Smoky Lodge
+	*Wee-ko	Omega	*male	18. Beautiful Woman
+	*White Elk	Echo	*male	8. A member of the warparty that pursued Zuyamani. He is mentioned as being present when Zuyamani was chased by hostile Sioux and later helped rescue him.
+	*White Lodge	Kumo	male	6. Father of the Sioux exile band, leader of his people during the famine, determined to share his last food with them
+	*Yank-ton-nais	Alex	*male	18. A band of Sioux
+	*Young Brave	Echo	*male	2. A young man who was part of the war party that went against the three confederated tribes. He was enthusiastic about going to war and reported on the enlistment of warriors.
+	*Zee-zee-win	Eric	*male	18. Yellow Woman
+	*Zu-ya-ma-ni	Fable	*male	18. Walks-to-War
+	*A-no-ka-san	Xiaobei	female	18. White on both sides, a Bald Eagle
+	*Bald Eagle's wife	Xiaoxiao	female	3. Wife of the Ree chief Bald Eagle, who rowed her husband across the river after he was killed
+	*Dowanhotaninwin	Gongitsune	female	11. A Sioux maiden who was orphaned at age ten by an attack of the Sacs and Foxes. She remained unmarried for nearly thirty years despite having many suitors from various branches of the Sioux nation. She chose to marry a warrior from her enemy tribe, the Sacs and Foxes, which was considered scandalous but ultimately led to peace between tribes. She is known for her nobility, bravery, and high purpose in seeking inter-tribal peace.
+	*E-na-ka-nee	Xiaobei	female	18. Hurry
+	*E-ya-tonk-a-wee	Beta	female	18. She-whose-Voice-is-heard-afar
+	*Ke-chu-wa	Alpha	female	18. Darling
+	*Ma-ga-ska-wee	Isabella	female	18. Swan Maiden
+	*Ma-ka-tah	Kore	female	18. Earth Woman
+	*Magaskawee	Aoede	female	6. One of White Lodge's twin daughters, known as 'The Swan', beautiful and sought after by many suitors including Angus McLeod
+	*Nakpa	Alpha	female	16. A gray mule known as Long Ears, who serves as a faithful pack animal for Weeko. She is intelligent and resourceful, demonstrating remarkable courage when she saves the twin babies during a Crow attack. She is described as having a strong personality and being deeply loyal to her mistress.
+	*Old woman	Xiaoni	*female	3. Unnamed female who screamed and wept while rowing her husband across the river
+	*Tachinchala	Kore	*female	12. The fawn that Snana rescues from its mother. The name means 'little deer' in Lakota, and the fawn is described as having a tawny coat with speckled markings.
+	*Takcha	Isabella	*female	12. The doe mother of the fawn, referred to as Snana's 'sister' in the story. She is described as a wild animal that calls to her young.
+	*Tawasuota's sisters	Sara	*female	7. Three women who are Tawasuota's siblings and show concern for his actions. They give him the place of honor at their mother's tent.
+	*The Swan	Sarah	*female	6. Nickname for Magaskawee, the beautiful twin daughter of White Lodge
+	*Weshawee	Alloy	*female	1. A chaperone who is concerned about her protege Taluta. She fidgets nervously and frequently adjusts her robe or necklace while watching the maidens' feast, showing anxiety about potential mishaps.
+	*Zeezeewin	Beta	female	16. A sister to Weeko who nurses the twin babies after their return. She is described as a young mother of the band and shows maternal care toward the children.

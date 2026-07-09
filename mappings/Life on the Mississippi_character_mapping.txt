@@ -1,0 +1,404 @@
+	narrator	Adam	male	Story narrator
+	Aleck Hopkins	Eric	*male	3. A boy who hides on the raft to get a ride. He claims to be from a trading scow and tells a story about his father wanting to speak with Mr. Jonas Turner in Cairo.
+	Alexander Mackay	Michael	male	27. English barrister who visited the Mississippi later, describing it with reverence and admiration
+	Barkeeper	Lewis	*male	33. A thoughtful and observant employee who works at a steamboat bar. He is described as never drinking, endeavoring to earn his salary, and providing drinks for passengers. He has strong opinions about local customs and the behavior of people along the river. | 37. One of the seventeen persons killed in the explosion on the steamer 'Gold Dust', identified by occupation
+	Bob	Nicola	*male	3. A raftsman who is known as 'Sudden Death and General Desolation' due to his fierce appearance and violent temper. He is described as a large, intimidating man.
+	Brown	Santa	male	18. Middle-aged, long and slim with a bony, smooth-shaven face resembling a horse. A tyrannical pilot known for his malicious, fault-finding nature and stinginess. He was extremely critical of his apprentice, often inventing faults to criticize him. | 19. A pilot on duty who is described as deaf but pretending to hear, condescending toward under clerks, and prone to violence. He is the antagonist who provokes conflict with the narrator. | 20. Pilot of the 'Pennsylvania' steamboat, who was never seen or heard of after the explosion. He was aboard the boat during the disaster and died in the blast.
+	Captain	Fable	*male	5. The leader of the steamboat 'Paul Jones' who has a familial relationship with the narrator. He is authoritative and commanding, though not explicitly described in detail beyond his role. | 7. The ship's captain who emerges from his drawing room to inquire about landing. He is described as being of high rank compared to the pilots, though his authority appears limited in practical navigation decisions. | 15. The captain of the 'Aleck Scott,' described as nervous and apprehensive. He shouts for steam when in danger but is easily criticized by Mr. Bixby, who ignores his pleas. | 26. A man who was present during the feud incident and witnessed a killing | 37. One of the forty-seven persons wounded in the explosion on the steamer 'Gold Dust', identified by rank | 45. A steamboat captain who invites ladies to board his vessel for a trip
+	Captain ----	Fenrir	*male	15. A captain who initially derides the Pilots' Benevolent Association but later has to hire an association pilot after his own non-association pilot refuses to work with him.
+	Captain Basil Hall	Eric	male	27. British naval captain who visited the Mississippi in 1827, described as having seen the river at flood-stage and feeling deeply impressed by its grandeur | 60. British traveler whose 'Travels in North America' caused strong negative reaction in the United States
+	Captain Hardy	Nicola	male	13. A captain of the ship 'Sunflower' who died from lockjaw after getting a nail in his foot, and whose brother also died of erysipelas.
+	Captain Klinefelter	Michael	male	19. The captain of the steamboat who confronts Brown and the narrator after the incident. He is described as fatherly and indulgent but stern when faults are serious. | 20. The captain of the 'Pennsylvania' who was in a barber's chair getting shaved during the explosion. He survived unharmed but was left with his back overhanging vacancy after the boat's destruction.
+	Captain McCord	Daniel	*male	32. The ship's captain who interacts with the narrator about going ashore at Napoleon
+	Captain Montgomery	Santa	male	49. A former pilot who became captain of the Confederate fleet in the battle before Memphis. Known for his cool demeanor and serenity even in dangerous situations.
+	Captain Y----	Fenrir	*male	14. An old and weary captain who had a difficult relationship with Stephen W----. He was afraid of Stephen's wild behavior and described him as a 'wild creature' who would yell, whistle, and cause sleepless nights. He was deeply disturbed by Stephen's piloting style and considered him disrespectful to authority.
+	Charles Dudley Warner	Lewis	*male	52. A literary figure who questioned the authenticity of the letter and suspected it was written by an educated person rather than an uneducated convict.
+	Child of Calamity	Omega	*male	3. A raftsman who is known for his dramatic, theatrical behavior and violent temper. He is described as a large man with a 'petrified heart' and 'biler-iron bowels.'
+	Cincinnati	Fable	*male	39. A traveling salesman or drummer from Cincinnati, engaged in selling oleomargarine. He is described as energetic, brisk in movement and speech, and focused on making money. He believes oleomargarine will dominate the market and has a strong conviction about his product's superiority over butter.
+	Davy	Puck	*male	3. A small, whiskered raftsman who is described as a 'little black-whiskered chap' and has the ability to calm down violent confrontations between Bob and the Child of Calamity.
+	Dick Allbright	Daniel	*male	3. A raftsman who claims to have accidentally choked his baby, which he buried in a barrel. He is described as having 'lamented darling' and 'poor lost Charles William Allbright deceased.'
+	Dr. Charles W. Purdy	Liam	male	42. Medical doctor who advocated for cremation before the Chicago Medical Society, making striking comparisons about funeral costs burdening society
+	Dr. F. Julius Le Moyne	Eric	male	42. Medical practitioner who wrote about the dangers of inhumation, specifically noting how buried corpses pollute air and water with disease germs
+	Ed	Nicola	*male	3. A raftsman who tells a ghost story about a haunted barrel that appears on the river. He is described as having a 'wonderful level head' and being knowledgeable about river customs.
+	Edward Atkinson	Fable	male	28. A respected individual whose opinion on vast national commercial matters carries significant authority, particularly regarding Mississippi River Improvement. | 33. A commentator who provides economic analysis about cotton production and the potential value of cotton stems. He is quoted as making observations about agricultural practices and economic conditions. | 60. Author of the Mississippi River Commission appendix who discusses river improvement projects
+	General Joseph A. Mabry	Fenrir	*male	40. A man involved in a fatal shooting incident with Major O'Connor over property disputes, who was killed by O'Connor's gunfire
+	General York	Daniel	*male	60. Relief worker who organized efforts to save people and livestock during the Black River flood
+	George Ealer	Fable	male	11. A pilot who was fellow-pilot with Mr. X on a New Orleans passenger packet and experienced the somnambulist pilot's extraordinary nighttime piloting | 18. The pilot who was kindhearted and served as the boss of George Ritchie. He was not as harsh as Brown. | 19. A character who plays the flute, reads from books including Goldsmith and Shakespeare, and plays chess with the narrator. | 20. The pilot of the 'Pennsylvania' who was alone in the pilot-house during the explosion. He survived by protecting himself from steam and later helped recover his personal items, including chessmen and a flute. | 24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	George Ritchie	Omega	male	18. Another pilot's cub who was having good times because his boss, George Ealer, was kindhearted. He enjoyed playing the role of Brown to torment the narrator. | 28. A pilot who, along with Horace Bixby, has charted river crossings and laid out courses by compass as part of the modern piloting methods that have reduced danger on the river. | 49. A pilot who was blown up near Memphis and disabled, later rescued from the river.
+	Hank Wiley	Puck	male	36. One of the three professional gamblers on board who is part of a conspiracy to cheat John Backus. He is manipulative, deceptive, and ultimately the mastermind behind the scheme that leads to Backus's downfall.
+	Henry	Nicola	*male	19. A young boy who is described as thoroughly inoffensive and unaware of the conflict between Brown and the narrator. He is ordered out of the pilot-house by Brown. | 20. The narrator's brother who was aboard the 'Pennsylvania' during its explosion. He survived the initial blast but later died from his injuries, spending six days in a Memphis hospital before succumbing.
+	Holiday	Nicola	*male	53. The owner of Holiday's Hill, a location in Hannibal, Missouri where the narrator climbs to get a comprehensive view of his hometown.
+	Hon. Charles Augustus Murray	Echo	male	22. A Scottish politician who wrote about St. Louis in the mid-1800s, describing its streets and buildings. | 27. American politician who visited the Mississippi near St. Louis around 1834, describing its majesty and fertility
+	Horace Bixby	Liam	male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill. | 28. A pilot who, along with George Ritchie, has charted river crossings and laid out courses by compass as part of the modern piloting methods that have reduced danger on the river. | 48. Former pilot who became captain of the 'City of Baton Rouge' steamboat. Described as having the same slender figure, tight curls, springy step, alertness, decision of eye and hand, and military bearing as before. Still appears thirty-five years old after twenty-one years away.
+	Huck Finn	George	male	3. An ignorant village boy, son of a town drunkard, who runs away from his persecuting father and a widow who wants to make him respectable. He escapes with Jim, a slave seeking freedom in the free states.
+	Iamo	Kumo	*male	60. Man who lived with his sister in a remote lodge and had his head severed and preserved after illness
+	J. B----	George	male	43. Undertaker who transformed his business from modest beginnings with two or three coffins and a hired hearse to operating a prosperous establishment with modern amenities. He is cheerful, confident in his profession, and takes pride in the steady demand for coffins regardless of economic conditions.
+	Jack Hunt	Puck	*male	52. An imaginary character created by Charles Williams to write a fraudulent letter about his supposed conversion and redemption. The real person behind the name was Charles Williams himself.
+	Jim	Onyx	*male	3. A slave who escapes with Huck Finn, seeking freedom in the heart of the free states. He is described as having a 'wonderful level head' and being resourceful. | 7. A visiting pilot who discusses running Plum Point. He is described as someone who learned to navigate a crossing from another pilot and provides specific details about his technique.
+	John Backus	Eric	male	36. A country farmer and cattle raiser from interior Ohio who becomes a persistent conversationalist with the surveyor. He is simple, friendly, and enthusiastic about cattle but ultimately falls victim to gambling. He has a strong moral compass that initially protects him from the gamblers.
+	Karl Ritter	Echo	*male	31. A consumptive former night-watchman in Munich who tells his revenge story to the narrator
+	Kruger	Daniel	*male	31. A German private in Company C who lost a thumb and was the narrator's target for revenge
+	La Salle	Eric	male	1. French explorer who conceived the idea of seeking out and exploring the Mississippi River | 2. French explorer who sought privileges from Louis XIV to explore and claim territories for France, including building forts and staking out continents. Spent years and money on expeditions to the Mississippi River. | 27. French explorer who discovered the Mississippi River and took possession of it for France in 1682
+	Louis XIV	Fable	male	2. King of France who granted La Salle privileges for exploration and territorial claims. Known as 'the Sun King' or 'Sultan of Versailles.'
+	Marquette	Alex	male	2. French priest who joined Joliet in exploring the Mississippi River. Made a vow to name the river Conception if he discovered it, which he kept. | 58. French explorer who camped at Davenport in 1673
+	Mate	Liam	*male	5. A large, muscular man with a bearded face and tattoos on his arm. He is described as having sublime profanity, commanding presence, and a domineering personality who gives orders with great authority. | 6. A crew member who operates the wheel during night navigation and is described as having 'the old tub pointed at a star' while holding her straight up the middle of the river
+	Mr. Bixby	Onyx	male	6. The chief pilot who teaches the narrator how to steer, described as a nervous man who 'shuffled from one side of his wheel to the other' and becomes extremely angry when the narrator cannot recall basic river information | 7. The main pilot who demonstrates exceptional skill during the dangerous Hat Island crossing. He is described as calm and focused while navigating through treacherous waters, ultimately saving the boat by making a precise landing on the reef. | 8. An experienced pilot who is strict and demanding in his teaching methods. He is thirty-four years old but has a paternal yet harsh approach to training apprentices, often using harsh criticism and physical metaphors. He is the primary instructor in this chapter. | 9. A pilot who teaches the narrator water-reading skills and is experienced in navigating river hazards. He demonstrates expertise by taking control during dangerous situations like reef navigation. | 10. An experienced pilot who is mentoring the narrator in piloting skills. He has a keen eye for river features and teaches the narrator about reading bank heights, water stages, and navigation techniques. | 13. A chief pilot who trained the narrator as a steersman and used psychological tactics to teach courage. He was experienced in piloting the Missouri River and had a reputation for skill. | 15. Chief pilot on the 'Aleck Scott,' known for his skill and temper. He is described as crawling carefully through a close place at Cat Island, showing his expertise in piloting. He becomes furious when criticized but is also capable of giving 'the most admirable cursing' to the captain. | 49. A pilot who was blown up in Madrid bend, with another pilot lost.
+	Mr. Brown	Michael	male	13. A pilot with an extraordinary memory who could recall minute details from years past. He was known for his inability to forget anything and would often derail conversations with extensive tangents. | 17. A pilot who was aboard the first boat attempting to navigate through the American Bend cut-off. He was ambitious and kept trying despite the dangerous conditions, ultimately failing to make it through the cut-off. | 52. A great grain merchant in St. Louis, portrayed as a benevolent and influential figure who helped Jack Hunt after his conversion. However, he is revealed to be a fictional character created by Charles Williams.
+	Mr. Claggett	Santa	*male	57. A distinguished citizen of Keokuk who was the father of a son mentioned in the story. He provided an anecdote about Henry Clay Dean's speech at a mass meeting.
+	Mr. Dickens	Lewis	male	38. A male writer and observer who declines to call Mississippi steamboats 'magnificent' or 'floating palaces,' arguing that such terms are only accurate when compared to priceless objects he has seen, but acknowledges the people's perspective that these boats are magnificent in their own context.
+	Mr. Ellis	Onyx	*male	60. Man whose family lived in a flooded house with their children and refused to leave despite danger | 60. Man whose family lived in a flooded house with their children and was in feeble health
+	Mr. H.	Psi	male	34. A steamboat mate from Arkansas City, bound to Vicksburg. An austere and unworldly river man who is knowledgeable about mosquitoes in Arkansas and Lake Providence. He has a habit of correcting others' stories, particularly those of his friend who tells exaggerated tales about mosquitoes.
+	Mr. Thornburg	Fenrir	male	12. The pilot on duty during the sounding trip, who makes a critical error by mistaking the yawl's lantern for the buoy-light. He is the narrator's chief and becomes involved in a tragic accident when his steamer strikes the sounding-boat.
+	Mr. W----	George	*male	7. Mr. Bixby's partner pilot who steps aside to let Mr. Bixby take the wheel during the critical Hat Island crossing. | 8. Another pilot who arrives twelve minutes late for his watch, violating river customs. He is described as proud and unwilling to acknowledge others' help, showing arrogance toward his colleagues.
+	Mr. Warner	Kumo	*male	47. A writer who co-authored 'The Gilded Age' with the narrator. He is concerned about using names that might be borne by living people and suggests changing 'Sellers' to 'Eschol Sellers'.
+	Mr. X	Alex	male	11. An excellent pilot who was a somnambulist, known for walking in his sleep and performing remarkable piloting feats while asleep
+	Mudjikewis	Kumo	*male	60. Youngest of ten brothers who was noted for his oddities and wanted to fight a bear by striking trees with his war-club
+	Murel	Psi	*male	29. A colossal robber, horse-thief, negro-stealer, and counterfeiters leader who was part of 'Murel's Gang.' Known for his boldness, cruelty, and planning of large-scale insurrections including attempts to capture New Orleans.
+	Nemesho	Eric	*male	60. Old man who lived in a lodge and helped the young warriors defeat a great bear
+	New Orleans	Liam	*male	39. A traveling salesman or drummer from New Orleans who specializes in olive oil made from cotton-seed oil. He is competitive with Cincinnati, claims his product is undetectable and perfect, and has a strong business acumen. He also mentions the importance of custom-house marks in his trade.
+	Night Watchman	Santa	*male	5. A man who works the night shift on the steamboat and has a sentimental, emotional nature despite his lowly position. He tells elaborate stories about his supposed noble heritage and adventures. | 11. A crew member who discovered Mr. X walking on the railings and later found him piloting the boat while asleep
+	Peboan	Michael	*male	59. An old man who appears in the legend 'Peboan and Seegwun' as a figure representing winter. He has an icy visage and his presence causes streams to freeze
+	Rogers	Alex	*male	22. A young man who was crying in his hotel room, described as someone who answers to various names when needed. He is portrayed as a somewhat disheveled character with a drinking problem, complaining about the quality of hotel water. | 32. One of the narrator's friends who initially suggests sending money to the shoemaker and later argues about sharing it
+	Secretary	Puck	*male	15. The secretary of the Pilots' Benevolent Association who handles membership inquiries and helps resolve conflicts between captains and association pilots.
+	Seegwun	Daniel	*male	59. A young man who appears in the legend 'Peboan and Seegwun' as a figure representing spring. He brings warmth, flowers, and life to the land
+	Smith	Fable	*male	53. The narrator and protagonist of the chapter, a man who returns to his boyhood home of Hannibal, Missouri after serving in the rebel army during the Civil War. He reflects on his past and the changes in his hometown over the years. | 58. Local businessman who interacts with the steamboat captain, representing the shift in power dynamics between boat captains and freight handlers
+	Stephen	Onyx	male	17. A notorious debtor who repeatedly borrowed money from pilots and never paid it back. Known for his persistent pursuit of his creditors, especially young Yates, whom he would corner and apologize to endlessly while claiming he was about to pay. He had a habit of making grand promises but never following through, and his debt collection methods were so persistent that they drove Yates to avoid public places.
+	Stephen W----	Echo	*male	14. A gifted and independent pilot known for his irreverent nature, wild behavior, and tendency to swear, sing, whistle, and yell. He was a tireless talker with wit and humor, but also reckless and in debt to many others. He had a cat and fiddle, played poorly, and was known for his devil-may-care piloting style that could be fascinating but unsettling to others.
+	The aged colored man	Omega	*male	35. An elderly African American who lived in Vicksburg during the siege and proudly showed visitors an unexploded bomb-shell that had lain in his yard since it fell during the bombardment.
+	The Agent	Alex	*male	58. Representative of a plow factory who makes claims about the quality of their products
+	The blacksmith cub	Lewis	*male	51. A young man who becomes obsessed with acting after witnessing Englishmen perform a swordfight, eventually becoming a theater actor in St. Louis.
+	The captain who caught Stephen in New Orleans	Alex	*male	14. A mean-spirited captain who took advantage of Stephen's financial difficulties by hiring him at half wages. He was embarrassed when Stephen discovered his boasting and tried to maintain control of the situation, but ultimately failed due to Stephen's superior piloting skills.
+	The carpenter	Puck	male	20. A crew member aboard the 'Pennsylvania' who fell into the river during the explosion. He was struck 75 feet from the boat and died in the water. | 55. A charismatic liar and storyteller who claimed to be a 'red-handed murderer' with a vendetta against people named Lynch. He was the narrator's childhood hero, telling elaborate stories of his imaginary crimes with vivid detail and dramatic flair.
+	The chief mate	Psi	*male	12. A crew member who takes charge during the rescue operation, standing with a torch-basket and coil of rope to help pull Tom G--- aboard after he swims to safety. | 20. A senior officer aboard the 'Pennsylvania' who was badly scalded but remained at his post during the disaster. He later died from his injuries and was carried to the death-room multiple times. | 37. One of the forty-seven persons wounded in the explosion on the steamer 'Gold Dust', identified by rank
+	The clerk	Liam	*male	22. A hotel clerk in St. Louis who recognizes the narrator's attempt at disguise and treats him with suspicion, noting that he knows what sort of room the narrator wants. | 58. Steamboat clerk who worked before railroads were built, contrasting past and present boat operations
+	The colored boy	Liam	*male	23. A young male attendant on the Grand Tower packet boat who provides information about the vessel's status and schedule
+	The colored coachman	George	*male	56. A friend's servant who explained to the narrator how time moves slower in the country than in town, causing him to miss his scheduled pickup
+	The editor of the Times-Democrat	Psi	*male	45. A newspaper editor who writes concise, direct reports and is contrasted with his correspondents
+	The friend	Fenrir	*male	35. A man who was shaken hands with by the narrator during a Sunday morning when they were discussing meeting at their cave after bombardment. He was accidentally injured by a shell that severed his arm. | 42. Male companion of the colored acquaintance who walks town with him trying to find an affordable coffin | 48. A member of the group who questioned his deceased uncle through Manchester and was disappointed with the responses.
+	The gentleman	Psi	*male	23. A male passenger who travels with a well-dressed lady and two young girls to St. Genevieve | 45. A Southern man who speaks about the prevalence of war talk in his region and its significance to local conversation
+	The grizzly-headed man	Echo	*male	51. A former neighbor from St. Louis riots who recognizes the narrator and asks about a drink, later revealed to be someone who was involved in the riots.
+	The guests	Santa	*male	7. A group of visiting pilots who are described as being in the pilot house. They range from well-dressed, wealthy-looking individuals to more casually dressed ones wearing felt cones.
+	the mate	Alex	*male	A crew member who operates the wheel during night navigation and is described as having 'the old tub pointed at a star' while holding her straight up the middle of the river
+	The narrator's younger brother	Lewis	male	56. A boy who discovered his brother's guilt through sleep-talking and questioned him about a hypothetical murder case, ultimately revealing the narrator's secret
+	The negro drayman	George	*male	4. A worker in the town who is famous for his quick eye and prodigious voice, announcing when a steamboat is approaching.
+	The negro manager	Onyx	*male	14. A man who confronted a negro who was putting on airs at a ball, asking him to identify himself and asserting his authority.
+	The negro who gave offense	Omega	*male	14. A dark-skinned man who was put on airs at a negro ball and was confronted by the manager. He proudly declared his position as someone who could fire 'the middle do'{footnote [Door]} on the 'Aleck Scott.'
+	The New Orleans editor	Michael	*male	45. A local newspaper writer who has a direct, unflowery writing style and is contrasted with his correspondents
+	the night watchman	Alex	*male	A crew member who discovered Mr. X walking on the railings and later found him piloting the boat while asleep
+	The old darkey on shore	Nicola	*male	30. An elderly African American man who was absorbed in his own matters and did not recognize the 'Eclipse' steamer. He later remarked that it went by 'a-_sparklin_' when told its identity.
+	The old gentleman	Echo	*male	59. An elderly man who served as a guide and lecturer on the scenery of the Mississippi region, familiar with local history and legends
+	The parrot	Omega	*male	48. Pet bird aboard the tug who made frequent comments on scenery and guests. Known for its discordant laugh and profanity.
+	The passenger from Arkansas City	Kumo	*male	30. A local resident of Arkansas City who described his town as 'a hell of a place' when asked about its character. He was knowledgeable about the local geography and conditions.
+	The Pilot	Omega	male	24. A seasoned river pilot who works on a steamboat, knowledgeable about river navigation and its peculiarities. He is described as being able to identify all objects in the pilot house, speaks with authority about river facts and history, and has a talent for storytelling. He is also described as having a tendency to lie or exaggerate. | 48. Former river pilot who became a spiritualist and received weekly letters from deceased relatives through Manchester.
+	The Professor	Daniel	*male	36. The narrator of the story, a land-surveyor who tells his tale from memory. He is reflective, observant, and has a sense of moral responsibility toward others.
+	The special correspondent	Kumo	*male	45. A newspaper reporter who writes flowery, ornate prose when describing events involving women
+	The stranger from Wisconsin	Onyx	*male	30. A young man born in Wisconsin who had never seen a steamboat before. He was enthusiastic about learning about the boat and gave misinformation to another passenger, eventually laughing uncontrollably after his prank.
+	The striker	Puck	*male	20. A crew member aboard the 'Pennsylvania' who was trapped under debris after the explosion. He begged to be shot rather than face death by fire and later died from his injuries.
+	The vender	Lewis	*male	23. An elderly Irishman who sells cheap literature and has lived in St. Louis for thirty-four years, known for his flowing lectures
+	The Watchman	Fenrir	*male	6. A night watchman who wakes the narrator in the middle of the night to go on duty, described as gruff and making crude jokes about the narrator's supposed delicacy
+	The young New-Yorker	George	*male	45. A Northern man who comments on Southern moonlight and is present during a discussion about war memories
+	Thompson	Kumo	*male	32. One of the narrator's friends who discusses the shoemaker's money and its potential negative effects on him
+	Tom G---	Santa	male	12. Mr. Thornburg's cub, who becomes the narrator's rival for a sixteen-year-old girl's attention. He is described as someone who 'always had a way of embroidering' and eventually becomes the hero of the story by diving under the steamer's wheel to save himself, though he actually never jumped for the guard.
+	Triangle	Echo	*male	36. A humble-minded young land-surveyor traveling to California for work. He is introspective, enjoys reading and dreaming, and has a scientific mind that he uses to redirect conversations away from cattle topics. He is observant, kind-hearted, and tries to help others.
+	Uncle Mumford	Alex	male	25. Second officer and mate on the river with thirty years of experience, practical and level-headed man who observes and has opinions. He is described as having a thick growl in his voice, an oath or two when needed, and a dash of poetry. He is kind but firm with his crew and will be wearing a new blue naval uniform next trip. | 28. An experienced steamboat mate with thirty years of river experience, who shares his observations and opinions about the Mississippi River's transformation. He is critical of the government's efforts to control and tame the river, believing it cannot be fully domesticated despite technological interventions. | 32. An older man who approaches the deck and is involved in the conversation about Napoleon | 34. An older male relative of the narrator who comments on Lake Providence with feeling and truth, describing it as having a restful, pensive, Sunday aspect.
+	Windham Marshall	Michael	*male	26. A captain of a boat who witnessed a killing during the feud between Darnells and Watsons
+	Yates	Psi	male	17. A young, good-hearted and simple-minded pilot who was tricked by Stephen into borrowing money that he never received. He was naive enough to believe Stephen's promises and kept calling for payment, only to be repeatedly disappointed. His life became a burden due to Stephen's relentless pursuit and harassment.
+	Iamoqua	Dora	*female	60. Sister of Iamo who lived with him in a remote lodge and helped restore his head to life
+	Mrs. Taylor	Tebukuro	*female	60. Widow who lived in a flooded house with her son and refused to leave despite dangerous conditions
+	Mrs. Trollope	Nezumi	female	27. English tourist who wrote about her visit to the Mississippi in 1827, describing it as utterly desolate and horrific | 29. A foreign tourist who wrote about her experiences in Memphis fifty-five years ago, describing it as consisting mainly of log-houses and mud.
+	The middle-aged negro woman	Heart	*female	14. A neighbor who was shouting at Mary Ann to come home, and who was envious of her social situation. She was involved in a neighborhood gossip incident.
+	The old negro woman	Jessica	*female	45. An elderly African American woman who expresses nostalgia for pre-war times and responds to the New-Yorker's comment about moonlight
+	The sixteen-year-old girl	Emma	female	12. A pretty young woman who spends her time in the pilot-house with her uncle and aunt. She becomes a central figure in the rivalry between the narrator and Tom G---, though she shows little interest in either of them beyond her own curiosity about the dangers of sounding.
+	Widow	Siwis	*female	31. A widow who supported herself by taking lodgers and lived near Fraulein Dahlweiner's pension
+	bear	Aiden		
+	chief	Alex		
+	children	Alex		
+	clergyman	Alex		
+	gorgeous one	Alex		
+	guest	Alex		
+	leader	Alex		
+	leadsman	Alex		
+	missouri river pilots	Alex		
+	old manito	Alex		
+	pilot	Alex		
+	rev. mr----	Alex		
+	sentinel	Alex		
+	*Adam Kruger	Omega	*male	31. The son of the German private Kruger, a shoemaker living in Mannheim with several children
+	*Adler	Fenrir	*male	31. A German private in Company C who murdered the narrator's wife and child, later killed by the narrator
+	*Archibald Lynch	Psi	male	55. A rival suitor who threatened the carpenter's beloved with violence, leading to a murder that supposedly inspired the carpenter's vendetta against all people named Lynch.
+	*Asa Hardy	Lewis	male	13. Captain of the 'Sunflower' who died from lockjaw after getting a nail in his foot.
+	*B. B. Harrod	Liam	male	60. State Engineer of Louisiana and member of the Mississippi River Commission
+	*Bayard	Liam	*male	1. French knight known as 'Sans Peur Et Sans Reproche' who died during the time period when De Soto saw the Mississippi
+	*Beck Jolly	Kumo	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Ben	Fable	*male	13. The engineer who was called upon to back up the steamboat during a moment of panic.
+	*Ben Coontz	Michael	male	56. The boy who actually gave the tramp matches that led to his death, revealed by the narrator's brother through the boy's sleep-talking
+	*Ben Thornburg	Michael	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Ben Thornburgh	Daniel	male	49. A pilot friend who died long ago, known for his wild 'cub' who was always in mischief.
+	*Ben Thornburgh's 'cub'	Fenrir	*male	49. A reckless young pilot who was always in trouble and mischief, known for unchaining a bear on the steamboat.
+	*Benvenuto Cellini	Fenrir	male	1. Italian Renaissance artist and writer who was active during the time period when De Soto saw the Mississippi
+	*Billy Gordon	Echo	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Billy Youngblood	Eric	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Bixby	Psi	*male	29. A head pilot who served under the narrator during river days and fought in the Civil War battle at Memphis.
+	*Black Hawk	Fenrir	*male	58. Native American chief whose name was powerful in the region, later adopted white customs and was buried in Christian fashion
+	*Bogart	Michael	*male	17. The owner of a billiard saloon that served as a gathering place for pilots. The establishment was described as a great resort where pilots met to exchange river news and play games.
+	*Bonaparte	Omega	*male	46. Napoleon Bonaparte, who broke the chains of the ancien regime and Church, instituting merit above birth
+	*Calvin	Daniel	*male	1. Protestant reformer who was at the height of his fame during the time period when De Soto saw the Mississippi
+	*Capt. Marryat	Nicola	*male	22. A British writer who wrote about St. Louis forty-five to fifty years ago, describing the city's streets and buildings.
+	*Captain Bixby	Eric	male	51. A pilot who takes over the wheel from a young cub pilot, showing skill and experience in navigating steamboats. He is described as having helped the narrator previously in New Orleans about a quarter of a century before.
+	*Captain Blakely	Echo	*male	31. A military captain whose voice was heard during the robbery that killed the narrator's family
+	*Captain Burton	Echo	*male	40. A man who threatened Professor Sharpe and was later killed by him with a shotgun
+	*Captain Eads	George	*male	28. A notable figure who has built jetties at the mouth of the Mississippi, considered a significant engineering achievement that demonstrates what can be accomplished with proper technology and resources.
+	*Captain Isaiah Sellers	Echo	male	50. A highly respected and legendary steamboat pilot who was considered the patriarch of the craft. He had a long career dating back to 1811, introduced several innovations like the bell signal for sounding and the meeting boat signal, made 460 round trips to New Orleans, and was known for his authoritative presence among pilots. He died many years before the story's time.
+	*Captain Marryat	Omega	male	27. British naval captain and author who wrote about the Mississippi in 1837, describing it as turbulent, blood-stained and dangerous
+	*Captain Poe	Michael	male	30. A captain who owned a small stern-wheel boat that sank in the Kentucky Bend due to striking a snag. He cut into his wife's state-room with an ax when she was asleep in the upper berth.
+	*Cervantes	Echo	*male	46. Spanish author of 'Don Quixote' who swept the world's admiration for medieval chivalry out of existence
+	*Charles Roads	Eric	*male	40. A young Virginian who had a violent altercation with Peter Dick over a girl, resulting in a fight that left him with a fatal abdominal wound
+	*Charles William Allbright	Puck	*male	3. A baby who was accidentally choked to death by his father, Dick Allbright. He is described as having been buried in a barrel and appearing to the living.
+	*Charles Williams	Onyx	*male	52. A Harvard graduate and burglar who wrote a fraudulent letter to himself while in prison, pretending to be an ex-convict named Jack Hunt. He used this letter to gain sympathy and support for his own release.
+	*Colonel (now General) Grant	Fable	male	25. Military figure who was drilling his first command in Cairo when the narrator last saw it. He is described as having held a military rank and being associated with the area's history.
+	*Colonel Calhoun	Eric	*male	33. A grandson of the famous statesman, who formed a syndicate in Boston to purchase large tracts of land for cotton-growing in Chicot County, Arkansas. He is involved in a land company project that aims to provide better treatment for laborers and establish banking services.
+	*Colored acquaintance	Onyx	*male	42. Man who earns about four hundred dollars annually, supports wife and several children through manual labor, and faces financial hardship when his child dies
+	*Columbus	Alex	*male	26. A location mentioned in the context of the Mississippi River war-fleet, likely a town or strategic point
+	*Comus	Kumo	*male	46. A mythical figure associated with the Mardi-Gras festivities in New Orleans, part of the Mystic Crew who leads the parade
+	*Crenshaw	Onyx	*male	29. A member of Murel's gang who participated in violent crimes including robbery and murder. He was involved in the theft of horses and the killing of victims.
+	*D'Autray	Echo	male	27. French explorer who accompanied La Salle on his Mississippi expedition in 1682
+	*Darnell	Liam	*male	26. A member of a feuding family in the South, part of the conflict with the Watsons
+	*De Soto	Psi	male	1. Spanish explorer who first saw the Mississippi River in 1542, described as a white man who glimpsed the river and then died | 2. Spanish explorer who had previously glimpsed the Mississippi River. His expedition was mentioned as having occurred at the same location where later French explorations took place.
+	*Dennis	Puck	*male	43. Bridget O'Shaughnessy's deceased husband, who is described as a drunkard and whose funeral is used to demonstrate the competitive nature of Irish funeral practices.
+	*Dick Kennet	Kumo	male	49. A pilot friend who died in an explosion near Memphis.
+	*Don Quixote	Fable	*male	1. Fictional character from the novel that was not yet written during the time period when De Soto saw the Mississippi
+	*Dr. E. H. Barton	George	male	42. Medical professional who reported on mortality rates in New Orleans during the 1853 epidemic, particularly linking cemetery proximity to disease spread
+	*Dr. J. G. Holland	Nicola	*male	52. A prominent literary figure who was present at a church service where the letter was read and wept over, moved by its emotional impact.
+	*Dr. Peyton	Onyx	*male	20. A principal physician in Memphis who treated Henry after the explosion. He was described as having high and flawless character, but despite his efforts, Henry's injuries were fatal.
+	*Dutchy	Eric	*male	54. A German boy in the Sunday-school who drowned while bathing, having memorized three thousand verses of Scripture. He was considered exasperatingly good but also foolish for not coming in out of the rain.
+	*Emperor Charles V	Omega	male	1. Holy Roman Emperor who was at the height of his fame during the time period when De Soto saw the Mississippi
+	*Eschol Sellers	Fable	*male	47. A character in 'The Gilded Age' who was named after a real person Mr. Warner had met. The name caused legal trouble and was changed to 'Mulberry Sellers' in future editions.
+	*ex-Governor Warmouth	Psi	*male	48. Former governor who owned the sugar plantation visited by the party. Host of the hospitality at his mansion.
+	*Ferry-man	Daniel	*male	26. A man who operated a ferry and was killed by the Darnells after getting into trouble with them
+	*Francis I	Nicola	male	1. King of France who was defeated at Pavia during the time period when De Soto saw the Mississippi
+	*General Cheatham	Psi	male	26. A Confederate general who led troops in the Belmont battle, known for his fiery leadership style
+	*General Comstock	Psi	male	60. United States Engineer member of the Mississippi River Commission
+	*General Gilmore	Onyx	male	60. United States Engineer member of the Mississippi River Commission
+	*General Grant	Alex	male	35. Union general who accepted the surrender of Vicksburg from General Pemberton, commemorated by a monument at the site of surrender.
+	*General Lee	Kumo	male	44. A historical figure depicted in an oil painting showing his last interview with Stonewall Jackson. He is portrayed on horseback, being accosted by Jackson.
+	*General Pemberton	Onyx	male	35. Confederate general who surrendered Vicksburg to Union General Grant, commemorated by a monument at the site of surrender.
+	*General Pillow	Nicola	male	26. An elderly Confederate general with white hair who rode into battle on a white horse
+	*General Polk	Puck	male	26. A Confederate general who praised the pilot for his bravery after the Belmont battle
+	*General Suter	Nicola	male	60. United States Engineer member of the Mississippi River Commission
+	*George Black	Omega	*male	20. Chief clerk aboard the 'Pennsylvania' who died in the explosion. He was among those who were never seen or heard of after the blast.
+	*George Johnson	Omega	*male	49. A former steamboat clerk who became involved in a romance with a young girl, leading to a fraudulent marriage and loss of fortune.
+	*Henri de Tonty	Onyx	male	2. La Salle's lieutenant, son of Lorenzo Tonty who invented the tontine. Accompanied La Salle on his expedition down the Mississippi.
+	*Henry Clay Dean	Kumo	*male	57. A self-educated orator from Keokuk who became known for his powerful speeches despite his ragged appearance. He was a political figure who could draw crowds of farmers from fifty miles away and was described as having the ability to transform from an escaped lunatic into an escaped archangel through his speaking prowess.
+	*Horace Bigsby	Fenrir	male	18. The master of the apprentice who was sent to work under various pilots during his apprenticeship. He is mentioned as being in charge of the apprentice's training.
+	*I. S----	Santa	*male	15. A non-association pilot who is hired by the captain and later discharged when he refuses to work with an association pilot.
+	*Ignatius Loyola	Michael	male	1. Spanish priest who founded the Jesuit order, mentioned as being an obscure name during De Soto's time
+	*Innerarity	Alex	*male	47. A character in a French novel that Mr. Cable reads aloud, who is associated with the famous 'pigshoo' representing 'Louisihanna _rif_-fusing to Hanter the Union'.
+	*J. M. White	Nicola	*male	16. A racing steamer that made a notable trip from New Orleans to Cairo in three days, six hours, and forty-four minutes
+	*Jackson	Nicola	*male	48. Military leader who led the American forces to victory over British at New Orleans in 1815. Mentioned as having become president.
+	*Jas. B. Eads	Michael	male	60. Engineer whose success with jetties at New Orleans made him competent for the Mississippi River Commission
+	*Jean-ah Poquelin	Santa	*male	47. A character in a French novel that Mr. Cable reads aloud, representing someone with an aristocratic background.
+	*Jesse James	Santa	*male	29. A notorious outlaw and robber who was assassinated by an agent of the Governor of Missouri. Known for his boldness, pluck, and rapacity in robbing trains, coaches, and banks.
+	*Jesse Jamieson	Puck	male	30. A pilot who was visited by another pilot on the 'Skylark' during a trip. He was described as an old, broken-down, superannuated fellow who took the wheel at the foot of Island 63 and ended up in the same place after three hours of navigation.
+	*Jim Brady	Lewis	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Jim Smith	Omega	*male	54. A boy mentioned by the narrator as having broken a window and lied about it, considered to have committed sins that might need punishment according to the narrator's guilt-ridden thoughts.
+	*Jim Wilson	Liam	*male	17. A man who received payment from Stephen for a debt, though Stephen had no money to give him. He was likely another victim of Stephen's financial schemes.
+	*Jimmy Finn	Nicola	male	56. A town drunkard who died a natural death in a tan vat from delirium tremens and spontaneous combustion, not burned in the calaboose as commonly believed
+	*John	Alex	*male	44. A student or pupil mentioned in a conversation about the use of 'gone' versus 'went.'
+	*John Hardy	Echo	male	13. Captain Hardy's brother who was the first clerk on the 'Sunflower' and died two years after his brother.
+	*John J. Roe	Psi	*male	16. A slow steamboat that was known for its sluggish performance, often taking days to complete trips that other boats could do in hours
+	*John Jones	Lewis	*male	54. A boy who fished on Sunday, though he didn't catch anything but a small mud-cat, which the narrator considers potentially forgivable if he had thrown it back.
+	*John Stavely	Santa	male	55. A local businessman who maintained the illusion of expecting shipments of saddles from steamboats, even though he was not actually expecting anything. He enjoyed the spectacle of appearing busy and important to strangers, despite knowing everyone in town was aware of his pretense.
+	*John Stevenson	Omega	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Joliet	Alex	male	2. Merchant who joined Marquette in exploring the Mississippi River. Part of the 1673 expedition that reached the mouth of the Mississippi. | 58. French explorer who camped at Davenport in 1673
+	*Jonas Turner	Michael	*male	3. A man in Cairo whom Pap wants Huck to speak with, though his identity is not fully explained.
+	*Jones	Santa	*male	6. A plantation owner whose plantation the boat attempts to land at during a night voyage, described as having 'a darky's voice on the bank' who says 'Gimme de k'yarpet-bag, Mars' Jones'
+	*Joseph A. Mabry, Jr.	Fenrir	*male	40. Son of General Mabry who was killed by Major O'Connor in a shooting incident
+	*Judge Taylor	Kumo	male	60. Indiana judge and member of the Mississippi River Commission
+	*Keokuk	Omega	*male	58. Native American chief whose name was powerful in the region, mentioned alongside Black Hawk
+	*Lem Hackett	Fenrir	male	54. A boy who drowned on a Sunday after falling out of an empty flat-boat while playing. His death was seen as a case of special judgment by the narrator and the village, causing intense fear and guilt in the young narrator who believed heaven's attention was focused on him.
+	*Little child	Psi	*male	42. Young child of the colored acquaintance who dies, leading to financial hardship for the family
+	*Longfellow	Lewis	*male	59. Poet who adapted Indian legends from Schoolcraft's book into his work 'Hiawatha', including the story of Peboan and Seegwun
+	*Lorenzo Tonty	Psi	male	2. Inventor of the tontine system, father of Henri de Tonty who served as La Salle's lieutenant.
+	*Louis Le Grand	Fable	male	27. King of France who ruled in 1682, mentioned on the French column planted by La Salle
+	*Luther	Echo	male	1. German reformer who died two years after De Soto saw the Mississippi
+	*Lynch	Onyx	*male	55. A local resident who was targeted by the carpenter's imaginary vendetta. He confronted and humiliated the carpenter, exposing him as a fraud by publicly ridiculing his stories.
+	*Major Burke	Fenrir	*male	60. Representative of The Times-Democrat who arranged for the 'Susie' boat to help with flood relief
+	*Major Downing	Fenrir	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*Major Wood	Onyx	*male	48. Host of the party that went to ex-Governor Warmouth's plantation. Invited guests for a river trip.
+	*Manchester	Puck	*male	48. Spiritualist medium who claimed to receive messages from deceased relatives. Known for his fraudulent practices and poor communication skills.
+	*Mark Twain	Lewis	male	50. The narrator who was a young cub journalist at the time of Captain Sellers' death. He used Sellers' pseudonym after the captain's death and later became famous as a writer, though he was initially just a 'cub' journalist.
+	*Michael Angelo	Kumo	male	1. Italian Renaissance artist whose work was still fresh during the time period when De Soto saw the Mississippi
+	*Montgomery	Nicola	*male	29. Commodore of the Confederate fleet who fought in the Civil War battle at Memphis and served under the narrator during river days.
+	*Mr. Atkinson	Nicola	*male	60. Author of the Mississippi River Commission appendix who discusses river improvement projects
+	*Mr. Burke	Alex	*male	60. Representative of The Times-Democrat who arranged for the 'Susie' boat to help with flood relief
+	*Mr. C. P. Ferguson	Echo	*male	60. Planter near Red River Landing who provided information about flood conditions
+	*Mr. Cable	Liam	male	44. The author of 'the Grandissimes' and a masterly delineator of the South's interior life and history. He serves as a guide for the party through the old French quarter of New Orleans. | 46. A Southern author who wrote in modern English rather than the traditional Southern style, achieving wider recognition | 47. A writer who is the master of French dialects. He reads French and German dialects perfectly, and has had trouble with his books due to using names that were borne by living citizens of New Orleans.
+	*Mr. Comstock	Puck	*male	60. United States Engineer member of the Mississippi River Commission
+	*Mr. Cooper	Alex	*male	42. Author or commentator who explained causes of epidemics, specifically mentioning how opening plague burial grounds at Eyam caused disease outbreaks
+	*Mr. Eads	Daniel	*male	60. Engineer whose success with jetties at New Orleans made him competent for the Mississippi River Commission
+	*Mr. Ferguson	Santa	*male	60. Planter near Red River Landing who provided information about flood conditions
+	*Mr. Gilmore	Fenrir	*male	60. United States Engineer member of the Mississippi River Commission
+	*Mr. Hall	Psi	*male	60. British traveler whose 'Travels in North America' caused strong negative reaction in the United States
+	*Mr. Harris	Eric	*male	47. Also known as Uncle Remus, he is the only master of writing negro dialect in the country. He is shy and reluctant to read aloud, despite being able to write in negro dialect.
+	*Mr. Harrod	Kumo	*male	60. State Engineer of Louisiana and member of the Mississippi River Commission
+	*Mr. Hooper	Fable	*male	60. Planter whose property was flooded and who had livestock trapped on a flat
+	*Mr. Lem S. Gray	Puck	male	37. Pilot on the steamer 'Gold Dust' who was severely injured in the explosion, initially improving but later dying from his injuries
+	*Mr. Mitchell	Michael	*male	60. Hydrography expert and member of the Mississippi River Commission
+	*Mr. Oswald	Eric	*male	60. Planter whose property was flooded and who had livestock trapped in a gin-house
+	*Mr. Page	Psi	*male	52. A philanthropist and temperance advocate who sought to visit the prison where Williams was held, believing in the letter's authenticity.
+	*Mr. Seymour	Puck	*male	52. A journalist from the New York Times who was present at a church service where the letter was read and wept over.
+	*Mr. Suter	Liam	*male	60. United States Engineer member of the Mississippi River Commission
+	*Mr. Taylor	George	*male	60. Man whose family lived in a flooded house with his son and refused to leave despite dangerous conditions | 60. Indiana judge and member of the Mississippi River Commission
+	*Mr. Tom Ellis	Omega	*male	60. Man whose house was in danger of flooding and who refused to leave despite the risk
+	*Mr. Tom Hooper	Lewis	*male	60. Planter whose property was flooded and who had livestock trapped on a flat
+	*Mr. Wood	Echo	*male	20. A clerk aboard the 'Pennsylvania' who fell into the river during the explosion. He was among those injured and later died from his wounds.
+	*Mr. York	Onyx	*male	60. Relief worker who organized efforts to save people and livestock during the Black River flood
+	*Napoleon	Nicola	*male	2. French military leader who later returned the territory to American heirs. The future town of Napoleon, Arkansas was named after him. | 31. A town in Arkansas where the narrator plans to stop during his journey | 33. A former figure whose opinion of Greenville, Mississippi is mentioned. He is described as having had a small opinion of the town in old times and is now deceased ('gone to the cat-fishes').
+	*New England Indians	Eric	*male	27. Native American tribes who witnessed La Salle's proclamation in 1682
+	*New Madrid	Fenrir	*male	26. A town mentioned in the chapter, described as looking unwell but otherwise unchanged
+	*Old Darnell	Kumo	male	26. An elderly member of the Darnell family who was involved in a feud with the Watsons
+	*Oliver Cromwell	Santa	male	1. English political figure whose name would not be known for a hundred years after De Soto saw the Mississippi
+	*Oswald	Santa	*male	60. Planter whose property was flooded and who had livestock trapped in a gin-house
+	*Othello	Santa	*male	51. A character the blacksmith cub imagines himself to be, based on his theatrical aspirations.
+	*Pap	Liam	*male	3. Huck Finn's father, described as a town drunkard who trades up and down the river.
+	*Pat	Nicola	*male	43. Mrs. O'Flaherty's deceased husband, described as a gentleman who deserves proper burial according to his status. He is mentioned in the context of funeral arrangements and financial considerations.
+	*Paul Jones	George	*male	25. A steamboat that was wrecked on the river, known for having a gray mare and a preacher aboard. The narrator mentions this as part of the folklore about steamboat disasters.
+	*Peter Dick	Lewis	*male	40. A young Virginian who engaged in a violent altercation with Charles Roads over a girl, leading to a fight with butcher-knives
+	*Pierre Parrant	Eric	male	60. Canadian settler who built the first cabin in St. Paul in 1837 and began selling whiskey to Indians
+	*Preacher	Santa	*male	25. A religious figure who was aboard the Paul Jones steamboat when it sank. He was thrown overboard during a dangerous journey and later fished out, acknowledging his own blame.
+	*President	Alex	*male	15. The president of the Pilots' Benevolent Association who, along with the secretary, manages the organization's operations and decisions.
+	*Professor Bianchi	Santa	male	42. Scientist who demonstrated how plague reappeared in Modena due to excavations of plague burial grounds from three hundred years prior
+	*Professor Henry Mitchell	Puck	male	60. Hydrography expert and member of the Mississippi River Commission
+	*Professor Sharpe	Omega	*male	40. A quiet and gentlemanly man who killed his brother-in-law Captain Burton with a shotgun after being threatened
+	*R. E. Lee	Puck	*male	16. A racing steamer that made a record trip from New Orleans to Cairo in three days and one hour, considered by the narrator as possibly not the fastest
+	*R. H. W. Hill	Onyx	*male	26. A boat name mentioned in the pilot's war story, likely a Confederate vessel
+	*Rabelais	Eric	*male	1. French writer whose works were not yet published during the time period when De Soto saw the Mississippi
+	*Raphael	Puck	*male	1. Italian Renaissance artist who died during the time period when De Soto saw the Mississippi
+	*Rev. Mr.----	Michael	*male	52. The chaplain of the State's prison who supported Williams' conversion and was involved in the circulation of the fraudulent letter.
+	*Rex	Daniel	*male	46. The chief personage or king of the Mardi-Gras festivities in New Orleans, part of the secretive organization
+	*Ritchie	George	*male	51. A pilot who successfully runs crossings in fog using a chart devised by Bixby and himself, demonstrating the value of their navigational innovations.
+	*Ritter	Lewis	*male	32. Narrator who tells a story about a shoemaker and money, described as having told his tale in an impressive manner
+	*Robert Styles	Puck	*male	24. A figure mentioned by the pilot as someone who was once a slim young man and has since improved in comeliness over 25 years. He is described as having a style of storytelling that is not like the pilot's, and is associated with the art of inflating facts.
+	*Schoolcraft	Echo	*male	59. Author of a book containing Indian legends and tales, including 'The Undying Head' and 'Peboan and Seegwun', who collected stories directly from Indian lips
+	*second clerk	Liam	*male	37. One of the forty-seven persons wounded in the explosion on the steamer 'Gold Dust', identified by rank
+	*Sellers	George	*male	47. A character in 'The Gilded Age' who was originally named with a common name that could have caused legal issues, but was changed to 'Eschol Sellers' and then to 'Mulberry Sellers'.
+	*Senator Frye	Liam	*male	52. A senator from Maine who was present at a church service where the letter was read and wept over.
+	*Servetus	Lewis	*male	1. Theological writer who was burned by the Protestant reformers eleven years after De Soto saw the Mississippi
+	*Shakespeare	George	male	1. English playwright who was not yet born when De Soto saw the Mississippi
+	*Sir Walter	Fenrir	*male	46. A prominent literary figure who influenced Southern character and culture through his romantic writings, particularly 'Ivanhoe'
+	*Sir Walter Scott	Kumo	*male	40. Author whose medieval romances influenced the South's architectural style, particularly the construction of imitation castles | 46. A Scottish novelist and poet who created enchantments that influenced Southern character, promoting medieval romanticism
+	*Squire Bell	Daniel	*male	24. An alligator pilot mentioned by the main character as one of the few who could judge alligator water nearly as well as any other kind, possessing natural talent for this skill.
+	*St. Louis	Alex	*male	7. A location/river town that serves as a reference point for the narrator's journey. The narrator mentions being lost when St. Louis is gone, indicating it was a familiar landmark.
+	*Stack Island	Fable	*male	34. A geographical location mentioned in the story, described as a place that the narrator remembers from his travels.
+	*Stewart	Alex	*male	29. A young man who infiltrated Murel's gang by gaining their trust and obtaining information about their activities. He later turned traitor, exposing the entire gang to authorities.
+	*Stonewall Jackson	Michael	male	44. A historical figure depicted in an oil painting showing his last interview with General Lee. He is portrayed on horseback, having just ridden up to accost Lee.
+	*T. S. Hooper	Fable	*male	60. Man whose family was evacuated from their flooded home and taken to safety
+	*The ancient mariner	Liam	*male	30. An old, broken-down pilot who was left at the wheel of a boat at the foot of Island 63. He navigated through the chute and back again multiple times, eventually handing over to a relieving pilot after three hours.
+	*The barber	Lewis	*male	20. A man who was in the process of shaving Captain Klinefelter when the explosion occurred. He survived but stood motionless in his chair, still stirring lather unconsciously.
+	*The barber of the 'Grand Turk'	George	*male	14. A spruce young negro barber who belonged to the prestigious 'Grand Turk' steamboat and took pride in his position. He was well-courted by the local colored community and displayed great importance.
+	*The beau	George	male	44. A young man who gives compliments to a young lady, and when he realizes his compliments are too high, uses 'lagniappe' to excuse himself.
+	*The bishop	Psi	*male	22. A religious figure who provided information about the Missouri River water, explaining its composition and properties to the narrator.
+	*The boy who becomes an apprentice engineer	Daniel	*male	4. A boy from the narrator's village who becomes an apprentice engineer or 'striker' on a steamboat. He is described as worldly and notorious, becoming exalted while the narrator remains in obscurity.
+	*The butler	Omega	*male	44. A household servant mentioned in a conversation about speech patterns, who would have said 'like the flag-officer done' instead of 'like the flag-officer did.'
+	*The chief merchant's sons	Eric	*male	4. Four sons of the chief merchant who become pilots on steamboats, representing the pursuit of river careers by prominent families.
+	*The child	Eric	*male	44. A young person mentioned in the context of the 'lagniappe' custom, who would receive a bit of licorice-root when buying something in a shop.
+	*The chills-racked male miserables	Kumo	*male	11. Men who were suffering from chills and were seen on the top-rail of fences during flooding
+	*The college professor	Nicola	*male	35. A passenger on the boat who told a story during conversation that drifted from horses to astronomy, then to Vicksburg's gambling history and superstitions.
+	*The cook	Fenrir	*male	44. A household servant mentioned in a conversation about speech patterns, who would have said 'like the flag-officer done' instead of 'like the flag-officer did.'
+	*The county judge's sons	Fable	*male	4. Two sons of the county judge who become pilots on steamboats, representing the pursuit of river careers by prominent families.
+	*The cub	Fable	*male	51. A young pilot who takes the wheel from Captain Bixby, but makes the narrator nervous by allowing too much water between their boat and other ships.
+	*The deceased uncle	Liam	*male	48. A relative of one of the party members who died in a cyclone. His spirit allegedly communicated through Manchester.
+	*The doctor's son	Omega	*male	4. A boy who becomes a 'mud clerk' on a steamboat, one of several young men from prominent families who pursue careers on the river.
+	*The dog	Psi	*male	35. A dog owned by the aged colored man who was present during the time he encountered an unexploded bomb-shell, showing his protective instincts toward his pet.
+	*The engineer	Onyx	*male	9. A crew member responsible for operating the steamboat engines, who responds to bell signals and helps control the vessel during dangerous situations.
+	*The family members	Michael	*male	11. Farmers and their families who were displaced by flooding and had to camp on flatboats
+	*The flag-officer	Daniel	*male	44. A naval officer mentioned in a conversation about speech patterns, with the phrase 'like the flag-officer did' used to describe an incorrect grammatical construction.
+	*The French naval cadet	Alex	*male	20. A fifteen-year-old son of a French admiral who was severely scalded during the explosion. He bore his tortures manfully despite his injuries.
+	*The friend of H.	George	*male	34. A passenger who is a friend of Mr. H. and supports the negative view of mosquitoes in Lake Providence with stories about his own adventures, though Mr. H. constantly interrupts and moderates these accounts.
+	*The governor	Lewis	*male	44. A high-ranking political official mentioned in the context of the 'lagniappe' custom, who would receive something for lagniappe when buying goods in a shop.
+	*The late Mr. Seymour	Kumo	*male	52. A journalist from the New York Times who was present at a church service where the letter was read and wept over.
+	*The lunatic from Muscatine	Daniel	*male	57. A deranged man who confronted the narrator in the fields on a Sunday and attempted to kill him with a butcher-knife, demanding that he acknowledge the man as the only son of the Devil.
+	*The man	Santa	*male	35. A Vicksburg non-combatant who narrates his family's experiences during the siege. He describes how they adapted to life in caves, their daily routines, and how the constant bombardment became commonplace over time.
+	*The man who cut the throat	Daniel	*male	30. A man involved in a violent altercation with A over fence rails. He cut A's throat with a knife but failed to sever the jugular.
+	*The man who was killed by the revolver	Kumo	*male	30. A man who was shot dead by another man after a dispute over fence rails. He initially threw down his revolver and then pulled out a knife.
+	*The marshal	Liam	*male	56. A constable who arrested the tramp and was responsible for locking him in the calaboose, but could not be found when the fire occurred
+	*The mayor	Echo	*male	44. A civic leader mentioned in the context of the 'lagniappe' custom, who would receive something for lagniappe when buying goods in a shop.
+	*The minister's son	Fenrir	*male	4. A boy who becomes an engineer on a steamboat, one of several young men from prominent families who pursue careers on the river.
+	*The Model Boy	Fable	*male	54. A perfect boy from the narrator's childhood who was admired by mothers but detested by other boys. He was perfect in manners, dress, conduct, and piety but was considered a prig with empty knowledge.
+	*The mule-race riders	Michael	*male	45. Young gentlemen in fashionable society who participate in the mule race
+	*The narrator's father	Kumo	male	4. A justice of the peace in Hannibal, Missouri who believes his position gives him power over life and death. He is a respected figure in the community.
+	*The negro man	Puck	*male	45. A Black participant in the cockfighting event, one of two men competing with a white man
+	*The officer	Fenrir	*male	12. An officer who accompanies Mr. Thornburg on the sounding trip and gets into a conversation with him while waiting for the steamer to pass. He is involved in the confusion that leads to the mistaken identity of lights.
+	*The officer of the watch	Psi	*male	9. A crew member who oversees navigation duties and would inform the narrator about when to 'wood up' (stop at a wood yard).
+	*The passengers	Nicola	*male	11. Travelers on the steamboat who were aboard during the incident at Helena crossing | 12. A group of people, including ladies and all, who watch the sounding trip from the boat. They are anxious and frightened during the accident and express sympathy for those who were lost.
+	*The Planter's	Kumo	*male	17. A location where Stephen waited for Yates, described as a place he visited while searching for him. It was likely an establishment or building where people gathered.
+	*The poet	Nicola	*male	45. A man who begins speaking about the moon and becomes involved in war-related discussions
+	*The post-master's son	Echo	*male	4. A boy who becomes a 'mud clerk' on a steamboat, one of several young men from prominent families who pursue careers on the river.
+	*The priest	Santa	*male	20. A man who was struck by an iron crowbar during the explosion and died from his injuries. He was described as a priest who suffered greatly before dying.
+	*The proprietor	Fable	*male	41. A male salt-warehouse owner who experienced a sudden windfall during the war when his salt inventory became extremely valuable
+	*The raftsmen	Liam	*male	11. Men who operated log rafts and were the recipients of religious tracts from the steamboat clerk
+	*The ragged street Arab	Onyx	*male	44. A young man from the streets who uses a non-standard grammatical construction: 'I was a-ask'n' Tom whah you was a-sett'n' at.'
+	*The Roman soldier	Alex	*male	51. A character the blacksmith cub plays in a theater production, eventually playing this role for thirty-four years.
+	*The saddler	Alex	*male	55. A local tradesman who was known for his energetic and theatrical behavior, rushing down the street as if expecting a steamboat arrival. He was deceased by the time of the narrator's visit.
+	*The second engineer	Fable	*male	20. An officer aboard the 'Pennsylvania' who was on watch in the engine room during the explosion. He survived but was among those injured by the blast.
+	*The second mate	Eric	*male	20. An officer aboard the 'Pennsylvania' who was badly scalded but continued to stand at his post during the disaster. He helped organize efforts to save wounded passengers. | 37. One of the forty-seven persons wounded in the explosion on the steamer 'Gold Dust', identified by rank
+	*The servant	Fable	*male	44. A household worker mentioned in the context of the 'lagniappe' custom, who would receive a cheap cigar or spool of thread when buying something in a shop.
+	*The skiff oarsmen	Puck	*male	11. Men who rowed skiffs to obtain religious tracts from the steamboat clerk
+	*The specter steamer	Daniel	*male	17. A phantom vessel that supposedly still travels the old Raccourci cut-off, according to legend. It is described as a ghostly presence that appears on dark nights and continues its journey through the abandoned riverbed.
+	*The steersman	Michael	*male	48. A negro worker who operated the steam-plow on the plantation.
+	*The striker (second)	George	*male	20. Another crew member aboard the 'Pennsylvania' who was injured during the explosion. He later died from his injuries and was among those trapped under debris.
+	*The superintendent	George	*male	54. A bald-headed man who was once a Sunday-school mate of the narrator and recognized him when he returned to visit old schools. He was involved in the current Sunday-school system.
+	*The third mate	Daniel	*male	12. A crew member who helps save the pilot and other men from the sounding-boat when it is struck by the steamer's wheel. He is part of the group that successfully escapes the disaster.
+	*The Times-Democrat	Daniel	*male	60. Newspaper that sent the 'Susie' boat to help with flood relief efforts
+	*The town drunkard	George	*male	4. A local figure who sleeps in the shadow of skids on the wharf, becoming active when a steamboat arrives.
+	*The tramp	Puck	*male	56. A poor, harmless whiskey-sodden stranger who was wandering the streets and begging for matches when he was accidentally burned to death in the calaboose
+	*The waiter	Santa	*male	44. A restaurant employee who spills coffee on a customer and apologizes by saying 'For lagniappe, sah.'
+	*The white man	Liam	*male	45. A Caucasian participant in the cockfighting event, one of two men competing with a negro man
+	*The wholesale liquor dealer's son	Lewis	*male	4. A boy who becomes a barkeeper on a steamboat, one of several young men from prominent families who pursue careers on the river.
+	*The writer of the note	Daniel	*male	52. A minister who wrote to another minister about the letter's authenticity and provided information that helped expose its fraudulent nature.
+	*third clerk	Michael	*male	37. One of the forty-seven persons wounded in the explosion on the steamer 'Gold Dust', identified by rank
+	*Thomas O'Connor	Daniel	*male	40. A man involved in a fatal shooting incident with General Mabry over property disputes, who killed Mabry and was later shot dead by Mabry's son
+	*Tom	Psi	*male	44. A person who is asked about by the ragged street Arab in a non-standard grammatical construction.
+	*Tom Ballou	Liam	male	24. The captain of the steamboat 'Cyclone', described as an immortal liar who couldn't tell the truth in any kind of weather. He is characterized by selfishness and malice, with a foot that was out of drawing.
+	*Tom Ellis	George	*male	60. Man whose house was in danger of flooding and who refused to leave despite the risk
+	*Tom Holmes	Echo	*male	54. A boy mentioned by the narrator who says more bad words than any other in the village, though the narrator speculates he might repent.
+	*Tom Hooper	Alex	*male	60. Planter whose property was flooded and who had livestock trapped on a flat
+	*Tom Jones	Eric	*male	13. A person who told Mr. Brown details about the 'Sunflower' and its crew.
+	*Tom's crew	Omega	*male	12. The men who accompany Tom G--- on the sounding trip and are involved in the tragic accident when they fail to catch the guard and are struck by the steamer's wheel.
+	*Tonty	Lewis	male	27. French explorer who accompanied La Salle on his Mississippi expedition in 1682
+	*Uncle Remus	Lewis	*male	46. A literary character created by Joel Chandler Harris, representing a Southern author who wrote in modern English | 47. A shy, red-haired man described as undersized and freckled who arrives from Atlanta. He is known for his genius in writing negro dialect and is the author of the Uncle Remus book. He is deeply disappointed children who expected to see a Black man, as he is white. | 58. Folklorist character mentioned in the story, referenced as a source of dialect
+	*Underwriters	Onyx	*male	15. A group of people who have decided to support the association's system and force captains to use only association pilots, even though they are not directly part of the organization.
+	*Watson	Michael	*male	26. A member of a feuding family in the South, part of the conflict with the Darnells
+	*A. L. Shotwell	River	*female	16. A fast racing steamer mentioned as one of the competitors in a major race, known for its speed and competitive performance
+	*Aleck Scott	Xiaoyi	*female	15. The steamboat on which the story takes place, described as a vessel with two leads going and a hurricane deck.
+	*Bridget O'Shaughnessy	Xiaobei	female	43. A woman who purchases a coffin for her deceased husband Dennis, showing competitive behavior with Mrs. O'Flaherty by matching and exceeding the other's funeral expenses, indicating her desire for social status through elaborate burials.
+	*Calhoun Land Company	Alpha	*female	33. An enterprise formed by Colonel Calhoun's syndicate to purchase land for cotton-growing. The company aims to work on a cash basis, supply laborers with provisions at small profit margins, and potentially establish banking services in Greenville.
+	*Catherine de Medici	Sara	female	1. French queen who was a child during the time period when De Soto saw the Mississippi
+	*Eclipse	Xiaoxiao	*female	16. A fast racing steamer mentioned as one of the competitors in a major race, known for its speed and competitive performance
+	*Elizabeth of England	Sarah	female	1. English monarch who was not yet in her teens when De Soto saw the Mississippi
+	*Fraulein Dahlweiner	Alloy	*female	31. A woman who runs a pension in Munich where the narrator stayed
+	*Gray mare	Kore	*female	25. A horse that was aboard the Paul Jones steamboat when it sank. The narrator mentions this as part of a superstitious belief about the combination of gray mare and preacher causing calamity.
+	*Greenville	Isabella	*female	33. A town in Mississippi that has grown significantly since Napoleon's time, with a population of three thousand and annual gross trade of $2,500,000. It is described as having a considerable flourish in the Valley.
+	*Margaret of Navarre	Gongitsune	female	1. French noblewoman who was writing religious books and the 'Heptameron' during the time period when De Soto saw the Mississippi
+	*Maria	Beta	female	35. A woman who lived in Vicksburg during the siege, wife of a man who narrates their experiences. She faints when she first reaches the cave shelter and later gets her false hair game-bag torn off by a shell fragment, showing her vulnerability during the bombardment.
+	*Mary Ann	Nova	*female	14. A young colored woman who was being flirted with by someone on the street, according to a neighbor's shout. She was described as being in a social situation involving a barber from the 'Grand Turk.'
+	*Mary Queen of Scots	Bella	female	1. Scottish monarch who was not yet born when De Soto saw the Mississippi but would be alive before the year ended
+	*Miss ----	Sky	*female	53. A young woman from Hannibal, Missouri who went insane and spent thirty-six years in an asylum. She was frightened by young ladies pretending to be ghosts.
+	*Mississippi	Xiaoni	*female	1. The main river being described, a major geographical feature of the United States with unique characteristics including length, crookedness, and significant water discharge
+	*Mrs. Ellis	Xiaoxiao	*female	60. Woman whose family lived in a flooded house with their children and was in feeble health
+	*Mrs. George Johnson	Isabella	*female	49. A fictional person named in the will of a wealthy foreigner, who was actually a fraud as no such person existed.
+	*Mrs. O'Flaherty	Xiaobei	female	43. A widow who purchases a coffin for her deceased husband Pat, demonstrating emotional attachment and determination to provide proper burial despite financial strain. She is described as tearful but resolute in her decision-making.
+	*Mrs. Oswald	Nova	*female	60. Woman whose property was flooded and who had livestock trapped in a gin-house
+	*Mrs. Turner	Alloy	*female	50. A woman whose plantation was mentioned in Captain Sellers' diary as being underwater during a flood, indicating she was a landowner in the area.
+	*Susie	Xiaoyi	*female	60. Relief boat used for flood rescue operations on the Mississippi River
+	*The bride	Kore	*female	55. A woman who was supposedly killed by her husband's rival, Archibald Lynch. She was described as 'too fair for earth' and reciprocated her lover's affection.
+	*The captain's wife	Sky	female	30. A woman who was asleep in the upper berth of her husband's boat when he cut through the roof to reach her after the boat sank. She was killed by the ax blow that went through the rotten boards.
+	*The schoolmistress	Alpha	female	44. An educator who asks 'Where is John gone?' using the common Southern form of speech.
+	*The Texas-Tender	Aoede	*female	6. A black servant who brings up tarts, ices and coffee during mid-watch on the larger boat, described as wearing a 'white-aproned' uniform
+	*The well-dressed lady	Alice	*female	23. A female passenger who boards the boat at a strange location with a gentleman and two young girls, traveling to St. Genevieve
+	*The young girls	Lily	*female	23. Two female passengers who travel with a well-dressed lady and gentleman to St. Genevieve
+	*The young lady	Beta	female	44. A woman who receives compliments from the beau, and whose countenance indicates when his compliments are too high.
+	*Virgin	Nicole	*female	2. The Virgin Mary, invoked by Marquette for protection during his journey. She is referenced as having helped him in his exploration.
+	*We-no-na	Lily	female	59. A maiden who plighted her troth to a lover but was forced by her parents to marry another warrior. She threw herself from Maiden's Rock in a death-dirge, killing her parents
+	*Widow Taylor	River	*female	60. Woman who lived in a flooded house with her son and refused to leave despite dangerous conditions
+	*Winona	Alice	*female	59. The legendary maiden of Maiden's Rock, also known as We-no-na. She jumped from the cliff after her parents forced her to marry someone else, and later married her true love

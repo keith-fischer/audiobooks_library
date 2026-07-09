@@ -1,7 +1,0 @@
-Jonathan Harker	male	A solicitor and the narrator of the diary. He is married to Mina and is deeply in love with her. He is brave, determined, and willing to sacrifice himself for Mina's safety.
-Mina Harker	female	Jonathan's wife, a devoted and brave woman who is deeply loved by her husband. She is intelligent, strong-willed, and willing to face danger for the sake of others. She has been bitten by the vampire Count Dracula and is slowly transforming into a vampire.
-Dr. Van Helsing	male	A wise and experienced Dutch doctor who is leading the fight against Dracula. He is knowledgeable about vampire lore, resourceful, and a natural leader who inspires others with his courage and determination.
-Dr. Seward	male	A doctor who works with Van Helsing and Jonathan. He is methodical, observant, and dedicated to helping others. He has been investigating the strange events surrounding Renfield.
-Renfield	*male	A patient in Dr. Seward's asylum who has been possessed by the vampire Count Dracula. He is described as having a bruised and crushed face with broken neck bones after falling from his bed.
-Lord Godalming	male	A friend of Jonathan and Mina who is actively involved in the fight against Dracula. He has connections with his people to provide horses and carriages for their missions.
-Quincey Morris	male	A friend of Jonathan and Mina who is also involved in the fight against Dracula. He suggests practical solutions for their mission and is willing to take risks.

@@ -1,0 +1,302 @@
+	narrator	Adam	male	Story narrator
+	Alvin Coe	Kumo	*male	4. Protestant Missionary who invited the narrator to go to Ohio for education in 1840 | 7. Traveling missionary and Jackson's father's old friend who invited Jackson to Ohio for education. Later became a significant figure in Jackson's life and career.
+	Blackbird	Santa	*male	4. Mistranslated name for Macka-de-pe-nessy, father of the narrator | 8. Main protagonist, a Native American man who becomes Protestant, struggles with education, marries his wife, and serves as interpreter and postmaster for the Ottawa people
+	Blackbird's father	Omega	*male	8. Aged father who gives his blessing for Blackbird's education journey
+	Governor Lewis Cass	Lewis	*male	4. Michigan governor who was a friend of Late Wing, a chieftain in the War of 1812 | 8. Former governor of Michigan who helps Blackbird secure educational funding and recommends Ypsilanti State Normal School
+	Indian Agent	Puck	*male	8. Government official who opposes Blackbird's education and later tries to control his schooling arrangements
+	Jackson	Alex	*male	7. Main protagonist, son of Chief Macka-de-be-nessy, who lost his mother at a young age and became a 'wild rover.' Worked as a blacksmith, sought education in Ohio, and later advocated citizenship rights for his people.
+	John M. Johnstone	George	*male	7. Young man from Sault Ste. Marie who offered Jackson a position as assistant blacksmith in Grand Traverse and introduced him to the Indian agent.
+	Kaw-be-naw	Eric	male	11. Great warrior and prophet of the Ottawas, known as 'He would be brought out.' Famous for his magical abilities and strength. Died after being captured by the Wenebagoes, then escaped from a pit before ultimately dying through flesh being cut from his body as he requested to die.
+	Mack-e-te-be-nessy	Fenrir	*male	13. The narrator and protagonist of the lamentation, a Red Man of the Forest who expresses deep sorrow over the loss of his ancestral land and way of life. He speaks as a proud member of the Algonquin people, recalling his childhood under the basswood tree and mourning the destruction of his homeland by white settlers.
+	Mr. Gilbert	Nicola	*male	8. Indian agent who initially refuses to help Blackbird's education due to political differences, later reluctantly provides travel funds
+	Ne-naw-bo-zhoo	Fable	male	9. The great supernatural being and central figure of the legend, described as a clown who is also a prophet, expert hunter, and powerful warrior. He can transform into animals and has a great black wolf as his hunting dog.
+	O-saw-wah-ne-me-kee	Psi	male	11. Great warrior of the Wenebago tribe, known as 'The Yellow Thunder.' Sought out Kaw-be-naw to fight him in battle. Was killed by Kaw-be-naw during a confrontation on Manitoulin Island.
+	Oge-maw-we-ne-ne	Onyx	*male	5. Cousin of the Author who discovered William Blackbird in a tree after he went missing during sugar making.
+	Pe-taw-wan-e-quot	Omega	*male	5. Younger brother of Pung-o-wish, quick to learn the Paw-pa-pe-po alphabet. Later called William and sent to Protestant Mission School at Mackinac Island.
+	Saw-ge-maw	Nicola	male	11. Great warrior and leader of the Ottawas, who lived around the time America was discovered by white men. Led a massacre against the Mush-co-desh tribe after they insulted him with ashes.
+	Tecumseh	Psi	male	3. A famous Shawnee warrior leader who was killed during a battle with American forces. According to traditional accounts, he was shot in the leg and later died from his wounds. | 4. Brother of Waw-wo-yaw-ge-she-maw, leader who influenced the Shawanee Prophet's teachings
+	The first son	Omega	male	9. Ne-naw-bo-zhoo's brother who was born like a normal human child and was raised by his grandmother.
+	The god of the deep	Michael	*male	9. A sea deity who was jealous of Ne-naw-bo-zhoo's hunting dog and killed it for a feast, leading to Ne-naw-bo-zhoo's revenge.
+	Wau-bau-ne-me-kee	Liam	*male	2. A young Chippewa Indian who killed a white man and was sentenced to be hung at the Island of Mackinac
+	William Blackbird	Echo	*male	5. Son of the Author's father, known as William. Fed by angelic beings in wilderness for three days while lost. Studied to be a priest in Rome, Italy, and was assassinated just before ordination.
+	young man	Daniel	*male	2. A young male Indian who killed his lover at Arbor Croche, was arrested and banished from the tribe | 14. A male youth, mentioned in grammar section
+	Woman	Heart	*female	10. An Ottawa woman who lost her infant child on the beach of Lake Ke-tchi-ne-bissing and later became involved in a supernatural mystery surrounding her child's disappearance. | 14. A human female, mentioned in grammar section
+	landlady	Beta		
+	mush-co-desh chief	Fenrir		
+	professor	Dylan		
+	warrior	Alex		
+	wenebagoes	Aiden		
+	*A-paw-kau-se-gun	Echo	*male	6. Principal chief of the Seven Mile Point band of Indians who led parties to Mackinac Island to seek advice about Christianity
+	*Air	Daniel	*male	14. The invisible gaseous substance surrounding Earth, mentioned in grammar section
+	*Amable	Kumo	*male	6. The narrator's name after baptism, who was baptized by Rev. Father Baden in 1825
+	*Andowish	Alex	*male	6. An Indian from Montreal who belonged to the Stockbridge tribe and converted to Catholicism, then taught Catholic religion to relatives at Arbor Croche
+	*Ant	Echo	*male	14. An insect, mentioned in grammar section
+	*Apple	Daniel	*male	14. A fruit from an apple tree, mentioned in grammar section
+	*Apple tree	Omega	*male	14. A type of tree, mentioned in grammar section
+	*Arbor Croche	Fenrir	*male	6. A location where the Ottawas gathered for feasting and religious ceremonies, described as a summer resort for planting corn and other vegetables
+	*Ash	Santa	*male	14. A type of tree, mentioned in grammar section
+	*Au-paw-ko-si-gan	Eric	*male	6. The war chief who acted as principal chief at Little Traverse and enforced prohibition of alcohol in the village
+	*Au-se-go-nock	Omega	*male	6. The narrator's uncle who joined the Catholic religion and acted as missionary at Arbor Croche in the absence of a priest
+	*Au-tche-a	George	male	11. Ottawa prophet who traveled to meet the white men and brought back firearms, tools, and knowledge. Known for his long journey and return with strange articles that amazed the Indians.
+	*Aug Hamlin	Fable	*male	5. Cousin of William Blackbird who was also taken to Rome. Had lighter complexion than William and represented as half French.
+	*Bad fall	Kumo	*male	14. An unpleasant autumn season, mentioned in grammar section
+	*Bear	Eric	*male	14. An animal, mentioned in grammar section
+	*Bee	Lewis	*male	14. An insect, mentioned in grammar section
+	*Beech nut	Echo	*male	14. A seed from a beech tree, mentioned in grammar section
+	*Beech tree	Alex	*male	14. A type of tree, mentioned in grammar section
+	*Bishop Reese	George	*male	5. Missionary who took William Blackbird and his sister Margaret to Cincinnati for higher education.
+	*Black ash	Fenrir	*male	14. A type of tree, mentioned in grammar section
+	*Black bass	Fable	*male	14. A type of fish, mentioned in grammar section
+	*Black Hawk	Alex	*male	4. Alternative name for Macka-de-pe-nessy, father of the narrator
+	*Black raspberry	Kumo	*male	14. A type of berry, mentioned in grammar section
+	*Bluejay	Daniel	*male	14. A bird, mentioned in grammar section
+	*Boat	Lewis	*male	14. A watercraft for transportation, mentioned in grammar section
+	*Box	Fenrir	*male	14. A container, mentioned in grammar section
+	*Boy	Nicola	*male	14. A young male, mentioned in grammar section
+	*Brook	Omega	*male	14. Small stream of water, mentioned in grammar section
+	*Brook trout	Omega	*male	14. A type of fish, mentioned in grammar section
+	*Brother	Liam	*male	14. A male sibling, mentioned in grammar section
+	*Brown thrush	George	*male	1. Bird that sings in the morning and is described as a little orator who speaks to other birds about happiness, gratitude for blessings, and the abundance of nature | 13. A bird that sang melodiously on the basswood tree, providing music to the narrator's childhood. The narrator mourns its song as having ceased with the destruction of the tree.
+	*Bull	Kumo	*male	14. A male cattle animal, mentioned in grammar section
+	*Bumblebee	George	*male	14. An insect, mentioned in grammar section
+	*Butterfly	Eric	*male	14. An insect, mentioned in grammar section
+	*Bwondiac	Fable	*male	1. Chippewa leader who gave evil counsel leading to the massacre of the Old British Fort on the Straits of Mackinac, also known as Pontiac
+	*Calf	Fenrir	*male	14. A young cattle animal, mentioned in grammar section
+	*Cattle	Santa	*male	14. Livestock, mentioned in grammar section
+	*Cedar	Eric	*male	14. A type of tree, mentioned in grammar section
+	*Cedar swamp	Fenrir	*male	14. A wetland with cedar trees, mentioned in grammar section
+	*Child	Daniel	*male	10. An infant child of the Ottawa woman who was mysteriously taken from the beach and later discovered dead in a cavern at the top of the hill. | 14. A young person who should be disciplined according to precept 15
+	*Chippewas	Daniel	*male	3. An indigenous tribe who later occupied Mackinac Island and ceded it to the United States Government while reserving land around the island for their use.
+	*Church	Fable	*male	14. A place of worship, mentioned in grammar section
+	*Col. Boyd	Santa	*male	6. Indian Agent at Mackinac who was a friend of Rev. Mr. Dejan
+	*Corn	Alex	*male	14. A grain crop, mentioned in grammar section
+	*Country	Michael	*male	14. A nation or land, mentioned in grammar section
+	*Court house	George	*male	14. A building where legal proceedings take place, mentioned in grammar section
+	*Crane	Lewis	*male	14. A bird, mentioned in grammar section
+	*Cripple	Echo	*male	14. A disabled person who should not be mocked according to precept 8
+	*Crow	Fable	*male	14. A bird, mentioned in grammar section
+	*Cut worm	Kumo	*male	14. An insect, mentioned in grammar section
+	*D. C. Leach	Santa	*male	8. U.S. Indian Agent who appoints Blackbird as U.S. Interpreter
+	*Day	Lewis	*male	14. The period of daylight, mentioned in grammar section
+	*Deer	Puck	*male	14. An animal, mentioned in grammar section
+	*Deformed	Nicola	*male	14. A disabled person who should not be mocked according to precept 8
+	*Deity	Liam	*male	14. A divine being who inhabits natural formations according to precept 5
+	*Dog	Alex	*male	14. An animal, mentioned in grammar section
+	*Dog fish	Michael	*male	14. A type of fish, mentioned in grammar section
+	*Dr. Stuben	Puck	*male	8. Resident of Detroit who helps Blackbird find Governor Cass
+	*Duck	Kumo	*male	14. A bird, mentioned in grammar section
+	*Ego-me-nay	Daniel	male	1. Head counselor and speaker of the Ottawa tribe of Indians at the time of the British council meeting in Montreal, leading figure who made the speech before the British Government regarding the massacre of the Old British Fort on the Straits of Mackinac
+	*Elk	Fenrir	*male	14. An animal, mentioned in grammar section
+	*Elm	George	*male	14. A type of tree, mentioned in grammar section
+	*Fall	Echo	*male	14. The season between summer and winter, mentioned in grammar section
+	*Farm	Daniel	*male	14. Agricultural land, mentioned in grammar section
+	*Farmer	Michael	*male	14. A person who works on a farm, mentioned in grammar section
+	*Father Mullen	Lewis	*male	5. Missionary figure mentioned in William's letter to his sister, who was involved with the educational efforts of the family.
+	*Father Pierce	Puck	*male	6. A priest who succeeded Father Simon in the Little Traverse mission
+	*Father Simon	Lewis	*male	6. A priest who succeeded Rev. Mr. Baraga in the Little Traverse mission
+	*Fish	Psi	*male	14. An aquatic animal, mentioned in grammar section
+	*Flea	Fenrir	*male	14. An insect, mentioned in grammar section
+	*Fox	Eric	*male	14. An animal, mentioned in grammar section
+	*Francis Petoskey	Liam	*male	7. Indian boy attending school at Twinsburg Institute, who knew Jackson from their shared hometown.
+	*Garden	Liam	*male	14. Cultivated land for growing plants, mentioned in grammar section
+	*George	Alex	*male	6. Son of Col. Boyd who wintered with Rev. Mr. Dejan at the mission
+	*Gooseberry	Michael	*male	14. A fruit from a gooseberry bush, mentioned in grammar section
+	*Gooseberry bush	Liam	*male	14. A type of plant, mentioned in grammar section
+	*Grandfather	Michael	*male	14. A male grandparent, mentioned in grammar section
+	*Gray-head persons	Alex	*male	14. Elderly people who should be honored according to precept 7
+	*Great Creator	Fenrir	*male	14. The supreme deity who rules all things, mentioned in the first precept
+	*Great Magician	Onyx	*male	10. The most respected magician among the Ottawas who investigated the disappearance of the child and discovered a passage under water.
+	*Great Spirit	Lewis	*male	1. Supreme Ruler of the Universe, Creator of all things, who is believed to see all actions night and day through sun, moon, and stars | 13. A divine figure referenced as the giver of land to red children and the creator of nature's gifts. The narrator speaks of his teachings about this spirit. | 14. A divine entity who observes human actions and judges them, mentioned in precepts 2, 3, 4, 5, 8
+	*Gull	Omega	*male	14. A bird, mentioned in grammar section
+	*Hamlin	Eric	*male	5. Cousin of William Blackbird who visited him in Rome before his death and was asked by authorities if there were any younger brothers to take William's place.
+	*Hat	Eric	*male	14. A head covering, mentioned in grammar section
+	*Hawk	Psi	*male	14. A bird, mentioned in grammar section
+	*Hazelnut	Fenrir	*male	14. A type of nut, mentioned in grammar section
+	*Head spirit	George	*male	14. A leader of spirits in the spirit land according to precept 21
+	*Hickory nut	Nicola	*male	14. A seed from a hickory tree, mentioned in grammar section
+	*Hickory tree	Psi	*male	14. A type of tree, mentioned in grammar section
+	*Hon. H. Schoolcraft	Echo	*male	6. Indian agent who received the Ottawas and Chippewas' request to receive cash instead of dry goods
+	*Hornet	Puck	*male	14. An insect, mentioned in grammar section
+	*Horse fly	Fable	*male	14. An insect, mentioned in grammar section
+	*House	Michael	*male	14. A building for human habitation, mentioned in grammar section
+	*House fly	Onyx	*male	14. An insect, mentioned in grammar section
+	*Indian Commissioner	Eric	*male	8. Government official in Washington who receives Blackbird's case and is involved in educational funding decisions
+	*Indian man	Psi	*male	14. A male indigenous person, mentioned in grammar section
+	*Infant	Daniel	*male	14. A very young child with no gender distinction, mentioned in grammar section
+	*Insect	Michael	*male	14. A small creature, mentioned in grammar section
+	*James	Fenrir	*male	6. Son of Col. Boyd who wintered with Rev. Mr. Dejan at the mission
+	*Jesus Krist	Puck	*male	14. A religious figure mentioned in the creed
+	*Johnson	Michael	*male	3. A soldier who was claimed by some to have killed Tecumseh, though traditional accounts dispute this version of events.
+	*Joseph As-saw-gon	Michael	male	5. Messenger and successor to the Author's Father as head speaker for the Ottawa and Chippewa Indians. Known for his natural oratorical abilities despite lacking formal education.
+	*Joseph Au-saw-gon	Liam	*male	6. A messenger for the narrator's father who lived in Little Traverse
+	*Joseph Letorenue	Fable	*male	6. A Frenchman from Detroit who served as school teacher at the Little Traverse mission
+	*Judge Wing	Fable	*male	7. Legal authority in Detroit who provided opinion on citizenship rights for Indians, stating they could be citizens despite receiving annuities.
+	*Kaw-me-no-te-a	Daniel	*male	6. The narrator's father's brother who was left in charge of the subjects at Arbor Croche while their father moved to Little Traverse
+	*Kettle	Echo	*male	14. A cooking vessel, mentioned in grammar section
+	*Lame	Psi	*male	14. A disabled person who should not be mocked according to precept 8
+	*Land	Fable	*male	14. Earth or territory, mentioned in grammar section
+	*Last summer	Fenrir	*male	14. The previous summer season, mentioned in grammar section
+	*Late Wing	George	*male	4. Father's brother, great chieftain who served bravely for the United States in the War of 1812, friend to Governor Lewis Cass, pensioned for life
+	*Logan	Eric	*male	13. A historical figure mentioned as one of the leaders who welcomed white men to their land. He is described as having met and welcomed white men in their cabin doors when they were few in numbers.
+	*Louse	Santa	*male	14. An insect, mentioned in grammar section
+	*Lovers	Liam	*male	10. Two individuals who heard the crying of an infant near a hillock and were involved in the supernatural mystery surrounding the missing child.
+	*Lynx	Psi	*male	14. An animal, mentioned in grammar section
+	*Macka-de-be-nessy	Nicola	*male	7. Father of Jackson, chief of the Ottawa tribe, who lived in Little Traverse and later moved to Green Bay.
+	*Macka-de-pe-nessy	Fable	*male	4. Father of the narrator, known as Black Hawk (though mistranslated as Blackbird), head chief at Arbor Croche, brave warrior who led his people on warpaths, survived banishment to a lonely island by fur traders, died in June 1861
+	*Maggot	Omega	*male	14. An insect, mentioned in grammar section
+	*Magician	Michael	*male	10. A spiritual practitioner among the Ottawas who performed rituals to divine the mystery of the missing child and later plunged into Lake Ke-tchi-ne-bissing to find a passage.
+	*Male cousin	Fable	*male	14. A male cousin, mentioned in grammar section
+	*Man	Echo	*male	14. A human male, mentioned in grammar section
+	*Manypenny	George	*male	7. Commissioner of Indian Affairs who listened to Jackson's speeches about educational funding at the 1855 treaty council.
+	*Marsh land	Eric	*male	14. Wetland area, mentioned in grammar section
+	*Massasoit	Puck	*male	13. A historical figure mentioned as one of the leaders who welcomed white men to their land. He is described as having met and welcomed white men in their cabin doors when they were few in numbers.
+	*Mawsh-ko-desh	Psi	*male	4. Former Indian tribe that occupied Saw-gi-naw bay and has vanished from existence
+	*Michinemackinawgoes	Nicola	*male	3. A small independent tribe of Indians who occupied Mackinac Island before the massacre by Senecas. They were confederated with the Ottawas and were nearly annihilated during a winter war dance celebration.
+	*Mink	Nicola	*male	14. An animal, mentioned in grammar section
+	*Minnow	Nicola	*male	14. A small fish, mentioned in grammar section
+	*Mishi-la-me-gwe	Kumo	*male	9. The great fish that swallowed Ne-naw-bo-zhoo, similar to the biblical Jonah story.
+	*Mixinene	Omega	male	10. A Chippewa of the Grand River Indians, descendant of the Backwoodsmen whose emblem was a rabbit. Signed the treaty of 1886 and was considered by other Chippewas to be a mixed-blood rather than pure Ottawa or Chippewa.
+	*Moon	Fable	*male	14. The natural satellite of Earth, mentioned in grammar section
+	*Moose	Santa	*male	14. An animal, mentioned in grammar section
+	*Mosquito	Nicola	*male	14. An insect, mentioned in grammar section
+	*Mr. Boyd	Santa	*male	5. Husband of Auntie Margaret who was sued by a fraudulent white man for damages to an ox that did not belong to him.
+	*Mr. Carlow	Psi	*male	6. A person associated with the spring near the depot, though not directly involved in the narrative
+	*Native land	Onyx	*male	14. One's homeland, mentioned in grammar section
+	*Ne-saw-key	Liam	male	1. Head chief of the Ottawa Nation who did not personally attend the British council meeting in Montreal but sent his message and instructed the counselor on how to appear before the British Government
+	*Ne-saw-wa-quat	Fenrir	*male	4. Son of Saw-gaw-kee, last head chief of Little Traverse who was brought back to country after his father's death in west
+	*Neighbor	Kumo	*male	14. A person living nearby who should be treated with honesty according to precept 10
+	*Night	Puck	*male	14. The period of darkness, mentioned in grammar section
+	*Nut	Santa	*male	14. A seed or fruit with a hard shell, mentioned in grammar section
+	*Ocean	Nicola	*male	14. Large body of salt water, mentioned in grammar section
+	*Odaw gaw-mees	Omega	*male	4. Former Indian tribe whose principal habitation was near Detroit River and has vanished from existence
+	*Old man	Omega	*male	14. An elderly male person, mentioned in grammar section
+	*Ossaw-gees	Kumo	*male	4. Former Indian tribe that occupied Saw-gi-naw bay and has vanished from existence
+	*Ottawas	Omega	*male	3. An indigenous tribe who lived at Manitoulin Island and were confederated with the Michinemackinawgoes. They had a close relationship with this tribe and preserved their memory through traditions.
+	*Panther	Omega	*male	14. An animal, mentioned in grammar section
+	*parents of the girl	Psi	*male	2. The parents of a young girl who were approached by the young man's parents to arrange their marriage
+	*parents of the young man	Echo	*male	2. The parents of a young man who arranged his marriage by going to the girl's parents with presents
+	*Partridge	George	*male	14. A bird, mentioned in grammar section
+	*Paul Ka-gwe-tosong	Michael	*male	7. Indian boy attending school at Twinsburg Institute, who knew Jackson from their shared hometown.
+	*Paul Naw-o-ga-de	Omega	*male	7. Orphan boy and distant relative of Jackson who traveled with him to Mackinac Island. Later stayed at the Twinsburg Institute boarding house.
+	*Paw-gwa-tchaw-nish-naw-boy	Onyx	*male	3. A supernatural being who appears as a wild roaming spirit, supposedly the two survivors of the Michinemackinawgoes massacre who became legendary figures among Ottawa and Chippewa tribes.
+	*Pe-ness-wi-qua-am	Nicola	*male	6. The narrator's original name, which was changed to Amable after baptism by Rev. Father Baden
+	*Pe-pe-gwen	Echo	*male	4. Small hawk symbol representing the ancestral tribe of Underground race, also name for the tribe
+	*People of the world	Liam	*male	14. The inhabitants of the earth, mentioned in grammar section
+	*Perch	Onyx	*male	14. A type of fish, mentioned in grammar section
+	*Peter Sho-min	Michael	*male	6. Another resident of Little Traverse who owned a log house
+	*Pickerel	Liam	*male	14. A type of fish, mentioned in grammar section
+	*Pigeon	Michael	*male	14. A bird, mentioned in grammar section
+	*Pike	Lewis	*male	14. A type of fish, mentioned in grammar section
+	*Pine	Puck	*male	14. A type of tree, mentioned in grammar section
+	*Pine land	Echo	*male	14. Land with pine trees, mentioned in grammar section
+	*Pleasant winter	Alex	*male	14. A comfortable winter season, mentioned in grammar section
+	*Plum	Fable	*male	14. A fruit from a plum tree, mentioned in grammar section
+	*Plum tree	Onyx	*male	14. A type of tree, mentioned in grammar section
+	*Ponce Pila-tawn	Eric	*male	14. A religious figure mentioned in the creed
+	*Pontiac	Onyx	*male	1. Odjebwe (Chippewa) chief of St. Clair who instigated the massacre of the old fort on the Straits of Mackinac, also known as Bwondiac
+	*Prairie hen	Puck	*male	14. A bird, mentioned in grammar section
+	*Pun-go-wish	Michael	male	1. War chief of the Ottawa tribe, grandfather of the narrator who was a sub-chief and great-grandfather of the narrator
+	*Pung-o-wish	Onyx	male	5. Eldest son of the Author's father, great hunter among the Ottawas. Later called Peter after being baptised into Catholic religion.
+	*Puppy	Echo	*male	14. A young dog, mentioned in grammar section
+	*Rabbit	Echo	*male	14. An animal, mentioned in grammar section
+	*Raccoon	Kumo	*male	14. An animal, mentioned in grammar section
+	*Red raspberry	Psi	*male	14. A type of berry, mentioned in grammar section
+	*Rev. Father Baden	Psi	*male	6. An old Catholic priest who baptized many Indians at Arbor Croche in 1825, including the narrator
+	*Rev. Mr. Baraga	George	*male	6. A priest who replaced Rev. Mr. Dejan at Little Traverse in 1830 and did not maintain the same level of care for children as his predecessor
+	*Rev. Mr. Dejan	Onyx	*male	6. A French priest who established the mission at Little Traverse and built a church, schoolhouse, and living quarters
+	*Rev. Mr. Seajean	Puck	*male	5. Missionary who delivered a letter to William's sister Margaret.
+	*Rich land	Lewis	*male	14. Fertile or valuable land, mentioned in grammar section
+	*River	Kumo	*male	14. Large stream of water, mentioned in grammar section
+	*Robert Campbell	Kumo	*male	7. A Christian man who took Jackson on a voyage to Mackinac Island in 1840. Provided guidance and support during Jackson's early travels.
+	*Robin	Onyx	*male	14. A bird, mentioned in grammar section
+	*Samuel Bissell	Daniel	*male	7. Principal of the Twinsburg Institute in Ohio, who helped Jackson find work and arranged for Rev. Alvin Coe to visit him.
+	*Sand	Psi	*male	14. Granular material, mentioned in grammar section
+	*Saw-gaw-kee	Santa	*male	4. Head chief of Ottawa nation who believed the Shawanee Prophet's teachings and went west, died there
+	*Senecas	Kumo	*male	3. Iroquois Indians from New York who attacked and massacred the Michinemackinawgoes tribe on Mackinac Island during a winter war dance celebration.
+	*Shaw-be-nee	Lewis	*male	4. Uncle on mother's side, brave warrior who served in the War of 1812, traveled freely throughout the United States due to government privilege for patriotism and bravery
+	*Shaw-ko-we-sy	Fable	male	11. Successor to Kaw-be-naw, almost equal in power. Led the Ottawas against the Wenebagoes and killed many as predicted by Kaw-be-naw.
+	*Sheep head	Puck	*male	14. A type of fish, mentioned in grammar section
+	*Shoe	Santa	*male	14. A foot covering, mentioned in grammar section
+	*Small boat	Puck	*male	14. A smaller watercraft, mentioned in grammar section
+	*Small box	Alex	*male	14. A smaller container, mentioned in grammar section
+	*Soiled land	George	*male	14. Land that has been contaminated, mentioned in grammar section
+	*Son	Omega	*male	14. A male child who should be treated with respect according to precept 18
+	*Spider	Psi	*male	14. An insect, mentioned in grammar section
+	*Spirit	Daniel	*male	14. A supernatural being who inhabits natural formations according to precept 5
+	*Spirit land	Fable	*male	14. A place where good spirits dance according to precept 21
+	*Spring	Psi	*male	14. The season between winter and summer, mentioned in grammar section
+	*Squirrel	Liam	*male	14. An animal, mentioned in grammar section
+	*Star	George	*male	14. A celestial body that shines, mentioned in grammar section
+	*Stone house	Onyx	*male	14. A building made of stone, mentioned in grammar section
+	*Storm	Liam	*male	14. A violent weather event, mentioned in grammar section
+	*Stranger	Michael	*male	14. A foreign person who should be fed according to precept 12
+	*Sturgeon	Daniel	*male	14. A type of fish, mentioned in grammar section
+	*Sucker	Eric	*male	14. A type of fish, mentioned in grammar section
+	*Summer	Eric	*male	14. A season of the year, mentioned in grammar section
+	*Sun	Onyx	*male	14. The star that provides light and heat, mentioned in grammar section
+	*Swamp	Alex	*male	14. Wetland area, mentioned in grammar section
+	*Tamarack swamp	Santa	*male	14. A type of wetland, mentioned in grammar section
+	*Tchi-baw-yaw-booz	Lewis	*male	14. A spirit who leads good spirits in the afterlife according to precept 21
+	*Tchi-baw-yaw-te-gong	Santa	*male	14. A spirit who leads good spirits in the afterlife according to precept 21
+	*Tchi-bay-kon	Fenrir	*male	14. A road in the spirit world according to precept 21
+	*The Author's Father	Liam	male	5. Head speaker for the Ottawa and Chippewa Indians, appointed after his return to Arbor Croche. The only man friendly to education among the Indians. Made his own alphabet 'Paw-pa-pe-po' and taught others to read and write. Taught grown Indians in a wigwam that served as a schoolhouse.
+	*The beaver	Echo	*male	9. An animal that was sent by Ne-naw-bo-zhoo to dive to the bottom of the water but died in the attempt. | 14. An animal, mentioned in grammar section
+	*The father	Santa	*male	13. A revered figure in the narrator's life who taught him to love and value his birth land. He is described as having instructed the narrator about the gift of the Great Spirit. | 14. A parental figure who should be honored according to precept 6 | 14. A male parent, mentioned in grammar section
+	*The great black wolf	Alex	*male	9. Ne-naw-bo-zhoo's hunting dog, described as a great black wolf who was killed by the god of the deep.
+	*The monster brother	Fenrir	*male	9. Ne-naw-bo-zhoo's evil brother who was born with a body like flint stone and caused his mother's death. He is described as being made of hard flintstone.
+	*The muskrat	Psi	*male	9. An animal that was sent by Ne-naw-bo-zhoo to dive to the bottom of the water and successfully brought up earth. | 14. An animal, mentioned in grammar section
+	*The raven	Nicola	*male	9. An animal that carried the earth parcel from Ne-naw-bo-zhoo to help recede the flood waters.
+	*Thrasher	George	*male	14. A bird, mentioned in grammar section
+	*Trout	Kumo	*male	14. A type of fish, mentioned in grammar section
+	*Turkey	Nicola	*male	14. A bird, mentioned in grammar section
+	*Uncle	Onyx	*male	14. A male uncle, mentioned in grammar section
+	*Underground race	Daniel	*male	4. Ancestral tribe of the Ottawa people who made habitations in ground by making holes, also called Pe-pe-gwen tribe
+	*Urons	Nicola	*male	4. Former Indian tribe that occupied Saw-gi-naw bay and has vanished from existence
+	*Wa-ke-zoo	Puck	*male	4. Father's brother, great chieftain who died in Manitoba country, also a prophet and magician
+	*Walnut	Kumo	*male	14. A type of nut, mentioned in grammar section
+	*Wardsworth	Onyx	*male	7. Young chief from Cross Village who accompanied Jackson on his journey to Detroit in winter, walking through snow and wilderness.
+	*Warpath	Onyx	*male	14. A military context where murder is permitted according to precept 14
+	*Warrior Wing	Lewis	*male	8. Uncle of Blackbird, a former friend of Governor Lewis Cass who fought in the War of 1812
+	*Water	Puck	*male	14. Liquid, mentioned in grammar section
+	*Waw-wo-yaw-ge-she-maw	Eric	*male	4. Shawanee Prophet, Tecumseh's brother who preached to Ottawas and Chippewas about returning to old ways, claimed the Great Spirit would shake the earth as proof
+	*Way-ne-zhe-shed	Alex	*male	14. A spiritual path or way according to the creed
+	*We-me-gen-de-bay	Lewis	male	11. Noted chief of the Ottawas who discovered a great copper kettle in the wilderness, which was considered sacred and later used for boiling sugar sap.
+	*We-ne-be-goes	Liam	*male	3. A tribe defeated by the Ottawas during a war dance celebration at Manitoulin Island, which led to the Senecas attacking the Michinemackinawgoes.
+	*Weasel	Daniel	*male	14. An animal, mentioned in grammar section
+	*white man	Fenrir	*male	2. A white man who came to the Indian's wigwam in the dead of night and dragged the mother of his children from her husband
+	*white man who killed the Indian	Alex	*male	2. A white man who was killed by an Indian in self-defense after being accused of dragging the Indian's wife from his wigwam
+	*White raspberry	Nicola	*male	14. A type of berry, mentioned in grammar section
+	*White-thunder	Santa	*male	2. A young Chippewa Indian who killed a white man while defending his wife from being taken by the white man in the night
+	*Whitefish	George	*male	14. A type of fish, mentioned in grammar section
+	*Willow	Lewis	*male	14. A type of tree, mentioned in grammar section
+	*Wind	Omega	*male	14. Moving air, mentioned in grammar section
+	*Winter	Santa	*male	14. A season of the year, mentioned in grammar section
+	*Wolf	Alex	*male	14. An animal, mentioned in grammar section
+	*Woodcock	Liam	*male	14. A bird, mentioned in grammar section
+	*Woodpecker	Lewis	*male	14. A bird, mentioned in grammar section
+	*Woodtick	Alex	*male	14. An insect, mentioned in grammar section
+	*World	Daniel	*male	14. The earth or planet, mentioned in grammar section
+	*Year ago last spring	Nicola	*male	14. A time period, mentioned in grammar section
+	*Yellow corn	Echo	*male	14. A type of corn, mentioned in grammar section
+	*young Chippewa	Eric	*male	2. A young male Indian who was stabbed by an Ottawa while disputing over fishing nets on the Straits of Mackinac
+	*young Ottawa	Puck	*male	2. A young male Indian who stabbed a young Chippewa over a dispute about fishing nets on the Straits of Mackinac, leading to near-war between tribes
+	*Aunt	Alloy	*female	14. A female aunt, mentioned in grammar section
+	*Auntie Margaret	Xiaoxiao	*female	5. Sister of William Blackbird, also known as Queen of the Ottawas. Sent to Cincinnati and then Little Traverse for schooling. Later became teacher at Catholic institution.
+	*Blackbird's wife	Tebukuro	*female	8. Young lady who becomes Blackbird's wife in 1858, described as his beloved
+	*Cow	Jessica	*female	14. A female cattle animal, mentioned in grammar section
+	*Daughter	Bella	*female	14. A female child who should be treated with respect according to precept 18
+	*Female cousin	Emma	*female	14. A female cousin, mentioned in grammar section
+	*girl	Kore	*female	2. A young female who was selected by her parents' neighbors to be married to a young man | 14. A young female, mentioned in grammar section
+	*Indian woman	Xiaoni	*female	14. A female indigenous person, mentioned in grammar section
+	*lover	Dora	*female	2. A female who was killed by a young Ottawa man at Arbor Croche
+	*Mari-yon	River	*female	14. A religious figure mentioned in the creed
+	*mother of his children	Lily	*female	2. A woman who was dragged from her husband's wigwam by a white man in the night, leading to her husband killing the white man
+	*Old woman	Nicole	*female	14. An elderly female person, mentioned in grammar section
+	*Pocahontas	Gongitsune	*female	13. A historical figure mentioned as one of the brave leaders who welcomed white men to their land. She is described as having met and welcomed white men in their cabin doors when they were few in numbers.
+	*Sister	Alice	*female	6. An old nun who worked at the Little Traverse mission and was kind to Indian children | 14. A female sibling, mentioned in grammar section
+	*The beautiful old basswood tree	Nova	*female	13. A significant landmark in the narrator's childhood, planted by the Great Spirit for him to play under. It was cut down by white men's ax, representing the destruction of his heritage.
+	*The grandmother	Sara	female	9. A wise elder who raised Ne-naw-bo-zhoo after his mother's death. She was a source of guidance and wisdom for the young Ne-naw-bo-zhoo. | 14. A female grandparent, mentioned in grammar section
+	*The maiden	Nezumi	female	9. A dutiful and obedient child who fasted and had wonderful dreams. She bore two sons, with the second being a monster that caused her death.
+	*The mother	Sarah	*female	13. A beloved figure who held the narrator close to her breast and sang of warlike deeds of great Algonquins. She is described as having sung lullabies to the narrator. | 14. A parental figure who should be honored according to precept 6 | 14. A female parent, mentioned in grammar section
+	*Wife	Siwis	*female	14. A married woman who should be treated with respect according to precept 18
+	*Young woman	Aoede	*female	14. A female youth, mentioned in grammar section

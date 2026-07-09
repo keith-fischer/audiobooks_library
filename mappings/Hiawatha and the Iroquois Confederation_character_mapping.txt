@@ -1,0 +1,11 @@
+	narrator	Adam	male	Story narrator
+	Atotarho	Omega	*male	1. Dreaded Onondaga chief who ruled with tyranny and ambition, known as 'the entangled,' a formidable warrior who controlled the confederation through fear and secret murders
+	Dekanawidah	Echo	*male	1. Mohawk chief who collaborated with Hiawatha to establish the Iroquois Confederacy, known as 'the great peace-maker,' adopted among Mohawks and considered a wise councillor
+	Hiawatha	Eric	*male	1. Historical figure who founded the Iroquois Confederacy, known as 'he who seeks the wampum belt,' wise and benevolent leader who proposed a permanent federal government among the Five Nations
+	Odatshehte	George	*male	1. Oneida chief who initially rejected Hiawatha's confederation proposal but later agreed, known as 'the quiver-bearer' and representing the Oneida nation in early treaties
+	*Akahenyonk	Kumo	*male	1. Cayuga chief who supported the confederation and joined other leaders in persuading the Onondagas, known as 'the wary spy' and representing the Cayuga nation
+	*Arondhiaouagon	Alex	*male	1. Iroquois deity known as 'the great god of the Iroquois' or 'Holder of the Heavens,' whose name was confused with Hiawatha in later mythology
+	*Kanyadariyo	Michael	*male	1. Seneca chief who became a military commander of the confederacy, known as 'beautiful lake' and one of two Seneca leaders who joined the league
+	*Shadekaronyes	Santa	*male	1. Seneca chief who became a military commander of the confederacy, known as 'the equal skies' and one of two Seneca leaders who joined the league
+	*Tahiawagi	Liam	*male	1. Modern form of the Iroquois deity Aronhiawagon, representing a divine figure associated with Hiawatha in later legends
+	*Tekarihoken	Puck	*male	1. Mohawk chief who held the hereditary position as first chief of the eldest Iroquois nation, representing Mohawk interests in the confederation

@@ -1,0 +1,41 @@
+	narrator	Echo	male	Story narrator
+	Cosmos Mindeleff	Fable	*male	1. Author of the Navaho houses section, ethnographer who studied Pueblo architecture
+	J. W. Powell	Fenrir	*male	1. Director of the Bureau of American Ethnology, author of the report
+	Qojónli	Omega	*male	1. Mythical being associated with the dedication ceremony of houses
+	*A. M. Stephen	Daniel	*male	1. Late ethnographer who collected data among the Navaho, lived for many years among them
+	*Bitcai	Alex	*male	1. Wealthy Navaho man whose stone house is shown in Plate LXXXVIII
+	*bĭ¢akúji	Fenrir	*male	1. Sorcerers, malign influences beseeched to stay away from dwellings
+	*Carlo Traverso	Puck	*male	1. One of the producers of the text, likely involved in proofreading or preparation work
+	*dakús	Puck	*male	1. Coughs and lung evils, malign influences beseeched to stay away
+	*Firefly	Eric	*male	1. Mythical being who instructed First-man in the use of sweat houses
+	*First-man	Santa	*male	1. Mythical figure in Navaho creation stories, discovered in the first underworld
+	*Ganamucho	Alex	*male	1. Former Navaho chief of the west band, now deceased
+	*iyá¢askuni	Omega	*male	1. Flat-roofed hut used for the Yébĭtcai ceremony
+	*I¢ní	Kumo	*male	1. Mythical being (Thunder) who guarded the doorway at the east cardinal point
+	*Kléhanoai	Kumo	*male	1. Mythical being (Night bearer - the moon) who scoffed at the twins
+	*Nayénĕzgani	Onyx	*male	1. Mythical twin who played a large part in Navaho mythology
+	*Qastcéjĭni	Liam	*male	1. God of underworld fire, source of the initial spark for religious ceremonies
+	*Qastcéqoġan	Psi	*male	1. God of Sunset, complementary nature god who assisted Qastcéyalçi in house building
+	*Qastcéyalçi	Psi	*male	1. God of Dawn, benevolent nature god who imparted house architecture to mankind
+	*qaçál‘i	Michael	*male	1. Chief medicine-man who performs ceremonies and sings house songs
+	*Sáŋa nagaí	Lewis	*male	1. Ancients who make their presence delightful in house ceremonies
+	*Sĭstél	Nicola	*male	1. Mythical being (Tortoise) who lay at the doorway of Çqaltláqale's house
+	*tcindi	Psi	*male	1. Spirit of the departed, associated with houses where people have died
+	*Tcíŋhanoaí	Santa	*male	1. Sun (day carrier) who is invoked in house dedication ceremonies
+	*Teal	Eric	*male	1. Mythical being (Frog) who lived in a house of blue fog at the south cardinal point
+	*Tielíŋ	George	*male	1. Mythical being who lay at the doorway of Teal's house at the south cardinal point
+	*Tiéholtsodi	Liam	*male	1. Mythical being located at the east cardinal point in Navaho creation myths
+	*Victor Mindeleff	Lewis	*male	1. Ethnographer whose studies of Pueblo architecture were utilized in this report
+	*Washington Matthews	Echo	*male	1. Well-known authority on Navaho Indians who revised spelling of native terms
+	*Yébĭtcai	Fable	*male	1. Dance ceremony that requires the construction of a special house
+	*Ço‘badjĭstcíni	George	*male	1. Mythical twin who played a large part in Navaho mythology
+	*Çqaltláqale	Michael	*male	1. Mythical being who made a house of green duckweed at the north cardinal point
+	*Çqa¢ĭçíŋ	Echo	*male	1. Corn pollen, sacred substance used in ceremonies but not for house dedication
+	*Çó‘nenĭli	Onyx	*male	1. Mythical being (Water-sprinkler) who danced before Ácihi Estsán's doorway
+	*Çó‘tce	Nicola	*male	1. Sweat house, small structure used for religious ceremonies and cleansing
+	*ĭntcóŋgi	Daniel	*male	1. Evil in general, one of the malign influences beseeched to remain far off
+	*Estsánatlehi	Lily	*female	1. Beneficent Goddess of the West, associated with rain and fertility
+	*First-woman	River	*female	1. Mythical figure in Navaho creation stories, discovered in the first underworld
+	*Louise Hope	Alice	*female	1. One of the producers of the text, likely involved in proofreading or preparation work
+	*Yol‘kaí Estsán	Sarah	*female	1. Complementary Goddess of the East, associated with the Yébĭtcai ceremony
+	*Ácihi Estsán	Nicole	*female	1. Mythical being (Salt-woman) who lived in a house of mirage at the west cardinal point

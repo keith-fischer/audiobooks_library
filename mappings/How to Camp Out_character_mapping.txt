@@ -1,0 +1,83 @@
+	narrator	Adam	male	Story narrator
+	base-ball players	Echo	*male	7. Athletes who play baseball and use oatmeal in their drinking water for health benefits
+	DRAWERS	Fenrir	*male	4. A category of clothing items mentioned in the chapter, described as garments that should be loose and turned inside out to prevent chafing
+	German officer	Lewis	*male	2. A military personnel from Germany who served in the Franco-Prussian war of 1870-1871 and carried a big cloak for water protection
+	Irishman	Eric	*male	13. Character mentioned in the text who experienced frost-bite and said 'it was not the fall, but stopping so quickly, that hurt him'
+	Jo. Harding	Puck	*male	11. A character mentioned as being full of plans to go on a walk to the White Mountains next summer and wanting to take the narrator with him
+	medical men	Liam	*male	7. A group of people who provide medical advice and guidance on physical activities
+	Mr. Hale	Daniel	male	12. The same person as Rev. Edward Everett Hale, who shares advice about walking and a story about sailing down the Connecticut River
+	Mr. Simpson	Kumo	*male	11. A minister whose pup followed him into church
+	PANTALOONS	George	*male	4. A category of clothing items mentioned in the chapter, described as loose trousers made of heavier cloth suitable for summer travel
+	Rev. Edward Everett Hale	Fable	male	12. A religious figure who provides advice about walking and travel, known for his book 'How to Do It'
+	SHIRTS	Alex	*male	4. A category of clothing items mentioned in the chapter, described as loose woollen shirts suitable for summer travel
+	SHOES	Omega	*male	4. A category of clothing items mentioned in the chapter, described as requiring careful selection for comfort and protection during travel
+	The author	Onyx	*male	8. The narrator and writer of the camping guide, providing instructions and advice on camp setup, comfort, and survival techniques. | 10. The writer of the travel and camping guide, providing advice on various outdoor activities including horseback riding, boating, navigation, and camp etiquette
+	The old sea-captain	Michael	*male	10. An experienced sailor whose wisdom is quoted about boat safety and navigation
+	young people	Santa	*male	2. A group of male youths who might consider camping out and hiking as a vacation activity | 6. A general reference to inexperienced cooks who make common mistakes like placing pots on burning wood and letting them boil over | 7. Travelers who are often ashamed to admit fatigue and may forget important rules about rest
+	*Abel	Onyx	*male	11. A person whose shoe-factory caught fire and was mentioned in the diary
+	*Ants	Lewis	*male	6. Insects that can get into food supplies in permanent camps
+	*army	Eric	*male	5. Military forces that used the stove described in the chapter
+	*Assistant	Echo	*male	9. Male person who helps with tent setup and construction
+	*Bob	Alex	*male	3. Member of the party who curries the horse, oils axles, and cares for harness and wagon.
+	*Campers	Daniel	*male	9. Male individuals who engage in camping activities and would benefit from the tent construction advice
+	*Captain	Puck	male	3. Leader of the party, responsible for managing the group and making decisions. He oversees the horse and wagon, loading/unloading duties, and general oversight of the trip.
+	*Cats	Echo	*male	6. Animals that can damage food supplies while camping or marching
+	*comrades	Alex	*male	7. Travel companions who should be civil and gentlemanly to each other
+	*Dogs	Liam	*male	6. Animals that can damage food supplies while camping or marching
+	*Dr. Coues	Daniel	male	13. Author of the ornithology work, army officer with experience in field and garrison, naturalist and sportsman
+	*Dr. Elliott Coues	Kumo	male	13. Author of 'Field Ornithology', U.S.A. naturalist and sportsman
+	*farmers	Santa	*male	7. Country people who are important to travelers and should be treated with respect
+	*Fishermen	Kumo	*male	9. Male individuals who preserve their sails by soaking them in various solutions
+	*Flies	Fable	*male	6. Insects that can spoil food supplies while camping or marching
+	*Henry	Santa	*male	3. Jack's partner who cares for food. Works alongside Jack in the kitchen duties.
+	*horse	George	*male	7. An animal used for comparison in the rules about long journeys
+	*Insects	Fenrir	*male	6. Various insects that can damage food supplies while camping or marching
+	*Jack	Michael	*male	3. Member of the party who assists with loading/unloading wagon and later takes on duties like washing dishes and caring for food.
+	*Jacob Sawyer	Nicola	*male	11. A person who gave the narrator a quart of milk from his pasture
+	*Jake	Onyx	*male	3. Member of the party who runs errands and assists with various duties.
+	*Jenks	Omega	*male	11. The sexton who helped remove Mr. Simpson's pup from church
+	*Joe	Echo	*male	3. Captain's assistant and errand-boy who curries the horse. Described as 'worthless' in one arrangement, suggesting he may be less capable or reliable.
+	*John	Eric	*male	12. The narrator's childhood self who had a plan to travel by cart but was discouraged by friends and neighbors
+	*junk-shop owner	Nicola	*male	5. A person who operates a junk shop where second-hand stoves might be sold
+	*Lumbermen	Michael	*male	6. Wood workers who bake beans deliciously in iron pots with covers and use specific cooking methods for tough meats
+	*Mad dog	Michael	*male	13. Mentioned in the text as a scenario for extreme fear and physical response
+	*Mr. Jones	Lewis	male	3. Member of the party who gets supper alone, indicating he takes on significant cooking responsibilities.
+	*Mr. Nason	Psi	*male	11. A schoolmaster who dismissed the school when Abel's shoe-factory caught fire
+	*Mr. Smith	Liam	male	3. Cooking specialist who gets breakfast daily and does all cooking on Sundays. He is also responsible for purchasing supplies.
+	*officer	Daniel	*male	2. A military personnel who carried a rubber air-pillow as the greatest necessity of his existence
+	*Old campers	Michael	*male	9. Male experienced campers who may make errors in tent setup despite their experience
+	*party of ten to twenty	Daniel	*male	5. A group of people traveling together, likely male travelers
+	*Sailmaker	Eric	*male	9. Male craftsman specializing in making sails and tents, who would provide guidance on tent construction
+	*Sailmakers	Liam	*male	9. Male craftsmen who make sails and tents, providing guidance on tent construction
+	*Sam	Fable	*male	3. Member of the party who handles wood, water, fire, and setting/clearing tables. Later becomes sick of camping and leaves the group.
+	*Senior	George	*male	3. Member of the party who packs the wagon and marches behind it during travel.
+	*soldier	Nicola	*male	2. A military personnel who carries equipment including a musket, cartridges, blanket, overcoat, rations, and other items weighing forty or fifty pounds | 8. A figure mentioned in the text who used to see mattresses with rubber cloth bottoms and heavy drilling tops during army service. | 13. Mentioned in the text as having whims, and as a reference for weight of outfit
+	*Soldiers	Puck	*male	6. Military personnel who used to unsolder their tin canteens to make frying pans during field campaigns | 7. Military personnel who have specific habits and practices during marches, including using handkerchiefs to prevent chafing | 9. Male military personnel who carried and used the shelter-tents during marches or camps
+	*stove dealer	Psi	*male	5. A person who sells stoves, likely a shop owner or merchant
+	*Tent-makers	Nicola	*male	9. Male craftsmen who specialized in making tents, including both army and civilian patterns | 9. Male craftsmen who make tents for military use, particularly wall-tents
+	*Tent-pins	Puck	*male	9. Male individuals who use tent pins for securing tents, though this refers to the tools rather than people
+	*The barber	Psi	*male	1. A male professional who provides haircuts to young men
+	*The boys	Alex	*male	10. Young men who went on a twelve-day walking tour and spent about five dollars
+	*The dentist	Psi	*male	1. A male medical professional who treats teeth
+	*The father	Santa	*male	10. A parent who advises his sons to go camping and not be extravagant
+	*The man who tried gunpowder	George	*male	10. A person who attempted to use gunpowder to drive out flies and mosquitoes but quickly left
+	*The man with his wife and two children	Fable	*male	10. A family who enjoyed camping in an A-tent during rainy weather, with the husband being the primary provider
+	*The paterfamilias	Lewis	*male	10. The father of the family who camped with nine ladies, five children, and himself
+	*The reader	Omega	*male	8. The implied audience of the camping guide, who is being instructed on proper camp practices and techniques. | 10. The intended audience of the travel guide, who is advised on camping and traveling practices
+	*The two children	Fenrir	*male	10. Children traveling with their parents in the camping family
+	*tinman	Kumo	*male	5. A craftsman who works with tin, specifically mentioned as someone who can make a Yankee baker
+	*Tom	Fenrir	*male	3. Member of the party who handles wood, water, fire, and setting/clearing tables. Works alongside Sam in the same duties.
+	*Troops	Psi	*male	9. Male soldiers in the military, specifically those who received the shelter-tents during the Rebellion
+	*two fellows	Kumo	*male	2. Two male individuals who slept on hay-mows without permission, potentially breaking the law
+	*Union soldiers	Onyx	*male	9. Male soldiers in the Union army during the Rebellion, equipped with shelter-tents made of light duck material
+	*Veteran	Puck	*male	13. Mentioned in the text as someone who might use alcohol to overcome fatigue
+	*William	Omega	*male	3. Member of the party who packs the wagon and marches behind it during travel.
+	*young man	Eric	*male	2. A male youth who undertakes physical labor and travel, particularly in the context of camping out and hiking
+	*Young men	Nicola	*male	1. Male travelers who plan summer vacations and may need barber services | 7. Male travelers who should be treated favorably like horses during long journeys
+	*Christie Jameson	River	female	11. A person the narrator made New-Year calls on
+	*Ellen Jenkins	Tebukuro	female	11. A person the narrator made New-Year calls on
+	*Martha Buzzell	Kore	female	11. A person the narrator made New-Year calls on
+	*Mary Lyman	Alice	female	11. A person the narrator made New-Year calls on
+	*Susie Smith	Xiaoyi	female	11. A person the narrator made New-Year calls on, and who accompanied him to the Baptist's church
+	*The mother	Jessica	female	10. A woman in the family who camped with her children and husband
+	*The wife	Sara	female	10. A woman traveling with her husband and children, part of the family who camped in an A-tent during rainy weather

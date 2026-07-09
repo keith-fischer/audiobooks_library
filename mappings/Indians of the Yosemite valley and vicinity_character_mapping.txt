@@ -1,0 +1,65 @@
+	narrator	Adam	male	Story narrator
+	Tis-sa'-ack	Sara	female	6. Mythical figure associated with the origin of basket-making in Yosemite, mentioned as part of a legend | 7. Woman from far South who visited Yosemite Valley, taught basket-making to local women, and was turned to stone for quarreling with her husband
+	*antelope	Puck	*male	4. A type of large game animal hunted by the Sierra Indians for meat, part of their extensive food supply
+	*ants	Lewis	*male	4. Insect species whose larvae and pupae were eaten by the Sierra Indians, considered important food sources
+	*birds	Nicola	*male	4. Various bird species hunted by the Sierra Indians for food, included in their extensive hunting practices
+	*Boysen	George	*male	6. Photographer who took a photograph of an Indian basket maker, mentioned in the context of a basket maker weaving
+	*California lions	Kumo	*male	4. Large wild cats hunted by Indian dogs, part of the Sierra Indians' hunting practices
+	*Captain Paul	Kumo	*male	2. One of the characters of the Valley, supposed to be 105 years old and a survivor of Teneiya's band
+	*Chief Teneiya	Alex	*male	1. Leader of the Yosemites who claimed descent from an Ah-wah-nee'-chee chief and founded a new tribe in Yosemite Valley
+	*Choo'-too-se-ka'	Psi	*male	7. Great and wise chieftain who became known as To-tau-kon-nu'-la, built a palace on El Capitan, and was loved by Tis-sa'-ack
+	*Dr. L.H. Bunnell	George	*male	1. Author who published statements made by Teneiya about Yosemite Valley history and Indian customs
+	*elk	Lewis	*male	4. Large game animal hunted by the Sierra Indians, included in their diverse food supply from mountain regions
+	*fish	Eric	*male	4. Aquatic animals caught by the Sierra Indians using various methods including spears, traps, and soap-root plant techniques
+	*Fiske	Alex	*male	6. Photographer who took a photograph of Indian bead work, mentioned in the context of Mrs. George Fiske's collection
+	*fungi	Nicola	*male	4. Various edible fungi consumed by the Sierra Indians, part of their diverse food sources
+	*grasshoppers	Eric	*male	4. Insect food sources caught by the Sierra Indians using specialized trapping methods
+	*gray squirrels	Daniel	*male	4. Small mammals hunted by Indian dogs, part of the Sierra Indians' hunting practices
+	*ground squirrels	Fenrir	*male	4. Small mammals hunted by Indian dogs, part of the Sierra Indians' hunting practices
+	*Indian dogs	Omega	*male	4. Domesticated canines used by the Sierra Indians for hunting purposes, particularly treeing wild animals and catching ground squirrels
+	*Indian hunters	Puck	*male	4. Male members of the Sierra Indian tribes who engaged in hunting large game using bows and arrows, with specialized techniques including deceptive headgear
+	*Kos-su'-kah	Nicola	*male	7. Strong and valiant young brave who was killed while hunting deer, beloved by Tee-hee'-nay
+	*Major James D. Savage	Onyx	*male	1. Military commander who organized the Mariposa Battalion to pursue and capture Yosemite Indians, discovered Yosemite Valley during campaign
+	*Major Savage	Daniel	male	2. Leading figure in the war against Indians, became a friend to the Yosemites during their captivity, and died in a personal quarrel while resenting wrongs committed against them
+	*mustang horses	Michael	*male	4. Wild horse species hunted by the Sierra Indians for meat, part of their food supply from mountain regions
+	*Nung'-ah	Omega	*male	3. A male Indian, described as wearing a breech-clout made of skins
+	*Old Kalapine	Onyx	*male	5. An elderly Yosemite Indian man, described as one of the oldest Indians in the Valley. His short hair is noted as a badge of widowhood, indicating his marital status and traditional practices.
+	*Pai-utes	Fable	*male	3. A tribe of Native Americans who lived east of the Sierra Nevada Mountains and supplied other tribes with obsidian for arrow points and salt from quarried blocks near Mono Lake
+	*pine nuts	Psi	*male	4. Nutritious food source gathered by the Sierra Indians from various pine species, particularly prized for their taste and nutrition
+	*Pye-yutes	Liam	*male	3. Alternative spelling of Pai-utes, a tribe who supplied obsidian and salt to other tribes in exchange for goods
+	*Teneiya	Echo	male	1. Chief of the Yosemites, descendant of an Ah-wah-nee'-chee chief, founder of the new Yo-sem'-i-te tribe, claimed to have led his people back to Yosemite Valley | 2. Chief of the 'Grizzlies,' affected by change in surroundings and humiliation of defeat, suffered from hot weather after his mountain life, begged to return to his old home and kept his promise not to disturb white settlers
+	*Teneiya Canyon	Santa	*male	1. Named after Chief Teneiya, located in Yosemite Valley
+	*To-tau-kon-nu'-la	Echo	*male	6. Mythical figure associated with the origin of basket-making in Yosemite, mentioned as part of a legend
+	*tuberous roots	Psi	*male	4. Underground plant parts consumed by the Sierra Indians, included in their extensive food supply
+	*Virgil	Santa	*male	5. A young Yosemite Indian man, mentioned in the context of a photograph with Lena. He is part of the Yosemite tribe and likely represents the younger generation influenced by both traditional and emerging cultural practices.
+	*Waw-haw'-kee	Fenrir	*male	1. Mountain peak in Yosemite Valley named by soldiers who captured three sons of Teneiya near this place
+	*worms	Michael	*male	4. Invertebrate food sources consumed by the Sierra Indians, part of their diverse diet
+	*Yosemite hunter	Liam	*male	4. A male hunter from Yosemite who wore deceptive deer's head gear to approach game more effectively
+	*Yosemite Indians	Fable	*male	4. Members of the Yosemite Indian tribe who used sweat houses for purification before hunting and gathered acorns in traditional storage structures
+	*acorns	Xiaoxiao	*female	4. Nutritious food source gathered by the Sierra Indians in fall and stored in their traditional cache structures
+	*berries	Dora	*female	4. Edible fruit gathered by the Sierra Indians, including manzanita berries and other varieties used for food and drink
+	*black raspberries	Sarah	*female	4. Edible berries used by the Sierra Indians for food, part of their diverse berry collection
+	*camass	Alloy	*female	4. Root plant used by the Sierra Indians for food, part of their diverse root collection
+	*deer	Nova	*female	4. A large game animal hunted by the Sierra Indians for food, with migratory habits moving between high ranges and foothills based on seasonal snow patterns
+	*elderberries	Kore	*female	4. Edible berries used by the Sierra Indians for food, part of their diverse berry collection
+	*esculent herbage	Siwis	*female	4. Edible plant material consumed by the Sierra Indians, part of their diverse food supply from mountain regions
+	*Indian women	Nezumi	*female	4. Female members of the Sierra Indian tribes who accompanied hunters on expeditions, helping with camp duties and processing game
+	*Lake Teneiya	Emma	*female	1. Named after Chief Teneiya, located in Yosemite Valley
+	*Lena	Isabella	*female	5. A young Yosemite Indian woman, mentioned in the context of a photograph with Virgil. She is part of the Yosemite tribe and likely represents the younger generation influenced by both traditional and emerging cultural practices.
+	*lupine	Jessica	*female	4. Plant with brilliant flowers used by the Sierra Indians for making greens, often moistened with manzanita cider
+	*manzanita	Bella	*female	4. A shrub whose berries were used by the Sierra Indians for food and to make cider, with beautiful red bark and pale green foliage
+	*Mary	Xiaobei	female	7. Daughter of Captain John, one of the last Chiefs of the Yosemites
+	*Mrs. George Fiske	Beta	*female	6. Owner of a collection of Yosemite and Paiute bead work, mentioned in the context of Indian bead work
+	*Mrs. Jorgensen	Alpha	*female	6. Owner of a collection of baskets, mentioned in connection with the mythical origin of basket-making in Yosemite
+	*mushrooms	Nicole	*female	4. Fungal food sources eaten by the Sierra Indians, considered great delicacies
+	*O'-hoh	Gongitsune	*female	3. A female Indian, described as wearing a skirt reaching from waist to knees made of dressed deerskin
+	*Sierra plum	Lily	*female	4. Wild fruit used by the Sierra Indians for food, part of their diverse berry collection
+	*sorrel	Alice	*female	4. Plant with sour leaves used by the Sierra Indians for food, part of their diverse plant collection
+	*strawberries	Tebukuro	*female	4. Edible berries used by the Sierra Indians for food, part of their diverse berry collection
+	*Tee-hee'-nay	Xiaobei	female	7. Beautiful Ah-wah'-nee maiden beloved by Kos-su'-kah, who died in a tragic accident
+	*water-fowls	River	*female	4. Bird species hunted by the Sierra Indians for food, part of their diverse hunting practices
+	*wild caraway	Xiaoni	*female	4. Root plant used by the Sierra Indians for food, part of their diverse root collection
+	*wild cherries	Sky	*female	4. Edible berries used by the Sierra Indians for food, part of their diverse berry collection
+	*wild hyacinth	Aoede	*female	4. Root plant used by the Sierra Indians for food, part of their diverse root collection
+	*wood gatherer	Xiaoyi	*female	4. A woman who gathered wood, representing the typical role of women in Indian tribes doing most domestic work
+	*Yosemite Mother	Heart	female	2. A Yosemite mother from the photograph, carrying a baby basket on her back with a band across her forehead

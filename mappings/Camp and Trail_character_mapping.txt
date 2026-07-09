@@ -1,0 +1,58 @@
+	narrator	Adam	male	Story narrator
+	Abercrombie & Fitch	Liam	*male	4. A New York company that makes a rubber match safe | 5. A company that manufactures tents and attempts to sell additional fly rigging accessories for their products | 6. Company that manufactures aluminum alloys, food bags, pack harness, and reflector ovens | 7. A male company that offers milk powder, which the author finds unconvincing as actual milk despite being sweet.
+	author	Aiden	*male	The writer of the camp cookery chapter, who provides practical advice and recipes for outdoor cooking with a focus on experimentation and improvisation.
+	Daniel Boone	Omega	*male	1. A famous American wilderness traveler who emphasized the importance of being sure you are right before proceeding. His epigram 'Be sure you are right, and then go ahead' became classic.
+	Generalities	Puck	*male	10. A narrator or author figure discussing packing techniques for wilderness travel
+	Hubbard	Santa	*male	1. A wilderness traveler who made a fatal mistake by not being sure of his route. He was optimistic and in a hurry, leading him to push forward despite difficulties that ultimately killed him. Known for his self-made reputation and optimism.
+	Hunting deer	Lewis	*male	3. A male hunter who hunts deer along rocky ledges in box canyons
+	Jones	Eric	*male	1. A youngish man with curly hair and regular features who was inexperienced in wilderness travel despite his self-made reputation. He made a wrong turn, got lost, and was unable to properly manage his animals.
+	Marble Axe Company	George	*male	4. A company that makes a kitchen or camp knife and a waterproof match safe
+	Son of the alkali	Fable	*male	10. A character who disputes with the son of the foothills about diamond hitch techniques, representing a different regional perspective
+	Son of the foothills	Michael	*male	10. A character who argues about the proper way to throw a diamond hitch, representing a regional or traditional approach
+	The author	Onyx	*male	2. A seasoned wilderness traveler and writer who shares his experiences and philosophies about outdoor equipment and comfort. He has spent time in the Sierras and is knowledgeable about woodcraft, having learned from his own mistakes. | 3. A male writer who provides advice on outdoor equipment and clothing | 8. The writer of the camp cookery chapter, who provides practical advice and recipes for outdoor cooking with a focus on experimentation and improvisation. | 9. The narrator of the chapter who provides detailed instructions on horse equipment and packing rigs | 12. The narrator and writer of the canoe chapter, an experienced paddler who has used various types of canoes and provides detailed descriptions and recommendations for different canoe types, paddles, and portaging methods.
+	The average man	Alex	*male	2. A typical outdoor enthusiast who tends to overpack with unnecessary items despite good intentions. He struggles with self-honesty when determining what is truly essential for wilderness travel.
+	The Ranger	Daniel	*male	1. A forest ranger who was part of the party that encountered Jones and his group, helping to put them right when they got lost.
+	The shakemaker	Kumo	*male	1. A person who came to help fight fire and mentioned that Jones had passed his place, but ignored warnings about being off the trail.
+	Wes Thompson	Echo	male	5. A character who comments on someone's chopping technique and expresses frustration with their approach to woodcutting
+	*Algernon	Fenrir	*male	1. A member of a party who was ten minutes slow in packing his horse, demonstrating the importance of discipline and efficiency in wilderness travel.
+	*Arizona cowboy	Omega	male	3. A male cowboy from Arizona who travels in the desert, wearing a hat and working with cattle
+	*Bill-horse	Lewis	*male	11. A beautiful mountain-bred and raised horse owned by the narrator who was proud, high-stepping and appealing to look at but impossible to catch even when hobbled, leading the narrator to trade him for a less attractive but more manageable horse
+	*Borden	Fable	*male	7. A male who is associated with a brand of sweetened milk that the author finds sickish and prefers to avoid.
+	*Colt	Onyx	*male	4. A manufacturer of a .45 Colt revolver used by the narrator
+	*Cook	Echo	*male	8. An experienced camp cook who provides detailed instructions and advice on camp cooking techniques, recipes, and methods for preparing various foods over an open fire.
+	*Englishman	Omega	male	7. A male traveler who insisted on bringing marmalade on a trip, despite warnings about glass breaking. He was content with one unopened jar of marmalade for five weeks until it broke, after which he lamented its absence.
+	*Ernest Britten	Lewis	male	6. Forest Ranger who invented improved fire irons called 'The Britten Fire Irons'
+	*Friend	Santa	*male	7. A male traveler who made a comment about cooking at high altitude, stating 'all does not boil that bubbles.'
+	*Grouse hunters	George	*male	3. Male hunters who shoot grouse in thickets and swamps of Michigan
+	*Hoffmeir's	George	*male	7. A male company that produces German canned eggs, which the author finds evil tasting and inferior to other brands.
+	*Hudson's Bay Company's post	Santa	*male	3. A male employee or representative of the Hudson's Bay Company who sells moccasins
+	*Knorr	Liam	*male	7. A male company that produces compressed soups, which the author finds vary in quality from good to poor.
+	*Lyman	Eric	*male	4. A manufacturer of sights for rifles and revolvers
+	*Maggi	Alex	*male	7. A male company that produces soup tablets, which the author considers better packed than Knorr's but still inferior to some other brands.
+	*Methuselah	Fenrir	*male	11. A bay horse purchased by the narrator who was old (16 years), badly stove forward from hard riding, but proved to be an excellent mountain pack horse capable of carrying packs and climbing well despite being unsound
+	*Military stores	Kumo	*male	3. A male employee or representative of military stores who sells army gauntlets
+	*Mr. Ernest Britten	Puck	male	9. A mountaineer in the Sierras who invented a superior pack rig for horses, known as the Britten pack rig
+	*National Bakers' Egg Co.	Michael	*male	7. A male company that produces canned eggs, which the author considers the best of its kind.
+	*Nessmuk	Nicola	*male	4. A person who created a fly dope formula
+	*Pacifically inclined individuals	Onyx	*male	10. A group of people who attempt to resolve disputes about diamond hitch variations through nomenclature
+	*Parker	Psi	*male	4. A manufacturer of a twelve gauge shotgun used by the narrator
+	*President Roosevelt	Nicola	*male	1. The President of the United States who spoke personally to Jones during his Pacific Coast tour, according to Jones's account.
+	*Prevet	Kumo	*male	7. A male company that produces Julienne, a French mixture of dried vegetables.
+	*Putman Boot Company	Alex	*male	3. A male-owned company that makes durable boots
+	*Reader	Eric	*male	8. The intended audience of the cooking instructions, likely a camp cook or outdoor enthusiast seeking guidance on preparing meals in wilderness conditions.
+	*Rivermen	Fable	*male	3. Male river workers who wear khaki trousers and work in wet conditions
+	*Robert Logan	Daniel	male	6. New York resident who presented the author with an 'Inspirator' device for kindling fires
+	*Sam Fat	Nicola	*male	11. A pack horse owned by the narrator, described as heavy with a tremendous load capacity, sure-footed and well-behaved until he became gun shy after being startled by a popgun shot, causing him to panic and run away
+	*Smith & Wesson	Puck	*male	4. A manufacturer of a .22 caliber pistol used by the narrator
+	*The cow-puncher	Daniel	*male	2. A professional outdoorsman who travels with practical equipment but enjoys comfort when conditions allow, such as having a 'roll' during round-ups.
+	*The cowboy	Nicola	*male	2. A professional outdoorsman who travels with practical equipment like a tin cup and slicker when necessary, but enjoys comfort when conditions allow. | 3. A male cowboy who rides horses and wears traditional western clothing including a slicker
+	*The cruiser	Fenrir	*male	2. A professional outdoorsman who travels with a twenty-pound pack and uses practical equipment, but can enjoy luxury items when circumstances permit. | 2. A professional outdoorsman who travels with practical equipment and can enjoy luxury items when circumstances permit.
+	*The greenhorn	Psi	*male	2. A novice outdoorsman who lacks experience and knowledge about wilderness living. He doesn't know better and carries too much equipment due to inexperience.
+	*The Kid	Fenrir	*male	5. A character being criticized by Wes Thompson for their chopping skills and approach to using an axe
+	*The Lone Packer	Psi	*male	10. A character who uses the Lone Packer Hitch, likely a packer or wilderness traveler
+	*The prospector	Lewis	*male	2. A professional outdoorsman who carries minimal equipment when traveling but takes more supplies when conditions allow, such as with a burro train.
+	*The Tough Youth	Psi	*male	2. An outdoorsman who deliberately seeks hardship and discomfort, claiming to be tough. He has a superior attitude toward comfort but is actually ignorant of proper wilderness practices.
+	*Timber cruisers	Michael	*male	3. Male timber workers who travel through northern forests and need durable boots
+	*Trout fishermen	Liam	*male	3. Male anglers who fish for trout and prefer woolen clothing over waders
+	*W. & C. Scott & Sons	Echo	*male	4. A company that made a 16 gauge shotgun used by the narrator
+	*The Squaw	Gongitsune	*female	10. A character who uses the Squaw Hitch, likely a woman or female figure in wilderness travel

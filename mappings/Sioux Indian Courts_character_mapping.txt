@@ -1,0 +1,18 @@
+	narrator	Adam	male	Story narrator
+	Grey Eagle	Onyx	*male	1. Hunkpapa headman who was convicted of horse theft and later became Chief Justice of the native court at Bullhead Station
+	Henry H. Sibley	George	*male	1. General who proposed a hunting expedition to the Sioux and organized a hunting court for it
+	*C. W. Rastall	Michael	*male	1. Superintendent at Cheyenne River who provided information about court organization and procedures
+	*Doane Robinson	Echo	male	1. Author and speaker who delivered an address on Sioux Indian courts before the South Dakota Bar Association in 1909
+	*Faribault	Omega	*male	1. Native American who was victimized by soldiers during Sibley's hunting expedition and helped negotiate a feast with the soldiers
+	*Hump	Fenrir	*male	1. Intelligent Sioux person consulted by Doane Robinson for information about traditional Sioux courts and legal practices
+	*John R. Brennan	Fable	*male	1. Honorable official who provided information about Indian Department rules for courts of Indian Offenses
+	*Joseph LaFramboise	Santa	*male	1. Sisseton Sioux interviewed by Doane Robinson about traditional Sioux legal practices
+	*One Bull	Lewis	*male	1. Intelligent Sioux person consulted by Doane Robinson for information about traditional Sioux courts and legal practices
+	*Simon Kirk	Eric	*male	1. Intelligent Sioux person consulted by Doane Robinson for information about traditional Sioux courts and legal practices
+	*Sitting Bull	Alex	*male	1. Plebian who was believed to be responsible for Grey Eagle's humiliation and later became a target of revenge
+	*Solomon Two Stars	Nicola	*male	1. Hereditary chief of Sissetons who provided information about court procedures and judicial impartiality
+	*T. W. Lane	Puck	*male	1. Agent at Crow Creek who provided information about court convictions and imprisonment
+	*Thomas L. Riggs	Kumo	*male	1. Doctor who wrote a letter to Doane Robinson about Sioux council practices
+	*Wakutemani	Liam	*male	1. Intelligent Sioux person consulted by Doane Robinson for information about traditional Sioux courts and legal practices
+	*William S. Harney	Daniel	*male	1. General who proposed the first modern Sioux courts in 1856
+	*Mary C. Collins	Gongitsune	female	1. Missionary among the Tetons, especially Hunkpapa and Blackfoot bands, who provided information about Sioux caste system

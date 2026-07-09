@@ -1,0 +1,19 @@
+King Arthur	male	The king of Britain who desires to marry Guinevere and founds the Round Table. He is noble, bounteous, and seeks counsel from Merlin.
+Merlin	*male	The wise wizard and advisor to King Arthur, who prophesies the misery that will come from Arthur's marriage to Guinevere. He plays a key role in organizing the Round Table and its founding ceremonies.
+*Guinevere	female	The daughter of King Leodegrance, whom Arthur loves and marries. She is described as the gentlest and fairest lady living.
+*King Leodegrance	male	The father of Guinevere, who agrees to let Arthur marry his daughter and sends her along with the Round Table.
+*Sir Lancelot	*male	A young knight recently arrived at Arthur's court, known for his strength, grace, and hardihood. He wins praise from all and catches Guinevere's attention.
+*Aries	*male	A cowherd who asks King Arthur to knight his son Tor. He is described as a poor man with thirteen other sons.
+Tor	*male	The son of Aries, later revealed to be the son of King Pellinore. He is knighted by Arthur and becomes a notable figure in the Round Table.
+King Pellinore	male	The father of Tor, who arrives at the court and is knighted. He is a great and valiant knight known for his prowess.
+Sir Gawain	male	King Arthur's nephew who is knighted and later becomes involved in the adventure of the white hart. He is angry at King Pellinore's honor and seeks to avenge his father.
+Gaheris	*male	Sir Gawain's brother who serves as his squire in the adventure of the white hart. He is present during Gawain's trial for slaying a lady.
+*Sorlous	*male	A knight who fights with his brother Brian over a white hart. He and Brian are both defeated by Sir Gawain.
+*Brian	*male	Sorlous's brother who fights with him over a white hart. They are both defeated by Sir Gawain.
+Allardin of the Isles	*male	A knight who fights Sir Gawain in a joust over the white hart. He is defeated and killed by Gawain.
+*Athmore of the Marsh	*male	A knight who is defeated by Sir Gawain in combat and sent to Camelot as a prisoner.
+Abellius	*male	A knight who fights Sir Tor over a hound. He is defeated and killed by Tor.
+Hantzlake of Wentland	*male	A knight who fights King Pellinore for a lady. He is defeated and killed by Pellinore.
+*Belisent	*female	The mother of Sir Gawain, who is the half-sister to King Arthur.
+The Lady	*female	A lady who is captured by a knight and later rescued by King Pellinore. She is revealed to be the daughter of King Pellinore.
+The Dwarf	*male	A mysterious figure who blocks Sir Tor's path and later serves as his companion.

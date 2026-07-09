@@ -1,0 +1,39 @@
+Sir Tristram	male	A noble knight of Lyonesse, son of King Meliodas and Queen Elizabeth. Known for his strength, skill in battle, and tragic love for La Belle Isault. He fought Sir Marhaus of Ireland, overcame Sir Palomedes at a tournament, and was involved in many adventures including his time in Ireland where he was betrayed by the queen. He is a key figure in Arthurian legend, known for his valor and honor.
+King Arthur	male	The legendary king of Britain, ruler of Camelot and leader of the Round Table. He holds high festivals at Caerleon and is a central figure in Arthurian legend, known for his wisdom, justice, and chivalry.
+Sir Lancelot	male	A renowned knight of the Round Table, known as one of the greatest knights in Arthurian legend. He is described as peerless in courtesy and knighthood, and his name carries great respect among knights.
+*Queen Guinevere	female	The queen of King Arthur's court, wife to the king. She is present at Sir Tristram's return and is part of the courtly society that welcomes him.
+King Mark	male	The king of Cornwall and uncle to Sir Tristram. He is initially welcoming but later becomes jealous of Tristram's fame and favors, eventually plotting against him.
+La Belle Isault	*female	The daughter of King Anguish of Ireland, later married to King Mark. She is described as fair and noble, and becomes the object of Sir Tristram's love and devotion.
+*Sir Marhaus	male	A knight of the Round Table and brother to Queen Isault. He is defeated by Sir Tristram in a battle for the Cornish tribute, and dies from his wounds.
+King Meliodas	male	The king of Lyonesse and father of Sir Tristram. He is married to Queen Elizabeth, who dies in childbirth.
+*Queen Elizabeth	*female	The queen of Lyonesse and mother of Sir Tristram. She dies in childbirth, giving birth to her son Tristram before her death.
+Governale	*male	A servant and squire to Sir Tristram, who accompanies him on his adventures. He is present during many of Tristram's battles and travels.
+Sir Palomedes	*male	A knight in Ireland who is in love with La Belle Isault. He becomes an adversary to Sir Tristram and is defeated by him in a tournament.
+Sir Bleoberis de Ganis	*male	A knight of the Round Table and cousin to Sir Lancelot. He takes a lady from King Mark's court, leading to conflict with Sir Tristram.
+*Sir Segwarides	*male	An earl whose wife is taken by Sir Bleoberis, leading to a confrontation with Sir Tristram.
+Sir Sagramour le Desirous	*male	A knight of King Arthur's court who is defeated by Sir Tristram in battle.
+Sir Dodinas le Savage	*male	A knight of King Arthur's court who is defeated by Sir Tristram in battle.
+Sir Andret	*male	A knight who plots against Sir Tristram and is defeated by him in battle.
+King Anguish	*male	The king of Ireland who is involved in the conflict with Cornwall and whose sister is Queen Isault.
+*Sir Hebes	*male	A squire who helps Sir Tristram by preventing the queen from killing him in Ireland.
+*Dame Bragwaine	*female	A lady who serves La Belle Isault and is present during the events in Ireland.
+Sir Brewnor	*male	The lord of the Castle Pluere who forces knights to fight him and his lady for their lives.
+Sir Lamoracke	*male	A knight who fights Sir Tristram in the forest and is defeated by him.
+Sir Kay Hedius	*male	The son of King Howell who joins Sir Tristram on his adventures in Brittany.
+King Howell	*male	The king of Brittany who is married to Isoude, the woman who heals Sir Tristram.
+*Isoude	*female	The daughter of King Howell who heals Sir Tristram's wounds and later becomes his wife.
+Sir Dinaunt	*male	A knight of Cornwall who encounters Sir Tristram in the forest and is saved by him from a giant.
+*Tauleas	*male	A giant who lives in the forest and is killed by Sir Tristram.
+Sir Dinadan	*male	A knight who initially refuses to fight alongside Sir Tristram but later joins him in battle.
+*Sir Ector	*male	A knight who encounters Sir Dinadan and is defeated by him.
+Sir Bors	*male	A knight who initially refuses to fight Sir Tristram but later acknowledges his prowess.
+*Sir Driant	*male	A knight who joins Sir Bleoberis in fighting Sir Tristram.
+Sir Pellinore	*male	A knight who seeks Sir Tristram and eventually finds him.
+Sir Key	*male	A knight who challenges Sir Tristram to a joust and is defeated by him.
+Sir Gawain	*male	A knight of King Arthur's court who helps Sir Tristram in various adventures.
+*Sir Brewse-without-pity	*male	A knight who chases a lady with intent to slay her and is confronted by Sir Tristram.
+*Sir Pellonnes	*male	An old knight who gives lodging to Sir Tristram and Sir Gawain.
+Sir Persides	*male	The son of Sir Pellonnes who welcomes Sir Tristram and Sir Gawain.
+*King Carados	*male	The king of Scotland who proclaims a tournament.
+*Sir Gaheris	*male	A knight of King Arthur's court who fights Sir Tristram in the tournament.
+*Queen Morgan le Fay	*female	A powerful queen who plots against Sir Lancelot and Sir Tristram.

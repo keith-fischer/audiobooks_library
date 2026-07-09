@@ -1,0 +1,82 @@
+	narrator	Adam	male	Story narrator
+	The Navaho	Puck	*male	4. Indigenous people who occupied the canyon after the original inhabitants, used ruins for sheepfolds and built burial cists | 5. A Native American tribe mentioned in relation to the ruins of Canyon de Chelly, whose traditions support conclusions about the cliff ruins representing farming shelters rather than defensive structures. They are also mentioned as using similar sites for farming operations.
+	The Pueblo people	George	*male	4. Indigenous people who built the ancient pueblo architecture, including cliff ruins and farming shelters
+	Transcriber's Note	Lewis	*male	1. Editorial note about the transcription process
+	Emma C. Hardacre	River	female	2. Author who published descriptions and illustrations in Scribner's Magazine for December, 1878
+	*A. M. Stephen	Echo	*male	4. Scholar who collected material for Hopi traditions about De Chelly
+	*Abbe Domenech	Liam	*male	2. Author who published 'Deserts of North America' containing reference to Casa Blanca ruin
+	*Bancroft	Santa	*male	6. H. H. Bancroft, who described cliff ruins
+	*Beadle	Lewis	*male	6. J. H. Beadle, who visited Canyon de Chelly
+	*Bickford	Onyx	*male	6. F. T. Bickford, who described cliff ruins
+	*Birdsall	Omega	*male	6. W. R. Birdsall, who described cliff ruins
+	*bowlder	Fable	*male	7. A person mentioned in the context of standard spelling, likely a male individual
+	*Bureau of Ethnology	Fenrir	*male	1. Government agency to which the report was submitted
+	*Carlo Traverso	Eric	*male	1. Transcriber involved in preparing the e-text version of the document
+	*Chapin	Kumo	*male	4. Scholar who illustrated examples of notched doorways and decorative bands in Mancos ruins | 6. F. H. Chapin, who visited cliff ruins and studied kiva decoration
+	*Cosmos Mindeleff	Daniel	male	1. Author of 'The Cliff Ruins of Canyon de Chelly, Arizona' | 2. Author of the chapter 'THE CLIFF RUINS OF CANYON DE CHELLY, ARIZONA' and surveyor of Canyon de Chelly
+	*Cushing	Nicola	*male	6. F. H. Cushing, researcher on cliff ruins and ceremonial practices
+	*Dr H. C. Yarrow	Puck	*male	4. U.S.A. archaeologist who examined a large circular kiva in Taos in 1874
+	*Dr W. R. Birdsall	Liam	*male	4. Scholar who mentioned walls in Mesa Verde ruins constructed with wickerwork and plaster
+	*Dr Washington Matthews	Lewis	*male	4. U.S.A. scholar with extensive knowledge of Navaho myths and traditions who obtained a version of Navaho tradition about De Chelly
+	*Dutton	Alex	*male	6. C. E. Dutton, who described the cliff-ruin region
+	*F. H. Chapin	Fable	*male	2. Author who spent summers in Mesa Verde country and published 'The Land of the Cliff Dwellers'
+	*F. T. Bickford	Nicola	*male	2. Author who published an account of Canyon de Chelly visit in 1890
+	*F. W. Putnam	Psi	*male	2. Professor who edited the Wheeler Survey reports and prepared text for ruin descriptions
+	*G. Nordenskioeld	Echo	*male	2. Explorer who made excavations in Mesa Verde and published 'The Cliff Dwellers of the Mesa Verde'
+	*Government Printing Office	Alex	*male	1. Agency responsible for printing the official report
+	*Hardacre	Michael	*male	6. E. C. Hardacre, who studied ruins in Canyon de Chelly
+	*Holmes	Kumo	*male	6. W. H. Holmes, researcher who described cliff ruins
+	*Hopi (Moki)	Puck	*male	5. A pueblo tribe mentioned as being quite advanced at the time of Spanish discovery, with linguistic connections to plains Indians. They are referenced as having a connection to the origin of pueblo architecture and are mentioned in relation to cliff ruins.
+	*J. H. Beadle	Nicola	male	2. Author who gave an account of visiting Canyon de Chelly in 1878
+	*J. H. Simpson	Onyx	male	2. Lieutenant (later General) who led an expedition to Canyon de Chelly in 1849 and made detailed observations of ruins
+	*Jackson	Fenrir	*male	6. W. H. Jackson, who described cliff ruins
+	*James Stevenson	Psi	*male	2. Colonel who led a party to Canyon de Chelly and obtained archaeological data
+	*Keam	Psi	*male	6. T. V. Keam, who excavated burial cist
+	*Kern	Nicola	*male	6. T. V. Kern, who sketched Casa Blanca
+	*Lieutenant Simpson	Fenrir	*male	3. Military officer who first saw Casa Blanca ruin in 1849, which was subsequently named after him.
+	*Major C. E. Dutton	Santa	*male	2. Geologist who created a map of the plateau country
+	*Matthews	Fable	*male	6. Washington Matthews, who studied Navaho traditions regarding cliff ruins
+	*Moran	Daniel	*male	6. Thomas Moran, who visited Canyon de Chelly ruins
+	*Mr A. F. Bandelier	Omega	*male	3. Archaeologist who formulated a classification system for pueblo ruins in 1884 and finalized it in 1892. He examined many hundreds of ruins and is described as having extensive knowledge of southwest archaeology.
+	*Mr F. H. Cushing	Eric	*male	4. Scholar who examined ruins south and east of Zuni, possibly finding examples that show an intermediate stage in pueblo development
+	*Mr Frank H. Cushing	George	*male	4. Scholar who observed ceremonies in Zuni including kiva refinishing and a ceremony involving marking kiva hatchways with white bars
+	*Mr G. Nordenskioeld	Alex	*male	3. Scholar who examined ruins in Mancos canyon and Mesa Verde region, adopting a simple classification scheme based on location.
+	*Mr Thomas V. Keam	Michael	*male	3. Archaeologist who excavated a burial cist in 1884 at ruin site described as containing a perfectly desiccated child.
+	*Mr W. H. Holmes	Psi	male	4. Archaeologist who found a structure in Mancos canyon with features resembling chimney-like structures | 7. An older male figure who made discoveries in the Mesa Verde country over twenty years ago
+	*Mr. Keam	Daniel	*male	3. Archaeologist who excavated a burial cist containing a child's remains at ruin site in Del Muerto canyon.
+	*Nordenskioeld	Nicola	*male	4. Scholar who wrote about cliff dwellers in Mesa Verde and described chimney-like structures | 6. G. Nordenskioeld, who classified cliff ruins and studied kiva decoration
+	*O'Sullivan	Kumo	*male	6. T. H. O'Sullivan, who photographed Casa Blanca
+	*Putnam	Eric	*male	6. F. W. Putnam, who described cliff ruins
+	*R. H. Kern	Echo	*male	2. Artist who drew illustrations for Simpson's journal
+	*Secretary of the Smithsonian Institution	Michael	*male	1. Government official who received the report from the Bureau of Ethnology
+	*Shoshonean dialects	Psi	*male	5. A linguistic group mentioned in relation to the Hopi (Moki) language, suggesting a connection between pueblo tribes and plains Indians.
+	*Simpson	Echo	*male	6. J. H. Simpson, who visited Casa Blanca | 6. J. H. Simpson, who visited Casa Blanca and studied Navaho expedition
+	*Stephen	Liam	*male	6. A. M. Stephen, who studied Hopi tradition of cliff ruins
+	*Stevenson	George	*male	6. James Stevenson, who visited Canyon de Chelly
+	*T. H. O'Sullivan	Onyx	*male	2. Photographer who made fine photographs of ruins for the Wheeler Survey
+	*Tewas	Lewis	*male	5. A pueblo tribe mentioned as having migrated from the Rio Grande to Tusayan, with an example of a large-scale migration that occurred en masse over considerable distance.
+	*The builders	Eric	*male	4. Ancient pueblo people who constructed the ruins, including masonry and kivas
+	*The farmers	Daniel	*male	4. Pueblo inhabitants who occupied farming villages and used cliff ruins as temporary shelters during the farming season
+	*The Hopi or Moki Indians	Santa	*male	4. Related clans who claim to have lived in Canyon de Chelly at various times, with traditions about the occupancy of De Chelly
+	*The inhabitants	George	*male	4. Original occupants of the canyon who built settlements and used cliff ruins for various purposes
+	*The old people	Fenrir	*male	4. Elder members of the Navaho tribe who knew traditions about the canyon's ancient inhabitants
+	*The old priests	Michael	*male	4. Elder Navaho religious figures who possessed traditions about the canyon's pre-Navaho occupancy
+	*The soldiers	Alex	*male	4. Military personnel who during the Navaho war bayoneted sheep and drove flocks into cliff ruins for security
+	*The Spaniards	Omega	*male	4. Colonizers who introduced sheep into the region and influenced Pueblo construction methods
+	*The Spanish monks	Onyx	*male	4. Religious figures who influenced Pueblo architecture and practices, particularly in Zuni
+	*Thomas Moran	Kumo	*male	2. Artist who made drawings for Emma C. Hardacre's article
+	*Victor Mindeleff	Fable	*male	4. Scholar who wrote about Pueblo architecture in Tusayan and Cibola
+	*Vigil	Santa	*male	2. Secretary of the province (of New Mexico) who provided orthography for Canyon de Chelly name
+	*W. H. Holmes	Kumo	*male	2. Assistant of the Hayden Survey who visited and described cliff ruins in Mancos canyon
+	*W. H. Jackson	Fable	*male	2. Assistant of the Hayden Survey who examined ruins on Rio de Chelly
+	*W. R. Birdsall	Liam	*male	2. Author who made a flying trip to Mesa Verde region and published an account
+	*Washington	Omega	*male	1. Capital city where the Government Printing Office was located | 2. Colonel who commanded an expedition to Canyon de Chelly in 1849 | 6. Col. Washington, who led Navaho expedition
+	*Yarrow	Puck	*male	6. H. C. Yarrow, who studied kivas at Taos
+	*Bibliothèque nationale de France	Gongitsune	*female	1. French national library that provided images for the document
+	*BnF/Gallica	Nicole	*female	1. Digital library platform of the Bibliothèque nationale de France
+	*En-a-tse-gi	Heart	*female	6. Navaho name for Canyon de Chelly
+	*Kini-na-e-kai	Dora	*female	6. Navaho name for Casa Blanca
+	*Louise Hope	Emma	*female	1. Transcriber involved in preparing the e-text version of the document
+	*Project Gutenberg Online Distributed Proofreading Team	Kore	*female	1. Group of volunteers who prepared the e-text version of the document
+	*Tse-gi	Nezumi	*female	6. Navaho name for Canyon de Chelly
+	*Tse-i-ya-kin	Jessica	*female	6. Navaho name for Mummy Cave ruin

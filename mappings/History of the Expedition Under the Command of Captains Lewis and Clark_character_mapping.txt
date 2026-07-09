@@ -1,0 +1,294 @@
+	narrator	Adam	male	Story narrator
+	Blackcat	Onyx	*male	18. A chief of the Mandan village who welcomes the party and is described as being pleased to see them again.
+	Borgne	Santa	*male	18. The great chief of all the Minnetarees who expresses desire to visit the United States but fears the Sioux. He is described as having a council with Captain Clarke and making speeches about peace.
+	Captain Clarke	Liam	male	1. A white male explorer who leads a journey down the Columbia River with his party. He is described as having a bold and dignified countenance, about five feet eight inches tall, and thirty-five years old. He is involved in various activities including ascending the river, examining rapids, and interacting with Native American tribes. He is also known for his use of a burning glass to demonstrate that he is not supernatural, and for shooting birds which causes alarm among the Indians. | 3. An American explorer who leads an excursion down the bay and marks his name on a pine tree | 4. A military officer who goes with a party to find a place suitable for salt manufacture and is hospitably entertained by the Clatsops | 5. Leader of the party that goes in quest of a whale, described as a captain who makes decisions and leads expeditions | 9. A leader of the expedition, who visits the Multnomahs and other tribes to gather information about the region. He is involved in trade negotiations with various Indian nations. | 10. A male captain who procures horses for transportation and leads the expedition. He is involved in negotiations with various tribes to obtain horses and supplies. | 11. A party member who turns physician and performs medical experiments with success upon the natives. He is involved in treating various ailments including sore eyes, abscesses and rheumatism. | 13. A captain who left a horse at Hungry creek during their previous passage in September. | 14. Commander who accompanies the rest of the men to the head of Jefferson river, then proceeds to Yellowstone river. He builds canoes and goes down that river with seven of his party, waiting at its mouth for the rest of the party. | 15. Leader of a separate detachment that meets Captain Lewis's party. He is described as waiting for the expedition at Yellowstone River. | 16. Leader of the expedition party, commander of the group that proceeds along Clarke's river. He divides his party and makes key strategic decisions about routes and camp locations. | 17. Leader of the expedition, proceeds down the river with his party. Described as examining rocks and leading the journey through difficult terrain. | 18. A military officer who leads the main party and holds councils with various Indian tribes. He is described as making speeches, offering presents, and attempting to persuade chiefs to accompany the party to the United States. | 19. Leader of the expedition, captain who leads parties and makes decisions during encounters with Indians.
+	Captain Lewis	Lewis	male	3. An American explorer who explores the coast and returns to meet the party at their camp | 4. A military officer who reports finding a suitable place for winter quarters and returns to camp after exploring the coast | 9. A key expedition leader who leads parties, makes decisions about safety and navigation, and is involved in trade negotiations with tribes. | 10. A male captain who leads the expedition and makes speeches to confront tribes about thefts. He threatens to burn villages if they steal from the expedition. | 11. A party member who holds councils with the natives and delivers speeches explaining their intentions. He is involved in negotiations with various Indian chiefs. | 12. The leader of the expedition who receives gifts from Indian chiefs, including a gray gelding. He is involved in medical treatments and negotiations with the natives. | 13. A captain who tests the temperature of the warm springs and is affected by the heat. | 14. Leader of the expedition, commander of a party of nine men who pursue the most direct route to the falls of the Missouri. He explores Maria's river and its sources, makes observations on geography and wildlife, and is responsible for planning the expedition routes. He gives rewards to Indian guides. | 15. Leader of the expedition, wounded in the thigh by a rifle ball intended for an elk. He is determined to resist enemies and protect his papers, shows leadership qualities, and makes strategic decisions during conflicts with Indians. | 16. Captain who commands a separate division of the party, later rejoins captain Clarke. He is involved in initial planning and coordination with Native Americans. | 18. A military officer who leads a detachment and is wounded during the journey. He is described as being in poor health due to his wound. | 19. Co-leader of the expedition, captain who leads parties and makes decisions during encounters with Indians.
+	Cashook	George	*male	8. Young man of the Cashook nation who lived at the falls of a large river
+	Chaboneau	George	*male	3. An American explorer who owns a wife wearing blue beads, which are used to trade for an otter skin | 4. A man who requests to accompany Captain Clarke on a journey to see the ocean and whale | 11. A party member who translates the speech of Captain Clarke into French for his wife to interpret into Minnetaree language. | 16. Member of the expedition whose wife and child travel with captain Clarke's party. His family is part of the land-based group traveling to Yellowstone river. | 18. An interpreter who is described as mingling with the Indians and learning about events during their absence. He declines to accompany the party to the United States and remains among the Indians.
+	Chayenne chief	Echo	*male	18. The principal chief of the Chayennes who is described as a man of thirty-five years of age, well-looking and stout.
+	Clanaminamum	Nicola	*male	8. Member of the Clanaminamum nation who visited the party and was recognized as a companion
+	Cruzatte	Fenrir	*male	15. Member of Captain Lewis's party who accidentally wounds him with a rifle ball while hunting. He is initially blamed but later cleared of intentional wrongdoing.
+	Grayeyes	Fable	*male	18. The principal chief of the Ricaras who is described as a man of thirty-five years of age, well-looking and stout. He accepts the medal offered by Captain Clarke.
+	Haley	Nicola	*male	6. Favourite trader who visits the Columbia in a three-masted vessel
+	Hohastillpilp	Eric	*male	11. A principal chief who comes from his village to visit the party. He is among the distinguished men present during the council with the Chopunnish.
+	Hohastilpilp	Kumo	*male	12. A Chopunnish chief who presents a gray gelding to Captain Lewis, participates in medical treatments of the sick, and is involved in negotiations with the Americans. He has young men who assist him. | 13. An Indian chief who crosses the river and brings a horse for exchange. He visits the party with several Indians and later leaves with them to the plains near Lewis's river.
+	Littlecherry	Onyx	*male	18. An old Minnetaree chief who answers the council and speaks about their wars with the Sioux.
+	Neeshnepahkeeook	Omega	*male	12. A Chopunnish chief who influences negotiations with the Americans, particularly regarding the return of a stolen tomahawk. He is involved in discussions about future travel plans.
+	R. Fields	Michael	*male	15. Member of Captain Lewis's party who is on watch during the night and kills an Indian in self-defense when rifles are stolen. He pursues fleeing Indians with his brother.
+	Shannon	Kumo	*male	3. An American explorer who accompanies the party and has an adventure with hostile Washkiacum Indians, stealing guns from him before being forced to return them | 13. A member of the party who is sent with Drewyer to the Chopunnish to procure a guide across the mountains. | 16. Member of the expedition who accompanies serjeant Pryor on his mission to deliver a letter to Mr. Henry. | 17. One of the men who accompanied Serjeant Pryor when he arrived at camp without horses. Later part of the group that followed Indian tracks.
+	Shoshonee	Alex	*male	10. A tribe of Native Americans who live to the south of the Multnomah. A prisoner from this tribe is held among the Wollawollahs and speaks the same language as Sacajaweah. | 11. An Indian interpreter who helps translate between the party and various native groups. He is present during council meetings and becomes offended at not receiving enough venison.
+	Teton chief	Fenrir	*male	18. A chief of the Tetons who is described as being hostile and threatening to the party.
+	Tunnachemootoolt	Daniel	*male	11. A chief known as the Brokenarm who is one of the principal chiefs present during the council. He shows hospitality by providing food and offering to guide the party. | 12. A Chopunnish chief who visits the party, presents a gray gelding to Captain Lewis, and is involved in negotiations with the Americans. He has young men who assist him.
+	Twistedhair	Puck	*male	11. A chief to whom the party had entrusted their horses during their journey down. He is involved in a quarrel with another chief over the horses and later reconciled through mediation.
+	Wallale	Psi	*male	8. Distinguished Cathlamah Indian who received a medal from the party
+	Yelleppit	Michael	*male	1. A chief of the Sokulk tribe, described as a handsome well-proportioned man about five feet eight inches tall and thirty-five years old, with a bold and dignified countenance. He is the first chief of all the tribes in this quarter, and he visits Captain Clarke's party early one morning to receive gifts including a medal, handkerchief, and string of wampum. He is described as having a dignified appearance.
+	Youens	Psi	*male	6. Trader who comes in a three-masted vessel
+	Sacajawea	Kore	female	3. A Shoshone woman who serves as interpreter and guide for the expedition, introduced to a prisoner from the Snake Indians | 12. A woman who is part of the expedition and whose child is described as unwell, requiring medical attention. | 16. Native American woman who serves as guide and interpreter for the expedition. She demonstrates remarkable memory of her childhood homeland, recognizing geographical features and Indian trails.
+	captain mcclellan	Uncle Fu		
+	*Antelope	Eric	*male	15. Animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Assiniboin river	Onyx	*male	16. River where Mr. Henry is located, to which serjeant Pryor is directed to travel.
+	*Bear	Nicola	*male	15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Beaver	Liam	*male	15. Animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Bigbend	Echo	*male	18. A geographical location mentioned as a place where the party camps and encounters Indians.
+	*Bighorn	Omega	*male	15. Large animals hunted by the expedition for food. They are described as being in great numbers along steep cliffs of the river. | 15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Bigwhite	Omega	*male	18. The chief of the Mandans who agrees to accompany the party to the United States with his wife and son. He is described as a principal chief who takes leave of his nation.
+	*Bigwhite's son	Omega	*male	18. The son of Bigwhite who accompanies his father to the United States.
+	*Black-buffaloe	Psi	*male	18. A Teton chief who is described as being hostile and threatening to the party.
+	*Blackcat's son	Kumo	*male	18. The son of the Blackcat chief who is mentioned in relation to their visit with Captain Clarke.
+	*Blackcrow	Fable	*male	18. A chief of the Mandans who initially shows interest in accompanying the party but requires time to consult with his people.
+	*Blackfoot Indians	George	*male	14. Indian tribe who also frequent the country around Tansy river. They are described as vicious and profligate rovers who might steal horses, arms, or baggage. | 18. A tribe of Indians who are mentioned as having killed the son of a Minnetaree chief.
+	*Blackwhite's brother	Eric	*male	18. The brother of Bigwhite who comes to take leave of the chief before his departure.
+	*Bolch	Onyx	*male	6. Trader in a three-masted vessel
+	*Bratton	Omega	*male	10. A male member of the expedition who is too sick to walk and receives a horse for transportation.
+	*Broken mountains	Daniel	*male	14. Mountain range that appears to be the source of a creek flowing into Maria's river. They are described as loose, irregular, and rugged with the central one terminating in a conic spire called Tower mountain.
+	*Brokenarm	Nicola	*male	11. A chief who is jealous of Twistedhair's care of the horses and becomes involved in a dispute with him. He is later reconciled to Twistedhair after the party intervenes. | 13. An Indian chief who stops with his people at the rendezvous near Lewis's river, and is mentioned as having a party of people with him.
+	*Brown Bear	Psi	*male	15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Buffaloe	Daniel	*male	15. Large animals hunted by the expedition for food. They are described as numerous in the plains and river bottoms. | 15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Buffaloe creek	Fable	*male	14. Creek that flows into Maria's river, named for the abundance of buffaloe in the area. It is described as about twenty-five yards wide with no water except in occasional pools.
+	*Callalamet	Lewis	*male	6. Trader in a ship of the same size who has a wooden leg
+	*Calumet Eagle	Alex	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Captive Indians	Fable	*male	15. Indians who are captured and held by the expedition. They are described as being in a state of fear during their encounter with Captain Lewis's party.
+	*Cathlacumups	Michael	*male	8. Member of the Cathlacumups nation who passed by the party in canoes
+	*Cathlamah	Eric	*male	8. Member of the Cathlamah nation who lived in villages along the river and were known for carving skills
+	*Cathlamahs	Kumo	*male	4. A tribe of Indians who live on fish and wappatoo roots
+	*Ceautoin	Fable	*male	17. Trader who came to the Tetons with Dickson and Hancock. Was robbed by them of all his merchandise.
+	*Chaboneau's child	Puck	*male	18. The infant son of Chaboneau who is described as being nineteen months old and accompanying his parents.
+	*Chayennes	George	*male	18. A tribe of Indians who are described as having villages and being visited by the party.
+	*Chillahlawil	Santa	*male	3. A Chinnook chief who receives a medal from the expedition and is visited at their camp
+	*Chimnapoos	Onyx	*male	10. A tribe of Native Americans who join the Wollawollahs in a dance for the expedition. They are described as being about the same number of men as the Wollawollahs.
+	*Chinnook	Lewis	*male	8. Member of the Chinnook nation who were described as hospitable and friendly
+	*Chinnooks	George	*male	4. A tribe of Indians who visit the camp and trade with them
+	*Chopunnish	Daniel	*male	1. A Native American tribe whose language is described as differing little from that of the Sokulks and Chimnapum. They inhabit the Kooskooskee and Lewis's river. | 10. A male Indian guide who accompanies the expedition and is associated with the Chopunnish tribe. He provides information about routes and helps negotiate with other tribes. | 14. Indian who overtakes the expedition on July 26th and gives an excellent horse as a gift for advice given. He shows attachment to the whites and desire for peace with the Pahkees.
+	*Chopunnish man	Alex	*male	13. A member of the Chopunnish tribe who comes to camp in the night and joins the party.
+	*Clackamos	Fable	*male	8. Member of the Clackamos nation who lived on a river forty miles up the Multnomah
+	*Clarke's river	Omega	*male	14. River that serves as the base for the expedition's journey. The party divides here, with Captain Lewis taking a route up its eastern branch.
+	*Clatsop	Liam	*male	8. Member of the Clatsop nation who had stolen elk from the party in winter
+	*Clatsop Commowool	Echo	male	8. Chief of the Clatsop nation, described as the most kind and hospitable Indian in the quarter
+	*Clatsops	Psi	*male	4. A tribe of Indians who are addicted to gambling and visit the camp for trading
+	*Claxtars	Kumo	*male	8. Member of the Claxtars nation who passed by the party in canoes
+	*Cokalahishkit river	Eric	*male	14. River that flows into Clarke's river, also known as the 'river of the road to buffaloe'. It is described as deep and rapid, about sixty yards wide.
+	*Collins	Liam	*male	15. Hunter who is part of the group that rejoins Captain Lewis's party. He had been missing since the third and was found by the expedition.
+	*Colter	Lewis	male	15. Hunter who is part of the group that rejoins Captain Lewis's party. He had been missing since the third and was found by the expedition. | 18. A member of the party who requests permission to remain among the Indians for hunting beaver. He is described as a trapper and hunter who leaves the main party.
+	*Columbia river	Kumo	*male	14. River that serves as a dividing line between the waters of the Missouri and those of the Columbia, mentioned in relation to the dividing ridge.
+	*Comcommoly	Omega	*male	3. A Chinnook chief who receives a medal from the expedition and is visited at their camp
+	*Comowol	Eric	*male	4. A principal chief of the Clatsop nation who visits the camp and receives a medal
+	*Comowool	Daniel	*male	5. A Clatsop man who visited the fort with seven other Clatsops, bringing roots and berries to trade | 6. Most friendly and decent savage seen in the neighborhood, who came with a large party of Clatsops
+	*Crow Indians	Kumo	*male	16. Native American group who signal with smoke to the expedition, possibly mistaken for enemies or friends. | 18. A tribe of Indians who are mentioned as trading with the Mandans for horses.
+	*Crows	Onyx	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Cusealah	Liam	*male	4. An Indian man from Cuscalah's village who receives Captain Clarke and treats him hospitably
+	*Cushook	Echo	*male	8. Member of the Cushook nation who lived near the Multnomah river and were described as friendly
+	*Cuskalah	Lewis	*male	4. An Indian man from Cuscalah's village who receives Captain Clarke and treats him hospitably
+	*Cutnose	Psi	*male	13. An Indian chief who visits the party with warriors, gives a good horse in exchange for one of theirs, and later borrows a horse to hunt eagles. Also known as Neeshnepahkeeook.
+	*Cutnose's brother	Michael	*male	13. The brother of the Cutnose who joins the party as a guide to the falls of the Missouri.
+	*Davidson	Michael	*male	6. Man in a three-masted vessel who does not trade but hunts elk
+	*Dearborn's river	Michael	*male	14. River discovered by the expedition on July 7th, named after a person. It is described as having water only for a width of thirty feet but with a bed more than three times that width.
+	*Deer	Santa	*male	15. Animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Delashelwilt	Fable	male	8. Chinnook chief who showed kindness to the party and was given a certificate of gratitude
+	*Delashilwilt	Santa	*male	6. Chinnook chief who visited the fort with his wife and six damsels
+	*Dickson	Santa	*male	15. Illinois trader who is part of the group that meets Captain Lewis's party. He provides information about Captain Clarke. | 17. One of two white men unexpectedly met by the party. Came from Illinois on a hunting excursion up the Yellowstone. | 18. A member of the party who wishes to accompany the main group as far as the Mandans.
+	*Drewyer	Echo	male	1. A member of the expedition who is mentioned in relation to naming Drewyer's River after him. He is one of the party members who are part of the journey down the Columbia River. | 5. A skilled hunter who killed seven elk, described as the offspring of a Canadian Frenchman and an Indian woman | 9. An experienced huntsman who provides information about bear behavior and helps with hunting expeditions. | 10. A male member of the expedition who hunts and provides game for the group, including a beaver and an otter. | 11. A party member who returns from hunting and is sent to invite Twistedhair to smoke with the group. | 12. A party member who is sent to negotiate with the Indians for a stolen tomahawk, accompanied by two chiefs. | 13. A member of the party who is sent to the Chopunnish with Shannon to procure a guide across the mountains. | 14. Member of Captain Lewis's party who accompanies him on the exploration of Maria's river sources. He also searches for lost horses and is involved in a dangerous encounter with a white bear. | 15. Member of Captain Lewis's party who scouts ahead and is involved in the encounter with Indians. He helps observe Indian camps and participates in discussions with the Minnetarees. | 18. A member of the party who is sent to bring Jesseaume as an interpreter.
+	*Ducks	Kumo	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Durion	Daniel	*male	17. Trader mentioned in the story who was accompanied by Yankton chiefs on a visit to Washington.
+	*Eagles	Michael	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Elk	Puck	*male	15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Eloot	Puck	*male	8. Member of the Eloot nation who were related to the Nechecolee and had affinity with them | 9. A member of the Eloot tribe who is recognized by the expedition and travels with his people to the long narrows of the Columbia.
+	*Eneeshurs	Echo	*male	10. A tribe of Native Americans who live near the grand falls and are described as unfriendly, inhospitable, and parsimonious like the Skilloots.
+	*Fia	Onyx	*male	4. A chief of the Clatsop nation also called Comowool or Coone
+	*Fields	Eric	*male	14. Member of Captain Lewis's party who accompanies him on the exploration of Maria's river sources. Two Fields are mentioned, suggesting they may be brothers or part of the same group.
+	*Floyd	Daniel	*male	19. Member of the expedition whose grave is encountered during the journey.
+	*Fort de Prairie	Fenrir	*male	14. Location associated with the Minnetarees, who are described as frequenting this area.
+	*Fort mountain	Onyx	*male	14. Mountain located about twenty miles northeast of the dividing ridge between Columbia and Missouri waters.
+	*Frenchman	George	*male	18. A person who is described as wearing a great-coat and handkerchief, possibly a trader or interpreter.
+	*Geese	George	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Gibson	Psi	*male	16. Member of the expedition who is wounded by a fall while attempting to mount his horse. He requires medical attention and is carried on a makeshift litter.
+	*Goatsucker	Daniel	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Grayeyes' son	Lewis	*male	18. The son of the Chayenne chief who is mentioned in relation to his acceptance of a medal.
+	*Hall	Echo	*male	17. One of the men who accompanied Serjeant Pryor when he arrived at camp without horses. Later part of the group that followed Indian tracks.
+	*Hancock	Eric	*male	15. Illinois trader who is part of the group that meets Captain Lewis's party. He provides information about Captain Clarke. | 17. One of two white men unexpectedly met by the party. Came from Illinois on a hunting excursion up the Yellowstone. | 18. A member of the party who wishes to accompany the main group as far as the Mandans.
+	*Indian guide who complains of sickness	Onyx	*male	13. An Indian guide who becomes ill during the journey and is supplied with a buffalo robe by the party.
+	*Interpreter	Fable	*male	1. A member of the expedition who serves as an interpreter for Captain Clarke and his party. He is described as accompanying Captain Clarke on a journey up the river, and he has a wife who also joins him. He is involved in communicating with Native American tribes.
+	*J. Bowman	Puck	*male	5. A man whose name was punctured into the arm of a Chinnook squaw, indicating he was known to her | 6. Trader who visited the mouth of the Columbia, whose name was tattooed on a Chinnook woman's arm
+	*Jackson	Fenrir	*male	6. Trader in a three-masted vessel
+	*Jesseaume	Eric	*male	18. An interpreter who is brought to the council by Drewyer and participates in discussions with various Indian chiefs.
+	*Joseph La Croix	Omega	*male	19. Competitor of Robert McClellan in the Indian trade, allegedly employed by the Northwest company.
+	*Killamucks	Michael	*male	4. A nation of Indians who live on the seacoast and provide blubber to other tribes
+	*Labiche	Nicola	*male	16. Tracker who successfully traces the stolen horses and reports their direction to captain Clarke.
+	*Lewis	Alex	*male	1. A member of the expedition who is mentioned in relation to making celestial observations and measuring rivers. He is one of the two chiefs who accompany Captain Clarke on his journey up the river, and he is involved in determining longitude. He is also associated with Lewis's River.
+	*Little Minnetaree chief's son	Santa	*male	18. The son of the Little Minnetaree chief who was killed by Blackfoot Indians.
+	*Little Minnetaree village	Daniel	*male	18. A specific village of the Minnetaree tribe that is mentioned in relation to a chief's son who was killed by Blackfoot Indians.
+	*Littlecrow	Santa	*male	18. A chief of the Mandans who initially refuses to accompany the party but later agrees after reconciliation with another chief.
+	*M'Kenzie	Puck	*male	17. Trader from the Northwestern company who was among the Minnetarees and was being awaited by Assiniboins.
+	*M'Neal	Echo	*male	5. An Indian man who was nearly attacked by a stranger intent on murder, and was saved by an Indian woman's intervention | 14. Member of Captain Lewis's party who has a dangerous encounter with a white bear while examining the cache at the lower end of the portage. He is injured by the bear but survives.
+	*Mackey	Nicola	*male	6. Trader in a three-masted vessel
+	*Maha	Onyx	*male	18. A tribe of Indians who are mentioned as possible enemies but less suspicious than the Tetons.
+	*Mahahas	Lewis	*male	18. A tribe of Indians who are described as having a village and being visited by the party.
+	*Man with lighter complexion	Alex	*male	4. A young Indian man about 25 years old with lighter complexion and red hair who understands more English than others
+	*Mandan nation	Michael	*male	16. Native American group toward whom captain Clarke intends to send the horses after they are stolen.
+	*Mandans	Psi	*male	18. A tribe of Indians who are described as having villages and being visited by the party.
+	*Mandans' son	Michael	*male	18. The son of a Mandan chief who is mentioned in relation to their visit with Captain Clarke.
+	*Maria's river	Echo	*male	14. River explored by Captain Lewis and his party from July 16th to July 20th. It is described as having wide bottoms with cottonwood timber and level plains.
+	*Medicine river	Onyx	*male	14. River where the party camps on July 9th and explores. It is described as having clear, rapid water with low banks that are seldom overflowed.
+	*Mesship	Kumo	*male	6. Trader in a three-masted vessel
+	*Metcowwee	Daniel	*male	10. A tribe of Native Americans who live in villages along the river. They are described as generally respectful but not particularly friendly.
+	*Minnetaree	Liam	*male	18. A tribe of Indians who are described as having villages and being visited by the party.
+	*Minnetarees	Nicola	*male	14. Indian tribe who frequent the country around Tansy river. They are described as vicious and profligate rovers who might steal horses, arms, or baggage. | 15. Indian tribe encountered by Captain Lewis's party. They are described as unfriendly and potentially hostile, with some members being part of a large band near the main branch of Maria's river. | 16. Native American group who build Indian forts as defensive works against enemies like the Shoshonees.
+	*Missouri river	George	*male	14. Major river that the expedition explores and follows. Captain Lewis's route leads to its falls, and it is mentioned as a dividing line between different regions.
+	*Moore	Psi	*male	6. Trader who sometimes touches at the Columbia and had cows on board
+	*Mr. Broom	Santa	*male	19. Acting superintendent who is informed about Mr. Robideau's actions and has authority over Indian affairs.
+	*Mr. Gravelines	Alex	*male	19. Interpreter who accompanies the expedition and delivers a speech from the president to the Ricaras.
+	*Mr. Henry	Kumo	male	14. British official at posts on the Assiniboin who receives a letter from Serjeant Pryor requesting his efforts to persuade Sioux chiefs to accompany him to Washington. | 16. Person to whom serjeant Pryor is directed to deliver a letter, intended to persuade Sioux chiefs to accompany him to Washington.
+	*Mr. James Airs	Fenrir	*male	19. Trader from Prairie de Chien who meets the expedition and provides information about the country.
+	*Mr. McClellan	Onyx	*male	19. Former army officer who is a trader and meets the expedition on the river.
+	*Mr. Robideau	Fable	*male	19. St. Louis inhabitant who trades with Indians and is reported to have acted against the government's interests.
+	*Multnomah	Onyx	*male	8. Member of the Multnomah nation who lived on Wappatoo island and were described as friendly
+	*Musketoes	Omega	*male	15. Insects that are described as being very troublesome to the expedition.
+	*Nechacohee	Omega	*male	8. Member of the Nechacohee tribe who lived in a village behind Diamond island
+	*Nechecolee	Daniel	*male	8. Member of the Nechecolee tribe who lived in a large house on the Multnomah river
+	*Neerchokioo	Santa	*male	8. Member of the Neerchokioo tribe who lived in a large house on the Multnomah river
+	*Neeshnepahkeook	Psi	*male	11. A principal chief of the Chopunnish nation, also known as Cutnose due to having his nose cut from a lance stroke in battle with Snake Indians. He is the resident of one of the largest Chopunnish villages and receives a small medal from the party.
+	*Nemalquinner	Alex	*male	8. Member of the Nemalquinner tribe who lived in a temporary house on the Multnomah river
+	*Old Mr. Durion	Echo	*male	19. Former Sioux interpreter who accompanies the expedition and is sent to secure safe passage for Ricara presents.
+	*Palloatpallah	Liam	*male	14. Young man of the Palloatpallah tribe who follows the expedition alone across the mountains after setting out a few days earlier. He had previously attempted to pass the mountains in June but was forced to return.
+	*Pawnees	Michael	*male	18. A tribe of Indians who are mentioned as being in conflict with the Sioux.
+	*Pelican	Fenrir	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Pishquitpahs	Fable	*male	10. A tribe of Native Americans who live along the river during spring and summer. They are described as generally good statured with pleasant features, and treat the expedition with great respect.
+	*Prarie of the Knobs	Alex	*male	14. Geographic area characterized by extensive prairies with knobs irregularly scattered through them, named by Captain Lewis.
+	*Pryor	Alex	*male	17. Serjeant Pryor, who with a detachment of the party was to have brought on the horses. Later arrives at camp without the horses, reporting they were stolen by Indians.
+	*Quamash flats	Psi	*male	14. Starting point of the expedition's journey, located near the mouth of Traveller's-rest creek. The party has traveled one hundred and fifty-six miles from here.
+	*Quathlapotle	Nicola	*male	8. Member of the Quathlapotle nation who lived on an island and were described as friendly
+	*Rattlesnake	Puck	*male	15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Red-headed Woodpecker	Echo	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Ricara chief	Liam	*male	18. The chief of the Ricaras who is described as having been to the United States in 1805 and died on his return.
+	*Ricaras	Nicola	*male	18. A tribe of Indians who are described as having villages and being visited by the party.
+	*Robert McClellan	Puck	*male	19. American merchant who trades with Indians and is mentioned as having difficulties with British competitors.
+	*Sahawacap	Daniel	*male	8. Principal chief of all the Cathlamahs who returned from a trading voyage up the river
+	*Saskashawan	Michael	*male	14. River that may receive some of its waters from the plains near Maria's river, according to Captain Lewis's observations.
+	*Seaman's creek	Liam	*male	14. Creek that flows into the Cokalahishkit river, twenty yards wide. The expedition camps near its entrance on July 5th.
+	*Sergeant Floyd	Michael	*male	12. A sergeant whose tomahawk was stolen and later recovered by the Indians. His death is mentioned in relation to the tomahawk's burial.
+	*Sergeant Ordway	Fenrir	*male	12. A sergeant who leads hunting parties and is involved in trading with the Indians. He also undertakes dangerous journeys to obtain salmon.
+	*Serjeant Gass	Santa	male	14. Military officer who remains with two men and four horses to assist the party carrying effects over the portage while Captain Lewis proceeds to explore Maria's river sources. | 15. Leader of a detachment that travels by land with horses to meet Captain Lewis's party. He is part of the group that rejoins at the Missouri River.
+	*Serjeant Ordway	Puck	male	14. Military officer who accompanies Captain Clarke to the head of Jefferson river and leads a party of nine men down with canoes and other articles. | 15. Leader of a separate detachment that rejoins Captain Lewis's party. He is part of the group that descends the Missouri River in canoes. | 16. Military officer who recovers stolen horses from the Indians. He leads a party to track and retrieve missing livestock.
+	*Serjeant Pryor	Omega	male	14. Military officer who takes horses by land to the Mandans, then goes to British posts on the Assiniboin with a letter to Mr. Henry to persuade Sioux chiefs to accompany him to Washington. | 16. Military officer who leads a detachment of men to bring the horses down the river. He is also tasked with delivering a letter to Mr. Henry on the Assiniboin river. | 17. Arrives with horses left by the party when they embarked in canoes. Struggles to bring horses due to buffaloe herds and later reports that all horses were stolen by Indians.
+	*Shahala	Puck	*male	8. Member of the Shahala nation who came to see the party and was described as having a house opposite | 8. Member of the Shahala nation who were described as mischievous bad men
+	*Shahawacap	Fable	*male	5. Chief (tia) of the Cathlamah nation, who had been absent on a hunting excursion and was greeted by Captain Clarke
+	*Shields	Omega	*male	9. A member of the expedition who purchases a dog from an Indian and is later attacked by Wahelellah Indians.
+	*Shishequaw mountain	Fenrir	*male	14. High insulated conic mountain standing several miles in advance of the eastern range of the Rocky mountains, visible from the expedition's route.
+	*Shoe Indians	Alex	*male	18. A tribe of Indians who are described as being part of the Minnetaree nation.
+	*Shotos	Fenrir	*male	8. Member of the Shotos nation who lived near a pond running parallel with the river
+	*Sioux	Fenrir	*male	16. Native American group whose chiefs are targeted by captain Clarke's letter to be brought to Washington. | 18. A tribe of Indians who are described as enemies to the Mandans and Ricaras, feared by other tribes.
+	*Skelley	Alex	*male	6. Trader in a vessel with three masts who has been gone for some years and had only one eye
+	*Skilloot	Fenrir	*male	4. A nation of Indians who are described as intrusive, thievish and impertinent | 8. Member of the Skilloot nation who lived near the Coweliskee river and were described as hospitable
+	*Skilloots	Alex	*male	10. A tribe of Native Americans who live near the Columbia River and are known for their thievish propensities. They trade horses with the expedition but are described as inhospitable and faithless.
+	*Sky	Liam	*male	11. A Chopunnish chief who is the younger of two chiefs accompanying the party in autumn to the great falls of the Columbia. He is also among the inhabitants at the houses on Lewis's river where they halt for breakfast.
+	*Snake Indian	Kumo	*male	11. An Indian who happens to be at the place where they meet Neeshnepahkeeook and helps communicate information about prejudices against the party.
+	*Swipton	Liam	*male	6. Trader in a three-masted vessel
+	*Taheum	Omega	*male	6. Chinnook chief, about fifty years old, with a larger figure and better carriage than most of his nation
+	*Tahtackasabah	Nicola	*male	18. A Teton chief who is described as being hostile and threatening to the party.
+	*Tallamon	Eric	*male	6. Man in a three-masted vessel who is not a trader
+	*Tansy river	Alex	*male	14. River encountered on July 17th where the expedition camps. It is described as about fifty yards wide with water occupying only thirty-five feet, and has a whitish tint.
+	*Teton	Lewis	*male	11. A Chopunnish chief who accompanied the party in autumn to the great falls of the Columbia. He is among the inhabitants at the houses on Lewis's river where they halt for breakfast.
+	*Tetons	Kumo	*male	18. A tribe of Indians who are described as hostile and threatening to the party, but ultimately do not attack.
+	*The Clahelellah Chief	Lewis	*male	9. A tribal chief from the Clahelellah village who shows respect to the expedition and provides information about local tribes.
+	*The father of the chief	Alex	*male	12. An elderly Chopunnish man who assists in the sweating treatment of his son, demonstrating care and concern.
+	*The Grand Chief of the Chilluckittequaws	Santa	*male	9. A tribal leader who arrives at the Wahelellah village with other Chilluckittequaws, engages in trade, and later intercedes on behalf of his people.
+	*The hunters	Eric	*male	12. A group of men from the expedition who go out to hunt game and provide food for the party.
+	*The Indian who brought back the canoe	Alex	*male	9. A member of a village who returns a lost canoe to the expedition, showing honesty.
+	*The Indian who offered two sheep-skins	Echo	*male	9. A member of the Clahelellah tribe who offers sheep-skins for sale to the expedition.
+	*The Indian who spoke about sheep	Fable	*male	9. A Clahelellah Indian who informs the expedition about sheep abundance in the mountains.
+	*The Indian who spoke Clatsop	George	*male	9. An interpreter or messenger who speaks Clatsop and informs the expedition about Wahelellah thefts.
+	*The Indian who told about anchovies	Puck	*male	9. A member of a tribe who provides information about anchovies in the area.
+	*The Indian who told about antelope	George	*male	9. A member of a tribe who provides information about antelope in the area.
+	*The Indian who told about antelopes	Nicola	*male	9. A member of a tribe who mentions antelope presence in the area.
+	*The Indian who told about beads	Omega	*male	9. A member of a tribe who provides information about beads in the area.
+	*The Indian who told about bear	Liam	*male	9. A member of a tribe who provides information about bear in the area.
+	*The Indian who told about berries	Fenrir	*male	9. A member of a tribe who provides information about berry availability in the area. | 9. A member of a tribe who provides information about berries in the area.
+	*The Indian who told about bighorn	Daniel	*male	9. A Yehhuh Indian who mentions bighorn and other animals found in the mountains.
+	*The Indian who told about birds	George	*male	9. A member of a tribe who mentions bird observations in the area.
+	*The Indian who told about black bear	Liam	*male	9. A member of a tribe who mentions black bear presence in the area.
+	*The Indian who told about cloth	Santa	*male	9. A member of a tribe who provides information about cloth in the area.
+	*The Indian who told about corvus	Kumo	*male	9. A member of a tribe who provides information about corvus in the area.
+	*The Indian who told about deer	Lewis	*male	9. A member of a tribe who provides information about deer in the area.
+	*The Indian who told about dried fish	Echo	*male	9. A member of a tribe who provides information about dried fish in the area.
+	*The Indian who told about elk	Psi	*male	9. A member of a tribe who mentions elk in the area. | 9. A member of a tribe who provides information about elk in the area.
+	*The Indian who told about fish	Kumo	*male	9. A member of a tribe who provides information about fish availability in the area. | 9. A member of a tribe who provides information about fish in the area.
+	*The Indian who told about horses	Puck	*male	9. A Weocksockwillacum Indian who informs the expedition about horses in their village.
+	*The Indian who told about mullet	Onyx	*male	9. A member of a tribe who provides information about mullet fish in the area. | 9. A member of a tribe who provides information about mullet in the area.
+	*The Indian who told about pheasant	Psi	*male	9. A member of a tribe who provides information about pheasant in the area.
+	*The Indian who told about roots	Michael	*male	9. A member of a tribe who provides information about root availability in the area. | 9. A member of a tribe who provides information about roots in the area.
+	*The Indian who told about salmon	Eric	*male	9. A member of a tribe who informs the expedition about salmon and fish availability. | 9. A member of a tribe who provides information about salmon in the area.
+	*The Indian who told about salmon trout	Alex	*male	9. A member of a tribe who provides information about salmon trout in the area.
+	*The Indian who told about squirrel	Nicola	*male	9. A member of a tribe who provides information about squirrel in the area.
+	*The Indian who told about sturgeon	Fable	*male	9. A member of a tribe who provides information about sturgeon in the area.
+	*The Indian who told about the eye-dog	Santa	*male	9. A member of a tribe who mentions the eye-dog war hatchet as something they desire.
+	*The Indian who told about the long-tailed deer	Lewis	*male	9. A member of a tribe who provides information about deer in the area.
+	*The Indian who told about train oil	Eric	*male	9. A member of a tribe who provides information about train oil in the area.
+	*The Indian who told about wappatoo	Daniel	*male	9. A member of a tribe who provides information about wappatoo in the area.
+	*The Indian who told about war with Towanahiooks	Omega	*male	9. A Weocksockwillacum Indian who explains how their horses were obtained through warfare.
+	*The Indians	Santa	*male	12. A collective term for the various native peoples encountered by the expedition, including Chopunnish and others.
+	*The invalids	Lewis	*male	12. A group of sick people from the village who come to seek medical assistance from the expedition.
+	*The men	Liam	*male	12. A collective term for the male members of the expedition who participate in various activities including hunting, trading, and medical care.
+	*The Old Man	Nicola	*male	9. An Indian who attempts to steal from the expedition camp and is caught by a sentinel.
+	*The Ootlashoots	Puck	*male	12. A Flathead band who wintered on the east side of the mountains and are contacted by the expedition for intelligence. | 14. Indian nation mentioned by the guides as residing in a valley on Clarke's river. The expedition hopes to meet them but finds no tracks. | 16. Native American group whose trail the expedition follows to shorten their route. They are mentioned as having traveled this path previously.
+	*The Pahkees	Omega	*male	12. A tribe with whom the Chopunnish have conflicts and with whom the expedition hopes to mediate a reconciliation. | 14. Indian nation feared by the guides as potentially hostile. The expedition is concerned about being cut off by them, and they are mentioned in relation to tracks seen on the trail.
+	*The Principal Chief of the Chilluckittequaws	Psi	*male	9. A tribal leader who visits the expedition camp to discuss horse trading and promises to bring horses from the narrows.
+	*The Shoshonees	Daniel	*male	12. A neighboring tribe mentioned as enemies of the Chopunnish, who are involved in conflicts and negotiations with the expedition. | 16. Native American group whose tracks are seen and who are suspected of stealing horses. They are mentioned as being in the area where the expedition travels. | 18. A tribe of Indians who are mentioned as being attacked by the Mandans and Minnetarees.
+	*The sick chief	Onyx	*male	12. A Chopunnish chief who has been ill for three years and is treated with sweating therapy by the expedition.
+	*The Sick Man	Kumo	*male	9. A member of the expedition who remains behind to guard baggage during the portage.
+	*The Skilloot Chief	Liam	*male	9. A tribal leader who meets with Captain Clarke to discuss horse trading and is involved in negotiations with the expedition.
+	*The Three Men sent in pursuit of the Wahelellahs	Onyx	*male	9. Members of the expedition who pursue Wahelellahs after they steal captain Lewis's dog.
+	*The Three Men who had been lamed by accidents	Michael	*male	9. Members of the expedition who remain behind to guard baggage during the portage.
+	*The Two Indians who attacked Shields	Fenrir	*male	9. Wahelellah Indians who attempt to steal a dog from Shields and are confronted by him.
+	*The two young chiefs	Fable	*male	12. Young Chopunnish leaders who gave horses to the party and later return with Hohastilpilp.
+	*The two young men	Echo	*male	12. Young Chopunnish men who gave horses to the party on behalf of their nation and later return with the chiefs.
+	*The Wahelellah Chief	Eric	*male	9. A tribal chief from the Wahelellah village who initially appears unfriendly but later intercedes to prevent conflict with the expedition.
+	*Towahnahiook	George	*male	8. Member of the Towahnahiook nation who joined the party and were described as friendly
+	*Tower mountain	Puck	*male	14. Mountain in the Broken mountains range that terminates in a conic spire, named for its distinctive shape.
+	*Traveller's-rest creek	Santa	*male	14. Creek where the expedition camps on July 30th and makes plans to separate. It is mentioned as being near the point where they planned to divide.
+	*Tushepaws	Psi	*male	14. Indian tribe who venture out of the mountains to hunt buffaloe. They are suspected as having stolen horses and crossed Dearborn's river near an Indian encampment.
+	*Two hunters	Echo	*male	13. Two men sent ahead to hunt for game and later join the party at Hungry creek.
+	*Two men	Fable	*male	13. Two hunters who are left behind to hunt at the glade on Hungry creek and later return without success.
+	*Two other hunters	Daniel	*male	13. Two additional hunters who return from Hungry creek with deer.
+	*Two other Indians	Fenrir	*male	13. Two additional Indian guides who had each given a horse to the party at the house of the Brokenarm and are described as men of good character.
+	*Two young Indians	Kumo	*male	13. Two Indian youths who were met on June 21 and detained for several days, later revealed to be going on a pleasure trip rather than to guide the party.
+	*Wahhowpum	Puck	*male	10. A tribe of Native Americans who live in temporary huts near the Rock rapid. They are described as being pleased to see the expedition and readily give them dogs, chapelell, and wood.
+	*Wahkiacum	Psi	*male	8. Member of the Wahkiacum nation who lived near the river and were described as friendly
+	*Wahkiacums	Nicola	*male	4. A tribe of Indians who live on fish and wappatoo roots
+	*Washington	George	*male	6. Trader in a three-masted vessel
+	*Weahkoonut	Eric	*male	11. An Indian called the Bighorn due to wearing a horn of that animal. He is described as the first chief of a large band of Chopunnish and had previously been helpful in preparing native minds for the party's reception. He meets the party at Kinnooenim creek and later accompanies them.
+	*Werner's creek	Lewis	*male	14. Creek that flows into the Cokalahishkit river, thirty-five yards wide. It waters a high extensive prairie with low hills and pine trees.
+	*Whippoorwill	Fable	*male	15. Birds hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Whitehouse	George	*male	13. A member of the party who is feared to have had difficulty with guides and is mentioned as being among those who returned.
+	*Willard	Puck	*male	3. An American explorer who travels with Shannon and is present during their encounter with the Washkiacum Indians | 15. Member of Captain Lewis's party who travels by land with horses to meet the main group. He joins Captain Lewis at the Missouri River.
+	*Willow run	Echo	*male	14. Location where M'Neal encounters a white bear during his search of the cache.
+	*Windsor	George	*male	16. Member of the expedition who accompanies serjeant Pryor on his mission to deliver a letter to Mr. Henry. | 17. One of the men who accompanied Serjeant Pryor when he arrived at camp without horses. Later part of the group that followed Indian tracks and was attacked by a wolf.
+	*Wollawollah	Santa	*male	11. A young guide who accompanies the party on horseback. He is described as one of three young Wollawollahs who continue with the party, and he eats a plant common in rich lands on the Mississippi.
+	*Wollawollahs	Fenrir	*male	10. A tribe of Native Americans who live in villages along the river. They are described as hospitable and sincere, providing food and assistance to the expedition.
+	*Wolves	Lewis	*male	15. Animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Yanktons	Fenrir	*male	18. A tribe of Indians who are mentioned as possible enemies but less suspicious than the Tetons.
+	*Yellept	Michael	*male	10. A male chief of the Wollawollah tribe who welcomes the expedition to his village and provides hospitality. He is described as a man of influence among neighboring nations.
+	*Yellowstone river	Nicola	*male	14. River that Captain Clarke's party will proceed to after descending Jefferson river, where they will build canoes and go down the river. | 16. River that captain Clarke and his party travel toward after leaving the Missouri river.
+	*Yomekullick	Lewis	*male	14. Indian chief who guides Captain Lewis across the mountains and is given a medal and gun as reward. He receives the title 'Yomekullick' meaning 'white bearskin unfolded'.
+	*Yoompahkatim	George	*male	11. A chief who arrives from his village on the south side of Lewis's river. He is described as a stout good-looking man who has lost his left eye.
+	*Young chief	Nicola	*male	13. A young Indian chief who previously made a present of two horses to the party and comes with his people to spend the night.
+	*Bigwhite's wife	Jessica	*female	18. The wife of Bigwhite who accompanies her husband to the United States.
+	*Blackcat's wife	Nicole	*female	18. The wife of the Blackcat chief who is mentioned in relation to their visit with Captain Clarke.
+	*Chaboneau's wife	Lily	*female	18. The wife of Chaboneau who is described as being useful among the Shoshonees and accompanying her husband in his decision to remain with the Indians.
+	*Chimnapum	Gongitsune	*female	1. A Native American tribe that lives on a western branch of the Columbia River. They are described as being united with the Sokulks, and their language differs little from that of the Sokulks or Chopunnish.
+	*Female Brown Bear	Siwis	*female	15. Large animals hunted by the expedition for food. They are described as being in great abundance along river bottoms.
+	*Flatheads	Emma	*female	1. A Native American tribe mentioned in relation to having a common eye disorder and dental problems similar to the Sokulks. They inhabit the Kooskooskee and Lewis's river.
+	*Grayeyes' wife	Nezumi	*female	18. The wife of the Chayenne chief who is mentioned in relation to his acceptance of a medal.
+	*Interpreter's wife	Bella	*female	1. The female companion of the interpreter who joins him on his journey up the river. She is described as accompanying her husband and being present when Captain Clarke visits Indian houses to calm their fears. Her presence is significant in dispelling doubts about the peaceful intentions of the expedition.
+	*Kimooenim	Heart	*female	1. A creek that empties itself into the Columbia River. It is mentioned in relation to Captain Clarke's journey up the river.
+	*Kooskooskee	Aoede	*female	1. A river where the Chopunnish and Flatheads tribes inhabit. It is mentioned in relation to the languages of these tribes. | 14. Location where the expedition was during June when a Palloatpallah man attempted to pass through the mountains but had to return.
+	*Mandans' wife	Xiaoni	*female	18. The wife of a Mandan chief who is mentioned in relation to their visit with Captain Clarke.
+	*Old squaw	Sara	*female	4. An elderly woman who sells wappatoo roots to the party
+	*Pelican rapid	Alice	*female	1. A dangerous rapid on the Columbia River named after seeing pelicans and black cormorants about it. It is described as formed by a chain of large black rocks stretching from the right side of the river.
+	*Pisquitpaws	Dora	*female	1. A Native American tribe that the expedition encounters. They are described as a branch of the nation called Pishquitpaws, and can raise about three hundred and fifty men. Their dress resembles the Indians near the forks of the Columbia, except their robes are smaller and do not reach lower than the waist.
+	*Sacajaweah	Xiaoyi	*female	10. A female Shoshonee woman who serves as an interpreter and guide. She speaks the same language as a prisoner from the Snake Indians and helps communicate with various tribes.
+	*Shahlees	Sky	*female	14. Indian nation whose friends the Indian guides are seeking. They occasionally reside in a fine extensive valley on Clarke's river.
+	*Sokulks	Nova	*female	1. A Native American tribe that the expedition encounters. The women of this tribe are described as being more inclined to corpulency than any they have seen, with low stature, broad faces, flattened heads, dirty sable eyes, coarse black hair braided without ornamentation. They wear only a truss or piece of leather tied round the hips.
+	*Squaw	Xiaoxiao	*female	4. A female Indian who is offered as a gift by Cusealah but declined
+	*Tapteal	Tebukuro	*female	1. A western branch of the Columbia River that empties itself about eight miles above into the Columbia. It is described as bearing nearly west.
+	*The women	River	*female	12. A group of female members from the village who suffer from various ailments and are treated by the expedition.
+	*Two squaws	Alloy	*female	4. Female Indians who are offered as gifts by Cusealah but declined
+	*Whitebear islands	Sarah	*female	14. Location where the party encamps on July 9th. The islands are named for their white appearance or possibly due to the presence of white bears.

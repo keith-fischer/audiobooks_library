@@ -1,0 +1,5 @@
+	narrator	Adam	male	Story narrator
+	Gordon Mackenzie	Michael	*male	1. Male narrator who reads Chapter 1, Chapter 2, and Chapter 3.
+	*Jean O'Sullivan	Sarah	*female	1. Female narrator who reads Chapter 5-6.
+	*Kristen McQuillin	Nicole	*female	1. Female narrator who reads Chapter 3, Chapter 4.
+	*Miette	Nezumi	*female	1. Female narrator who reads Chapter 7.

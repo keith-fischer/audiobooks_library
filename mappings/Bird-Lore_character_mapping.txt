@@ -1,0 +1,193 @@
+	narrator	Adam	male	Story narrator
+	A. H. W.	Michael	*male	1. Author of 'Bird and Arbor Day--An Awakening' in School Department
+	Arthur A. Allen	Puck	male	1. Author of 'Photographs of Flickers'
+	Arthur P. Stubbs	Psi	male	1. Author of 'Ornithological Possibilities of a Bit of Swamp Land' and contributor to Notes from Field and Study | 3. Author who described bird life in a swamp-land area near Lynn, Massachusetts
+	Charles R. Keyes	Psi	male	1. Author of 'My Neighbor's Sparrow Trap' and contributor to Notes from Field and Study | 3. Author who described his neighbor's successful Sparrow trapping experience
+	E. G. and R. E. Robbins	Kumo	*male	1. Authors of 'The Evening Grosbeak at Boston' and contributor to Notes from Field and Study | 3. Authors who reported an Evening Grosbeak sighting in Boston
+	F. M. C.	Michael	*male	4. Reviewer of scientific publications, likely a member of the ornithological community who writes reviews for magazines
+	Frank M. Chapman	Alex	male	1. Editor of Bird-Lore and author of 'Notes on the Plumage of North American Birds' | 2. Male author who wrote 'Notes on the Plumage of North American Birds' and described various bird species | 3. Author who observed Petrels on the Hudson River | 5. Editor of BIRD-LORE magazine, mentioned as the person who published the article by Gilbert H. Grosvenor | 10. Author of Bird-Life and co-author of The Warblers Are Coming!
+	Garrett Newkirk	Onyx	male	1. Author of 'The Robin in Yosemite. Verse' | 2. Male author who wrote 'The Robin in Yosemite' section of the magazine
+	George W. Ames	Onyx	male	1. Collector of ornithological and ooeological collections
+	George W. Gray	Liam	male	1. Author of 'Evening Grosbeaks at Poughkeepsie, N. Y.' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Poughkeepsie, New York
+	Gilbert H. Grosvenor	Echo	male	1. Author of 'The World's Record for Density of Bird Population' | 2. Male author and editor of National Geographic Magazine, owner of 'Wild Acres' farm in Maryland where he conducted bird census and attracted many birds to his property | 5. Contributor of an article to BIRD-LORE magazine, described as someone who successfully encouraged birds to nest on his property through bird gardening practices
+	H. and E. Pittman	Fenrir	*male	1. Illustrators of 'Long-eared Owl on Nest'
+	H. Ira Hartshorn	George	male	2. Male author who wrote 'First Efforts at Bird Photography' and describes his bird photography experiments
+	H. Tra Hartshorn	Eric	male	1. Author of 'First Efforts at Bird Photography'
+	Howard Paret	Lewis	male	1. Author of 'Notes from Nebraska' and contributor to Notes from Field and Study | 3. Author who conducted bird censuses in Nebraska and Kansas to determine abundance
+	J. D.	Santa	*male	4. Reviewer of The Auk magazine, likely a member of the ornithological community
+	J. H. Gilliland	Puck	*male	1. Author of 'Winter Notes From Carlisle, Ind.' and contributor to Notes from Field and Study | 3. Author who wrote about winter bird activity in Carlisle, Indiana
+	J. T. Nichols	Fenrir	*male	1. Author of 'A Gannet over the Hudson River' and contributor to Notes from Field and Study | 3. Author who reported seeing a Gannet over the Hudson River
+	Jacobs Bird-House Company	George	*male	1. Manufacturer of bird-houses and feeding devices
+	John R. Tooker	Nicola	male	1. Author of 'A Heron's Involuntary Bath' and contributor to Notes from Field and Study | 3. Author who described a Black-crowned Night Heron's predicament on a dock stake
+	Joseph W. Lippincott	Lewis	male	1. Author of 'The Interesting Barn Owl' | 2. Male author who wrote 'The Interesting Barn Owl' and describes his experiences with barn owls
+	L. H. Potter	Eric	*male	1. Author of 'Evening Grosbeaks in Vermont' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Vermont
+	Louis Agassiz Fuertes	Fable	male	1. Illustrator of the frontispiece showing Bush-Tits, Verdin, and Wren-Tit | 10. Artist who created plates for the Handbook of Birds of Eastern North America
+	R. L. FRIPP	Liam	*male	3. Author who reported a shower of birds during a wind storm in Spartanburg, South Carolina
+	Sheridan F. WOOD	Alex	*male	3. Author who reported finding a Starling in Ohio
+	Sidney Lanier	Kumo	male	6. Poet who wrote 'The Symphony' and translated beauty into music, referenced as someone who sensed the world about him
+	T. Gilbert Pearson	Fable	male	1. Author of Educational Leaflet No. 85 on Chestnut-sided Warbler | 9. Secretary of the National Association of Audubon Societies
+	T. S. P.	Omega	*male	4. Reviewer of The Condor magazine, likely a member of the ornithological community
+	W. M. Buswell	Daniel	*male	1. Author of 'A Correction' and contributor to Notes from Field and Study | 3. Superintendent of Meriden Bird Club who wrote about making bird club meetings interesting
+	W. W. Cooke	Nicola	male	1. Author of 'The Migration of North American Birds' | 2. Male professor who compiled 'The Migration of North American Birds' section
+	Walter M. Buswell	Daniel	male	1. Superintendent of Bird Sanctuary and advisor on bird gardening
+	William F. Blackman	Omega	male	9. President of the Florida State Audubon Society who wrote to John Fox Jr.
+	Winsor M. Tyler, M. D.	Santa	*male	1. Author of 'Evening Grosbeaks in Lexington, Mass.' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Lexington, Massachusetts
+	Wolfrid Rudyard Boulton, Jr.	Echo	male	6. Fourteen-year-old student from Beaver, Pennsylvania who observed Bluebirds nesting and documented their behavior
+	C. EVELEEN HATHAWAY	Lily	female	3. Secretary of the Bird Club of Glens Falls who reported Evening Grosbeaks
+	Dora B. Harris	Tebukuro	female	1. Author of 'Evening Grosbeaks at Port Henry, N. Y.' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Port Henry, New York
+	Dorothy Davies	Xiaoxiao	female	6. Student who participated in an Audubon Society and wrote about bird houses and feeding birds
+	Ethel A. Nott	Dora	female	1. Author of 'Evening Grosbeaks and Cardinals in Southern Wisconsin' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks and Cardinals in Southern Wisconsin
+	Florence Merriam Bailey	Bella	female	1. Contributor mentioned in Audubon Societies section
+	Isabel Acorn	Aoede	female	6. Student who participated in an Audubon Society and wrote about reading bird leaflets
+	Jacolyn Manning, M. D.	Sky	female	1. Author of 'Evening Grosbeaks at Saratoga Springs, N. Y.' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Saratoga Springs, New York
+	Lucy H. Upton	Emma	female	6. Observer who witnessed a Tufted Titmouse hammering a leaf to make a ball
+	Mary Hazen Arnold	Nova	female	1. Author of 'Evening Grosbeaks in Connecticut' and contributor to Notes from Field and Study | 3. Author who reported Evening Grosbeaks in Connecticut
+	Mrs. John W. Payne	Gongitsune	female	10. A lady from northern New York who cares for winter-birds and protects wildlife
+	Ruth R. Hayden	Siwis	female	6. Student at Rhode Island State Normal School who wrote a poem about twilight and nature, described as blind but successful in nature study
+	Sarah W. Weaver	Xiaoyi	female	6. Eleven-year-old student from Baltimore County, Maryland who described bird sounds in a woodland
+	Virginia Stearns	Jessica	female	6. Nine-year-old student from Milwaukee, Wisconsin who wrote a spring poem
+	s. c. bruner and c. s. brimley	Adam		
+	*A. A. Saunders	Lewis	*male	4. Contributor to The Auk who supports the use of graphic methods for bird song notation
+	*A. D. Tinker	Liam	*male	1. Contributor to Bird-Lore subscription list
+	*A. J. Anderson	Psi	*male	1. Contributor to Bird-Lore subscription list
+	*Alien Sparrows	Daniel	*male	10. Male sparrows that were chattering in the cemetery
+	*Allan Brooks	Liam	male	10. An artist who enlisted in the Canadian army during WWI and was promoted to Captain
+	*B. S. Bowdish	Eric	*male	4. Contributor to The Auk who recorded Tennessee Warbler nests in New Brunswick
+	*Black-crowned Night Heron	Eric	*male	3. Bird species that visited a swamp-land area during fall and summer
+	*Blackbird	Alex	*male	3. Bird species that visited a swamp-land area in early spring
+	*Bronzed Grackle	Omega	*male	3. Bird species that visited a swamp-land area in early spring
+	*Bruce Horsfall	Fable	*male	1. Illustrator of 'Little Bird Blue' and other works
+	*Butcherbird	George	*male	3. Bird species that was attracted to a swamp-land area by Tree Sparrows and Goldfinches
+	*C. B. Kern	Omega	*male	10. A supplier of mealworms for birds
+	*C. G. D. Roberts	Kumo	*male	6. Author who wrote an introduction to Walden, referenced in the context of Thoreau
+	*C. Hart Merriam	Psi	*male	9. Brother of Florence Merriam who trained her in field work
+	*C. S. Brimley	Nicola	male	1. Co-author of 'The Spring Migration of 1915 at Raleigh, N. C.' | 2. Male author who co-wrote 'The Spring Migration of 1915 at Raleigh, N. C.' with S. C. Bruner
+	*C. W. Townsend	Daniel	*male	4. Author of a study on duck courtship behavior using binoculars
+	*Canada Goose	Fable	*male	3. Bird species that was observed in Lake Champlain
+	*Cardinal	Eric	*male	3. Bird species that was observed in Reedsburg, Wisconsin
+	*Carlos Avery	Kumo	male	9. State Game Commissioner of Minnesota who requested assistance for birds
+	*Chimney Swift	Psi	*male	3. Bird species that fell from the sky during a wind storm in Spartanburg, South Carolina
+	*Columbus G. McLeod	Michael	male	9. Warden who was attacked while protecting bird colonies
+	*Comstock Publishing Company	Daniel	*male	1. Publisher of Bird Notebooks
+	*Cowbird	Kumo	*male	3. Bird species that hung about with English Sparrows in a swamp-land area | 8. Parasitic bird that laid eggs in the Warblers' nest, ultimately killing the Chestnut-sided Warbler chick through competition for food
+	*Crow	Daniel	*male	3. Bird species that was observed in Port Henry, New York
+	*Dawson	Psi	*male	4. Author of 'Personal Supplement' containing notes and critical comments on California bird species, reviewer of Grinnell's work
+	*Dickcissel	Nicola	*male	3. Bird species that was most abundant in northeastern Kansas and southeastern Nebraska
+	*Dr. Witmer Stone	Kumo	male	4. Author of a paper on western ornithology prior to 1850, presented at the American Ornithologists' Union meeting in San Francisco
+	*E. C. Perisho	Echo	*male	9. President of South Dakota State College who organized bird-saving efforts
+	*E. E. Edmanson	Michael	*male	10. A manufacturer of bird houses who has been making them for 20 years
+	*E. S. Wilson	Kumo	*male	1. Contributor to Bird-Lore subscription list
+	*E. W. Hadeler	Santa	*male	1. Contributor to Bird-Lore subscription list
+	*E. W. Nelson	Santa	*male	9. Acting Chief of Biological Survey who reported bird starvation in Kansas
+	*Edward F. Bigelow	Kumo	*male	10. Editor of The Guide to Nature
+	*Edward J. F. Marx	Fenrir	male	1. Author of 'A Bold Winter Wren' and contributor to Notes from Field and Study | 3. Author who described a bold Winter Wren that approached him
+	*English Sparrow	Echo	*male	3. Bird species that was trapped by a neighbor in Mt. Vernon, Iowa
+	*Ernest Thompson Seton	Nicola	*male	10. Illustrator who created text illustrations for the Handbook of Birds of Eastern North America
+	*Evang Bros.	George	*male	1. Manufacturer of mixtseed for birds
+	*Evening Grosbeak	Fenrir	*male	3. Bird species that was observed in multiple locations across the northeastern United States
+	*F. C. Lincoln	Fenrir	*male	4. Author of 'The Discovery of the Nest and Eggs of Leucosticte australis', documenting findings in Colorado mountains
+	*F. H. Allen	Michael	*male	4. Author who described a nesting of the Rose-breasted Grosbeak
+	*Farley & Loetscher Mfg. Co.	Onyx	*male	1. Manufacturer of bird-houses and related products
+	*Frank	Lewis	*male	9. Child mentioned in the context of bird study
+	*Frederic A. Lucas	Fable	male	9. Acting President of the National Association of Audubon Societies
+	*Gannet	George	*male	3. Bird species that was observed over the Hudson River
+	*George Bird Grinnell	Puck	*male	9. Founder of Audubon Society movement in 1886
+	*Goldfinch	Onyx	*male	3. Bird species that attracted Butcherbirds and smaller Hawks in a swamp-land area
+	*Grackle	Onyx	*male	10. A male grackle whose gurgling was heard in the distance
+	*H. Mousley	Omega	*male	4. Author who contributed 'Five Years' Personal Notes and Observations on the Birds of Hatley, Stanstead Co., Quebec, 1911-1915'
+	*H. Oldys	Puck	*male	4. Contributor to The Auk discussing the rhythmical singing of Veeries from a musician's standpoint
+	*H. W. Henshaw	Nicola	male	2. Male Chief of the U.S. Biological Survey of the Department of Agriculture who became interested in Grosvenor's bird attraction efforts
+	*Henderson	Nicola	*male	4. Defender of the term 'House Finch' and critic of alternative names for birds
+	*Henry David Thoreau	Santa	male	6. Author of Walden, referenced as someone who saw nature with a clear and kindred eye
+	*Henry O. Havemeyer	Fenrir	*male	9. Contributor to Egret Fund
+	*Herbert K. Job	Omega	male	9. Person who photographed water-fowl at Ward-McIlhenny reservation
+	*Herbert R. Mills	Liam	male	9. Doctor who reported on destroyed White Ibis rookery
+	*House rat	Michael	*male	3. Small mammal that was accidentally trapped in a Sparrow trap
+	*J. C. Phillips	Onyx	*male	4. Author of 'Two Problems in the Migration of Water Fowl', studying duck migration patterns and Canada Goose behavior
+	*J. E. Thayer	Liam	*male	4. Contributor to The Auk who listed birds from Saghalin Island
+	*Jewett	Echo	*male	4. Author of 'New and Interesting Bird Records', documenting species found in eastern Oregon during 1915
+	*John Fox Jr.	Alex	male	9. Novelist who wrote about shooting birds at Bocagrande
+	*John James Audubon	Nicola	male	8. Naturalist and artist who observed Chestnut-sided Warblers during a snowstorm in Pennsylvania, finding their stomachs contained only grass-seeds and spiders
+	*John Muir	Echo	male	6. Naturalist who lived close to nature, loved mountains, storms, trees, and wildlife
+	*Jonathan Dwight Jr.	Onyx	male	9. Treasurer of the National Association of Audubon Societies
+	*Joseph Grinnell	Omega	male	4. Author of 'A DISTRIBUTIONAL LIST OF THE BIRDS OF CALIFORNIA', a researcher at the Museum of Vertebrate Zoology of the University of California
+	*L. H. Bailey	Echo	*male	10. President of the American Nature-Study Society
+	*M. D. Hart	Eric	*male	9. President of Virginia Audubon Society who led fight for game protection
+	*male Chestnut-sided Warbler	Psi	male	7. The male Chestnut-sided Warbler in spring has olive-green back, bright yellow crown, lighter underparts, and deep chestnut sides. This is the typical breeding plumage of the species.
+	*Mathews	Lewis	*male	8. Author who described the song of the Chestnut-sided Warbler as resembling 'I wish, I wish, I wish to see Miss Beecher'
+	*Mr. Clinton G. Abbott	Puck	male	8. Bird watcher who observed a pair of Chestnut-sided Warblers and their nest in Rhinebeck, New York in 1900
+	*Mr. Dodson	Alex	*male	10. A bird-lover who has manufactured bird houses for 20 years and is a Director of the Illinois Audubon Society
+	*Mr. William L. Finley	George	male	10. President of the Oregon Audubon Society and Pacific Coast field-agent for the National Association
+	*O. Bangs	Alex	*male	4. Contributor to The Auk who listed birds from Saghalin Island
+	*P. A. Taverner	Santa	male	4. Author of 'THE DOUBLE CRESTED CORMORANT and its Relations to the Salmon Industries on the Gulf of St. Lawrence', a researcher sent by the Geological Survey of Canada to study cormorant food habits
+	*P. B. Philipp	Fable	*male	4. Contributor to The Auk who recorded Tennessee Warbler nests in New Brunswick
+	*P. S. McGlynn	Echo	*male	1. Contributor to Bird-Lore subscription list
+	*Petrel	Liam	*male	3. Bird species that was observed over the Hudson River
+	*Philip Dowell	Omega	*male	1. Contributor to Bird-Lore subscription list
+	*Pine Grosbeak	Onyx	*male	3. Bird species that was reported as common in Saratoga Springs, New York
+	*Prof. M. H. Saville	Psi	*male	3. Scholar who provided a newspaper account of a tropical migration tragedy in Honduras
+	*Professor E. R. Ristine	Echo	*male	3. Neighbor who set up a Sparrow trap to control English Sparrows in his yard
+	*R. H. Gerberding	Santa	*male	10. Publisher of the Bird Note Book
+	*R. L. Tripp	Puck	*male	1. Author of 'A Tropical Migration Tragedy; A Shower of Birds' and contributor to Notes from Field and Study
+	*Redwing	Michael	*male	3. Bird species that visited a swamp-land area in early spring
+	*Ring-neck Pheasant	Fable	*male	3. Bird species that loved to skulk around the edges of a swamp-land area
+	*Rusty	Santa	*male	3. Bird species that visited a swamp-land area in early spring
+	*S. C. Bruner	Psi	male	1. Co-author of 'The Spring Migration of 1915 at Raleigh, N. C.' | 2. Male author who co-wrote 'The Spring Migration of 1915 at Raleigh, N. C.' with C. S. Brimley
+	*Samuel T. Carter Jr.	George	male	9. Attorney for the National Association of Audubon Societies
+	*Secretary	Fable	*male	10. A male visitor who happened to visit a suburban cemetery and was impressed by the absence of singing birds
+	*Sharp-shin	Liam	*male	3. Bird species that was attracted to a swamp-land area by Tree Sparrows and Goldfinches
+	*Sheridan T. Wood	Lewis	male	1. Author of 'Starling in Ohio' and contributor to Notes from Field and Study
+	*Song Sparrow	Puck	*male	3. Bird species that could be found in a swamp-land area all winter
+	*Starling	Lewis	*male	3. Bird species that was captured in Ohio and reported by Sheridan F. WOOD
+	*Swamp Sparrow	Lewis	*male	3. Bird species that could be found in a swamp-land area all winter
+	*Tappan Adney	Psi	*male	10. Illustrator who created text illustrations for the Handbook of Birds of Eastern North America
+	*The Editor of BIRD-LORE	Lewis	*male	2. Male editor of BIRD-LORE magazine who is a friend of Gilbert H. Grosvenor and other Audubon workers
+	*The friend	Onyx	*male	2. Male friend of H. Ira Hartshorn who saw the Chickadees begin digging their nest hole
+	*The male Warbler	Fenrir	male	8. Male parent bird who delivered food to the brooding female and helped care for their young
+	*The neighbor	Fable	*male	2. Male neighbor who planned a greenhouse on the site of his young chickens and cut down a buttonball tree
+	*The old Owl	Liam	*male	2. Male Barn Owl parent who brought mice to feed the young and was seen with a mouse in its beak
+	*The oldest son	Eric	*male	2. Male child of Gilbert H. Grosvenor who obtained permission to get a fallen apple tree and hung the nest in a dying cherry tree
+	*The other	Kumo	*male	2. Male Barn Owl sibling who was held by claws while his brother attacked him
+	*The other one	Santa	*male	2. Male Barn Owl sibling who hid in a leafy top after escaping the coop | 2. Male Barn Owl sibling who was held by claws while his brother attacked him
+	*The other two	Alex	*male	2. Male Barn Owl siblings who escaped from the coop after one died | 2. Male Barn Owl siblings who were released from the coop and ran to the wood-pile
+	*The owner	George	*male	2. Male owner of the farm where young chickens were running and who felt that large Owls were a menace to his flock
+	*The parent	Omega	*male	2. Male Barn Owl parent who circled with a mouse in its beak | 2. Male Barn Owl parent who watched from a tree in the marshy meadows
+	*The six children	Fenrir	*male	2. Male children of Gilbert H. Grosvenor who moved to the farm with their parents
+	*The smallest of the three	Michael	*male	2. Male Barn Owl sibling who died after the tree fall and was found dead in the coop
+	*The workman	Daniel	*male	2. Male worker who climbed over the top of a felled buttonball tree and was startled by young Barn Owls
+	*Theodore S. Palmer	Daniel	male	9. First Vice President of the National Association of Audubon Societies
+	*Tree Sparrow	Daniel	*male	3. Bird species that attracted Butcherbirds and smaller Hawks in a swamp-land area
+	*Upland Plover	Puck	*male	3. Bird species that was still found in southeastern Nebraska despite being considered scarce
+	*Vernon Bailey	Nicola	*male	9. Husband of Florence Merriam Bailey who collaborated with her on bird studies
+	*W. A. Bryan	George	*male	4. Author who declares an undescribed species of Drepanididae on Nihoa, Hawaiian Group
+	*W. H. Broomhall	Alex	*male	1. Contributor to Bird-Lore subscription list
+	*Wells W. Cooke	Puck	male	2. Male ornithologist delegated by Henshaw to visit Grosvenor's farm and who was impressed by the number of birds gathered around the house
+	*Willard L. Metcalf	Michael	*male	1. Contributor to Bird-Lore subscription list
+	*William Dutcher	Eric	male	9. President of the National Association of Audubon Societies
+	*William L. Finley	Eric	male	1. Co-author of 'Little Bird Blue' with Irene Finley
+	*Wilson's Petrel	Alex	*male	3. Bird species that was observed over the Hudson River
+	*Wilson's Snipe	Nicola	*male	3. Bird species that wintered in a swamp-land area
+	*Winter Wren	Fenrir	*male	3. Bird species that seemed to be at home in a swamp-land area
+	*Alice Hall Walter	Isabella	female	6. Editor of the School Department, addressed as 'the Editor' at 67 Oriole Avenue, Providence, R. I.
+	*Chestnut-sided Warbler	Alpha	*female	7. A common member of the Wood Warbler family found in Eastern States, characterized by olive-green back, bright yellow crown, and chestnut sides in males during spring; females are similar but duller. Males have distinctive plumage in spring that changes to yellowish olive-green with chestnut spots in fall and winter.
+	*E. Eveleen Hathaway	Alice	female	1. Author of 'Evening Grosbeak at Glen Falls, N. Y.' and contributor to Notes from Field and Study
+	*Elizabeth C. T. Miller	Nicole	female	9. President of the Cleveland Bird-Lovers' Association
+	*Fanny Hardy	Alloy	*female	9. Co-founder of Smith College Audubon Society with Florence Merriam
+	*female Chestnut-sided Warbler	Xiaobei	female	7. The female Chestnut-sided Warbler in spring is similar to the male but with duller colors. In fall and winter, both sexes have yellowish olive-green upper parts with faint streaks on the back.
+	*Florence Merriam	Heart	*female	9. Early supporter of Audubon movement who organized Smith College Audubon Society
+	*Geraldine Sager	Beta	female	6. Eleven-year-old student from Herndon, Virginia who participated in a bird study society and wrote about feeding birds
+	*Green-winged Teal	Alloy	*female	3. Bird species that remained in a swamp-land area during winter
+	*house-cat	Xiaobei	*female	7. A feline hunter that poses a threat to Chestnut-sided Warbler nests, capable of reaching nests as low as two and a half feet from the ground.
+	*Irene Finley	Xiaoni	female	1. Co-author of 'Little Bird Blue' with William L. Finley
+	*Mabel Osgood Wright	Nicole	female	5. Contributing editor of BIRD-LORE magazine, mentioned alongside Frank M. Chapman as an editorial staff member
+	*May S. Danner	River	female	1. Author of 'Martin Problems' and contributor to Notes from Field and Study
+	*Miss Beecher	Alpha	*female	8. Named in the song description of Chestnut-sided Warbler, likely a reference to Harriet Beecher Stowe
+	*Mrs. Bailey	Heart	female	4. Author of 'The Characteristic Birds of the Dakota Prairies', writing about water-birds found along sloughs and marshes
+	*Mrs. Finley	Kore	female	10. Wife of Mr. William L. Finley, who accompanied him on his spring trip to the East
+	*Mrs. G. R. Pike	Sara	female	10. A woman from North Yakima who has been indefatigable in her efforts to spread the study of birds in schools
+	*Mrs. Herbert R. Mills	Sara	female	3. Owner of a bird census record that was incorrectly published in BIRD-LORE magazine
+	*Mrs. May S. DANNER	Kore	female	3. Author who asked about Martin nesting behavior and polygamy
+	*The baby	Sarah	*female	2. Female child of Gilbert H. Grosvenor whose baby dress piece was found in a Catbird's nest
+	*The female Warbler	Isabella	female	8. Female parent bird who brooded the newly hatched young and passed food to them
+	*The Warblers	Beta	*female	8. Parent birds who raised a Cowbird chick in their nest, showing parental devotion and care for their young
+	*The wife	Nezumi	*female	2. Female spouse of Gilbert H. Grosvenor who moved to the farm with him and his children

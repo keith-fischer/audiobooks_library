@@ -1,0 +1,107 @@
+	narrator	Adam	male	Story narrator
+	Carver	Santa	male	1. Explorer who described Nadowessie (Sioux) hunting methods and noted their use of dogs | 4. Explorer who met Omaha hunting parties on Minnesota river in 1766
+	Lewis	Michael	male	1. Explorer who documented Siouan Indians' use of dogs for draft and burden
+	Long	Lewis	male	1. Explorer whose naturalists found horses in use among Kansa and other tribes
+	Mr Dorsey	George	*male	3. Scholar who conducted treatises on Siouan peoples and their organization, referenced as a source for information about tribal structures
+	Powell	Echo	male	1. Scholar who explained the four stages of development in mythologic philosophy | 5. An ethnologist who formulated the fundamental principles of tribal organization through kinship and whose work is cited throughout the chapter as a primary source for understanding American Indian sociology.
+	Trumbull	Omega	male	1. Writer who documented the origin of the term 'Sioux' as a corruption expressing enmity or contempt
+	*Absaruke	Eric	*male	4. Indigenous people who were known as Crow by Hidatsa but whose name meant hawk
+	*Allen	Fenrir	male	1. Scholar who demonstrated the spread of buffalo eastward across Appalachians
+	*American Horse	Kumo	*male	4. Dakota chief and warrior, prominent leader during the Dakota Wars of 1862
+	*Asiniboin	Alex	male	2. A Siouan Indian tribe primarily located in Canada, part of the broader Siouan group discussed in the chapter | 4. Indigenous people who seceded from the Yanktonai and took refuge among rocks of Lake-of-the-Woods
+	*Blackbird	Liam	*male	4. Omaha chief who died during the smallpox epidemic of the late 18th century
+	*Bourgmont	Fenrir	*male	4. French explorer who mentioned a large village of Quans in 1723
+	*Brown	Lewis	*male	4. Explorer who described Osage and Kansa in 1817
+	*Buffalo	Omega	*male	2. A geologically recent animal that was central to Siouan hunting practices and migration patterns, described as a key factor in Siouan habitat expansion
+	*Caddoan	Puck	*male	2. A neighboring warlike tribe that held back Siouan expansion across the plains, mentioned as an alien huntsmen group
+	*Cassa Tate	Psi	*male	6. A figure mentioned in relation to a tomahawk depicted on an illustration, possibly a historical or cultural reference.
+	*Catlin	Psi	male	1. Artist who visited Siouan territory and documented their use of dogs as sacred animals | 4. Explorer who found Oto and Missouri together in Pawnee country in 1833
+	*Charlevoix	Santa	*male	4. French explorer who fixed Oto habitat in 1721
+	*Chauvignerie	Puck	*male	4. French explorer who located Asiniboin south of Ounipigan lake in 1736
+	*Clark	Nicola	male	1. Explorer who documented Siouan Indians' use of dogs for draft and burden
+	*Crazy Horse	Onyx	*male	4. Dakota warrior and chief, famous for his resistance to U.S. government policies
+	*Croghan	Eric	*male	4. Historian who wrote about the Sue Indians and Dakota tribes in the 18th century
+	*Crow	Psi	*male	4. Indigenous people who occupied the Black Hills region before Dakota tribes | 4. Indigenous people who separated from Hidatsa in the 18th century
+	*De l'Isle	Psi	*male	4. French explorer who placed the principal Acansa village on Arkansas river in 1700
+	*De Soto	Puck	*male	4. Spanish explorer who encountered the Kwapa in 1541
+	*Delaware	Alex	*male	4. Indigenous people who were also known as Lenni-Lenape
+	*Dorsey	Eric	male	1. Scholar who made critical examination of Catawba material and compared it with Dakota dialects, later studied Siouan Indians closely | 4. Historian who collected tribal traditions and visited various tribes in the 19th century
+	*Drake	George	*male	4. Explorer who estimated Asiniboin population at 10,000 before smallpox epidemic
+	*Dupratz	Psi	*male	4. Explorer who mentioned Oto as a small nation on Missouri river in 1758
+	*Edwin James	Omega	*male	6. An author who wrote 'Account of an Expedition from Pittsburgh to the Rocky Mountains' and is cited in footnotes for his exploration accounts.
+	*Elliott Coues	George	*male	6. An author who wrote the 'History of the Expedition under the Command of Lewis and Clark' and is cited in multiple footnotes for his work on exploration and ethnography.
+	*Elwapa	Omega	*male	4. Indigenous people who migrated from the Ohio region to the Great Plains
+	*Essanape	Eric	*male	4. Indigenous people who were next to the Makatapi (Dakota) in the Walam-Olum record
+	*Even-his-horse-is-feared	Eric	*male	4. Dakota chief, also known as Man-afraid-of-his-horses, prominent leader during the Dakota Wars
+	*Fox	Fenrir	*male	4. Indigenous people who joined with Sac to conquer and disperse the Missouri tribe
+	*Francis La Flesche	Michael	*male	6. A collaborator with Alice C. Fletcher on the Omaha Indian Music study and is mentioned as contributing to the structural analysis of the music.
+	*Gallatin	Fable	male	1. Scholar who employed the term 'Sioux' systematically to designate an ethnic unit of American Indians
+	*Gatschet	Liam	male	1. Scholar who collected linguistic material among Catawba Indians and compared it with Dakota dialects | 4. Linguist who traced Siouan linguistic evolution
+	*Gravier	Nicola	*male	4. French explorer who identified five Kwapa villages in 1701
+	*Grinnell	Nicola	male	1. Scholar who learned from an aged Indian about the arrival of horses among neighboring tribes
+	*Gros Ventres	Daniel	*male	4. Alternative name for Hidatsa people
+	*Hale	Daniel	male	1. Investigator who noted resemblance between Tutelo and Dakota languages in 1872 | 4. Linguist who traced Siouan linguistic evolution
+	*Hennepin	Daniel	*male	4. French explorer who located the Asiniboin northeast of Issati in 1680
+	*Hidatsa	Kumo	*male	4. Indigenous people who migrated from the Heart River area to Knife River | 4. Indigenous people who migrated from Heart River area to Knife River
+	*Iberville	Echo	*male	4. French explorer who located Iowa and Oto with Omaha in 1700
+	*Illinois	Nicola	*male	4. Algonquian tribe that nearly annihilated the Winnebago in early days
+	*J.A. Allen	Santa	*male	6. An author who wrote 'The American Bisons, Living and Extinct' and is cited for his work on natural history.
+	*James	Liam	male	1. Explorer who documented Omaha tribes in 1819
+	*James Owen Dorsey	Puck	*male	6. A scholar and ethnologist who prepared the 'Siouan Sociology' paper and contributed to various anthropological studies. He is mentioned as having prepared manuscripts and notes for the chapter.
+	*Jefferys	Michael	*male	4. Explorer who placed Iowa between Missouri river and Des Moines river in 1761
+	*John Comfort Fillmore	Echo	*male	6. An academic who contributed a report on the structural peculiarities of Omaha Indian music as part of the collaborative research with Fletcher and La Flesche.
+	*Joutel	Echo	*male	4. French explorer who located two Kwapa villages on Arkansas river in 1687
+	*Kansa	Alex	*male	4. Indigenous people who migrated from the Ohio region to the Great Plains
+	*Kihatsa	Alex	*male	4. Alternative name for Crow people used by Hidatsa
+	*Kiowan	George	*male	2. A neighboring warlike tribe that held back Siouan expansion across the plains, mentioned as an alien huntsmen group
+	*La Hontan	Alex	*male	4. French explorer who claimed to have visited the Arikara in 1689-90
+	*La Salle	Lewis	*male	4. French explorer who found the Kwapa in three villages along the Mississippi
+	*Lenni-Lenape	Daniel	*male	4. Indigenous people who recorded the Walam-Olum historical record
+	*Lewis and Clark	Kumo	*male	4. American explorers who documented the Iowa, Oto, and Missouri tribes in 1804-1806
+	*Makatapi	Fable	*male	4. Indigenous people who were neighbors of the Essanape in the Walam-Olum record
+	*Mandan	Fable	*male	2. A Siouan tribe with a tradition about their descent from eastern Siouan tribes, mentioned as having ancestral connections to the plains | 4. Indigenous people who established villages along the Missouri River
+	*Marquette	George	*male	4. French explorer who mapped the Iowa and Oto tribes in 1673
+	*Matthews	Eric	male	1. Explorer who gained information about Hidatsa villages in 1796 | 4. Historian who wrote about Hidatsa and Crow people
+	*Maximilian	Psi	*male	1. Explorer who documented Siouan Indians' use of horses and their terminology for dogs
+	*Minitari	Liam	*male	4. Alternative name for Hidatsa people
+	*Mooney	Kumo	male	1. Researcher who studied Cherokee and cognate tribes of the southern Atlantic slope, documented relations between Siouan tribes | 4. Historian who reviewed the history of Monakan, Oatawba, Sara, Pedee, and Santee tribes
+	*Morgan	Onyx	male	1. Scholar who described the framework of aboriginal Dakota houses | 5. An ethnologist who detected numerous striking examples of kinship terminology systems among different tribes and brought them to wider attention, though his work is mentioned as building upon Powell's earlier formulations.
+	*Nicollet	Onyx	*male	4. Explorer who found Winnebago on Green bay in 1639
+	*Omaha	Puck	*male	4. Indigenous people who migrated from the Ohio region to the Great Plains
+	*Osage	Fable	*male	4. Indigenous people who migrated from the Ohio region to the Great Plains
+	*Penicaut	Omega	*male	4. French explorer who identified the Osage tribes in 1719
+	*Perrot	Fable	*male	4. French explorer who referred to the Asiniboin as a Sioux tribe in the 17th century
+	*Pike	Fenrir	*male	4. Explorer who enumerated seven Winnebago villages in 1811
+	*Ponka	George	*male	4. Indigenous people who migrated from the Ohio region to the Great Plains
+	*Porter	Omega	*male	4. Explorer who described Osage country in 1829
+	*Prichard	Alex	male	1. Scholar who adopted Gallatin's terminology for the Siouan stock
+	*Prince Maximilian	Kumo	*male	4. Explorer who found Mandan house-structures along the Missouri | 6. An explorer who wrote 'Travels in the Interior of North America' and is cited for his observations on Native American tribes.
+	*Red Cloud	Nicola	*male	4. Dakota chief and warrior, prominent leader during the Dakota Wars of 1862
+	*Riggs	Daniel	male	1. Scholar who extensively studied Siouan languages
+	*Sac	Onyx	*male	4. Indigenous people who conquered and dispersed the Missouri tribe in the 18th century
+	*Santee	Echo	*male	4. Dakota tribe that participated in the 1862 uprising against white settlers
+	*Say	Fenrir	male	1. Explorer who documented Siouan Indians' beliefs and practices
+	*Schoolcraft	Kumo	*male	1. Explorer who documented composition of Winnebago tribes in 1850 | 4. Explorer who documented the Osage population in 1853
+	*Shaler	Onyx	male	1. Scholar who suggested that presence of buffalo materially affected the vocation of Siouan Indians
+	*Shea	Nicola	*male	4. Historian who wrote about Winnebago history and their annihilation by Illinois tribe
+	*Sibley	Onyx	*male	4. American explorer who placed the Arkensa in three villages on Arkansas river in 1805
+	*Sitting Bull	Fenrir	*male	4. Dakota holy man and chief, leader during the Battle of Little Bighorn
+	*Spotted Tail	Psi	*male	4. Dakota chief and warrior, notable representative of the Dakota people during the 19th century
+	*St Cosme	Santa	*male	4. French explorer who noted the smallpox epidemic affecting Kwapa in 1699
+	*Teton	Daniel	*male	4. Dakota tribe leader who made annual raids on the Ponka during the 19th century
+	*The elders	Lewis	*male	3. Group of older individuals who served as advisors to military leaders in Siouan tribal government, particularly during times of peace
+	*The kings	Santa	*male	3. Leaders who were considered divinely protected and whose authority was recognized as having divine sanction
+	*The priests	Michael	*male	3. Religious figures who advised military leaders in Siouan tribal government and were part of the spiritual hierarchy
+	*The shamans	Echo	*male	3. Religious practitioners whose influence diminished during wartime but flourished in times of peace within Siouan society
+	*Tonty	Michael	*male	4. French explorer who mentioned four Kwapa villages in 1681
+	*W. J. McGee	Puck	male	1. Author of the preliminary sketch on Siouan Indians, a scholar who wrote the fifteenth annual report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution
+	*Walam-Olum	Liam	*male	4. Historical record of the Lenni-Lenape or Delaware people
+	*Wazi-kute	Santa	*male	4. Dakota gens that separated from the Asiniboin in the 17th century
+	*Westermarck	Fable	*male	5. An ethnologist who recently reviewed records of observation among primitive peoples of many lands and found traces of the same sequence in marriage development as described by Powell.
+	*William H. Keating	Lewis	*male	6. An author who wrote 'Narrative of an Expedition to the Source of St. Peter's River' and is cited in footnotes for his exploration narratives.
+	*Williamson	Liam	*male	4. Historian who was called 'the father of the Dakota mission'
+	*Yankton	Lewis	*male	4. Dakota tribe that lived near the confluence of Minnesota and Mississippi rivers
+	*Yanktonnai	Michael	*male	4. Dakota tribe that was found on the Missouri by Lewis and Clark
+	*Alice C. Fletcher	Alice	*female	6. An anthropologist who conducted a study of Omaha Indian Music and collaborated with Francis La Flesche on the research.
+	*Fletcher	Alloy	*female	1. Scholar who studied Omaha and other Siouan music, whose memoir ranks among Indian classics
+	*Seri Indians	Tebukuro	*female	5. A tribe mentioned as probably the most primitive in North America, whose marriage customs are described as rigorously monogamous with a probationary period for prospective grooms.

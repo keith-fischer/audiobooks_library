@@ -1,0 +1,24 @@
+King Arthur	male	The main protagonist, king of Britain who drives the Saxons from his realm. He is a brave warrior who fights battles, leads armies, and has a prophetic dream about fiery griffins and serpents. He is known for his strength, honor, and leadership.
+*Ryence	male	King of North Wales who makes war upon King Leodegrance. He is Arthur's enemy and is defeated by Arthur in battle.
+*King Leodegrance	male	King of Camelgard who is attacked by Ryence. He is a close ally of Arthur and becomes the father of Guinevere.
+King Ban	male	One of Arthur's companions who joins him in battle against Ryence. He later departs to deal with King Claudas.
+*King Bors	male	One of Arthur's companions who joins him in battle against Ryence. He later departs to deal with King Claudas.
+*King Claudas	male	A king who causes mischief and is a threat to Arthur's realm. He is the brother of King Lot.
+*Guinevere	female	Daughter of King Leodegrance and future wife of King Arthur. She is first seen at a festival in Camelgard.
+*Belisent	*female	King Arthur's half-sister, wife to King Lot. She comes to Caerleon as a messenger but is actually spying on Arthur's power.
+*King Lot	male	Belisent's husband and King Arthur's enemy. He is jealous of Arthur because of his relationship with Belisent.
+*Gowain	male	Belisent's son and one of four sons who accompany her to Caerleon.
+*Gaheris	male	Belisent's son and one of four sons who accompany her to Caerleon.
+*Agravaine	male	Belisent's son and one of four sons who accompany her to Caerleon.
+*Gareth	male	Belisent's son and one of four sons who accompany her to Caerleon.
+*King Pellinore	male	A knight who pursues the questing beast and later fights King Arthur in a duel. He is revealed to be a great knight who will serve Arthur well.
+*Colgrin	male	A Saxon king who is defeated by Arthur and besieged in York.
+*Baldulph	male	Colgrin's brother who comes to raise the siege of York. He disguises himself as a jester and enters Arthur's camp.
+*Cheldric	male	A Saxon leader who lands with six hundred ships on the eastern coast. He is eventually hunted down and killed by Cador.
+*Hoel	male	King of the Armorican Britons who comes to help Arthur against the Saxons.
+*Cador	male	Duke of Cornwall who pursues and kills Cheldric and other Saxons after they flee from the siege.
+*King of Ireland	*male	A king who comes to relieve the besieged Saxons but is defeated by Arthur.
+*Nirles	male	A knight who is killed by the mysterious knight at the fountain. His squire seeks justice for his death.
+Griflet	*male	A young squire who is knighted by Arthur to avenge his master Nirles's death. He is defeated in combat but survives.
+Merlin	*male	A mysterious figure who appears as both a child and an old man. He prophesies Arthur's death, reveals his true identity to him, and helps guide the king.
+*King of Rome	*male	An emperor who sends ambassadors demanding tribute from Arthur. He is insulted when Arthur refuses to pay tribute.

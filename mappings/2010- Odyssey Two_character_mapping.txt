@@ -1,0 +1,44 @@
+	narrator	Alex	male	Story narrator
+	Arthur C. Clarke	Daniel	*male	12. Author and science fiction writer who wrote the introduction to this chapter. He is a prominent figure in space exploration literature and science fiction.
+	Bobby Bowman	George	*male	12. David Bowman's brother who is mentioned in the story as having died, and whose death was a factor in David's decision to go on the mission.
+	Dave Bowman	Omega	*male	12. Astronaut who disappeared during the Discovery mission after encountering a monolith on Jupiter. He is later revealed to have become something beyond human consciousness.
+	Dimitri Moisevitch	Liam	*male	12. Russian scientist who meets with Heywood Floyd at the telescope to discuss the monolith and space missions. He is involved in Soviet space programs.
+	Heywood Floyd	Ryan	*male	12. Former Chairman of the National Council on Astronautics and Chancellor of the University of Hawaii. He is a key figure in space exploration who becomes involved with the Jupiter mission and later returns to Earth.
+	Jose Fernandez	Eric	*male	12. Husband of Betty Fernandez who is described as being in a relationship with her and later married to her.
+	Maxim Brailovsky	Fable	*male	12. Russian engineer who works aboard Leonov. He is a young man with expertise in structures and has a friendly relationship with Zenia Marchenko.
+	Nikolai Ternovsky	Nicola	*male	12. Russian engineer who works aboard Discovery and is involved in the technical aspects of the mission.
+	Sasha Kovalev	Puck	*male	12. Russian communications engineer aboard Leonov who is involved in technical operations and has a good command of English.
+	Sivasubramanian Chandrasegarampillai	Fenrir	*male	12. Computer scientist at the University of Illinois who is deeply affected by the malfunctioning of HAL 9000 and his work with the computer.
+	Vasili Orlov	Kumo	*male	12. Russian scientist who is the chief navigator and astronomer aboard Leonov. He works closely with Floyd on space missions.
+	Victor Millson	Onyx	*male	12. Government official who contacts Floyd with important information about the Jupiter mission and Discovery's orbital problems.
+	Walter Curnow	Liam	*male	12. American engineer who works with Floyd and Chandra on the Discovery mission. He is known for his humor and engineering skills.
+	Betty Fernandez	Dora	*female	12. Woman who had a relationship with David Bowman and later married Jose Fernandez. She is described as having been in a car accident.
+	Captain Tatiana Orlova	Jessica	*female	12. Russian captain of the spacecraft Cosmonaut Alexei Leonov who leads the mission to Jupiter. She is described as having grace and intensity.
+	Caroline Floyd	Sara	*female	12. Heywood Floyd's wife who lives in Hawaii with their son Christopher. She is concerned about her husband's return and the impact of his space mission on their family.
+	Jessie Bowman	Lily	*female	12. Mother of David Bowman who died after the arrival of the mysterious object on Earth. She is described as having a mental breakdown.
+	Katerina Rudenko	Sky	*female	12. Surgeon-Commander aboard Leonov who is responsible for the medical care of the crew. She is described as having a maternal figure and being very competent.
+	Zenia Marchenko	Tebukuro	*female	12. Young Russian crew member aboard Leonov who is described as having been injured in an accident and being the baby of the crew.
+	academician vasili	Adam		
+	chandra	Fenrir		
+	colonel	Alex		
+	david bowman	Psi		
+	doctor	Bella		
+	hal	Adam		
+	hal 9000	Adam		
+	max	Aiden		
+	max brailovsky	Nicole		
+	mission control	Michael		
+	nurse	Alice		
+	professor chang	Uncle Fu		
+	sal	Alex		
+	speaker	Adam		
+	surgeon-commander rudenko	Alex		
+	tanya	Nezumi		
+	technician	Adam		
+	vasilps	Adam		
+	*Alexei Leonov	Kumo	*male	12. Soviet cosmonaut who is mentioned as the commander of the Russian spacecraft Cosmonaut Alexei Leonov, which will travel to Jupiter and rendezvous with Discovery.
+	*Christopher Floyd	Psi	*male	12. Heywood Floyd's son who is left behind on Earth during his father's space mission. He is a young child who will grow up while Floyd is away.
+	*Dr. Chang	Psi	*male	12. Chinese scientist who was aboard the Tsien spacecraft and discovered life on Europa before his ship was destroyed.
+	*Frank Poole	Nicola	*male	12. Astronaut who died during the Discovery mission when he was ejected into space after a malfunction. He is mentioned as one of the crew members who died in the Jupiter mission.
+	*Hsue-shen Tsien	Echo	*male	12. Chinese-American rocket scientist who founded the Guggenheim Aeronautical Laboratory at Caltech and later led China's rocket program. Known for his contributions to American rocket research in the 1940s and his arrest during the McCarthy period.
+	*Irma Yakunina	Xiaoni	*female	12. Medical assistant aboard Leonov who is replaced by Zenia Marchenko after an accident.

@@ -1,0 +1,25 @@
+*Merlin	*male	A powerful magician who fell into a dotage of love for a damsel of the lake. He was trapped in an oak tree by the damsel who had learned his spells from him.
+Damsel of the Lake	*female	A mysterious damsel who was the lover of Merlin. She learned his magical crafts and ultimately trapped him in an oak tree using his own spells.
+King Arthur	*male	The king of Camelot who presides over the Round Table. He receives news about the Sangreal quest and calls together his knights.
+Sir Lancelot	*male	A knight of the Round Table who is called by a mysterious lady to join the quest for the Sangreal. He is also the father of Sir Galahad.
+Queen Guinevere	*female	The queen of King Arthur, who is deeply affected by Lancelot's departure for the quest.
+Sir Bors	*male	A knight of the Round Table who sets out on the quest for the Sangreal. He is Sir Lionel's brother.
+Sir Lionel	*male	A knight of the Round Table who is Sir Bors's brother. He becomes possessed by a demon and attacks his own brother.
+Sir Percival	*male	A knight of the Round Table who sets out on the quest for the Sangreal. He is Sir Galahad's cousin and later becomes a knight of the Round Table.
+Sir Gawain	*male	A knight of the Round Table who receives a message from Merlin about the Sangreal quest. He vows to seek it for twelve months and a day.
+Sir Key	*male	The seneschal of King Arthur's court who reminds the king about ancient customs.
+Sir Galahad	*male	A young knight who is revealed to be the son of Sir Lancelot. He achieves the greatest marvels and sits in the Siege Perilous.
+*King Pelles	*male	A king who was wounded by Balin and is the grandfather of Sir Galahad. He is healed by Sir Galahad.
+*Balin	*male	A knight who wounded King Pelles with the dolorous stroke, causing him to be unable to see the Sangreal.
+King Bagdemagus	*male	A king who attempts to bear the shield of the monastery but is wounded by a White Knight.
+*Sir Uwaine	*male	A knight of the Round Table who meets Sir Galahad at an abbey.
+White Knight	*male	A mysterious knight who appears to Sir Bagdemagus and tells him about the shield of the monastery.
+Nacien the hermit	*male	A hermit who sends word to King Arthur about the Sangreal appearing in his house.
+Sir Colgrevance	*male	A knight of the Round Table who intervenes when Sir Lionel attacks his brother Sir Bors.
+Sir Pridan le Noir	*male	A knight who takes lands from the lady of the tower and fights Sir Bors in a tournament.
+*Sir Lionel's sister	*female	A damsel who is the daughter of King Pellinore and helps Sir Percival in his quest.
+King Evelake	*male	A king converted to Christianity by Joseph of Arimathea who is healed by Sir Galahad.
+*Sir Lancelot's sister	*female	A damsel who is the daughter of King Pellinore and helps Sir Percival in his quest.
+*Sir Bors's sister	*female	A damsel who is the daughter of King Pellinore and helps Sir Percival in his quest.
+*Sir Estouranse	*male	A heathen tyrant king of Sarras who imprisons Sir Galahad and his companions.
+Joseph of Arimathea	*male	A knight who brought Christianity to Britain and is the ancestor of Sir Galahad.

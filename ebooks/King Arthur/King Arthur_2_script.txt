@@ -1,0 +1,333 @@
+	narrator	Now Arthur the prince had all this time been nourished in Sir Ector's house as his own son
+	narrator	and was fair and tall and comely, being of the age of fifteen years, great in strength
+	narrator	gentle in manner, and accomplished in all exercises proper for the training of a knight.
+	narrator	But as yet he knew not of his father; for Merlin had so dealt, that none save Uther and himself knew aught about him.
+	narrator	Wherefore it befell that many of the knights and barons who heard King Uther speak before his death
+	narrator	and call his son Arthur his successor, were in great amazement; and some doubted, and others were displeased.
+	narrator	Anon the chief lords and princes set forth each to his own land, and, raising armed men and multitudes of followers
+	narrator	determined every one to gain the crown for himself; for they said in their hearts, "If there be any such a son at all as
+	narrator	he of whom this wizard forced the king to speak
+	narrator	who are we that a beardless boy should have rule over us?"
+	narrator	So the land stood long in great peril, for every lord and baron sought but his own advantage; and the Saxons
+	narrator	growing ever more adventurous, wasted and overran the towns and villages in every part.
+	narrator	Then Merlin went to Brice, the Archbishop of Canterbury, and advised him to require all the earls and barons of the realm and all knights
+	narrator	and gentlemen-at-arms to come to him at London
+	narrator	before Christmas, under pain of cursing, that they might learn the will of Heaven who should be king.
+	narrator	This, therefore, the archbishop did, and upon Christmas Eve were met together in London all the greatest princes
+	narrator	lords, and barons; and long before day they prayed in St.
+	narrator	Paul's Church, and the archbishop besought Heaven for a sign who should be lawful king of all the realm.
+	narrator	And as they prayed, there was seen in the churchyard, set straight before the doorways of the church
+	narrator	a huge square stone having a naked sword stuck in the midst of it.
+	narrator	And on the sword was written in letters of gold, "Whoso pulleth out the sword from this stone is born the rightful King of England."
+	narrator	At this all the people wondered greatly; and, when Mass was over, the nobles, knights, and princes ran out eagerly from the church to see
+	narrator	the stone and sword; and a law was forthwith made that whoso should pull out the sword should be acknowledged straightway King of Britain.
+	narrator	Then many knights and barons pulled at the sword with all their might, and some of them tried many times
+	narrator	but none could stir or move it.
+	narrator	When all had tried in vain, the archbishop declared the man whom Heaven had chosen was not yet there.
+	brice	But God,
+	narrator	said he, "will doubtless make him known ere many days."
+	narrator	So ten knights were chosen, being men of high renown, to watch and keep the sword; and there was proclamation made through all the land
+	narrator	that whosoever would
+	narrator	had leave and liberty to try and pull it from the stone.
+	narrator	But though great multitudes of people came, both gentle and simple, for many days, no man could ever move the sword a hair's breadth from
+	narrator	its place.
+	narrator	Now, at the New Year's Eve a great tournament was to be held in London, which the archbishop had devised to keep together lords and
+	narrator	commons
+	narrator	lest they should grow estranged in the troublous and unsettled times.
+	narrator	To the which tournament there came, with many other knights, Sir Ector, Arthur's foster-father, who had great possessions near to London; and with him came
+	narrator	his son
+	narrator	Sir Key, but recently made knight, to take his part in the jousting, and young Arthur also to witness all the sports and fighting.
+	narrator	But as they rode towards the jousts, Sir Key found suddenly he had no sword, for he had left it at his father's house; and
+	narrator	turning to young Arthur
+	narrator	he prayed him to ride back and fetch it for him.
+	arthur	I will with a good will,
+	narrator	said Arthur; and rode fast back after the sword.
+	narrator	But when he came to the house he found it locked and empty, for all were gone forth to see the tournament.
+	narrator	Whereat, being angry and impatient, he said within himself, "I will ride to the churchyard and take with me the sword that sticketh in the
+	narrator	stone
+	narrator	for my brother shall not go without a sword this day."
+	narrator	So he rode and came to the churchyard, and alighting from his horse he tied him to the gate
+	narrator	and went to the pavilion, which was pitched near the stone, wherein abode the ten knights who watched and kept it; but he found no
+	narrator	knights there
+	narrator	for all were gone to see the jousting.
+	narrator	Then he took the sword by its handle, and lightly and fiercely he pulled it out of the stone
+	narrator	and took his horse and rode until he came to Sir Key and delivered him the sword.
+	narrator	But as soon as Sir Key saw it he knew well it was the sword of the stone
+	narrator	and, riding swiftly to his father, he cried out, "Lo! here, sir, is the sword of the stone
+	narrator	wherefore it is I who must be king of all this land."
+	narrator	When Sir Ector saw the sword, he turned back straight with Arthur and Sir Key and came to the churchyard
+	narrator	and there alighting, they went all three into the church, and Sir Key was sworn to tell truly how he came by the sword.
+	narrator	Then he confessed it was his brother Arthur who had brought it to him.
+	ector	Whereat Sir Ector, turning to young Arthur, asked him--"How gottest thou the sword?
+	arthur	Sir,
+	narrator	said he, "I will tell you. When I went home to fetch my brother's sword, I found nobody to deliver it to me
+	narrator	for all were abroad to the jousts. Yet was I loth to leave my brother swordless, and
+	narrator	bethinking me of this one, I came hither eagerly to fetch it for him, and pulled it out of the stone without any pain."
+	ector	Then said Sir Ector, much amazed and looking steadfastly on Arthur, "If this indeed be thus, 'tis thou who shalt be king of all this
+	ector	land--and God will have it so--for none but he who should be rightful Lord of Britain might ever draw this sword forth from that stone.
+	ector	But let me now with mine own eyes see thee put back the sword into its place and draw it forth again.
+	narrator	That is no mastery,
+	arthur	That is no mastery,
+	narrator	and straightway set it in the stone.
+	narrator	And then Sir Ector pulled at it himself, and after him Sir Key, with all his might
+	narrator	but both of them in vain: then Arthur, reaching forth his hand and grasping at the pommel
+	narrator	pulled it out easily, and at once.
+	narrator	Then fell Sir Ector down upon his knees upon the ground before young Arthur, and Sir Key also with him
+	narrator	and straightway did him homage as their sovereign lord.
+	arthur	Alas! mine own dear father and my brother, why kneel ye thus to me?
+	ector	Nay, my Lord Arthur,
+	ector	we are of no blood-kinship with thee, and little though I thought how high thy kin might be
+	ector	yet wast thou never more than foster-child of mine.
+	ector	And then he told him all he knew about his infancy, and how a stranger had delivered him
+	ector	with a great sum of gold, into his hands to be brought up and nourished as his own born child
+	ector	and then had disappeared.
+	narrator	But when young Arthur heard of it, he fell upon Sir Ector's neck, and wept, and made great lamentation
+	arthur	For now,
+	arthur	I have in one day lost my father and my mother and my brother.
+	ector	Sir,
+	ector	when thou shalt be made king be good and gracious unto me and mine.
+	arthur	If not,
+	arthur	I were no true man's son at all, for thou art he in all the world to whom I owe the most; and my good
+	arthur	lady and mother
+	arthur	thy wife, hath ever kept and fostered me as though I were her own; so if it be God's will that I be king hereafter
+	arthur	as thou sayest
+	arthur	desire of me whatever thing thou wilt and I will do it; and God forbid that I should fail thee in it.
+	ector	I will but pray,
+	ector	that thou wilt make my son Sir Key, thy foster-brother, seneschal of all the lands.
+	arthur	That shall he be,
+	arthur	and never shall another hold that office, save thy son, while he and I do live.
+	narrator	Anon, they left the church and went to the archbishop to tell him that the sword had been achieved.
+	narrator	And when he saw the sword in Arthur's hand he set a day and summoned all the princes
+	narrator	knights, and barons to meet again at St.
+	narrator	Paul's Church and see the will of Heaven signified.
+	narrator	So when they came together, the sword was put back in the stone, and all tried, from the greatest to the least
+	narrator	to move it; but there before them all not one could take it out save Arthur only.
+	narrator	But then befell a great confusion and dispute, for some cried out it was the will of Heaven
+	narrator	and,
+	narrator	Long live King Arthur,
+	narrator	but many more were full of wrath and said,
+	narrator	What! would ye give the ancient scepter of this land unto a boy born none know how?
+	narrator	And the contention growing greatly, till nothing could be done to pacify their rage, the meeting was at length broken up by the archbishop and
+	narrator	adjourned till Candlemas
+	narrator	when all should meet again.
+	narrator	But when Candlemas was come, Arthur alone again pulled forth the sword, though more than ever came to win it; and the barons
+	narrator	sorely vexed and angry, put it in delay till Easter.
+	narrator	But as he had sped before so he did at Easter, and the barons yet once more contrived delays till Pentecost.
+	narrator	But now the archbishop, fully seeing God's will, called together, by Merlin's counsel, a band of knights and gentlemen-at-arms
+	narrator	and set them about Arthur to keep him safely till the Feast of Pentecost.
+	narrator	And when at the feast Arthur still again alone prevailed to move the sword, the people all with one accord cried out
+	narrator	Long live King Arthur! we will have no more delay, nor any other king, for so it is God's will; and we will slay whoso
+	narrator	resisteth Him and Arthur;
+	narrator	and wherewithal they kneeled down all at once, and cried for Arthur's grace and pardon that they had so long delayed him from his crown.
+	narrator	Then he full sweetly and majestically pardoned them; and taking in his hand the sword, he offered it upon the high altar of the church.
+	narrator	Anon was he solemnly knighted with great pomp by the most famous knight there present, and the crown was placed upon his head; and
+	narrator	having taken oath to all the people, lords and commons, to be true king and deal in justice only unto his life's end
+	narrator	he received homage and service from all the barons who held lands and castles from the crown.
+	narrator	Then he made Sir Key, High Steward of England, and Sir Badewaine of Britain, Constable, and Sir Ulfius
+	narrator	Chamberlain:
+	narrator	and after this, with all his court and a great retinue of knights and armed men, he journeyed into Wales
+	narrator	and was crowned again in the old city of Caerleon-upon-Usk.
+	narrator	Meanwhile those knights and barons who had so long delayed him from the crown, met together and went up to the coronation feast at Caerleon
+	narrator	as if to do him homage; and there they ate and drank such things as were set before them at the royal banquet
+	narrator	sitting with the others in the great hall.
+	narrator	But when after the banquet Arthur began, according to the ancient royal custom, to bestow great boons and fiefs on whom he would
+	narrator	they all with one accord rose up, and scornfully refused his gifts, crying that they would take nothing from a beardless boy come of low
+	narrator	or unknown birth
+	narrator	but would instead give him good gifts of hard sword-strokes between neck and shoulders.
+	narrator	Whereat arose a deadly tumult in the hall, and every man there made him ready to fight.
+	narrator	But Arthur leaped up as a flame of fire against them, and all his knights and barons drawing their swords
+	narrator	rushed after him upon them and began a full sore battle; and presently the king's party prevailed
+	narrator	and drave the rebels from the hall and from the city, closing the gates behind them; and King Arthur brake his sword upon them in
+	narrator	his eagerness and rage.
+	narrator	But amongst them were six kings of great renown and might, who more than all raged against Arthur and determined to destroy him
+	narrator	namely, King Lot, King Nanters, King Urien, King Carados, King Yder, and King Anguisant.
+	narrator	These six, therefore, joining their armies together, laid close siege to the city of Caerleon, wherefrom King Arthur had so shamefully driven them.
+	narrator	And after fifteen days Merlin came suddenly into their camp and asked them what this treason meant.
+	merlin	Then he declared to them that Arthur was no base adventurer, but King Uther's son, whom they were bound to serve and honor even though
+	merlin	Heaven had not vouch-safed the wondrous miracle of the sword.
+	narrator	Some of the kings, when they heard Merlin speak thus, marveled and believed him; but others, as King Lot
+	narrator	laughed him and his words to scorn, and mocked him for a conjurer and wizard.
+	narrator	But it was agreed with Merlin that Arthur should come forth and speak with the kings.
+	narrator	So he went forth to them to the city gate, and with him the archbishop and Merlin
+	narrator	and Sir Key, Sir Brastias, and a great company of others.
+	narrator	And he spared them not in his speech, but spoke to them as king and chieftain, telling them plainly he would make them all bow
+	narrator	to him if he lived
+	narrator	unless they choose to do him homage there and then; and so they parted in great wrath
+	narrator	and each side armed in haste.
+	merlin	What will ye do? said Merlin to the kings; ye had best hold your hands, for were ye ten times as many ye should not
+	merlin	prevail.
+	king lot	Shall we be afraid of a dream-reader? quoth King Lot in scorn.
+	narrator	With that Merlin vanished away and came to King Arthur.
+	arthur	I have need now of a sword that shall chastise these rebels terribly.
+	merlin	Come then with me, for hard by there is a sword that I can gain for thee.
+	narrator	So they rode out that night till they came to a fair and broad lake, and in the midst of it King Arthur saw an
+	narrator	arm thrust up
+	narrator	clothed in white samite, and holding a great sword in the hand.
+	merlin	Lo! yonder is the sword I spoke of.
+	narrator	Then saw they a damsel floating on the lake in the moonlight.
+	narrator	"What damsel is that?" said the king.
+	merlin	The lady of the lake, said Merlin; for upon this lake there is a rock, and on the rock a noble palace
+	merlin	where she abideth, and she will come towards thee presently, when thou shalt ask her courteously for the sword.
+	narrator	Therewith the damsel came to King Arthur, and saluted him, and he saluted her, and said, "Lady
+	narrator	what sword is that the arm holdeth above the water? I would that it were mine, for I have no sword."
+	lady of the lake	Sir King, said the lady of the lake, that sword is mine, and if thou wilt give me in return a gift whenever I shall
+	lady of the lake	ask it of thee
+	lady of the lake	thou shalt have it.
+	arthur	By my faith, said he, I will give thee any gift that thou shalt ask.
+	lady of the lake	Well, said the damsel, go into yonder barge, and row thyself unto the sword, and take it and the scabbard with thee
+	lady of the lake	and I will ask my gift of thee when I see my time.
+	narrator	So King Arthur and Merlin alighted, and tied their horses to two trees, and went into the barge; and when they came to the sword
+	narrator	that the hand held
+	narrator	King Arthur took it by the handle and bore it with him, and the arm and hand went down under the water; and so they
+	narrator	came back to land
+	narrator	and rode again to Caerleon.
+	narrator	On the morrow Merlin bade King Arthur to set fiercely on the enemy; and in the meanwhile three hundred good knights went over to King
+	narrator	Arthur from the rebels' side.
+	narrator	Then at the spring of day, when they had scarce left their tents, he fell on them with might and main
+	narrator	and Sir Badewaine, Sir Key, and Sir Brastias slew on the right and on the left marvelously; and ever in the thickest of the fight
+	narrator	King Arthur raged like a young lion
+	narrator	and laid on with his sword, and did wondrous deeds of arms, to the joy and admiration of the knights and barons who beheld him.
+	narrator	Then King Lot, King Carados, and the King of the Hundred Knights--who also was with them--going round to the rear
+	narrator	set on King Arthur fiercely from behind; but King Arthur, turning to his knights, fought ever in the foremost press until his horse was slain
+	narrator	beneath him.
+	narrator	At that, King Lot rode furiously at him, and smote him down; but rising straightway, and being set again on horseback
+	narrator	he drew his sword Excalibur that he had gained by Merlin from the lady of the lake
+	narrator	which, shining brightly as the light of thirty torches, dazzled the eyes of his enemies.
+	narrator	And therewith falling on them afresh with all his knights, he drove them back and slew them in great numbers
+	narrator	and Merlin by his arts scattered among them fire and pitchy smoke, so that they broke and fled.
+	narrator	Then all the common people of Caerleon, seeing them give way, rose up with one accord, and rushed at them with clubs and staves
+	narrator	and chased them far and wide, and slew many great knights and lords, and the remainder of them fled and were seen no more.
+	narrator	Thus won King Arthur his first battle and put his enemies to shame.
+	narrator	But the six kings, though sorely routed, prepared for a new war, and joining to themselves five others swore together that
+	narrator	whether for weal or woe, they would keep steadfast alliance till they had destroyed King Arthur.
+	narrator	Then, with a host of 50,000 men-at-arms on horseback, and 10,000 foot, they were soon ready, and sent forth their fore-riders
+	narrator	and drew from the northern country towards King Arthur, to the castle of Bedgraine.
+	narrator	But he by Merlin's counsel had sent over sea to King Ban of Benwick and King Bors of Gaul
+	narrator	praying them to come and help him in his wars, and promising to help them in return against King Claudas
+	narrator	their foe.
+	narrator	To which those kings made answer that they would joyfully fulfil his wish, and shortly after came to London with 300 knights
+	narrator	well arrayed for both peace and war, leaving behind them a great army on the other side of the sea till they had consulted with
+	narrator	King Arthur and his ministers how they might best dispose of it.
+	narrator	And Merlin being asked for his advice and help, agreed to go himself and fetch it over sea to England
+	narrator	which in one night he did; and brought with him 10,000 horsemen and led them northward privately to the forest of Bedgraine
+	narrator	and there lodged them in a valley secretly.
+	narrator	Then, by the counsel of Merlin, when they knew which way the eleven kings would ride and sleep
+	narrator	King Arthur with Kings Ban and Bors made themselves ready with their army for the fight, having yet but 30,000 men
+	narrator	counting the 10,000 who had come from Gaul.
+	merlin	Now shall ye do my advice
+	merlin	I would that King Ban and King Bors, with all their fellowship of 10,000 men, were led to ambush in this wood ere daylight
+	merlin	and stir not therefrom until the battle hath been long waged. And thou, Lord Arthur, at the spring of day draw forth thine army before
+	merlin	the enemy
+	merlin	and dress the battle so that they may at once see all thy host, for they will be the more rash and hardy when they
+	merlin	see you have but 20,000 men.
+	narrator	To this the three knights and the barons heartily consented, and it was done as Merlin had devised.
+	narrator	So on the morrow when the hosts beheld each other, the host of the north was greatly cheered to find so few led out against
+	narrator	them.
+	narrator	Then gave King Arthur the command to Sir Ulfius and Sir Brastias to take 3000 men-at-arms, and to open battle.
+	narrator	They therefore setting fiercely on the enemy slew them on the right hand and the left till it was wonderful to see their slaughter.
+	narrator	When the eleven kings beheld so small a band doing such mighty deeds of arms they were ashamed
+	narrator	and charged them fiercely in return.
+	narrator	Then was Sir Ulfius' horse slain under him; but he fought well and marvelously on foot against Duke Eustace and King Clarience
+	narrator	who set upon him grievously, till Sir Brastias, seeing his great peril, pricked towards them swiftly, and so smote the duke through with his spear
+	narrator	that horse and man fell down and rolled over.
+	narrator	Whereat King Clarience turned upon Sir Brastias, and rushing furiously together they each unhorsed the other and fell both to the ground
+	narrator	and there lay a long time stunned, their horses' knees being cut to the bone.
+	narrator	Then came Sir Key the seneschal with six companions, and did wondrous well, till the eleven kings went out against them and overthrew Sir Griflet
+	narrator	and Sir Lucas the butler.
+	narrator	And when Sir Key saw Sir Griflet unhorsed and on foot, he rode against King Nanters hotly and smote him down
+	narrator	and led his horse to Griflet and horsed him again; with the same spear did Sir Key smite down King Lot and wounded him full
+	narrator	sore.
+	narrator	But seeing that, the King of the Hundred Knights rushed at Sir Key and overthrew him in return
+	narrator	and took his horse and gave it to King Lot.
+	narrator	And when Sir Griflet saw Sir Key's mischance, he set his spear in rest, and riding at a mighty man-at-arms
+	narrator	he cast him down headlong and caught his horse and led it straightway to Sir Key.
+	narrator	By now the battle was growing perilous and hard, and both sides fought with rage and fury.
+	narrator	And Sir Ulfius and Sir Brastias were both afoot and in great danger of their death, and foully stained and trampled under horses' feet.
+	narrator	Then King Arthur, putting spurs to his horse, rushed forward like a lion into the midst of all the _melee_
+	narrator	and singling out King Cradlemont of North Wales, smote him through the left side and overthrew him
+	narrator	and taking his horse by the rein he brought it to Sir Ulfius in haste and said
+	narrator	"Take this horse, mine old friend, for thou hast great need of one, and charge by side of me." And even as he spoke he
+	narrator	saw Sir Ector
+	narrator	Sir Key's father, smitten to the earth by the King of the Hundred Knights, and his horse taken to King Cradlemont.
+	narrator	But when King Arthur saw him ride upon Sir Ector's horse his wrath was very great, and with his sword he smote King Cradlemont upon
+	narrator	the helm
+	narrator	and shore off the fourth part thereof and of the shield, and drave the sword onward to the horse's neck and slew the horse
+	narrator	and hurled the king upon the ground.
+	narrator	And now the battle waxed so great and furious that all the noise and sound thereof rang out by water and by wood
+	narrator	so that Kings Ban and Bors, with all their knights and men-at-arms in ambush, hearing the tumult and the cries
+	narrator	trembled and shook for eagerness, and scarce could stay in secret, but made them ready for the fray and dressed their shields and harness.
+	narrator	But when King Arthur saw the fury of the enemy, he raged like a mad lion, and stirred and drove his horse now here
+	narrator	now there, to the right hand and to the left and stayed not in his wrath till he had slain full twenty knights.
+	narrator	He wounded also King Lot so sorely in the shoulder that he left the field, and in great pain and dolor cried out to the
+	narrator	other kings
+	narrator	"Do ye as I devise, or we shall be destroyed. I, with the King of the Hundred Knights
+	narrator	King Anguisant, King Yder, and the Duke of Cambinet, will take fifteen thousand men and make a circuit
+	narrator	meanwhile that ye do hold the battle with twelve thousand. Then coming suddenly we will fall fiercely on them from behind and put them to
+	narrator	the rout
+	narrator	but else shall we never stand against them."
+	narrator	So Lot and four kings departed with their party to one side, and the six other kings dressed their ranks against King Arthur and fought
+	narrator	long and stoutly.
+	narrator	But now Kings Ban and Bors, with all their army fresh and eager, broke from their ambush and met face to face the five kings
+	narrator	and their host as they came round behind
+	narrator	and then began a frantic struggle with breaking of spears and clashing of swords and slaying of men and horses.
+	narrator	Anon King Lot, espying in the midst King Bors, cried out in great dismay, "Our Lady now defend us from our death and fearful wounds;
+	narrator	our peril groweth great
+	narrator	for yonder cometh one of the worshipfullest kings and best knights in all the world."
+	king of the hundred knights	Who is he?
+	king lot	It is King Bors of Gaul, and much I marvel how he may have come with all his host into this land without our knowledge.
+	king carados	Aha! I will encounter with this king if ye will rescue me when there is need.
+	narrator	"Ride on," said they.
+	narrator	So King Carados and all his host rode softly till they came within a bow-shot of King Bors
+	narrator	and then both hosts, spurring their horses to their greatest swiftness, rushed at each other.
+	narrator	And King Bors encountered in the onset with a knight, and struck him through with a spear
+	narrator	so that he fell dead upon the earth; then drawing his sword, he did such mighty feats of arms that all who saw him gazed
+	narrator	with wonder.
+	narrator	Anon King Ban came also forth upon the field with all his knights, and added yet more fury
+	narrator	sound, and slaughter, till at length both hosts of the eleven kings began to quake, and drawing all together into one body
+	narrator	they prepared to meet the worst, while a great multitude already fled.
+	king lot	Lords, we must take yet other means, or worse loss still awaits us. See ye not what people we have lost in waiting on the
+	king lot	footmen
+	king lot	and that it costs ten horsemen to save one of them? Therefore it is my counsel to put away our footmen from us
+	king lot	for it is almost night, and King Arthur will not stay to slaughter them. So they can save their lives in this great wood hard
+	king lot	by. Then let us gather into one band all the horsemen that remain
+	king lot	and whoso breaketh rank or leaveth us, let him be straightway slain by him that seeth him
+	king lot	for it is better that we slay a coward than through a coward be all slain. How say ye?
+	narrator	said King Lot; "answer me, all ye kings."
+	narrator	"It is well said," replied they all.
+	narrator	And swearing they would never fail each other, they mended and set right their armor and their shields
+	narrator	and took new spears and set them steadfastly against their thighs, waiting, and so stood still as a clump of trees stands on the plain;
+	narrator	and no assaults could shake them
+	narrator	they held so hard together; which when King Arthur saw he marveled greatly, and was very wroth.
+	king arthur	Yet, I may not blame them, by my faith, for they do as brave men ought to do
+	king arthur	and are the best fighting men and knights of most prowess that I ever saw or heard tell of.
+	narrator	And so said also Kings Ban and Bors, and praised them greatly for their noble chivalry.
+	narrator	But now came forty noble knights out of King Arthur's host, and prayed that he would suffer them to break the enemy.
+	narrator	And when they were allowed, they rode forth with their spears upon their thighs, and spurred their horses to their hottest.
+	narrator	Then the eleven kings, with a party of their knights, rushed with set spears as fast and mightily to meet them; and when they were
+	narrator	encountered
+	narrator	all the crash and splinter of their spears and armor rang with a mighty din, and so fierce and bloody was their onset that in
+	narrator	all that day there had been no such cruel press
+	narrator	and rage, and smiting.
+	narrator	At that same moment rode fiercely into the thickest of the struggle King Arthur and Kings Ban and Bors
+	narrator	and slew downright on both hands right and left, until their horses went in blood up to the fetlocks.
+	narrator	And while the slaughter and the noise and shouting were at their greatest, suddenly there came down through the battle Merlin the Wizard
+	narrator	upon a great black horse, and riding to King Arthur, he cried out,
+	merlin	Alas, my Lord! will ye have never done? Of sixty thousand have ye left but fifteen thousand men alive. Is it not time to stay
+	merlin	this slaying? for God is ill pleased with ye that ye have never ended
+	merlin	and yonder kings shall not be altogether overthrown this time. But if ye fall upon them any more
+	merlin	the fortune of this day will turn, and go to them. Withdraw, Lord, therefore, to thy lodging
+	merlin	and there now take thy rest, for to-day thou hast won a great victory, and overcome the noblest chivalry of all the world. And now
+	merlin	for many years those kings shall not disturb thee. Therefore
+	merlin	I tell thee, fear them no more, for now they are sore beaten, and have nothing left them but their honor; and why shouldest thou
+	merlin	slay them to take that?
+	king arthur	Thou sayest well, and I will take thy counsel.
+	narrator	With that he cried out, "Ho!" for the battle to cease, and sent forth heralds through the field to stay more fighting.
+	narrator	And gathering all the spoil, he gave it not amongst his own host, but to Kings Ban and Bors and all their knights and men-at-arms
+	narrator	that he might treat them with the greater courtesy as strangers.
+	narrator	Then Merlin took his leave of Arthur and the two other kings, and went to see his master
+	narrator	Blaise, a holy hermit, dwelling in Northumberland, who had nourished him through all his youth.
+	narrator	And Blaise was passing glad to see him, for there was a great love ever between them; and Merlin told him how King Arthur had
+	narrator	sped in the battle
+	narrator	and how it had ended; and told him the names of every king and knight of worship who was there.
+	narrator	So Blaise wrote down the battle, word for word, as Merlin told him; and in the same way ever after
+	narrator	all the battles of King Arthur's days Merlin caused Blaise, his master, to record.

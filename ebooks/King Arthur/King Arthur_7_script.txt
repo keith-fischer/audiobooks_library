@@ -1,0 +1,288 @@
+	narrator	VII
+	narrator	THE ADVENTURE OF ARTHUR AND SIR ACCOLON OF GAUL
+	narrator	Being now happily married, King Arthur for a season took his pleasure,
+	narrator	with great tournaments, and jousts, and huntings.
+	narrator	So once upon a time
+	narrator	the king and many of his knights rode hunting in a forest, and Arthur,
+	narrator	King Urience, and Sir Accolon of Gaul, followed after a great hart, and
+	narrator	being all three well mounted, they chased so fast that they outsped
+	narrator	their company, and left them many miles behind; but riding still as
+	narrator	rapidly as they could go, at length their horses fell dead under them.
+	narrator	Then being all three on foot, and seeing the stag not far before them,
+	narrator	very weary and nigh spent--"What shall we do," said King Arthur, "for we
+	narrator	are hard bested?"
+	narrator	"Let us go on afoot," said King Urience, "till we can
+	narrator	find some lodging."
+	narrator	At that they saw the stag lying upon the bank of a
+	narrator	great lake, with a hound springing at his throat, and many other hounds
+	narrator	trooping towards him.
+	narrator	So, running forward, Arthur blew the death-note on
+	narrator	his horn, and slew the hart.
+	narrator	Then lifting up his eyes he saw before him
+	narrator	on the lake a barge, all draped down to the water's edge, with silken
+	narrator	folds and curtains, which swiftly came towards him, and touched upon
+	narrator	the sands; but when he went up close and looked in, he saw no earthly
+	narrator	creature.
+	narrator	Then he cried out to his companions, "Sirs, come ye hither,
+	narrator	and let us see what there is in this ship."
+	narrator	So they all three went in,
+	narrator	and found it everywhere throughout furnished, and hung with rich
+	narrator	draperies of silk and gold.
+	narrator	By this time eventide had come, when suddenly a hundred torches were set
+	narrator	up on all sides of the barge, and gave a dazzling light, and at the same
+	narrator	time came forth twelve fair damsels, and saluted King Arthur by his
+	narrator	name, kneeling on their knees, and telling him that he was welcome, and
+	narrator	should have their noblest cheer, for which the king thanked them
+	narrator	courteously.
+	narrator	Then did they lead him and his fellows to a splendid
+	narrator	chamber, where was a table spread with all the richest furniture, and
+	narrator	costliest wines and viands; and there they served them with all kinds of
+	narrator	wines and meats, till Arthur wondered at the splendor of the feast,
+	narrator	declaring he had never in his life supped better, or more royally.
+	narrator	After
+	narrator	supper they led him to another chamber, than which he had never beheld a
+	narrator	richer, where he was left to rest.
+	narrator	King Urience, also, and Sir Accolon
+	narrator	were each conducted into rooms of like magnificence.
+	narrator	And so they all
+	narrator	three fell asleep, and being very weary slept deeply all that night.
+	narrator	But when the morning broke, King Urience found himself in his own house
+	narrator	in Camelot, he knew not how; and Arthur awaking found himself in a dark
+	narrator	dungeon, and heard around him nothing but the groans of woeful knights,
+	narrator	prisoners like himself.
+	narrator	Then said King Arthur, "Who are ye, thus
+	narrator	groaning and complaining?"
+	narrator	And some one answered him, "Alas, we be all
+	narrator	prisoners, even twenty good knights, and some of us have lain here seven
+	narrator	years--some more--nor seen the light of day for all that time."
+	narrator	"For
+	narrator	what cause?" said King Arthur. "Know ye not then yourself?" they
+	narrator	answered--"we will soon tell you. The lord of this strong castle is Sir
+	narrator	Damas, and is the falsest and most traitorous knight that liveth; and he
+	narrator	hath a younger brother, a good and noble knight, whose name is Outzlake.
+	narrator	This traitor Damas, although passing rich, will give his brother nothing
+	narrator	of his wealth, and save what Outzlake keepeth to himself by force, he
+	narrator	hath no share of the inheritance.
+	narrator	He owneth, nevertheless, one fair rich
+	narrator	manor, whereupon he liveth, loved of all men far and near.
+	narrator	But Damas is
+	narrator	as altogether hated as his brother is beloved, for he is merciless and
+	narrator	cowardly: and now for many years there hath been war between these
+	narrator	brothers, and Sir Outzlake evermore defieth Damas to come forth and
+	narrator	fight with him, body to body, for the inheritance; and if he be too
+	narrator	cowardly, to find some champion knight that will fight for him.
+	narrator	And
+	narrator	Damas hath agreed to find some champion, but never yet hath found a
+	narrator	knight to take his evil cause in hand, or wager battle for him.
+	narrator	So with
+	narrator	a strong band of men-at-arms he lieth ever in ambush, and taketh
+	narrator	captive every passing knight who may unwarily go near and bringeth him
+	narrator	into this castle, and desireth him either to fight Sir Outzlake, or to
+	narrator	lie for evermore indurance.
+	narrator	And thus hath he dealt with all of us, for
+	narrator	we all scorned to take up such a cause for such a false foul knight--but
+	narrator	rather one by one came here, where many a good knight hath died of
+	narrator	hunger and disease.
+	narrator	But if one of us would fight, Sir Damas would
+	narrator	deliver all the rest."
+	narrator	'God of his mercy send you deliverance,' said King Arthur, and sat
+	narrator	turning in his mind how all these things should end, and how he might
+	narrator	himself gain freedom for so many noble hearts.
+	narrator	Anon there came a damsel to the king, saying, "Sir, if thou wilt fight
+	narrator	for my lord thou shalt be delivered out of prison, but else nevermore
+	narrator	shalt thou escape with thy life."
+	narrator	"Nay," said King Arthur, "that is but
+	narrator	a hard choice, yet had I rather fight than die in prison, and if I may
+	narrator	deliver not myself alone, but all these others, I will do the battle."
+	narrator	'Yea,' said the damsel, 'it shall be even so.'
+	narrator	'Then,' said King Arthur, 'I am ready now, if but I had a horse and armor.'
+	narrator	'Fear not,' said she, 'that shalt thou have presently, and shalt lack
+	narrator	nothing proper for the fight.'
+	narrator	'Have I not seen thee,' said the king, 'at King Arthur's court?
+	narrator	for it seemeth that thy face is known to me.'
+	narrator	'Nay,' said the damsel, 'I was never there; I am Sir Damas' daughter,
+	narrator	and have never been but a day's journey from this castle.'
+	narrator	But she
+	narrator	spoke falsely, for she was one of the damsels of Morgan le Fay, the
+	narrator	great enchantress, who was King Arthur's half-sister.
+	narrator	When Sir Damas knew that there had been at length a knight found who would fight for him
+	narrator	he sent for Arthur, and finding him a man so tall and strong, and straight of limb
+	narrator	he was passingly well pleased, and made a covenant with him, that he should fight unto the uttermost for his cause
+	narrator	and that all the other knights should be delivered.
+	narrator	And when they were sworn to each other on the Holy Gospels, all those imprisoned knights were straightway led forth and delivered
+	narrator	but abode there one and all to see the battle.
+	narrator	In the meanwhile there had happened to Sir Accolon of Gaul a strange adventure; for when he awoke from his deep sleep upon the silken
+	narrator	barge
+	narrator	he found himself upon the edge of a deep well, and in instant peril of falling thereinto.
+	narrator	Whereat, leaping up in great affright, he crossed himself and cried aloud,
+	sir accolon of gaul	May God preserve my lord King Arthur and King Urience, for those damsels in the ship have betrayed us
+	sir accolon of gaul	and were doubtless devils and no women; and if I may escape this misadventure, I will certainly destroy them wheresoever I may find them.
+	narrator	With that there came to him a dwarf with a great mouth, and a flat nose, and saluted him
+	narrator	saying that he came from Queen Morgan le Fay.
+	dwarf	And she greeteth you well,
+	dwarf	and biddeth you be strong of heart, for to-morrow you shall do battle with a strange knight
+	dwarf	and therefore she hath sent you here Excalibur, King Arthur's sword, and the scabbard likewise.
+	dwarf	And she desireth you as you do love her to fight this battle to the uttermost, and without any mercy
+	dwarf	as you have promised her you would fight when she should require it of you; and she will make a rich queen forever of any
+	dwarf	damsel that shall bring her that knight's head with whom you are to fight.
+	sir accolon of gaul	Well,
+	sir accolon of gaul	tell you my lady Queen Morgan, that I shall hold to that I promised her, now that I have this sword--and,
+	sir accolon of gaul	I suppose it was to bring about this battle that she made all these enchantments by her craft.
+	dwarf	You have guessed rightly,
+	dwarf	said the dwarf, and therewithal he left him.
+	narrator	Then came a knight and lady, and six squires, to Sir Accolon, and took him to a manor house hard by
+	narrator	and gave him noble cheer; and the house belonged to Sir Outzlake, the brother of Sir Damas
+	narrator	for so had Morgan le Fay contrived with her enchantments.
+	narrator	Now Sir Outzlake himself was at that time sorely wounded and disabled, having been pierced through both his thighs by a spear-thrust.
+	narrator	When, therefore, Sir Damas sent down messengers to his brother, bidding him make ready by to-morrow morning
+	narrator	and be in the field to fight with a good knight, for that he had found a champion ready to do battle at all points
+	narrator	Sir Outzlake was sorely annoyed and distressed, for he knew he had small chance of victory, while yet he was disabled by his wounds; notwithstanding
+	narrator	he determined to take the battle in hand, although he was so weak that he must needs be lifted to his saddle.
+	narrator	But when Sir Accolon of Gaul heard this, he sent a message to Sir Outzlake offering to take the battle in his stead
+	narrator	which cheered Sir Outzlake mightily, who thanked Sir Accolon with all his heart, and joyfully accepted him.
+	narrator	So, on the morrow, King Arthur was armed and well horsed, and asked Sir Damas,
+	king arthur	When shall we go to the field?
+	sir damas	Sir,
+	sir damas	you shall first hear mass.
+	narrator	And when mass was done, there came a squire on a great horse, and asked Sir Damas if his knight were ready
+	narrator	'for our knight is already in the field.'
+	narrator	Then King Arthur mounted on horseback, and there around were all the knights, and barons, and people of the country; and twelve of them were
+	narrator	chosen to wait upon the two knights who were about to fight.
+	narrator	And as King Arthur sat on horseback, there came a damsel from Morgan le Fay, and brought to him a sword
+	narrator	made like Excalibur, and a scabbard also, and said to him,
+	damsel of morgan le fay	Morgan le Fay sendeth you here your sword for her great love's sake.
+	king arthur	The king thanked her, and believed it to be as she said; but she traitorously deceived him
+	king arthur	for both sword and scabbard were counterfeit, brittle, and false, and the true sword Excalibur was in the hands of Sir Accolon.
+	narrator	Then, at the sound of a trumpet, the champions set themselves on opposite side of the field
+	narrator	and giving rein and spur to their horses urged them to so great a speed that each smiting the other in the middle of the
+	narrator	shield
+	narrator	rolled his opponent to the ground, both horse and man.
+	narrator	Then starting up immediately, both drew their swords and rushed swiftly together.
+	narrator	And so they fell to eagerly, and gave each other many great and mighty strokes.
+	narrator	And as they were thus fighting, the damsel Vivien, lady of the lake, who loved King Arthur
+	narrator	came upon the ground, for she knew by her enchantments how Morgan le Fay had craftily devised to have King Arthur slain by his own
+	narrator	sword that day
+	narrator	and therefore came to save his life.
+	narrator	And Arthur and Sir Accolon were now grown hot against each other, and spared not strength nor fury in their fierce assaults; but the king's
+	narrator	sword gave way continually before Sir Accolon's
+	narrator	so that at every stroke he was sore wounded, and his blood ran from him so fast that it was a marvel he could stand.
+	narrator	When King Arthur saw the ground so sore be-blooded, he bethought him in dismay that there was magic treason worked upon him
+	narrator	and that his own true sword was changed, for it seemed to him that the sword in Sir Accolon's hand was Excalibur
+	narrator	for fearfully it drew his blood at every blow, while what he held himself kept no sharp edge
+	narrator	nor fell with any force upon his foe.
+	sir accolon of gaul	Now, knight, look to thyself, and keep thee well from me,
+	narrator	cried out Sir Accolon.
+	narrator	But King Arthur answered not, and gave him such a buffet on the helm as made him stagger and nigh fall upon the ground.
+	sir accolon of gaul	Then Sir Accolon withdrew a little, and came on with Excalibur on high, and smote King Arthur in return with such a mighty stroke as
+	sir accolon of gaul	almost felled him; and both being now in hottest wrath
+	sir accolon of gaul	they gave each other grievous and savage blows.
+	narrator	But Arthur all the time was losing so much blood that scarcely could he keep upon his feet
+	narrator	yet so full was he of knighthood, that knightly he endured the pain, and still sustained himself
+	narrator	though now he was so feeble that he thought himself about to die.
+	sir accolon of gaul	Sir Accolon, as yet, had lost no drop of blood, and being very bold and confident in Excalibur
+	sir accolon of gaul	even grew more vigorous and hasty in his assaults.
+	narrator	But all men who beheld them said they never saw a knight fight half so well as did King Arthur
+	narrator	and all the people were so grieved for him that they besought Sir Damas and Sir Outzlake to make up their quarrel and so stay
+	narrator	the fight; but they would not.
+	narrator	So still the battle raged, till Arthur drew a little back for breath and a few moments' rest; but Accolon came on after him
+	narrator	following fiercely and crying loud,
+	sir accolon of gaul	It is no time for me to suffer thee to rest,
+	narrator	and therewith set upon him.
+	narrator	Then Arthur, full of scorn and rage, lifted up his sword and struck Sir Accolon upon the helm so mightily that he drove him to
+	narrator	his knees; but with the force of that great stroke his brittle
+	narrator	treacherous sword broke short off at the hilt, and fell down in the grass among the blood
+	narrator	leaving the pommel only in his hand.
+	narrator	At that, King Arthur thought within himself that all was over, and secretly prepared his mind for death
+	narrator	yet kept himself so knightly sheltered by his shield that he lost no ground, and made as though he yet had hope and cheer.
+	sir accolon of gaul	Then said Sir Accolon, "Sir knight, thou now art overcome and canst endure no longer, seeing thou art weaponless
+	sir accolon of gaul	and hast lost already so much blood. Yet am I fully loth to slay thee; yield, then
+	sir accolon of gaul	therefore, to me as recreant.
+	king arthur	Nay,
+	king arthur	that may I not, for I have promised to do battle to the uttermost by the faith of my body while my life lasteth; and
+	king arthur	I had rather die with honor than live with shame; and if it were possible for me to die an hundred times
+	king arthur	I had rather die as often than yield me to thee, for though I lack weapons, I shall lack no worship
+	king arthur	and it shall be to thy shame to slay me weaponless.
+	sir accolon of gaul	Aha,
+	sir accolon of gaul	as for the shame, I will not spare; look to thyself, sir knight, for thou art even now but a dead man.
+	narrator	Therewith he drove at him with pitiless force, and struck him nearly down; but Arthur evermore waxing in valor as he waned in blood
+	narrator	pressed on Sir Accolon with his shield, and hit at him so fiercely with the pommel in his hand
+	narrator	as hurled him three strides backward.
+	narrator	This, therefore, so confused Sir Accolon, that rushing up, all dizzy, to deliver once again a furious blow
+	narrator	even as he struck, Excalibur, by Vivien's magic, fell from out his hands upon the earth.
+	narrator	Beholding which, King Arthur lightly sprang to it, and grasped it, and forthwith felt it was his own good sword
+	narrator	and said to it,
+	king arthur	Thou hast been from me all too long, and done me too much damage.
+	narrator	Then spying the scabbard hanging by Sir Accolon's side, he sprang and pulled it from him, and cast it away as far as he could
+	narrator	throw it; for so long as he had worn it
+	narrator	Arthur knew his life would have been kept secure.
+	king arthur	Oh, knight!
+	king arthur	thou hast this day wrought me much damage by this sword, but now art thou come to thy death
+	king arthur	for I shall not warrant thee but that thou shalt suffer, ere we part, somewhat of that thou hast made me suffer.
+	narrator	And therewithal King Arthur flew at him with all his might, and pulled him to the earth
+	narrator	and then struck off his helm, and gave him on the head a fearful buffet, till the blood leaped forth.
+	king arthur	Now will I slay thee!
+	narrator	cried King Arthur; for his heart was hardened, and his body all on fire with fever, till for a moment he forgot his knightly mercy.
+	sir accolon of gaul	Slay me thou mayest,
+	sir accolon of gaul	for thou art the best knight I ever found, and I see well that God is with thee; and I
+	sir accolon of gaul	as thou hast, have promised to fight this battle to the uttermost, and never to be recreant while I live; therefore shall I never yield
+	sir accolon of gaul	me with my mouth
+	sir accolon of gaul	and God must do with my body what he will.
+	narrator	And as Sir Accolon spoke, King Arthur thought he knew his voice; and parting all his blood-stained hair from out his eyes
+	narrator	and leaning down towards him, saw, indeed, it was his friend and own true knight.
+	king arthur	Then said he--keeping his own visor down--"I pray thee tell me of what country art thou, and what court?
+	sir accolon of gaul	Sir knight,
+	sir accolon of gaul	he answered, "I am of King Arthur's court, and my name is Sir Accolon of Gaul.
+	king arthur	Then said the king, "Oh, sir knight! I pray thee tell me who gave thee this sword? and from whom thou hadst it?
+	sir accolon of gaul	Then said Sir Accolon, "Woe worth this sword, for by it I have gotten my death. This sword hath been in my keeping now for
+	sir accolon of gaul	almost twelve months
+	sir accolon of gaul	and yesterday Queen Morgan le Fay, wife of King Urience, sent it to me by a dwarf
+	sir accolon of gaul	that therewith I might in some way slay her brother, King Arthur; for thou must understand that King Arthur is the man she hateth most
+	sir accolon of gaul	in all the world
+	sir accolon of gaul	being full of envy and jealousy because he is of greater worship and renown than any other of her blood. She loveth me also as
+	sir accolon of gaul	much as she doth hate him; and if she might contrive to slay King Arthur by her craft and magic
+	sir accolon of gaul	then would she straightway kill her husband also, and make me the king of all this land
+	sir accolon of gaul	and herself my queen, to reign with me; but now," said he, "all that is over, for this day I am come to my death.
+	king arthur	It would have been sore treason of thee to destroy thy lord.
+	sir accolon of gaul	Thou sayest truly, but now that I have told thee, and openly confessed to thee all that foul treason whereof I now do bitterly repent
+	sir accolon of gaul	tell me, I pray thee, whence art thou, and of what court?
+	king arthur	O, Sir Accolon! learn that I am myself King Arthur.
+	sir accolon of gaul	Alas, my gracious lord! have mercy on me, for I knew thee not.
+	king arthur	Thou shalt have mercy, for thou knewest not my person at this time; and though by thine own confession thou art a traitor
+	king arthur	yet do I blame thee less, because thou hast been blinded by the false crafts of my sister Morgan le Fay
+	king arthur	whom I have trusted more than all others of my kin, and whom I now shall know well how to punish.
+	sir accolon of gaul	O, lords, and all good people! this noble knight that I have fought with is the noblest and most worshipful in all the world; for
+	sir accolon of gaul	it is King Arthur
+	sir accolon of gaul	our liege lord and sovereign king; and full sorely I repent that I have ever lifted lance against him
+	sir accolon of gaul	though in ignorance I did it.
+	narrator	Then all the people fell down on their knees and prayed the pardon of the king for suffering him to come to such a strait.
+	king arthur	Pardon ye cannot have, for, truly, ye have nothing sinned; but here ye see what ill adventure may ofttimes befall knights-errant
+	king arthur	for to my own hurt, and his danger also, I have fought with one of my own knights.
+	king arthur	Then the king commanded Sir Damas to surrender to his brother the whole manor, Sir Outzlake only yielding him a palfrey every year; for
+	king arthur	said he scornfully, it would become thee better to ride on than a courser; and ordered Damas
+	king arthur	upon pain of death, never again to touch or to distress knights-errant riding on their adventures; and also to make full compensation and satisfaction to
+	king arthur	the twenty knights whom he had held in prison. And if any of them
+	king arthur	said the king, come to my court complaining that he hath not had full satisfaction of thee for his injuries
+	king arthur	by my head, thou shalt die therefor.
+	narrator	Afterwards, King Arthur asked Sir Outzlake to come with him to his court, where he should become a knight of his
+	narrator	and, if his deeds were noble, be advanced to all he might desire.
+	narrator	So then he took his leave of all the people and mounted upon horseback, and Sir Accolon went with him to an abbey hard by
+	narrator	where both their wounds were dressed.
+	narrator	But Sir Accolon died within four days after.
+	narrator	And when he was dead, the king sent his body to Queen Morgan, to Camelot, saying that he sent her a present in return for
+	narrator	the sword Excalibur which she had sent him by the damsel.
+	narrator	So, on the morrow, there came a damsel from Queen Morgan to the king, and brought with her the richest mantle that ever was seen
+	narrator	for it was set as full of precious stones as they could stand against each other, and they were the richest stones that ever the
+	narrator	king saw.
+	narrator	And the damsel said, "Your sister sendeth you this mantle, and prayeth you to take her gift
+	narrator	and in whatsoever thing she hath offended you, she will amend it at your pleasure." To this the king replied not
+	narrator	although the mantle pleased him much.
+	narrator	With that came in the lady of the lake, and said, "Sir, put not on this mantle till thou hast seen more; and in nowise
+	narrator	let it be put upon thee
+	narrator	or any of thy knights, till ye have made the bringer of it first put it on her." "It shall be done as thou dost
+	narrator	counsel," said the king.
+	king arthur	Then said he to the damsel that came from his sister, "Damsel, I would see this mantle ye have brought me upon yourself.
+	damsel of morgan le fay	Sir, it will not beseem me to wear a knight's garment.
+	king arthur	By my head, thou shalt wear it ere it go on any other person's back!
+	narrator	And so they put it on her by force, and forthwith the garment burst into a flame and burned the damsel into cinders.
+	narrator	When the king saw that, he hated that false witch Morgan le Fay with all his heart
+	narrator	and evermore was deadly quarrel between her and Arthur to their lives' end.
