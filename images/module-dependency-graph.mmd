@@ -1,0 +1,38 @@
+graph TD
+  subgraph Launchers
+    RB[run_batch.sh]
+    RV[run_voice_mapper.sh]
+  end
+
+  RB -.->|per story| MAIN[main.py]
+  RV -.-> APP[voice_mapper/server/app.py]
+
+  MAIN --> SS[story_scripter.py]
+  SS --> LLM[llm_client.py]
+  LLM ===>|HTTP :1234| LMSTUDIO((LM Studio))
+
+  MAIN -. lazy import .-> PSW[vb/play_story_wav_files.py]
+  MAIN -. lazy import .-> S2W[vb/script_to_wav.py]
+  MAIN -. lazy import .-> VBP[vb/vbpoc.py]
+
+  S2W --> PSW
+  S2W --> VBP
+  VBP --> PSW
+  VBP ===>|HTTP :17493| VOICEBOX((Voicebox app))
+
+  APP --> MAIN
+  APP --> PSW
+  APP --> VBP
+  APP --> VOI[voice_mapper/server/voices.py]
+  APP --> MIO[voice_mapper/server/mapping_io.py]
+  VOI --> VBP
+  APP --> FLASK[(Flask)]
+
+  MAIN ===>|subprocess| FFMPEG((ffmpeg))
+  PSW ===>|subprocess| FFMPEG
+
+  MAIN --> DISK[(stories/&lt;base&gt;/)]
+  SS --> DISK
+  S2W --> DISK
+  PSW --> DISK
+  MIO --> DISK

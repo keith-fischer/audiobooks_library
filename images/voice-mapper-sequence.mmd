@@ -1,0 +1,17 @@
+sequenceDiagram
+  participant B as Browser (web/)
+  participant A as server/app.py (Flask :5005)
+  participant V as vbpoc (Voicebox :17493)
+  participant FS as stories/ + voices_list.txt
+
+  B->>A: GET /api/voices
+  A->>V: getprofiles() (+ voices.reconcile vs voices_list.txt)
+  A-->>B: matched / reference_only / voicebox_only
+  B->>A: GET /api/stories  (folders with scripts, validate_book counts)
+  B->>A: GET /api/story/:name  (speakers across scripts + current voices)
+  B->>A: POST /api/preview {voice,text}
+  A->>V: _generate_to_wav  →  WAV bytes
+  A-->>B: audio/wav  (played in an audio element)
+  B->>A: POST /api/story/:name {assignments}
+  A->>FS: mapping_io.write_assignments (format-safe, in place)
+  Note over B,FS: voices_list.txt edits export as a browser download

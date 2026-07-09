@@ -1,0 +1,8 @@
+flowchart TD
+    V["voices_list.txt"] --> LV["_load_voices to male[], female[]<br/>(narrator voice reserved / removed)"]
+    LV --> TP["_tiered_pool: priority tiers ascending,<br/>SHUFFLED within a tier, dedup by name"]
+    U["_character_usage() (script line counts)"] --> ORD["order chars heaviest-speaking first"]
+    TP & ORD --> AS["assign gender-matched free voice (front of pool)"]
+    AS --> EX{"pool exhausted for that gender?"}
+    EX -->|no| UNIQ["unique voice"]
+    EX -->|yes| RE["reuse a duplicate voice<br/>(least-spoken first; NEVER the narrator)"]

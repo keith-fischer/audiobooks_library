@@ -1,0 +1,7 @@
+graph LR
+    SS["story_scripter.py<br/>StoryScripter"] -->|subclasses| LC["llm_client.py<br/>LLMClient"]
+    LC -->|OpenAI SDK| LM["LM Studio server<br/>127.0.0.1:1234/v1<br/>qwen3-coder-30b-a3b-instruct"]
+    SS -->|reads| VL["voices_list.txt<br/>(voice pools by gender+priority)"]
+    SS -->|stdlib| STD["re · json · difflib · random<br/>collections.Counter · pathlib"]
+    MAIN["main.py (orchestrator)"] -->|constructs / calls| SS
+    VM["voice_mapper (web GUI)"] -->|reads/writes mapping| SS

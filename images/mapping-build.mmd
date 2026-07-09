@@ -1,0 +1,8 @@
+flowchart TD
+    A["chapter_rosters + _script_speaker_map()"] --> B{"mapping file exists & not --force?"}
+    B -->|yes| M["_merge_new_characters:<br/>keep every existing row+voice,<br/>append only new speakers (collision-free voices)"]
+    B -->|no| C["_aggregate_characters to chars"]
+    C --> D["_character_usage() (line counts)"]
+    D --> E["_assign_voices (heaviest-first, gender-matched)"]
+    E --> F["_sort_mapping_characters (speakers, refs, M, F, name)"]
+    F --> G["write narrator row first, then rows"]

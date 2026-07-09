@@ -1,0 +1,31 @@
+flowchart TD
+  A[run_batch.sh] --> B{for each stories/*.txt}
+  B --> C{stories/&lt;base&gt;/ exists?}
+  C -->|yes| B
+  C -->|no| D["python main.py &lt;file&gt; [args]"]
+  D --> B
+  B --> Z[print processed / skipped / failed]
+
+  subgraph "main.py  (one story)"
+    D --> E[find_story]
+    E --> F[tee_output → run_&lt;dt&gt;.log]
+    F --> G{folder pre-existed?}
+    G -->|yes| H[validate_book → print pre-run report]
+    G -->|no| I[stage_story copy]
+    H --> I
+    I --> J{--audio-only?}
+    J -->|no| K{scripting complete?\nper validation}
+    K -->|no| L[StoryScripter.process]
+    K -->|yes| M[skip scripting]
+    J -->|yes| M
+    L --> N{--no-audio / --map?}
+    M --> N
+    N -->|yes| Q[skip audio]
+    N -->|no| O{audio complete?}
+    O -->|yes| Q
+    O -->|no| P[render_and_stitch]
+    P --> R[stitch_book → &lt;base&gt;.mp3]
+    Q --> S[print_summary]
+    R --> S
+    S --> T[validate_book → post-run report]
+  end

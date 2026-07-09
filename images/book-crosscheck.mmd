@@ -1,0 +1,11 @@
+flowchart TD
+    A["for each mapping row (skip narrator / already-star)"] --> B["_name_proper_tokens(name)"]
+    B --> C{"a proper token appears in<br/>_book_speaker_tokens(book)?"}
+    C -->|yes| KEEP["VALID (confirmed speaker)"]
+    C -->|no| D{"no proper token AND _looks_like_group?"}
+    D -->|yes| INV["INVALID (group / voice / collective)"]
+    D -->|no| E{"under max_llm budget (40)?"}
+    E -->|yes| LLM["_character_speaks_llm(name, excerpts)<br/>default True on doubt"]
+    E -->|no| KEEP
+    LLM -->|false| INV
+    LLM -->|true| KEEP

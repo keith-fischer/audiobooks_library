@@ -1,0 +1,12 @@
+flowchart TD
+    A["input .txt"] --> B["split_chapters()<br/>offline chapter parse"]
+    B --> C{"for each segment (label)"}
+    C -->|cached: chars+script exist| D["_read_roster then _mark_nonspeaking<br/>(offline re-mark)"]
+    C -->|new / --force| E["build_characters() [LLM]<br/>roster + descriptions"]
+    E --> F["build_script() [LLM]<br/>speaker attribution + local formatting"]
+    F --> G["_mark_nonspeaking()<br/>star chapter non-speakers"]
+    D --> H["collect (label, roster)"]
+    G --> H
+    H --> C
+    C -->|all done| I["build_character_mapping()<br/>aggregate + assign voices"]
+    I --> J["print_report()"]

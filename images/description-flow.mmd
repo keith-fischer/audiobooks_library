@@ -1,0 +1,9 @@
+flowchart LR
+    P["chapter text"] --> LLM["build_characters [LLM]<br/>{name,gender,description}"]
+    LLM --> N1["_clean_name (strip zero-width, collapse ws)"]
+    LLM --> N2["_norm_gender to male/female/*male/*female/*unknown"]
+    LLM --> N3["description: strip, tabs to spaces;<br/>if empty then 'Name, gender'"]
+    N1 & N2 & N3 --> ROW["row kept iff _valid_character(_char_key(name))"]
+    ROW --> FILE["{label}_characters.txt"]
+    FILE --> AGG["_aggregate_characters:<br/>per-chapter descs joined as<br/>'1. …  |  4. …'"]
+    AGG --> MAP["{base}_character_mapping.txt"]

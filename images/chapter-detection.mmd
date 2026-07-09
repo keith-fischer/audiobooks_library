@@ -1,0 +1,15 @@
+flowchart TD
+    S["boilerplate-stripped text"] --> C1["_find_divisions(CHAPTER_RE)<br/>'Chapter/Chapt/Chap/Ch' + Arabic/Roman/word"]
+    C1 -->|found| DED["dedup TOC:<br/>keep LAST offset per number"]
+    C1 -->|none| C2["_find_numbered_divisions<br/>bare number line + title-like next line"]
+    C2 --> G2{"_looks_like_chapter_run?"}
+    G2 -->|yes| DED
+    G2 -->|no| C3["_find_heading_divisions<br/>bare Roman 'III' / word 'ONE' line"]
+    C3 --> G3{"_looks_like_chapter_run?"}
+    G3 -->|yes| DED
+    G3 -->|no| C4["_find_play_segments<br/>ACT + SCENE (also Folio Latin)"]
+    C4 -->|found| OUT["segments"]
+    C4 -->|none| C5["_find_blank_line_divisions<br/>gt 4 blank-line gaps, >= 3 big segments"]
+    C5 -->|found| OUT
+    C5 -->|none| ONE["[('1', 0)] — whole book = ch.1"]
+    DED --> OUT

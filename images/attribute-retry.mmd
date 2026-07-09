@@ -1,0 +1,10 @@
+flowchart TD
+    A["_attribute_chunk(chunk, depth)"] --> B["chat() to parse JSON<br/>drop echoed roster lines"]
+    B --> C["coverage = _chunk_coverage(chunk, out)"]
+    C --> D{"out empty OR coverage < 0.85 ?<br/>and depth<4 and len>1200"}
+    D -->|no| K["return out (or ['narrator', chunk] if empty)"]
+    D -->|yes| E["_split_for_retry to halves"]
+    E --> F["recurse on each half (depth+1)"]
+    F --> G{"retried covers >= original coverage?"}
+    G -->|yes| H["return retried"]
+    G -->|no| K

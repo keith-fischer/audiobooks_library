@@ -1,0 +1,5 @@
+flowchart TD
+    R["all chapter rosters"] --> M["merge by _char_key<br/>descs: label-prefixed, deduped<br/>genders: collected<br/>speaks=True if ANY non-star roster row"]
+    SS["_script_speaker_map()<br/>{key: name} of real script speakers"] --> F["for key in script_speakers:<br/>if key in merged then speaks=True"]
+    M --> F
+    F --> O["emit each: name if speaks else '*'+name<br/>gender=_resolve_gender  desc=joined"]
